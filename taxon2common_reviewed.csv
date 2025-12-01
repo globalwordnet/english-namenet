@@ -1,0 +1,2369 @@
+SSID 1,Lemmas 1,SSID 2,Lemmas 2,Accept
+11550054-n,"Plantae, kingdom Plantae, plant kingdom",00017402-n,"plant, flora, plant life",TRUE
+11550054-n,"Plantae, kingdom Plantae, plant kingdom",11555128-n,plant order,FALSE
+11550054-n,"Plantae, kingdom Plantae, plant kingdom",11765052-n,plant family,FALSE
+11550054-n,"Plantae, kingdom Plantae, plant kingdom",11765328-n,plant genus,FALSE
+11558792-n,"Anthocerotales, order Anthocerotales",11559271-n,hornwort,TRUE
+11563371-n,"Jungermanniales, order Jungermanniales",11563556-n,"leafy liverwort, scale moss",TRUE
+12246839-n,"Ericaceae, family Ericaceae, heath family",12247449-n,heath,TRUE
+12799686-n,"Sarraceniales, order Sarraceniales",12800363-n,pitcher plant,TRUE
+13238111-n,"Psilophytales, order Psilophytales",13238392-n,psilophyte,TRUE
+11557229-n,"Bryophyta, division Bryophyta",11557778-n,"bryophyte, nonvascular plant",TRUE
+11557229-n,"Bryophyta, division Bryophyta",11558116-n,moss family,FALSE
+11557229-n,"Bryophyta, division Bryophyta",11558337-n,moss genus,FALSE
+11562370-n,genus Sphagnum,11562588-n,"sphagnum, sphagnum moss, peat moss, bog moss",TRUE
+11562792-n,"Hepaticopsida, class Hepaticopsida, Hepaticae, class Hepaticae",11563091-n,"liverwort, hepatic",TRUE
+11565220-n,"Pteridophyta, division Pteridophyta",11565975-n,"pteridophyte, nonflowering plant",TRUE
+11565220-n,"Pteridophyta, division Pteridophyta",13187236-n,fern family,FALSE
+11565220-n,"Pteridophyta, division Pteridophyta",13187976-n,fern genus,FALSE
+11565665-n,genus Pecopteris,11565801-n,pecopteris,TRUE
+11649952-n,"Cupressaceae, family Cupressaceae, cypress family",11650468-n,"cedar, cedar tree",FALSE
+11649952-n,"Cupressaceae, family Cupressaceae, cypress family",84481488-n,"sequoia, redwood",FALSE
+11681430-n,"Taxaceae, family Taxaceae, yew family",11681823-n,yew,TRUE
+11618903-n,genus Ephedra,11619137-n,"ephedra, joint fir",TRUE
+11622208-n,genus Zamia,11622369-n,zamia,TRUE
+11622755-n,genus Ceratozamia,11622929-n,ceratozamia,TRUE
+11623122-n,genus Dioon,11623324-n,dioon,TRUE
+11623496-n,genus Encephalartos,11623697-n,encephalartos,TRUE
+11624081-n,genus Macrozamia,11624286-n,macrozamia,TRUE
+11628506-n,"Pinus, genus Pinus",11628701-n,"pine, pine tree, true pine",TRUE
+11628506-n,"Pinus, genus Pinus",11629926-n,"pinon, pinyon",FALSE
+11639201-n,"Larix, genus Larix",11639312-n,"larch, larch tree",TRUE
+11641011-n,"Abies, genus Abies",11641124-n,"fir, fir tree, true fir",TRUE
+11643439-n,"Cedrus, genus Cedrus",11643556-n,"cedar, cedar tree, true cedar",TRUE
+11644818-n,"Picea, genus Picea",11644982-n,spruce,TRUE
+11647479-n,"Tsuga, genus Tsuga",11647619-n,"hemlock, hemlock tree",TRUE
+11648735-n,"Pseudotsuga, genus Pseudotsuga",11648907-n,douglas fir,TRUE
+11650802-n,"Cupressus, genus Cupressus",11650940-n,"cypress, cypress tree",TRUE
+11653910-n,"Callitris, genus Callitris",86491841-n,cypress pine,TRUE
+11656840-n,"Juniperus, genus Juniperus",80945361-n,juniper,TRUE
+11656840-n,"Juniperus, genus Juniperus",11657466-n,"pencil cedar, pencil cedar tree",FALSE
+11659353-n,"Libocedrus, genus Libocedrus",11659535-n,incense cedar,TRUE
+11662239-n,"Taxodium, genus Taxodium",83153902-n,"bald cypress, swamp cypress, pond bald cypress, southern cypress",FALSE
+11662239-n,"Taxodium, genus Taxodium",80820791-n,"pond cypress, bald cypress",FALSE
+11665492-n,genus Keteleeria,11665614-n,keteleeria,TRUE
+11666234-n,genus Araucaria,11666365-n,araucaria,TRUE
+11667582-n,"Agathis, genus Agathis",11667757-n,"kauri pine, dammar pine",TRUE
+11669068-n,"Cephalotaxus, genus Cephalotaxus",11669227-n,plum-yew,TRUE
+11670200-n,"Phyllocladus, genus Phyllocladus",11670329-n,celery pine,TRUE
+11672182-n,"Podocarpus, genus Podocarpus",11672490-n,podocarp,TRUE
+12431589-n,"Iridaceae, family Iridaceae, iris family",12431966-n,iridaceous plant,TRUE
+12432215-n,genus Iris,12432427-n,"iris, flag, fleur-de-lis, sword lily",TRUE
+12432215-n,genus Iris,12432860-n,bearded iris,FALSE
+12432215-n,genus Iris,12433111-n,beardless iris,FALSE
+12432215-n,genus Iris,12433355-n,bulbous iris,FALSE
+12439185-n,"Amaryllidaceae, family Amaryllidaceae, amaryllis family",12439542-n,amaryllis,TRUE
+12444070-n,"Liliaceae, family Liliaceae, lily family",12445786-n,liliaceous plant,TRUE
+12444070-n,"Liliaceae, family Liliaceae, lily family",12462463-n,asphodel,FALSE
+11763578-n,"Juncaceae, family Juncaceae, rush family",11763763-n,rush,TRUE
+11799003-n,"Araceae, family Araceae, arum family",11799769-n,"arum, aroid",TRUE
+11814736-n,"Lemnaceae, family Lemnaceae, duckweed family",11814988-n,duckweed,TRUE
+12060212-n,"Orchidaceae, family Orchidaceae, orchid family",12061915-n,"orchid, orchidaceous plant",TRUE
+12121055-n,"Gramineae, family Gramineae, Graminaceae, family Graminaceae, Poaceae, family Poaceae, grass family",12122387-n,"gramineous plant, graminaceous plant",TRUE
+12121055-n,"Gramineae, family Gramineae, Graminaceae, family Graminaceae, Poaceae, family Poaceae, grass family",12152067-n,"meadowgrass, meadow grass",FALSE
+12121055-n,"Gramineae, family Gramineae, Graminaceae, family Graminaceae, Poaceae, family Poaceae, grass family",12156415-n,millet,FALSE
+12133306-n,"Calamagrostis, genus Calamagrostis",12133435-n,reed grass,FALSE
+12170268-n,"Cyperaceae, family Cyperaceae, sedge family",12170545-n,sedge,TRUE
+12332411-n,"Haemodoraceae, family Haemodoraceae, bloodwort family",12332627-n,bloodwort,TRUE
+12602129-n,"Palmae, family Palmae, Palmaceae, family Palmaceae, Arecaceae, family Arecaceae, palm family",12602979-n,"palm, palm tree",TRUE
+12626726-n,"Commelinaceae, family Commelinaceae, spiderwort family",12627306-n,"spiderwort, dayflower",TRUE
+12636188-n,"Potamogetonaceae, family Potamogetonaceae, pondweed family",12636471-n,pondweed,TRUE
+12436783-n,genus Crocus,12436928-n,crocus,TRUE
+12437422-n,genus Freesia,12437567-n,freesia,TRUE
+12437778-n,genus Gladiolus,12437887-n,"gladiolus, gladiola, glad, sword lily",TRUE
+12438191-n,"Ixia, genus Ixia",12438341-n,corn lily,TRUE
+12438570-n,"Sisyrinchium, genus Sisyrinchium",12438726-n,blue-eyed grass,TRUE
+12440840-n,"Haemanthus, genus Haemanthus",12441040-n,blood lily,TRUE
+12441839-n,genus Narcissus,12441972-n,narcissus,TRUE
+12443436-n,"Hypoxis, genus Hypoxis",12443716-n,star grass,TRUE
+12446605-n,"Lilium, genus Lilium",12446753-n,lily,TRUE
+12449420-n,genus Agapanthus,12449653-n,"agapanthus, lily of the Nile",TRUE
+12450094-n,genus Albuca,12450275-n,albuca,TRUE
+12450447-n,"Aletris, genus Aletris",12450703-n,"colicroot, colic root, crow corn, star grass, unicorn root",TRUE
+12451633-n,"Allium, genus Allium",12451939-n,alliaceous plant,TRUE
+12451633-n,"Allium, genus Allium",12452366-n,wild onion,FALSE
+12456995-n,genus Aloe,12457182-n,aloe,TRUE
+12457816-n,genus Kniphofia,12458018-n,"kniphofia, tritoma, flame flower, flame-flower, flameflower",TRUE
+12458829-n,genus Alstroemeria,12459076-n,alstroemeria,TRUE
+12465643-n,genus Brodiaea,12465892-n,brodiaea,TRUE
+12466353-n,"Calochortus, genus Calochortus",12466705-n,"mariposa, mariposa tulip, mariposa lily",FALSE
+12466353-n,"Calochortus, genus Calochortus",12467024-n,"globe lily, fairy lantern",FALSE
+12466353-n,"Calochortus, genus Calochortus",12467242-n,cat's-ear,FALSE
+12469529-n,"Camassia, genus Camassia, Quamassia, genus Quamassia",12469801-n,"camas, camass, quamash, camosh, camash",TRUE
+12470604-n,"Erythronium, genus Erythronium",12470849-n,"dogtooth violet, dogtooth, dog's-tooth violet",TRUE
+12472294-n,"Fritillaria, genus Fritillaria",12472420-n,"fritillary, checkered lily",TRUE
+12474526-n,"Tulipa, genus Tulipa",12474664-n,tulip,TRUE
+12477032-n,"Hemerocallis, genus Hemerocallis",12477350-n,"day lily, daylily",TRUE
+12478024-n,"Hosta, genus Hosta, Funka, genus Funka",12478276-n,"plantain lily, day lily",TRUE
+12478729-n,genus Hyacinthus,12478888-n,hyacinth,TRUE
+12479976-n,"Ornithogalum, genus Ornithogalum",12480134-n,star-of-Bethlehem,TRUE
+12481054-n,"Muscari, genus Muscari",12481202-n,grape hyacinth,TRUE
+12481831-n,genus Scilla,12481971-n,"scilla, squill",TRUE
+12482314-n,"Tofieldia, genus Tofieldia",12482537-n,false asphodel,TRUE
+12484079-n,"Narthecium, genus Narthecium",12484248-n,bog asphodel,TRUE
+12484783-n,"Veratrum, genus Veratrum",12484981-n,"hellebore, false hellebore",TRUE
+12486539-n,"Xanthorroea, genus Xanthorroea",12486711-n,"grass tree, Australian grass tree",TRUE
+12486955-n,"Zigadenus, genus Zigadenus",12487232-n,"death camas, zigadene",TRUE
+12488586-n,genus Trillium,12488748-n,"trillium, wood lily, wake-robin",TRUE
+12490441-n,"Smilax, genus Smilax",12490597-n,sarsaparilla,TRUE
+12495333-n,"Uvularia, genus Uvularia",12495540-n,"bellwort, merry bells, wild oats",TRUE
+12499808-n,genus Dracaena,12500042-n,dracaena,TRUE
+12501182-n,genus Sansevieria,12501400-n,"sansevieria, bowstring hemp",TRUE
+12502311-n,genus Yucca,12502536-n,yucca,TRUE
+11802319-n,genus Alocasia,11802505-n,"alocasia, elephant's ear, elephant ear",TRUE
+11802991-n,genus Amorphophallus,11803230-n,amorphophallus,TRUE
+11804192-n,genus Anthurium,11804389-n,"anthurium, tailflower, tail-flower",TRUE
+11805944-n,genus Caladium,11806137-n,caladium,TRUE
+11807452-n,genus Cryptocoryne,11807659-n,"cryptocoryne, water trumpet",TRUE
+11808361-n,genus Dracontium,11808508-n,dracontium,TRUE
+11809749-n,genus Monstera,11809907-n,monstera,TRUE
+11810265-n,genus Nephthytis,11810431-n,nephthytis,TRUE
+11811093-n,"Peltandra, genus Peltandra",11811257-n,arrow arum,TRUE
+11811624-n,genus Philodendron,11811810-n,philodendron,TRUE
+11812288-n,"Scindapsus, genus Scindapsus, genus Pothos",11812498-n,pothos,TRUE
+11812624-n,genus Spathiphyllum,11812810-n,"spathiphyllum, peace lily, spathe flower",TRUE
+11816243-n,"Wolffia, genus Wolffia",11816474-n,watermeal,TRUE
+12063717-n,genus Orchis,12063913-n,orchis,TRUE
+12064738-n,genus Aerides,12064936-n,aerides,TRUE
+12065040-n,"genus Angrecum, Angraecum, genus Angraecum",12065253-n,angrecum,TRUE
+12065473-n,"Anoectochilus, genus Anoectochilus",12065626-n,jewel orchid,TRUE
+12066164-n,genus Arethusa,12066329-n,arethusa,TRUE
+12066720-n,genus Bletia,12066897-n,bletia,TRUE
+12067642-n,genus Brassavola,12067814-n,brassavola,TRUE
+12068700-n,genus Caladenia,12068868-n,caladenia,TRUE
+12069241-n,genus Calanthe,12069397-n,calanthe,TRUE
+12070764-n,genus Cattleya,12071002-n,cattleya,TRUE
+12071235-n,"Cephalanthera, genus Cephalanthera",12071428-n,helleborine,TRUE
+12073099-n,genus Coelogyne,12073256-n,coelogyne,TRUE
+12073607-n,"Corallorhiza, genus Corallorhiza",12073874-n,coral root,TRUE
+12074968-n,"Coryanthes, genus Coryanthes",12075147-n,"helmetflower, helmet orchid",TRUE
+12075371-n,"Cycnoches, genus Cycnoches",12075542-n,"swan orchid, swanflower, swan-flower, swanneck, swan-neck",TRUE
+12075786-n,genus Cymbidium,12075985-n,"cymbid, cymbidium",TRUE
+12076308-n,"Cypripedium, genus Cypripedium",12076568-n,cypripedia,TRUE
+12076308-n,"Cypripedium, genus Cypripedium",12076686-n,"lady's slipper, lady's-slipper, lady-slipper, lady slipper, ladies' slipper, slipper orchid",FALSE
+12078930-n,"Dactylorhiza, genus Dactylorhiza",12079131-n,marsh orchid,TRUE
+12079591-n,genus Dendrobium,12079815-n,dendrobium,TRUE
+12079980-n,genus Disa,12080126-n,disa,TRUE
+12082350-n,"Epidendrum, genus Epidendrum",12082606-n,epidendron,TRUE
+12082728-n,"Epipactis, genus Epipactis",12082969-n,helleborine,TRUE
+12083567-n,"Glossodia, genus Glossodia",12083712-n,"tongueflower, tongue-flower",TRUE
+12083915-n,"Goodyera, genus Goodyera",12084140-n,"rattlesnake plantain, helleborine",TRUE
+12085497-n,"Habenaria, genus Habenaria",12085817-n,"fringed orchis, fringed orchid",FALSE
+12085497-n,"Habenaria, genus Habenaria",12086150-n,frog orchid,FALSE
+12085497-n,"Habenaria, genus Habenaria",12086278-n,"rein orchid, rein orchis",FALSE
+12090322-n,genus Laelia,12090517-n,laelia,TRUE
+12090678-n,genus Liparis,12090882-n,liparis,TRUE
+12090678-n,genus Liparis,12091084-n,twayblade,TRUE
+12092920-n,genus Masdevallia,12093223-n,masdevallia,TRUE
+12093508-n,genus Maxillaria,12093718-n,maxillaria,TRUE
+12093911-n,"Miltonia, genus Miltonia",12094055-n,pansy orchid,TRUE
+12094245-n,genus Odontoglossum,12094492-n,odontoglossum,TRUE
+12094706-n,genus Oncidium,12094909-n,"oncidium, dancing lady orchid, butterfly plant, butterfly orchid",TRUE
+12095179-n,"Ophrys, genus Ophrys",12095652-n,spider orchid,TRUE
+12096576-n,genus Phaius,12096724-n,phaius,TRUE
+12096882-n,"Phalaenopsis, genus Phalaenopsis",12097078-n,"moth orchid, moth plant",TRUE
+12097563-n,"Pholidota, genus Pholidota",12097745-n,rattlesnake orchid,TRUE
+12099097-n,"Plectorrhiza, genus Plectorrhiza",12099248-n,tangle orchid,TRUE
+12099853-n,genus Pleurothallis,12100024-n,pleurothallis,TRUE
+12100238-n,genus Pogonia,12100464-n,pogonia,TRUE
+12100700-n,"Psychopsis, genus Psychopsis",12100896-n,butterfly orchid,TRUE
+12101523-n,"Pterostylis, genus Pterostylis",12101716-n,"helmet orchid, greenhood",TRUE
+12101989-n,"Rhyncostylis, genus Rhyncostylis",12102150-n,foxtail orchid,TRUE
+12103481-n,genus Sobralia,12103614-n,sobralia,TRUE
+12103840-n,"Spiranthes, genus Spiranthes",12104092-n,"ladies' tresses, lady's tresses",TRUE
+12105263-n,genus Stanhopea,12105407-n,stanhopea,TRUE
+12105634-n,genus Stelis,12105784-n,stelis,TRUE
+12105986-n,"Trichoceros, genus Trichoceros",12106181-n,fly orchid,TRUE
+12106357-n,genus Vanda,12106529-n,vanda,TRUE
+12106879-n,genus Vanilla,12107056-n,vanilla,TRUE
+12125460-n,"Agropyron, genus Agropyron",12125642-n,"wheatgrass, wheat-grass",TRUE
+12128766-n,"Andropogon, genus Andropogon",12128949-n,broom grass,TRUE
+12131147-n,"Bromus, genus Bromus",12131295-n,"brome, bromegrass",TRUE
+12132399-n,"Bouteloua, genus Bouteloua",12132525-n,"grama, grama grass, gramma, gramma grass",TRUE
+12133988-n,"Cenchrus, genus Cenchrus",12134174-n,"burgrass, bur grass",TRUE
+12137398-n,"Digitaria, genus Digitaria",12137534-n,"crabgrass, crab grass, finger grass",TRUE
+12139429-n,"Elymus, genus Elymus",12139616-n,lyme grass,TRUE
+12139429-n,"Elymus, genus Elymus",12139755-n,wild rye,TRUE
+12140464-n,"Eragrostis, genus Eragrostis",12140631-n,"love grass, bay grass",TRUE
+12141329-n,"Erianthus, genus Erianthus",12141550-n,plume grass,TRUE
+12141922-n,"Festuca, genus Festuca",12142535-n,silver grass,TRUE
+12142641-n,"Glyceria, genus Glyceria",12142762-n,"manna grass, sweet grass",TRUE
+12143567-n,"Hordeum, genus Hordeum",12143761-n,barley,TRUE
+12145022-n,"Lolium, genus Lolium",12145144-n,"rye grass, ryegrass",TRUE
+12146299-n,"Oryza, genus Oryza",12146407-n,rice,TRUE
+12146755-n,"Oryzopsis, genus Oryzopsis",12146877-n,"ricegrass, rice grass",TRUE
+12147428-n,"Panicum, genus Panicum",12147547-n,panic grass,TRUE
+12151733-n,"Poa, genus Poa",12151922-n,"bluegrass, blue grass",TRUE
+12154817-n,"Setaria, genus Setaria",12155003-n,"bristlegrass, bristle grass",TRUE
+12157461-n,"genus Sorghum, Sorghum",12157637-n,sorghum,TRUE
+12159884-n,"Spartina, genus Spartina",12160092-n,"cordgrass, cord grass",TRUE
+12160654-n,"Sporobolus, genus Sporobolus",12160875-n,"dropseed, drop-seed",TRUE
+12160654-n,"Sporobolus, genus Sporobolus",12161420-n,"rush grass, rush-grass",TRUE
+12162407-n,"Triticum, genus Triticum",12162602-n,wheat,TRUE
+12166617-n,"genus Zoysia, Zoisia, genus Zoisia",12166828-n,zoysia,TRUE
+12172923-n,"Eriophorum, genus Eriophorum",12173049-n,"cotton grass, cotton rush",TRUE
+12173910-n,"Eleocharis, genus Eleocharis",12174097-n,spike rush,TRUE
+12175145-n,genus Pandanus,12175290-n,"pandanus, screw pine",TRUE
+12175976-n,"Typha, genus Typha",12176100-n,cattail,TRUE
+12177001-n,"Sparganium, genus Sparganium",12177196-n,bur reed,TRUE
+12371095-n,genus Canna,12371275-n,canna,TRUE
+12371994-n,genus Maranta,12372117-n,maranta,TRUE
+12372667-n,"Musa, genus Musa",12372804-n,"banana, banana tree",TRUE
+12376111-n,"Zingiber, genus Zingiber",12376277-n,ginger,TRUE
+12604805-n,genus Areca,12604939-n,areca,TRUE
+12606871-n,genus Calamus,12607059-n,calamus,TRUE
+12607628-n,"Caryota, genus Caryota",12607750-n,fishtail palm,TRUE
+12609750-n,genus Corozo,12609903-n,"corozo, corozo palm",TRUE
+12610878-n,"Elaeis, genus Elaeis",12610993-n,oil palm,TRUE
+12614450-n,"phoenicophorium, genus Phoenicophorium",12610448-n,"latanier, latanier palm",TRUE
+12616562-n,"Rhapis, genus Rhapis",12616725-n,lady palm,TRUE
+12626280-n,"Xyris, genus Xyris",12626444-n,yellow-eyed grass,TRUE
+12626988-n,genus Commelina,12627199-n,commelina,TRUE
+12632240-n,"Naias, genus Naias, Najas, genus Najas",12632401-n,"naiad, water nymph",TRUE
+12633171-n,"Sagittaria, genus Sagittaria",11688568-n,"monocot, monocotyledon, liliopsid, endogen",FALSE
+12635078-n,"Elodea, genus Elodea, pondweed, ditchmoss",12635238-n,waterweed,TRUE
+12637586-n,"Groenlandia, genus Groenlandia",12637757-n,frog's lettuce,TRUE
+11723855-n,"Lauraceae, family Lauraceae, laurel family",11724138-n,laurel,TRUE
+11733296-n,"Menispermaceae, family Menispermaceae, moonseed family",11733633-n,moonseed,TRUE
+11735087-n,"Nymphaeaceae, family Nymphaeaceae, water-lily family",11735322-n,water lily,TRUE
+11825073-n,"Caryophyllaceae, family Caryophyllaceae, carnation family, pink family",11825724-n,caryophyllaceous plant,TRUE
+11838243-n,"Stellaria, genus Stellaria",11838383-n,chickweed,TRUE
+11861998-n,"Cactaceae, family Cactaceae, cactus family",11862673-n,cactus,TRUE
+11887994-n,"Cruciferae, family Cruciferae, Brassicaceae, family Brassicaceae, mustard family",11889283-n,"crucifer, cruciferous plant",TRUE
+11887994-n,"Cruciferae, family Cruciferae, Brassicaceae, family Brassicaceae, mustard family",11889820-n,"cress, cress plant",FALSE
+11887994-n,"Cruciferae, family Cruciferae, Brassicaceae, family Brassicaceae, mustard family",11890158-n,watercress,FALSE
+11887994-n,"Cruciferae, family Cruciferae, Brassicaceae, family Brassicaceae, mustard family",11920390-n,wasabi,FALSE
+11920527-n,"Papaveraceae, family Papaveraceae, poppy family",11921038-n,poppy,TRUE
+12190293-n,"Malvaceae, family Malvaceae, mallow family",12191102-n,mallow,TRUE
+12397467-n,"Dipterocarpaceae, family Dipterocarpaceae",12397715-n,dipterocarp,TRUE
+11932060-n,"Compositae, family Compositae, Asteraceae, family Asteraceae, aster family",11935683-n,"composite, composite plant",TRUE
+11932060-n,"Compositae, family Compositae, Asteraceae, family Asteraceae, aster family",11936127-n,"compass plant, compass flower",FALSE
+11932060-n,"Compositae, family Compositae, Asteraceae, family Asteraceae, aster family",11936368-n,"everlasting, everlasting flower",FALSE
+11932060-n,"Compositae, family Compositae, Asteraceae, family Asteraceae, aster family",11949018-n,wormwood,FALSE
+11932060-n,"Compositae, family Compositae, Asteraceae, family Asteraceae, aster family",11949496-n,"sagebrush, sage brush",FALSE
+11932060-n,"Compositae, family Compositae, Asteraceae, family Asteraceae, aster family",11964665-n,thistle,FALSE
+11932060-n,"Compositae, family Compositae, Asteraceae, family Asteraceae, aster family",11970814-n,chrysanthemum,FALSE
+12680770-n,"Rubiaceae, family Rubiaceae, madder family",12681362-n,"madderwort, rubiaceous plant",TRUE
+12834153-n,"Bignoniaceae, family Bignoniaceae",12834513-n,bignoniad,TRUE
+12849859-n,"Gesneriaceae, family Gesneriaceae, gesneria family",12850342-n,gesneriad,TRUE
+12849859-n,"Gesneriaceae, family Gesneriaceae, gesneria family",12853075-n,gloxinia,FALSE
+12858787-n,"Labiatae, family Labiatae, Lamiaceae, family Lamiaceae, mint family",11687305-n,"dicot, dicotyledon, magnoliopsid, exogen",FALSE
+11767245-n,"Leguminosae, family Leguminosae, Fabaceae, family Fabaceae, legume family, pea family",11767937-n,"legume, leguminous plant",TRUE
+11767245-n,"Leguminosae, family Leguminosae, Fabaceae, family Fabaceae, legume family, pea family",12515651-n,"locust tree, locust",TRUE
+11767245-n,"Leguminosae, family Leguminosae, Fabaceae, family Fabaceae, legume family, pea family",12559811-n,wild pea,TRUE
+11767245-n,"Leguminosae, family Leguminosae, Fabaceae, family Fabaceae, legume family, pea family",12576812-n,"bean, bean plant",TRUE
+12361643-n,"Onagraceae, family Onagraceae, evening-primrose family",12364800-n,evening primrose,TRUE
+12522250-n,"Papilionoideae, subfamily Papilionoideae",12541369-n,broom,TRUE
+12568639-n,"Medicago, genus Medicago",12568785-n,"medic, medick, trefoil",TRUE
+12705975-n,"Geraniaceae, family Geraniaceae, geranium family",12706192-n,geranium,TRUE
+12711149-n,"Burseraceae, family Burseraceae, torchwood family",12711414-n,incense tree,TRUE
+12715468-n,"Meliaceae, family Meliaceae, mahogany family",12715905-n,"mahogany, mahogany tree",TRUE
+12736329-n,"Simaroubaceae, family Simaroubaceae, quassia family",12736674-n,bitterwood tree,TRUE
+12950804-n,"Umbelliferae, family Umbelliferae, Apiaceae, family Apiaceae, carrot family",12951538-n,"umbellifer, umbelliferous plant",TRUE
+12952498-n,genus Angelica,12952666-n,"angelica, angelique",TRUE
+12177793-n,"Cucurbitaceae, family Cucurbitaceae, gourd family",12178286-n,"gourd, gourd vine",TRUE
+12177793-n,"Cucurbitaceae, family Cucurbitaceae, gourd family",13121436-n,vine,FALSE
+12310633-n,"Gentianaceae, family Gentianaceae, gentian family",12314240-n,gentian,FALSE
+12343928-n,"Combretaceae, family Combretaceae, combretum family",12344182-n,"dhawa, dhava",TRUE
+12350416-n,"Myrtaceae, family Myrtaceae, myrtle family",12350756-n,myrtaceous tree,TRUE
+12843924-n,"Convolvulaceae, family Convolvulaceae, morning-glory family",12844619-n,bindweed,TRUE
+13253910-n,"Asclepiadaceae, family Asclepiadaceae, milkweed family",13254333-n,asclepiad,TRUE
+11714281-n,"Annona, genus Annona",11714450-n,"custard apple, custard apple tree",TRUE
+11717857-n,"Berberis, genus Berberis",11718029-n,barberry,TRUE
+11721145-n,"Calycanthus, genus Calycanthus",11721333-n,allspice,TRUE
+11722550-n,"Ceratophyllum, genus Ceratophyllum",11722721-n,hornwort,TRUE
+11727098-n,"Persea, genus Persea",11727230-n,"avocado, avocado tree, Persea Americana",TRUE
+11728911-n,"Illicium, genus Illicium",11729127-n,anise tree,TRUE
+11729919-n,genus Magnolia,11730143-n,magnolia,TRUE
+11739589-n,"Paeonia, genus Paeonia",11739755-n,"peony, paeony",TRUE
+11740557-n,"Ranunculus, genus Ranunculus",11740822-n,"buttercup, butterflower, butter-flower, crowfoot, goldcup, kingcup",TRUE
+11743238-n,"Aconitum, genus Aconitum",11743451-n,aconite,TRUE
+11744124-n,"Actaea, genus Actaea",11744239-n,"baneberry, cohosh, herb Christopher",TRUE
+11745291-n,genus Anemone,11745484-n,"anemone, windflower",TRUE
+11747394-n,genus Aquilegia,11747560-n,"columbine, aquilegia, aquilege",TRUE
+11748819-n,"Cimicifuga, genus Cimicifuga",11748999-n,bugbane,TRUE
+11749784-n,genus Clematis,11749947-n,clematis,TRUE
+11753326-n,genus Delphinium,11753523-n,delphinium,TRUE
+11754238-n,"Helleborus, genus Helleborus",11754373-n,hellebore,TRUE
+11755341-n,genus Hepatica,11755522-n,"hepatica, liverleaf",TRUE
+11757038-n,genus Nigella,11757163-n,nigella,TRUE
+11757785-n,"Pulsatilla, genus Pulsatilla",11758003-n,"pasqueflower, pasque flower",TRUE
+11758847-n,"Thalictrum, genus Thalictrum",11759016-n,meadow rue,TRUE
+11759668-n,"Trollius, genus Trollius",11759834-n,"globeflower, globe flower",TRUE
+12281110-n,"Fagus, genus Fagus",12281316-n,"beech, beech tree",TRUE
+12282844-n,"Castanea, genus Castanea",12283070-n,"chestnut, chestnut tree",TRUE
+12284771-n,"Castanopsis, genus Castanopsis",12285029-n,oak chestnut,TRUE
+12286417-n,"Nothofagus, genus Nothofagus",12286734-n,"southern beech, evergreen beech",TRUE
+12286417-n,"Nothofagus, genus Nothofagus",12287313-n,New Zealand beech,TRUE
+12288613-n,"Quercus, genus Quercus",12288763-n,"oak, oak tree",TRUE
+12301403-n,"Betula, genus Betula",12301758-n,"birch, birch tree",TRUE
+12304498-n,"Alnus, genus Alnus",12304779-n,"alder, alder tree",TRUE
+12307098-n,"Carpinus, genus Carpinus",12307343-n,hornbeam,TRUE
+12307905-n,"Ostrya, genus Ostrya",12308159-n,hop hornbeam,TRUE
+12309115-n,"Corylus, genus Corylus",12309340-n,"hazelnut, hazel, hazelnut tree",TRUE
+12744961-n,"Salix, genus Salix",12745702-n,"willow, willow tree",TRUE
+12744961-n,"Salix, genus Salix",12746281-n,osier,TRUE
+12744961-n,"Salix, genus Salix",12747117-n,"cricket-bat willow, Salix alba caerulea",TRUE
+12744961-n,"Salix, genus Salix",12748061-n,sallow,TRUE
+12751962-n,"Populus, genus Populus",12752161-n,"poplar, poplar tree",TRUE
+11826306-n,"Arenaria, genus Arenaria",11826425-n,sandwort,TRUE
+11827444-n,"Cerastium, genus Cerastium",11827577-n,"mouse-ear chickweed, mouse eared chickweed, mouse ear, clammy chickweed, chickweed",TRUE
+11828318-n,"Dianthus, genus Dianthus",11828448-n,"pink, garden pink",TRUE
+11830391-n,genus Drypis,11830499-n,drypis,TRUE
+11831777-n,genus Lychnis,11831942-n,"lychnis, catchfly",TRUE
+11833778-n,"Paronychia, genus Paronychia",11833959-n,whitlowwort,TRUE
+11834528-n,"Sagina, genus Sagina",11834707-n,"pearlwort, pearlweed, pearl-weed",TRUE
+11835663-n,genus Silene,11835960-n,"silene, campion, catchfly",TRUE
+11840792-n,genus Lithops,11840932-n,"lithops, living stone, stoneface, stone-face, stone plant, stone life face, flowering stone",TRUE
+11841220-n,"Mesembryanthemum, genus Mesembryanthemum",11841434-n,"fig marigold, pebble plant",TRUE
+11842246-n,"Pleiospilos, genus Pleiospilos",11842398-n,"living granite, living rock, stone mimicry plant",TRUE
+11843318-n,"Amaranthus, genus Amaranthus",11843512-n,amaranth,TRUE
+11846004-n,"Froelichia, genus Froelichia",11846218-n,cottonweed,TRUE
+11846885-n,"Iresine, genus Iresine",11847038-n,bloodleaf,TRUE
+11848582-n,"Chenopodium, genus Chenopodium",11848716-n,goosefoot,TRUE
+11851039-n,"Atriplex, genus Atriplex",11851183-n,"orach, orache",FALSE
+11851039-n,"Atriplex, genus Atriplex",11851375-n,saltbush,FALSE
+11857025-n,"Abronia, genus Abronia",11857191-n,sand verbena,TRUE
+11859210-n,"genus Bougainvillea, Bougainvillaea, genus Bougainvillaea",11859385-n,bougainvillea,TRUE
+11859766-n,"Mirabilis, genus Mirabilis",11859929-n,umbrellawort,FALSE
+11859766-n,"Mirabilis, genus Mirabilis",11860037-n,four o'clock,FALSE
+11865120-n,"Cereus, genus Cereus",11865361-n,night-blooming cereus,TRUE
+11865488-n,genus Coryphantha,11865746-n,coryphantha,TRUE
+11865856-n,genus Echinocactus,11866026-n,"echinocactus, barrel cactus",TRUE
+11866556-n,"Echinocereus, genus Echinocereus",11866781-n,hedgehog cereus,FALSE
+11866556-n,"Echinocereus, genus Echinocereus",11866894-n,rainbow cactus,FALSE
+11867051-n,genus Epiphyllum,11867234-n,"epiphyllum, orchid cactus",TRUE
+11867439-n,"Ferocactus, genus Ferocactus",11867638-n,barrel cactus,TRUE
+11868722-n,"Hylocereus, genus Hylocereus",11868948-n,night-blooming cereus,TRUE
+11870135-n,genus Mammillaria,11870340-n,mammillaria,TRUE
+11871864-n,"Opuntia, genus Opuntia",11872047-n,"prickly pear, prickly pear cactus",TRUE
+11873283-n,"Rhipsalis, genus Rhipsalis",11873548-n,mistletoe cactus,TRUE
+11874113-n,"Selenicereus, genus Selenicereus",11874282-n,night-blooming cereus,TRUE
+11875591-n,"Phytolacca, genus Phytolacca",11875743-n,pokeweed,TRUE
+11877997-n,genus Portulaca,11878165-n,portulaca,TRUE
+11878875-n,"Calandrinia, genus Calandrinia",11879172-n,rock purslane,TRUE
+11885375-n,"Capparis, genus Capparis",11885540-n,caper,TRUE
+11886547-n,"genus Cleome, Cleome",11886717-n,"spiderflower, cleome",TRUE
+11890359-n,"Aethionema, genus Aethionema",11890513-n,"stonecress, stone cress",TRUE
+11891076-n,"Alyssum, genus Alyssum",11891216-n,"alyssum, madwort",TRUE
+11892385-n,"Arabis, genus Arabis",11892615-n,"rock cress, rockcress",FALSE
+11892385-n,"Arabis, genus Arabis",11892793-n,"sicklepod, Arabis Canadensis",FALSE
+11893865-n,"Barbarea, genus Barbarea",11894081-n,"winter cress, St. Barbara's herb, scurvy grass",TRUE
+11895569-n,"Brassica, genus Brassica",11897272-n,"broccoli, Brassica oleracea italica",FALSE
+11895569-n,"Brassica, genus Brassica",11897445-n,"kale, kail, cole, borecole, colewort, Brassica oleracea acephala",FALSE
+11895569-n,"Brassica, genus Brassica",11897752-n,"kohlrabi, Brassica oleracea gongylodes",FALSE
+11895569-n,"Brassica, genus Brassica",11898570-n,"broccoli raab, broccoli rabe, Brassica rapa ruvo",FALSE
+11895569-n,"Brassica, genus Brassica",11898752-n,mustard,FALSE
+11895569-n,"Brassica, genus Brassica",11899523-n,"bok choy, bok choi, pakchoi, pak choi, Chinese white cabbage, Brassica rapa chinensis",FALSE
+11901895-n,"Cardamine, genus Cardamine",11902211-n,"bittercress, bitter cress",TRUE
+11903606-n,"Cheiranthus, genus Cheiranthus",11904097-n,prairie rocket,TRUE
+11906166-n,genus Draba,11906325-n,draba,TRUE
+11907257-n,"Erysimum, genus Erysimum",11907588-n,wallflower,FALSE
+11907257-n,"Erysimum, genus Erysimum",11907779-n,prairie rocket,FALSE
+11908740-n,genus Heliophila,11908893-n,heliophila,TRUE
+11909942-n,"Iberis, genus Iberis",11910088-n,candytuft,TRUE
+11910316-n,"Isatis, genus Isatis",11910491-n,woad,TRUE
+11911192-n,"Lesquerella, genus Lesquerella",11911353-n,bladderpod,TRUE
+11912929-n,"Matthiola, genus Matthiola",11913106-n,"stock, gillyflower",TRUE
+11913920-n,"Physaria, genus Physaria",11914109-n,bladderpod,TRUE
+11914642-n,"Raphanus, genus Raphanus",11914796-n,"radish plant, radish",TRUE
+11918943-n,"Thlaspi, genus Thlaspi",11919108-n,pennycress,TRUE
+11919496-n,"Thysanocarpus, genus Thysanocarpus",11919692-n,"fringepod, lacepod",TRUE
+11920064-n,"Vesicaria, genus Vesicaria",11920231-n,bladderpod,TRUE
+11923064-n,genus Argemone,11923178-n,"prickly poppy, argemone, white thistle, devil's fig",TRUE
+11924350-n,"Corydalis, genus Corydalis",11924578-n,corydalis,TRUE
+11925365-n,"Dendromecon, genus Dendromecon",11925504-n,"bush poppy, tree poppy",TRUE
+12055533-n,genus Loasa,12055682-n,loasa,TRUE
+12193232-n,"Abutilon, genus Abutilon",12193423-n,flowering maple,TRUE
+12193924-n,"Alcea, genus Alcea",12194181-n,hollyhock,TRUE
+12194641-n,genus Althaea,12194828-n,"althea, althaea, hollyhock",TRUE
+12195259-n,"Callirhoe, genus Callirhoe",12195443-n,poppy mallow,TRUE
+12196314-n,"Gossypium, genus Gossypium",12196466-n,"cotton, cotton plant",TRUE
+12198109-n,genus Hibiscus,12198361-n,hibiscus,TRUE
+12202368-n,"Kosteletzya, genus Kosteletzya",12202566-n,seashore mallow,TRUE
+12204433-n,"Malvaviscus, genus Malvaviscus",12204612-n,"waxmallow, wax mallow, sleeping hibiscus",TRUE
+12205241-n,genus Pavonia,12205429-n,pavonia,TRUE
+12207967-n,"Sphaeralcea, genus Sphaeralcea",12208180-n,"globe mallow, false mallow",TRUE
+12215703-n,genus Sterculia,12215908-n,sterculia,TRUE
+12216482-n,"Brachychiton, genus Brachychiton",12216646-n,"bottle-tree, bottle tree",TRUE
+12218282-n,genus Dombeya,12218418-n,dombeya,TRUE
+12219547-n,"Helicteres, genus Helicteres",12219783-n,screw tree,TRUE
+12223229-n,"Tilia, genus Tilia",12223453-n,"linden, linden tree, basswood, lime, lime tree",TRUE
+12225063-n,"Corchorus, genus Corchorus",12225247-n,corchorus,TRUE
+12247737-n,genus Erica,12247937-n,"erica, true heath",TRUE
+12249799-n,genus Andromeda,12249960-n,andromeda,TRUE
+12250663-n,genus Arbutus,12250864-n,arbutus,TRUE
+12251548-n,"Arctostaphylos, genus Arctostaphylos",12251709-n,bearberry,TRUE
+12251548-n,"Arctostaphylos, genus Arctostaphylos",12252435-n,manzanita,TRUE
+12253611-n,genus Bryanthus,12253766-n,bryanthus,TRUE
+12256880-n,"Gaylussacia, genus Gaylussacia",12257063-n,huckleberry,TRUE
+12257867-n,genus Kalmia,12258003-n,kalmia,TRUE
+12258823-n,"Ledum, genus Ledum",12259273-n,"trapper's tea, glandular Labrador tea",TRUE
+12259975-n,genus Leucothoe,12260164-n,leucothoe,TRUE
+12264444-n,genus Rhododendron,12264670-n,rhododendron,TRUE
+12265584-n,"subgenus Azalea, Azaleastrum, subgenus Azaleastrum",12265836-n,azalea,TRUE
+12265989-n,"Vaccinium, genus Vaccinium",12266212-n,cranberry,FALSE
+12265989-n,"Vaccinium, genus Vaccinium",12266749-n,"blueberry, blueberry bush",FALSE
+12271391-n,genus Diapensia,12271518-n,diapensia,TRUE
+12272514-n,genus Shortia,12272685-n,shortia,TRUE
+12273600-n,genus Epacris,12273746-n,epacris,TRUE
+12276451-n,genus Pyrola,12276629-n,"wintergreen, pyrola",TRUE
+12277860-n,"Chimaphila, genus Chimaphila",12278087-n,"pipsissewa, prince's pine",TRUE
+12380469-n,genus Begonia,12380625-n,begonia,TRUE
+12383627-n,genus Dillenia,12383818-n,dillenia,TRUE
+12384097-n,"Hibbertia, genus Hibbertia",12384285-n,"guinea gold vine, guinea flower",TRUE
+12384896-n,"Calophyllum, genus Calophyllum",12385121-n,poon,TRUE
+12386187-n,genus Clusia,12386417-n,clusia,TRUE
+12387823-n,"Hypericum, genus Hypericum",12388128-n,St John's wort,TRUE
+12394755-n,"Cistus, genus Cistus",12394935-n,"rockrose, rock rose",TRUE
+12395811-n,genus Helianthemum,12396035-n,"helianthemum, sunrose, sun rose",TRUE
+12403773-n,"Passiflora, genus Passiflora",12403919-n,"passionflower, passionflower vine",TRUE
+12405736-n,genus Reseda,12405946-n,reseda,TRUE
+12406780-n,"Tamarix, genus Tamarix",12406979-n,tamarisk,TRUE
+12407995-n,"Viola, genus Viola",12408150-n,viola,TRUE
+12760355-n,"Phoradendron, genus Phoradendron",12760561-n,"mistletoe, false mistletoe",TRUE
+12949997-n,genus Camellia,12950163-n,"camellia, camelia",TRUE
+11936737-n,genus Achillea,11936936-n,achillea,TRUE
+11938600-n,genus Ageratum,11938755-n,ageratum,TRUE
+11939495-n,genus Ambrosia,11939916-n,"ragweed, ambrosia, bitterweed",TRUE
+11940813-n,genus Ammobium,11940967-n,ammobium,TRUE
+11942091-n,genus Andryala,11942261-n,andryala,TRUE
+11944799-n,"Arctium, genus Arctium",11944914-n,"burdock, clotbur",TRUE
+11947109-n,genus Arnica,11947302-n,arnica,TRUE
+11948370-n,genus Artemisia,11948821-n,artemisia,TRUE
+11948370-n,genus Artemisia,11949327-n,mugwort,TRUE
+11952225-n,genus Aster,11952387-n,aster,TRUE
+11959446-n,"Balsamorhiza, genus Balsamorhiza",11959649-n,balsamroot,TRUE
+11959849-n,"Bellis, genus Bellis",11959960-n,daisy,TRUE
+11960356-n,"Bidens, genus Bidens",11960475-n,"bur marigold, burr marigold, beggar-ticks, beggar's-ticks, sticktight",TRUE
+11961730-n,"Boltonia, genus Boltonia",11961947-n,false chamomile,TRUE
+11962835-n,"Buphthalmum, genus Buphthalmum",11962956-n,oxeye,TRUE
+11963768-n,genus Calendula,11963876-n,calendula,TRUE
+11965697-n,"Carlina, genus Carlina",11965836-n,carline thistle,TRUE
+11967053-n,genus Catananche,11967196-n,catananche,TRUE
+11967548-n,"Centaurea, genus Centaurea",11967720-n,centaury,TRUE
+11970176-n,genus Chaenactis,11970326-n,chaenactis,TRUE
+11970497-n,genus Chrysanthemum,11971521-n,"chop-suey greens, tong ho, shun giku, Chrysanthemum coronarium spatiosum",TRUE
+11971854-n,"Chrysopsis, genus Chrysopsis",11971980-n,golden aster,TRUE
+11972622-n,"Chrysothamnus, genus Chrysothamnus",11972815-n,goldenbush,TRUE
+11974231-n,"Cirsium, genus Cirsium",11974353-n,"plume thistle, plumed thistle",TRUE
+11977140-n,genus Coreopsis,11977319-n,"coreopsis, tickseed, tickweed, tick-weed",TRUE
+11978381-n,genus Cosmos,11978549-n,"cosmos, cosmea",TRUE
+11979211-n,"Craspedia, genus Craspedia",11979357-n,billy buttons,TRUE
+11979573-n,"Crepis, genus Crepis",11979728-n,"hawk's-beard, hawk's-beards",TRUE
+11981735-n,"Dimorphotheca, genus Dimorphotheca",11981915-n,"cape marigold, sun marigold, star of the veldt",TRUE
+11982155-n,"Doronicum, genus Doronicum",11982340-n,"leopard's-bane, leopardbane",TRUE
+11982577-n,"Echinacea, genus Echinacea",11982741-n,coneflower,TRUE
+11982969-n,"Echinops, genus Echinops",11983136-n,globe thistle,TRUE
+11983322-n,"Elephantopus, genus Elephantopus",11983463-n,elephant's-foot,TRUE
+11985157-n,genus Engelmannia,11985317-n,engelmannia,TRUE
+11985847-n,"Erigeron, genus Erigeron",11986096-n,fleabane,TRUE
+11988041-n,"Eriophyllum, genus Eriophyllum",11988213-n,woolly sunflower,TRUE
+11990446-n,genus Filago,11990570-n,"cotton rose, cudweed, filago",TRUE
+11990898-n,genus Gaillardia,11991055-n,gaillardia,TRUE
+11991563-n,genus Gazania,11991717-n,gazania,TRUE
+11993038-n,"Gnaphalium, genus Gnaphalium",11993228-n,cudweed,TRUE
+11993628-n,"Grindelia, genus Grindelia",11993810-n,"gumweed, gum plant, tarweed, rosinweed",TRUE
+11994357-n,"Gutierrezia, genus Gutierrezia",11994595-n,"matchweed, matchbush",TRUE
+11996322-n,"Haplopappus, genus Haplopappus",11996639-n,goldenbush,TRUE
+11997594-n,"Helenium, genus Helenium",11997772-n,sneezeweed,TRUE
+11998504-n,genus Helianthus,11998702-n,"sunflower, helianthus",TRUE
+12001046-n,genus Heliopsis,12001151-n,"heliopsis, oxeye",TRUE
+12001336-n,"Helipterum, genus Helipterum",12001661-n,strawflower,TRUE
+12002286-n,"Hieracium, genus Hieracium",12002584-n,hawkweed,TRUE
+12004866-n,genus Inula,12005011-n,inula,TRUE
+12005323-n,genus Iva,12005522-n,"marsh elder, iva",TRUE
+12006055-n,genus Krigia,12006208-n,krigia,TRUE
+12006560-n,"Lactuca, genus Lactuca",12006775-n,lettuce,TRUE
+12006560-n,"Lactuca, genus Lactuca",12007198-n,"cos lettuce, romaine lettuce, Lactuca sativa longifolia",FALSE
+12006560-n,"Lactuca, genus Lactuca",12007369-n,"head lettuce, Lactuca sativa capitata",FALSE
+12009243-n,"Leontodon, genus Leontodon",12009362-n,hawkbit,TRUE
+12011549-n,"Liatris, genus Liatris",12011732-n,"blazing star, button snakeroot, gayfeather, gay-feather, snakeroot",TRUE
+12012462-n,"Ligularia, genus Ligularia",12012635-n,leopard plant,TRUE
+12014401-n,"Madia, genus Madia",12014619-n,tarweed,TRUE
+12016959-n,genus Mutisia,12017146-n,mutisia,TRUE
+12017261-n,"Nabalus, genus Nabalus",12017501-n,rattlesnake root,TRUE
+12018244-n,"Olearia, genus Olearia",12018438-n,"daisybush, daisy-bush, daisy bush",TRUE
+12019609-n,genus Othonna,12019747-n,othonna,TRUE
+12020427-n,"Packera, genus Packera",12020660-n,butterweed,TRUE
+12023876-n,"Pilosella, genus Pilosella",12024165-n,hawkweed,TRUE
+12024779-n,"Piqueria, genus Piqueria",12025016-n,stevia,TRUE
+12026972-n,"Ratibida, genus Ratibida",12027235-n,coneflower,TRUE
+12028486-n,"Rudbeckia, genus Rudbeckia",12028721-n,coneflower,TRUE
+12028486-n,"Rudbeckia, genus Rudbeckia",12029516-n,"golden glow, double gold, hortensia, Rudbeckia laciniata hortensia",TRUE
+12030927-n,"Scolymus, genus Scolymus",12031097-n,golden thistle,TRUE
+12033792-n,"Sericocarpus, genus Sericocarpus",12033980-n,white-topped aster,TRUE
+12036309-n,"Solidago, genus Solidago",12036428-n,goldenrod,TRUE
+12039109-n,"Sonchus, genus Sonchus",12039229-n,"sow thistle, milk thistle",TRUE
+12040144-n,genus Stevia,12040296-n,stevia,TRUE
+12040857-n,"Tageteste, genus Tagetes",12040976-n,marigold,TRUE
+12044465-n,"Taraxacum, genus Taraxacum",12044645-n,"dandelion, blowball",TRUE
+12050398-n,genus Ursinia,12050561-n,ursinia,TRUE
+12050734-n,"Verbesina, genus Verbesina",12051123-n,"crownbeard, crown-beard, crown beard",TRUE
+12052208-n,genus Vernonia,12052396-n,"ironweed, vernonia",TRUE
+12053408-n,"Xanthium, genus Xanthium",12053608-n,"cocklebur, cockle-bur, cockleburr, cockle-burr",TRUE
+12053779-n,genus Xeranthemum,12053973-n,xeranthemum,TRUE
+12054408-n,genus Zinnia,12054610-n,"zinnia, old maid, old maid flower",TRUE
+12682181-n,"Asperula, genus Asperula",12682299-n,woodruff,TRUE
+12683415-n,"Coffea, genus Coffea",12683533-n,"coffee, coffee tree",TRUE
+12684315-n,"genus Cinchona, genus Chinchona",12684565-n,"cinchona, chinchona",TRUE
+12685658-n,"Galium, genus Galium",12685809-n,bedstraw,TRUE
+12687363-n,genus Gardenia,12687529-n,gardenia,TRUE
+12687940-n,genus Genipa,12688167-n,genipa,TRUE
+12688578-n,genus Hamelia,12688725-n,hamelia,TRUE
+12692290-n,genus Abelia,12692412-n,abelia,TRUE
+12694516-n,"Lonicera, genus Lonicera",12694881-n,honeysuckle,TRUE
+12698820-n,"Sambucus, genus Sambucus",12698985-n,"elder, elderberry bush",TRUE
+12703025-n,"Dipsacus, genus Dipsacus",12703172-n,"teasel, teazel, teasle",TRUE
+12704009-n,genus Scabiosa,12704168-n,"scabious, scabiosa",TRUE
+12829993-n,genus Polemonium,12830125-n,polemonium,TRUE
+12832881-n,genus Acanthus,12832995-n,acanthus,TRUE
+12850569-n,genus Gesneria,12850735-n,gesneria,TRUE
+12850840-n,genus Achimenes,12850982-n,"achimenes, hot water plant",TRUE
+12851164-n,genus Aeschynanthus,12851328-n,aeschynanthus,TRUE
+12852149-n,genus Columnea,12852295-n,columnea,TRUE
+12852536-n,genus Episcia,12852692-n,episcia,TRUE
+12853450-n,genus Kohleria,12853582-n,kohleria,TRUE
+12854553-n,genus Streptocarpus,12854745-n,streptocarpus,TRUE
+12855431-n,"Hydrophyllum, genus Hydrophyllum",12855558-n,waterleaf,TRUE
+12856793-n,genus Nemophila,12856972-n,nemophila,TRUE
+12857423-n,genus Phacelia,12857622-n,"scorpionweed, scorpion weed, phacelia",TRUE
+12860599-n,"Agastache, genus Agastache",12860739-n,giant hyssop,TRUE
+12861400-n,"Ajuga, genus Ajuga",12861509-n,"bugle, bugleweed",TRUE
+12862865-n,"Blephilia, genus Blephilia",12863062-n,wood mint,TRUE
+12863525-n,"Calamintha, genus Calamintha",12863647-n,calamint,TRUE
+12865457-n,genus Coleus,12865699-n,"coleus, flame nettle",TRUE
+12867306-n,genus Elsholtzia,12867450-n,elsholtzia,TRUE
+12869630-n,"Lamium, genus Lamium",12869821-n,dead nettle,TRUE
+12870357-n,"Lavandula, genus Lavandula",12870477-n,lavender,TRUE
+12873486-n,genus Origanum,12873840-n,origanum,TRUE
+12874661-n,"Marrubium, genus Marrubium",12874808-n,horehound,TRUE
+12875685-n,"Mentha, genus Mentha",12875802-n,mint,TRUE
+12878779-n,genus Monarda,12878910-n,"monarda, wild bergamot",TRUE
+12881014-n,"Ocimum, genus Ocimum",12881125-n,basil,TRUE
+12881602-n,"Perilla, genus Perilla",12881738-n,"beefsteak plant, Perilla frutescens crispa",TRUE
+12881899-n,genus Phlomis,12882105-n,phlomis,TRUE
+12882511-n,genus Physostegia,12882652-n,physostegia,TRUE
+12883072-n,genus Plectranthus,12883272-n,plectranthus,TRUE
+12884218-n,"Pycnanthemum, genus Pycnanthemum, Koellia, genus Koellia",12884384-n,mountain mint,TRUE
+12885123-n,genus Salvia,12885305-n,"sage, salvia",TRUE
+12887584-n,"Satureja, genus Satureja, Satureia, genus Satureia",12887728-n,savory,TRUE
+12890008-n,"Teucrium, genus Teucrium",12890238-n,germander,TRUE
+12891152-n,"Thymus, genus Thymus",12891295-n,thyme,TRUE
+12891834-n,"Trichostema, genus Trichostema",12892032-n,blue curls,TRUE
+12897444-n,"Scrophularia, genus Scrophularia",12897659-n,figwort,TRUE
+12897801-n,"Antirrhinum, genus Antirrhinum",12898004-n,snapdragon,TRUE
+12898779-n,"Besseya, genus Besseya",12898929-n,kitten-tails,TRUE
+12900110-n,genus Calceolaria,12900287-n,"calceolaria, slipperwort",TRUE
+12903351-n,genus Digitalis,12903539-n,"foxglove, digitalis",TRUE
+12904155-n,genus Gerardia,12904388-n,gerardia,TRUE
+12905283-n,"Penstemon, genus Penstemon",12906270-n,"red shrubby penstemon, redwood penstemon",TRUE
+12909493-n,"Verbascum, genus Verbascum",12909666-n,"mullein, flannel leaf, velvet plant",TRUE
+12910769-n,genus Veronica,12911025-n,"veronica, speedwell",TRUE
+12913854-n,"Solanum, genus Solanum",12914223-n,nightshade,TRUE
+12919388-n,genus Browallia,12919534-n,"bush violet, browallia",TRUE
+12920908-n,"genus Capsicum, Capsicum",12921222-n,"capsicum, pepper, capsicum pepper plant",TRUE
+12920908-n,"genus Capsicum, Capsicum",12921543-n,"cone pepper, Capsicum annuum conoides",FALSE
+12920908-n,"genus Capsicum, Capsicum",12921747-n,"cayenne, cayenne pepper, chili pepper, chilli pepper, long pepper, jalapeno, Capsicum annuum longum",FALSE
+12920908-n,"genus Capsicum, Capsicum",12922024-n,"sweet pepper, bell pepper, pimento, pimiento, paprika, sweet pepper plant, Capsicum annuum grossum",FALSE
+12920908-n,"genus Capsicum, Capsicum",12922325-n,"cherry pepper, Capsicum annuum cerasiforme",FALSE
+12923647-n,"Cyphomandra, genus Cyphomandra",12923774-n,"tree tomato, tamarillo",TRUE
+12924010-n,"Datura, genus Datura",12924127-n,thorn apple,TRUE
+12925480-n,"Lycium, genus Lycium",12925698-n,"matrimony vine, boxthorn",TRUE
+12926415-n,"Lycopersicon, genus Lycopersicon, Lycopersicum, genus Lycopersicum",12926781-n,"cherry tomato, Lycopersicon esculentum cerasiforme",FALSE
+12928047-n,"Nicotiana, genus Nicotiana",12928225-n,"tobacco, tobacco plant",TRUE
+12929192-n,genus Nierembergia,12929405-n,"cupflower, nierembergia",TRUE
+12930012-n,"genus Petunia, Petunia",12930181-n,petunia,TRUE
+12930901-n,"Physalis, genus Physalis",12931045-n,"ground cherry, husk tomato",TRUE
+12933258-n,genus Salpiglossis,12933430-n,salpiglossis,TRUE
+12933764-n,genus Schizanthus,12933904-n,"butterfly flower, poor man's orchid, schizanthus",TRUE
+12935491-n,genus Verbena,12935683-n,"verbena, vervain",TRUE
+12935491-n,genus Verbena,12935900-n,lantana,FALSE
+12970715-n,"Valeriana, genus Valeriana",12970886-n,valerian,TRUE
+12971261-n,"Valerianella, genus Valerianella",12971429-n,corn salad,TRUE
+11771324-n,genus Melilotus,11771458-n,"melilotus, melilot, sweet clover",TRUE
+11772067-n,"Swainsona, genus Swainsona",11772234-n,"darling pea, poison bush",TRUE
+11772873-n,"Trifolium, genus Trifolium",11773047-n,"clover, trefoil",TRUE
+11775102-n,genus Mimosa,11775362-n,mimosa,TRUE
+11776163-n,genus Acacia,11776561-n,acacia,TRUE
+11776163-n,genus Acacia,11776798-n,"shittah, shittah tree",FALSE
+11779518-n,"genus Albizia, genus Albizzia",11779693-n,"albizzia, albizia",TRUE
+11781029-n,genus Calliandra,11781254-n,calliandra,TRUE
+11781953-n,genus Inga,11782119-n,inga,TRUE
+11783942-n,"Parkia, genus Parkia",11784094-n,nitta tree,TRUE
+11785568-n,"Prosopis, genus Prosopis",11785746-n,"mesquite, mesquit",TRUE
+11817485-n,genus Aralia,11817790-n,aralia,TRUE
+12361929-n,"Circaea, genus Circaea",12362059-n,enchanter's nightshade,TRUE
+12362560-n,"Epilobium, genus Epilobium",12362816-n,willowherb,TRUE
+12370433-n,"Rhexia, genus Rhexia",12370549-n,"deer grass, meadow beauty",TRUE
+12512131-n,"genus Cassia, Cassia",12512331-n,cassia,TRUE
+12519433-n,genus Senna,12519668-n,senna,TRUE
+12524413-n,genus Amorpha,12524599-n,amorpha,TRUE
+12526492-n,"Andira, genus Andira",12526686-n,"angelim, andelmin",TRUE
+12528582-n,"Astragalus, genus Astragalus",12528814-n,"milk vetch, milk-vetch",TRUE
+12529802-n,"Baptisia, genus Baptisia",12529981-n,"wild indigo, false indigo",TRUE
+12532208-n,genus Caragana,12532361-n,"pea tree, caragana",TRUE
+12535307-n,"Chordospartium, genus Chordospartium",12535497-n,weeping tree broom,TRUE
+12535724-n,"Chorizema, genus Chorizema",12535898-n,flame pea,TRUE
+12536937-n,genus Clianthus,12537089-n,"glory pea, clianthus",TRUE
+12539230-n,genus Coronilla,12539384-n,coronilla,TRUE
+12539833-n,genus Crotalaria,12540068-n,"crotalaria, rattlebox",TRUE
+12545449-n,"Daviesia, genus Daviesia",12545673-n,bitter pea,TRUE
+12545852-n,genus Derris,12546018-n,derris,TRUE
+12546885-n,"Desmodium, genus Desmodium",12547021-n,"tick trefoil, beggar lice, beggar's lice",TRUE
+12548074-n,genus Erythrina,12548243-n,"coral tree, erythrina",TRUE
+12550235-n,genus Gastrolobium,12550410-n,"poison bush, poison pea, gastrolobium",TRUE
+12552057-n,genus Gliricidia,12552232-n,gliricidia,TRUE
+12555966-n,genus Hovea,12556098-n,"hovea, purple pea",TRUE
+12557170-n,"Kennedia, genus Kennedia, Kennedya, genus Kennedya",12557376-n,coral pea,TRUE
+12559108-n,"Lathyrus, genus Lathyrus",12559579-n,vetchling,FALSE
+12559108-n,"Lathyrus, genus Lathyrus",12560337-n,everlasting pea,FALSE
+12563154-n,genus Lespedeza,12563415-n,"bush clover, lespedeza",TRUE
+12565151-n,"Lonchocarpus, genus Lonchocarpus",12565367-n,cube,TRUE
+12566520-n,"Lupinus, genus Lupinus",12566688-n,"lupine, lupin",TRUE
+12570154-n,genus Millettia,12570304-n,millettia,TRUE
+12570481-n,"genus Mucuna, Stizolobium, genus Stizolobium",12570715-n,mucuna,TRUE
+12573819-n,"Ormosia, genus Ormosia",12574078-n,necklace tree,TRUE
+12574747-n,"Oxytropis, genus Oxytropis",12575031-n,"locoweed, crazyweed, crazy weed",TRUE
+12576535-n,"Phaseolus, genus Phaseolus",12577569-n,"kidney bean, frijol, frijole",FALSE
+12576535-n,"Phaseolus, genus Phaseolus",12577785-n,green bean,FALSE
+12576535-n,"Phaseolus, genus Phaseolus",12578061-n,wax bean,FALSE
+12576535-n,"Phaseolus, genus Phaseolus",12579185-n,"tepary bean, Phaseolus acutifolius latifolius",FALSE
+12580347-n,"Pisum, genus Pisum",12580521-n,"pea, pea plant",TRUE
+12582925-n,"Platymiscium, genus Platymiscium",12583082-n,quira,TRUE
+12589738-n,genus Sesbania,12589931-n,sesbania,TRUE
+12592878-n,"Tephrosia, genus Tephrosia",12593051-n,hoary pea,TRUE
+12593583-n,"Thermopsis, genus Thermopsis",12593761-n,bush pea,TRUE
+12594265-n,"Tipuana, genus Tipuana",12594416-n,"tipu, tipu tree, yellow jacaranda, pride of Bolivia",TRUE
+12595594-n,"Vicia, genus Vicia",12595827-n,vetch,TRUE
+12595594-n,"Vicia, genus Vicia",12596184-n,tare,FALSE
+12600952-n,genus Wisteria,12601205-n,"wisteria, wistaria",TRUE
+12640792-n,"Rosa, genus Rosa",12640957-n,"rose, rosebush",TRUE
+12643414-n,genus Agrimonia,12643636-n,"agrimonia, agrimony",TRUE
+12644129-n,"Amelanchier, genus Amelanchier",12644285-n,"juneberry, serviceberry, service tree, shadbush, shadblow",TRUE
+12645010-n,"Chaenomeles, genus Chaenomeles",12645142-n,flowering quince,TRUE
+12645976-n,genus Cotoneaster,12646144-n,cotoneaster,TRUE
+12646791-n,"Crataegus, genus Crataegus",12647114-n,"hawthorn, haw",TRUE
+12650707-n,"Fragaria, genus Fragaria",12650905-n,strawberry,TRUE
+12651985-n,"Geum, genus Geum",12652092-n,avens,TRUE
+12654147-n,"Malus, genus Malus",12654399-n,apple tree,TRUE
+12657466-n,"Potentilla, genus Potentilla",12657646-n,"cinquefoil, five-finger",TRUE
+12658490-n,"Prunus, genus Prunus",12658979-n,"plum, plum tree",FALSE
+12658490-n,"Prunus, genus Prunus",12661196-n,"plumcot, plumcot tree",FALSE
+12658490-n,"Prunus, genus Prunus",12661368-n,"apricot, apricot tree",FALSE
+12658490-n,"Prunus, genus Prunus",12662174-n,"cherry, cherry tree",FALSE
+12658490-n,"Prunus, genus Prunus",12665663-n,almond tree,FALSE
+12658490-n,"Prunus, genus Prunus",12668957-n,"nectarine, nectarine tree, Prunus persica nectarina",FALSE
+12673817-n,"Rubus, genus Rubus",12673979-n,bramble bush,FALSE
+12673817-n,"Rubus, genus Rubus",12675148-n,"dewberry, dewberry bush, running blackberry",FALSE
+12678701-n,"Sorbus, genus Sorbus",12678879-n,mountain ash,TRUE
+12679964-n,"Spiraea, genus Spiraea",12680117-n,"spirea, spiraea",TRUE
+12709287-n,"Erodium, genus Erodium",12709477-n,"storksbill, heron's bill",TRUE
+12714495-n,"Callitriche, genus Callitriche",12714626-n,water starwort,TRUE
+12719043-n,"Flindersia, genus Flindersia",12719195-n,silver ash,TRUE
+12721591-n,genus Turreae,12721756-n,turreae,TRUE
+12722251-n,genus Lepidobotrys,12722426-n,lepidobotrys,TRUE
+12723466-n,genus Oxalis,12723708-n,"oxalis, sorrel, wood sorrel",TRUE
+12725604-n,"Polygala, genus Polygala",12725773-n,milkwort,TRUE
+12728192-n,genus Citrus,12728541-n,"citrus, citrus tree",TRUE
+12728192-n,genus Citrus,12729053-n,"orange, orange tree",FALSE
+12733580-n,"Fortunella, genus Fortunella",12733823-n,"kumquat, cumquat, kumquat tree",FALSE
+12735310-n,"Zanthoxylum, genus Zanthoxylum",12735515-n,prickly ash,TRUE
+12737621-n,genus Ailanthus,12737832-n,ailanthus,TRUE
+12740215-n,"Tropaeolum, genus Tropaeolum",12740444-n,nasturtium,TRUE
+12808606-n,genus Hydrangea,12808961-n,hydrangea,TRUE
+12808606-n,genus Hydrangea,12809614-n,"hortensia, Hydrangea macrophylla hortensis",FALSE
+12810945-n,genus Deutzia,12811190-n,deutzia,TRUE
+12811595-n,genus Philadelphus,12811824-n,philadelphus,TRUE
+12813398-n,"Saxifraga, genus Saxifraga",12813775-n,"saxifrage, breakstone, rockfoil",TRUE
+12815613-n,genus Astilbe,12815745-n,astilbe,TRUE
+12816589-n,genus Bergenia,12816782-n,bergenia,TRUE
+12817377-n,"Chrysosplenium, genus Chrysosplenium",12817609-n,"golden saxifrage, golden spleen",TRUE
+12818801-n,"Heuchera, genus Heuchera",12819044-n,"alumroot, alumbloom",TRUE
+12821087-n,"Mitella, genus Mitella",12821346-n,"miterwort, mitrewort, bishop's cap",TRUE
+12822083-n,genus Parnassia,12822280-n,"parnassia, grass-of-Parnassus",TRUE
+12823008-n,genus Suksdorfia,12823202-n,suksdorfia,TRUE
+12827215-n,"Platanus, genus Platanus",12827492-n,"plane tree, sycamore, platan",TRUE
+12938098-n,"Euphorbia, genus Euphorbia",12938661-n,spurge,TRUE
+12947076-n,"Manihot, genus Manihot",12947240-n,"cassava, casava",TRUE
+12948681-n,"Pedilanthus, genus Pedilanthus",12948831-n,"slipper spurge, slipper plant",TRUE
+12954587-n,genus Astrantia,12954796-n,"astrantia, masterwort",TRUE
+12955536-n,"Cicuta, genus Cicuta",12955926-n,"spotted cowbane, spotted hemlock, spotted water hemlock",TRUE
+12957759-n,"Daucus, genus Daucus",12958148-n,"carrot, cultivated carrot, Daucus carota sativa",TRUE
+12958582-n,"Eryngium, genus Eryngium",12958841-n,"eryngo, eringo",TRUE
+12959657-n,"Foeniculum, genus Foeniculum",12959864-n,fennel,TRUE
+12964062-n,"Sanicula, genus Sanicula",12964203-n,"sanicle, snakeroot",TRUE
+12964998-n,"Seseli, genus Seseli",12965150-n,"moon carrot, stone parsley",TRUE
+12967338-n,"Cornus, genus Cornus",12967609-n,"dogwood, dogwood tree, cornel",TRUE
+11761479-n,"Myrica, genus Myrica",11761819-n,wax myrtle,TRUE
+11787665-n,"Apocynum, genus Apocynum",11787823-n,dogbane,TRUE
+11789952-n,genus Allamanda,11790090-n,allamanda,TRUE
+11791852-n,genus Carissa,11792008-n,carissa,TRUE
+11794748-n,"Plumeria, genus Plumeria, Plumiera",11794982-n,"frangipani, frangipanni",TRUE
+11795629-n,"genus Rauwolfia, genus Rauvolfia",11795809-n,"rauwolfia, rauvolfia",TRUE
+11796249-n,genus Strophanthus,11796428-n,strophanthus,TRUE
+11798248-n,"Vinca, genus Vinca",11798398-n,periwinkle,TRUE
+11822545-n,"Asarum, genus Asarum",11822681-n,wild ginger,TRUE
+11871570-n,"Nopalea, genus Nopalea",11871727-n,nopal,TRUE
+12111219-n,genus Primula,12111407-n,"primrose, primula",TRUE
+12112644-n,"Anagallis, genus Anagallis",12112779-n,pimpernel,TRUE
+12113283-n,"Centunculus, genus Centunculus",12113447-n,"chaffweed, bastard pimpernel, false pimpernel",TRUE
+12114638-n,"Hottonia, genus Hottonia",12114761-n,"featherfoil, feather-foil",TRUE
+12115303-n,"Lysimachia, genus Lysimachia",12115537-n,loosestrife,TRUE
+12116740-n,"Samolus, genus Samolus",12116912-n,water pimpernel,TRUE
+12118744-n,genus Plumbago,12118920-n,plumbago,TRUE
+12119182-n,"Armeria, genus Armeria",12119344-n,thrift,TRUE
+12119737-n,"Limonium, genus Limonium",12119859-n,"sea lavender, marsh rosemary, statice",TRUE
+12178665-n,"Cucurbita, genus Cucurbita",12179315-n,"squash, squash vine",TRUE
+12178665-n,"Cucurbita, genus Cucurbita",12179572-n,"summer squash, summer squash vine, Cucurbita pepo melopepo",FALSE
+12178665-n,"Cucurbita, genus Cucurbita",12181007-n,"winter squash, winter squash plant",FALSE
+12178665-n,"Cucurbita, genus Cucurbita",12181802-n,"turban squash, Cucurbita maxima turbaniformis",FALSE
+12178665-n,"Cucurbita, genus Cucurbita",12182094-n,buttercup squash,FALSE
+12183422-n,genus Bryonia,12183552-n,"bryony, briony",TRUE
+12186829-n,genus Luffa,12186941-n,"luffa, dishcloth gourd, sponge gourd, rag gourd, strainer vine",TRUE
+12188902-n,genus Lobelia,12189082-n,lobelia,TRUE
+12235122-n,genus Protea,12235306-n,protea,TRUE
+12235890-n,genus Banksia,12236096-n,banksia,TRUE
+12236545-n,"Conospermum, genus Conospermum",12236732-n,smoke bush,TRUE
+12237728-n,genus Grevillea,12237970-n,grevillea,TRUE
+12237728-n,genus Grevillea,12238103-n,silk oak,FALSE
+12240012-n,"Knightia, genus Knightia",12240185-n,"rewa-rewa, New Zealand honeysuckle",TRUE
+12241171-n,genus Lomatia,12241346-n,lomatia,TRUE
+12241511-n,genus Macadamia,12241708-n,"macadamia, macadamia tree",TRUE
+12242851-n,"Persoonia, genus Persoonia",12243010-n,geebung,TRUE
+12245186-n,genus Casuarina,12245495-n,casuarina,TRUE
+12245186-n,genus Casuarina,12245739-n,she-oak,FALSE
+12245186-n,genus Casuarina,12245866-n,beefwood,FALSE
+12311039-n,"Centaurium, genus Centaurium",12311265-n,centaury,TRUE
+12316077-n,"Gentianella, genus Gentianella",12316562-n,"felwort, gentianella amarella",FALSE
+12316735-n,"Gentianopsis, genus Gentianopsis",12316949-n,fringed gentian,TRUE
+12318195-n,"Halenia, genus Halenia",12318363-n,spurred gentian,TRUE
+12318520-n,genus Sabbatia,12318682-n,sabbatia,TRUE
+12321142-n,"Olea, genus Olea",12321357-n,olive tree,TRUE
+12322434-n,"Chionanthus, genus Chionanthus",12322588-n,fringe tree,TRUE
+12322935-n,genus Forestiera,12323082-n,forestiera,TRUE
+12323491-n,genus Forsythia,12323600-n,forsythia,TRUE
+12323866-n,"Fraxinus, genus Fraxinus",12323979-n,"ash, ash tree",TRUE
+12327036-n,"Jasminum, genus Jasminum",12327234-n,jasmine,TRUE
+12328128-n,"Ligustrum, genus Ligustrum",12328273-n,privet,TRUE
+12330367-n,"Phillyrea, genus Phillyrea",12330538-n,mock privet,TRUE
+12330670-n,"Syringa, genus Syringa",12330866-n,lilac,TRUE
+12338681-n,"Juglans, genus Juglans",12338895-n,"walnut, walnut tree",TRUE
+12340204-n,"Carya, genus Carya",12340527-n,"hickory, hickory tree",TRUE
+12342876-n,"Pterocarya, genus Pterocarya",12343018-n,"wing nut, wing-nut",TRUE
+12344337-n,genus Combretum,12344573-n,combretum,TRUE
+12346184-n,"Elaeagnus, genus Elaeagnus",12346304-n,oleaster,TRUE
+12347359-n,"Myriophyllum, genus Myriophyllum",12347539-n,water milfoil,TRUE
+12348758-n,"Lythrum, genus Lythrum",12348915-n,loosestrife,TRUE
+12352939-n,genus Feijoa,12353072-n,"feijoa, feijoa bush",TRUE
+12355203-n,genus Eucalyptus,12355408-n,"eucalyptus, eucalypt, eucalyptus tree",TRUE
+12360719-n,"Nyssa, genus Nyssa",12360900-n,"tupelo, tupelo tree",TRUE
+12363823-n,genus Fuchsia,12363997-n,fuchsia,TRUE
+12366965-n,genus Daphne,12367095-n,daphne,TRUE
+12368644-n,"Trapa, genus Trapa",12368811-n,"water chestnut, water chestnut plant, caltrop",TRUE
+12413460-n,"Boehmeria, genus Boehmeria",12413603-n,"false nettle, bog hemp",TRUE
+12417183-n,genus Cannabis,12417441-n,"cannabis, hemp",TRUE
+12418099-n,"Humulus, genus Humulus",12418369-n,"hop, hops",TRUE
+12419495-n,"Morus, genus Morus",12419637-n,"mulberry, mulberry tree",TRUE
+12421627-n,"Ficus, genus Ficus",12421840-n,fig tree,TRUE
+12425714-n,"Ulmus, genus Ulmus",12426219-n,"elm, elm tree",TRUE
+12429521-n,"Celtis, genus Celtis",12429736-n,"hackberry, nettle tree",TRUE
+12506028-n,genus Buddleia,12506158-n,"butterfly bush, buddleia",TRUE
+12619390-n,"Plantago, genus Plantago",12619587-n,plantain,TRUE
+12622879-n,genus Eriogonum,12623023-n,eriogonum,TRUE
+12623611-n,"Rheum, genus Rheum",12623741-n,"rhubarb, rhubarb plant",TRUE
+12624545-n,"Rumex, genus Rumex",12624720-n,"dock, sorrel, sour grass",TRUE
+12761839-n,"Dodonaea, genus Dodonaea",12761727-n,aalii,TRUE
+12762169-n,"Sapindus, genus Sapindus",12761982-n,"soapberry, soapberry tree",TRUE
+12763306-n,"Cardiospermum, genus Cardiospermum",12763501-n,soapberry vine,TRUE
+12764440-n,genus Harpullia,12764583-n,harpullia,TRUE
+12766736-n,"Buxus, genus Buxus",12766866-n,"box, boxwood",TRUE
+12767493-n,genus Pachysandra,12767644-n,pachysandra,TRUE
+12768721-n,"Celastrus, genus Celastrus",12768591-n,staff tree,TRUE
+12769575-n,"Euonymus, genus Euonymus",12769809-n,"spindle tree, spindleberry, spindleberry tree",TRUE
+12769575-n,"Euonymus, genus Euonymus",12770836-n,"evergreen bittersweet, Euonymus fortunei radicans, Euonymus radicans vegetus",TRUE
+12772314-n,"Empetrum, genus Empetrum",12772435-n,crowberry,TRUE
+12772799-n,"Acer, genus Acer",12772965-n,maple,TRUE
+12777622-n,"Ilex, genus Ilex",12777217-n,holly,TRUE
+12780773-n,"Cotinus, genus Cotinus",12780892-n,"smoke tree, smoke bush",TRUE
+12783343-n,"Rhus, genus Rhus",12783656-n,"sumac, sumach, shumac",TRUE
+12791037-n,"Diospyros, genus Diospyros",12791952-n,"persimmon, persimmon tree",TRUE
+12793317-n,"Bumelia, genus Bumelia",12793513-n,buckthorn,TRUE
+12795985-n,"Payena, genus Payena",12796153-n,gutta-percha tree,TRUE
+12796290-n,"Pouteria, genus Pouteria",12796477-n,"canistel, canistel tree, Pouteria campechiana nervosa",TRUE
+12798054-n,genus Styrax,12798196-n,styrax,TRUE
+12798805-n,"Halesia, genus Halesia",12798979-n,silver bell,TRUE
+12802001-n,"Heliamphora, genus Heliamphora",12802181-n,sun pitcher,TRUE
+12802574-n,"Nepenthes, genus Nepenthes",12802700-n,tropical pitcher plant,TRUE
+12803098-n,"Drosera, genus Drosera",12803290-n,"sundew, sundew plant, daily dew",TRUE
+12804933-n,genus Roridula,12805131-n,roridula,TRUE
+12844291-n,genus Convolvulus,12844477-n,convolvulus,TRUE
+12845341-n,"Argyreia, genus Argyreia",12845495-n,silverweed,TRUE
+12846061-n,"Cuscuta, genus Cuscuta",12846257-n,dodder,TRUE
+12847155-n,"Ipomoea, genus Ipomoea",12847276-n,morning glory,TRUE
+13161770-n,"Rhamnus, genus Rhamnus",13161918-n,buckthorn,TRUE
+13163472-n,"Colubrina, genus Colubrina",13163684-n,nakedwood,TRUE
+13165288-n,"Vitis, genus Vitis",13165571-n,"grape, grapevine, grape vine",TRUE
+13169822-n,"Piper, genus Piper",13170079-n,"true pepper, pepper vine",TRUE
+13169822-n,"Piper, genus Piper",92412542-n,ashanti pepper,FALSE
+13171518-n,genus Peperomia,13171671-n,peperomia,TRUE
+13254446-n,"Asclepias, genus Asclepias",13254625-n,"milkweed, silkweed",TRUE
+13257252-n,genus Cynancum,13257393-n,cynancum,TRUE
+13257624-n,genus Hoya,13257785-n,hoya,TRUE
+13259076-n,genus Stapelia,13259273-n,"stapelia, carrion flower, starfish flower",TRUE
+13259726-n,genus Stephanotis,13259886-n,stephanotis,TRUE
+12985969-n,"Hypocreaceae, family Hypocreaceae",13013628-n,fungus,TRUE
+12988536-n,"Sclerotiniaceae, family Sclerotiniaceae",12989069-n,brown cup,TRUE
+12991917-n,"Rhizopogonaceae, family Rhizopogonaceae",12992160-n,false truffle,TRUE
+13001238-n,"Peronosporaceae, family Peronosporaceae",13001600-n,"downy mildew, false mildew",TRUE
+13006389-n,"Clavariaceae, family Clavariaceae",13006617-n,coral fungus,TRUE
+13006844-n,"Hydnaceae, family Hydnaceae",13006987-n,tooth fungus,TRUE
+13055713-n,"Helvellaceae, family Helvellaceae",13056001-n,false morel,TRUE
+13055713-n,"Helvellaceae, family Helvellaceae",13056149-n,lorchel,TRUE
+13064276-n,"Lycoperdaceae, family Lycoperdaceae",13064686-n,"puffball, true puffball",TRUE
+13065301-n,"Geastraceae, family Geastraceae",13065538-n,earthstar,TRUE
+13067272-n,"Nidulariaceae, family Nidulariaceae",13067429-n,bird's-nest fungus,TRUE
+13074971-n,"Boletaceae, family Boletaceae",13075320-n,bolete,TRUE
+13087391-n,"Ustilaginaceae, family Ustilaginaceae",13087951-n,"cornsmut, corn smut",TRUE
+13090763-n,"Hygrophoraceae, family Hygrophoraceae",13091068-n,waxycap,TRUE
+12984254-n,"Erysiphe, genus Erysiphe",12984388-n,powdery mildew,TRUE
+12988715-n,genus Sclerotinia,12988896-n,sclerotinia,TRUE
+12989642-n,"Scleroderma, genus Scleroderma",12989891-n,"earthball, false truffle, puffball, hard-skinned puffball",TRUE
+12991320-n,"Tulostoma, genus Tulostoma, Tulestoma, genus Tulestoma",12991493-n,stalked puffball,TRUE
+12993962-n,genus Mucor,12994203-n,mucor,TRUE
+12994301-n,genus Rhizopus,12994551-n,rhizopus,TRUE
+12997149-n,genus Dictostylium,12997314-n,dictostylium,TRUE
+12999889-n,"Synchytrium, genus Synchytrium",12998836-n,pond-scum parasite,TRUE
+13000390-n,"Saprolegnia, genus Saprolegnia",13000840-n,water mold,TRUE
+13002551-n,"Albugo, genus Albugo",13002714-n,white rust,TRUE
+13003098-n,genus Pythium,13003228-n,pythium,TRUE
+13005996-n,"Tuber, genus Tuber",13006180-n,"truffle, earthnut, earth-ball",TRUE
+13008753-n,genus Lecanora,13008918-n,lecanora,TRUE
+13008753-n,genus Lecanora,13009332-n,"archil, orchil",FALSE
+13011167-n,"Alectoria, genus Alectoria",13011357-n,"horsehair lichen, horsetail lichen",TRUE
+13012405-n,"Parmelia, genus Parmelia",13012597-n,"crottle, crottal, crotal",TRUE
+13023193-n,"Amanita, genus Amanita",13018679-n,mushroom,TRUE
+13033947-n,genus Lepiota,13034294-n,lepiota,TRUE
+13052716-n,"Morchella, genus Morchella",13052875-n,morel,TRUE
+13056281-n,genus Helvella,13056467-n,helvella,TRUE
+13060313-n,"Phallales, order Phallales",13061063-n,"stinkhorn, carrion fungus",TRUE
+13087563-n,"Ustilago, genus Ustilago",13087739-n,loose smut,TRUE
+13089325-n,"Urocystis, genus Urocystis",13089677-n,flag smut fungus,TRUE
+13098571-n,genus Verticillium,13098781-n,verticillium,TRUE
+13099569-n,genus Monilia,13099833-n,monilia,TRUE
+13099963-n,genus Candida,13100179-n,candida,TRUE
+13103053-n,"genus Rhizoctinia, form genus Rhizoctinia",13103328-n,rhizoctinia,TRUE
+13247596-n,"Geoglossum, genus Geoglossum",13247769-n,"earthtongue, earth-tongue",TRUE
+13252334-n,"Armillaria, genus Armillaria",13252576-n,shoestring fungus,TRUE
+13019109-n,"Agaricales, order Agaricales",13019575-n,agaric,TRUE
+13045727-n,"Endomycetales, order Endomycetales",13046407-n,yeast,TRUE
+13083806-n,"Uredinales, order Uredinales",13084029-n,"rust, rust fungus",TRUE
+13086662-n,"Ustilaginales, order Ustilaginales",13086889-n,"smut, smut fungus",TRUE
+11615763-n,"Gymnospermae, class Gymnospermae, Gymnospermophyta, division Gymnospermophyta",11574214-n,gymnosperm family,FALSE
+11615763-n,"Gymnospermae, class Gymnospermae, Gymnospermophyta, division Gymnospermophyta",11574626-n,gymnosperm genus,FALSE
+11615763-n,"Gymnospermae, class Gymnospermae, Gymnospermophyta, division Gymnospermophyta",11616559-n,gymnosperm,TRUE
+11615763-n,"Gymnospermae, class Gymnospermae, Gymnospermophyta, division Gymnospermophyta",13129421-n,gymnospermous tree,FALSE
+11685380-n,"Angiospermae, class Angiospermae, Magnoliophyta, division Magnoliophyta, Anthophyta, division Anthophyta",11685823-n,"angiosperm, flowering plant",TRUE
+11685380-n,"Angiospermae, class Angiospermae, Magnoliophyta, division Magnoliophyta, Anthophyta, division Anthophyta",13130492-n,"angiospermous tree, flowering tree",FALSE
+11685380-n,"Angiospermae, class Angiospermae, Magnoliophyta, division Magnoliophyta, Anthophyta, division Anthophyta",13140762-n,flowering shrub,FALSE
+11686232-n,"Dicotyledones, class Dicotyledones, Dicotyledonae, class Dicotyledonae, Magnoliopsida, class Magnoliopsida",11575864-n,"monocot family, liliopsid family",FALSE
+11686232-n,"Dicotyledones, class Dicotyledones, Dicotyledonae, class Dicotyledonae, Magnoliopsida, class Magnoliopsida",11583198-n,"dicot family, magnoliopsid family",FALSE
+11686232-n,"Dicotyledones, class Dicotyledones, Dicotyledonae, class Dicotyledonae, Magnoliopsida, class Magnoliopsida",11587862-n,"dicot genus, magnoliopsid genus",FALSE
+11686232-n,"Dicotyledones, class Dicotyledones, Dicotyledonae, class Dicotyledonae, Magnoliopsida, class Magnoliopsida",11687305-n,"dicot, dicotyledon, magnoliopsid, exogen",TRUE
+11687563-n,"Magnoliidae, subclass Magnoliidae, ranalian complex",11584709-n,magnoliid dicot family,FALSE
+11687563-n,"Magnoliidae, subclass Magnoliidae, ranalian complex",11592358-n,magnoliid dicot genus,FALSE
+11688013-n,"Monocotyledones, class Monocotyledones, Monocotyledonae, class Monocotyledonae, Liliopsida, class Liliopsida",11577308-n,"monocot genus, liliopsid genus",FALSE
+11688013-n,"Monocotyledones, class Monocotyledones, Monocotyledonae, class Monocotyledonae, Liliopsida, class Liliopsida",11688568-n,"monocot, monocotyledon, liliopsid, endogen",TRUE
+12057250-n,genus Campanula,12057408-n,"campanula, bellflower",TRUE
+12108324-n,"Dioscorea, genus Dioscorea",12108478-n,"yam, yam plant",TRUE
+12127057-n,"Agrostis, genus Agrostis",12127303-n,"bent, bent grass, bent-grass",TRUE
+12130236-n,"Avena, genus Avena",12130344-n,oat,TRUE
+12335169-n,"Hamamelis, genus Hamamelis",12335325-n,"witch hazel, witch hazel plant, wych hazel, wych hazel plant",TRUE
+12335941-n,"Corylopsis, genus Corylopsis",12336115-n,"winter hazel, flowering hazel",TRUE
+12336335-n,"genus Fothergilla, Fothergilla",12336516-n,"fothergilla, witch alder",TRUE
+12336817-n,"genus Liquidambar, Liquidambar",12336961-n,liquidambar,TRUE
+12337681-n,"Parrotia, genus Parrotia",12337813-n,"iron tree, iron-tree, ironwood, ironwood tree",TRUE
+12506902-n,"Linum, genus Linum",12507079-n,flax,TRUE
+12706440-n,genus Geranium,12706592-n,"cranesbill, crane's bill",TRUE
+12806259-n,genus Sedum,12806484-n,sedum,TRUE
+12806259-n,genus Sedum,12806649-n,stonecrop,TRUE
+12825626-n,"Ribes, genus Ribes",12825906-n,"currant, currant bush",TRUE
+12831078-n,genus Phlox,12831355-n,phlox,TRUE
+12838095-n,genus Anchusa,12838224-n,anchusa,TRUE
+12840713-n,"Hackelia, genus Hackelia, Lappula, genus Lappula",12840873-n,"beggar's lice, beggar lice",TRUE
+12843044-n,"Onosmodium, genus Onosmodium",12843226-n,false gromwell,TRUE
+12843410-n,"Symphytum, genus Symphytum",12843529-n,"comfrey, cumfrey",TRUE
+12893017-n,"Utricularia, genus Utricularia",12893218-n,bladderwort,TRUE
+12893458-n,"Pinguicula, genus Pinguicula",12893674-n,butterwort,TRUE
+12893942-n,genus Genlisea,12894101-n,genlisea,TRUE
+11823944-n,"Caryophyllidae, subclass Caryophyllidae",11585491-n,caryophylloid dicot family,FALSE
+11823944-n,"Caryophyllidae, subclass Caryophyllidae",11594111-n,caryophylloid dicot genus,FALSE
+11931304-n,"Asteridae, subclass Asteridae",11586681-n,asterid dicot family,FALSE
+11931304-n,"Asteridae, subclass Asteridae",11599869-n,asterid dicot genus,FALSE
+12167548-n,"Bambuseae, tribe Bambuseae",12167743-n,bamboo,TRUE
+12233327-n,"Rosidae, subclass Rosidae",11587133-n,rosid dicot family,FALSE
+12233327-n,"Rosidae, subclass Rosidae",11605791-n,rosid dicot genus,FALSE
+12333522-n,"Hamamelidae, subclass Hamamelidae",11585185-n,hamamelid dicot family,FALSE
+12333522-n,"Hamamelidae, subclass Hamamelidae",11593624-n,hamamelid dicot genus,FALSE
+12379002-n,"Dilleniidae, subclass Dilleniidae",11585836-n,dilleniid dicot family,FALSE
+12379002-n,"Dilleniidae, subclass Dilleniidae",11595876-n,dilleniid dicot genus,FALSE
+12430886-n,"Liliidae, subclass Liliidae",11576638-n,liliid monocot family,FALSE
+12430886-n,"Liliidae, subclass Liliidae",11581679-n,liliid monocot genus,FALSE
+12972428-n,"Hymenophyllum, genus Hymenophyllum",12972595-n,"filmy fern, film fern",TRUE
+12972782-n,"Trichomanes, genus Trichomanes",12972925-n,"bristle fern, filmy fern",TRUE
+12973839-n,genus Osmunda,12973966-n,"flowering fern, osmund",TRUE
+12976789-n,"Lygodium, genus Lygodium",12976930-n,climbing fern,TRUE
+12978227-n,"Marsilea, genus Marsilea",12978368-n,"clover fern, pepperwort",TRUE
+12980971-n,"Ophioglossum, genus Ophioglossum",12981138-n,"adder's tongue, adder's tongue fern",TRUE
+12981489-n,"Botrychium, genus Botrychium",12981623-n,grape fern,TRUE
+12996368-n,"Myxomycetes, class Myxomycetes",12996564-n,"true slime mold, acellular slime mold, plasmodial slime mold, myxomycete",TRUE
+12996742-n,"Acrasiomycetes, class Acrasiomycetes",12996958-n,cellular slime mold,TRUE
+13007207-n,"Lichenes, division Lichenes",13007816-n,lichen,TRUE
+13013224-n,"Fungi, kingdom Fungi, fungus kingdom",11611234-n,fungus family,FALSE
+13013224-n,"Fungi, kingdom Fungi, fungus kingdom",11612597-n,fungus genus,FALSE
+13013224-n,"Fungi, kingdom Fungi, fungus kingdom",11615127-n,fungus order,FALSE
+13013224-n,"Fungi, kingdom Fungi, fungus kingdom",13013628-n,fungus,TRUE
+13015739-n,"Eumycota, division Eumycota",13016361-n,true fungus,TRUE
+13017601-n,"Basidiomycetes, class Basidiomycetes",13018414-n,"basidiomycete, basidiomycetous fungi",TRUE
+13044052-n,"Ascomycota, subdivision Ascomycota, Ascomycotina, subdivision Ascomycotina",13043894-n,sac fungus,FALSE
+13044052-n,"Ascomycota, subdivision Ascomycota, Ascomycotina, subdivision Ascomycotina",13044772-n,"ascomycete, ascomycetous fungus",TRUE
+13049097-n,"Discomycetes, subclass Discomycetes",13049371-n,"discomycete, cup fungus",TRUE
+13059704-n,"Gasteromycetes, class Gasteromycetes, Gastromycetes, class Gastromycetes",13060109-n,"gasteromycete, gastromycete",TRUE
+13212923-n,"Dryopteridaceae, family Dryopteridaceae, Athyriaceae, family Athyriaceae",13213523-n,"shield fern, buckler fern",TRUE
+13193623-n,"Polypodium, genus Polypodium",13193821-n,polypody,TRUE
+13195413-n,"Campyloneurum, genus Campyloneurum",13195568-n,strap fern,TRUE
+13196745-n,genus Lecanopteris,13196898-n,lecanopteris,TRUE
+13198252-n,"Platycerium, genus Platycerium",13198427-n,staghorn fern,TRUE
+13201202-n,"Asplenium, genus Asplenium",13201432-n,spleenwort,TRUE
+13205771-n,"Blechnum, genus Blechnum",13206032-n,hard fern,TRUE
+13206334-n,"genus Doodia, Doodia",13206556-n,"doodia, rasp fern",TRUE
+13207098-n,"Woodwardia, genus Woodwardia",13207286-n,chain fern,TRUE
+13208724-n,genus Davallia,13208994-n,davallia,TRUE
+13208724-n,genus Davallia,13209166-n,hare's-foot fern,FALSE
+13213796-n,"Dryopteris, genus Dryopteris",13214540-n,"wood fern, wood-fern, woodfern",TRUE
+13216445-n,"Cystopteris, genus Cystopteris",13216659-n,bladder fern,TRUE
+13220343-n,"Polystichum, genus Polystichum",13220868-n,holly fern,TRUE
+13222623-n,genus Woodsia,13222867-n,woodsia,TRUE
+13225544-n,"Nephrolepis, genus Nephrolepis",13225724-n,sword fern,TRUE
+13227482-n,"Adiantum, genus Adiantum",13227715-n,"maidenhair, maidenhair fern",TRUE
+13229366-n,"Cheilanthes, genus Cheilanthes",13229603-n,"lip fern, lipfern",TRUE
+13230904-n,"Cryptogramma, genus Cryptogramma",13231103-n,rock brake,TRUE
+13232414-n,"Pellaea, genus Pellaea",13232688-n,"cliff brake, cliff-brake, rock brake",TRUE
+13233649-n,"Pityrogramma, genus Pityrogramma",13234295-n,"golden fern, Pityrogramma calomelanos aureoflava",TRUE
+13234666-n,"Pteris, genus Pteris",13234929-n,brake,TRUE
+13237571-n,"Psilotum, genus Psilotum",13237710-n,whisk fern,TRUE
+13238661-n,genus Psilophyton,13238891-n,psilophyton,TRUE
+13240156-n,"Equisetum, genus Equisetum",13240320-n,horsetail,TRUE
+13245352-n,"Selaginella, genus Selaginella",13245571-n,"spikemoss, spike moss, little club moss",TRUE
+13247033-n,"Isoetes, genus Isoetes",13247218-n,quillwort,TRUE
+13249255-n,genus Christella,13249434-n,christella,TRUE
+13251319-n,"Phegopteris, genus Phegopteris",13251560-n,beech fern,TRUE
+13190117-n,"Filicopsida, class Filicopsida, Filicinae, class Filicinae",11566165-n,fern,TRUE
+13241740-n,"Lycopsida, class Lycopsida, Lycopodiate, class Lycopodiate",13242427-n,"club moss, club-moss, lycopod",TRUE
+01315584-n,"Animalia, kingdom Animalia, animal kingdom",00015568-n,"animal, animate being, beast, brute, creature, fauna",TRUE
+01315584-n,"Animalia, kingdom Animalia, animal kingdom",01345170-n,animal order,FALSE
+01315584-n,"Animalia, kingdom Animalia, animal kingdom",01761823-n,arthropod family,FALSE
+01315584-n,"Animalia, kingdom Animalia, animal kingdom",01765166-n,arthropod genus,FALSE
+01315584-n,"Animalia, kingdom Animalia, animal kingdom",01910928-n,coelenterate family,FALSE
+01315584-n,"Animalia, kingdom Animalia, animal kingdom",01911056-n,coelenterate genus,FALSE
+01315584-n,"Animalia, kingdom Animalia, animal kingdom",01920651-n,ctenophore family,FALSE
+01315584-n,"Animalia, kingdom Animalia, animal kingdom",01920793-n,ctenophore genus,FALSE
+01315584-n,"Animalia, kingdom Animalia, animal kingdom",01924200-n,worm family,FALSE
+01315584-n,"Animalia, kingdom Animalia, animal kingdom",01924528-n,worm genus,FALSE
+01315584-n,"Animalia, kingdom Animalia, animal kingdom",01941491-n,mollusk family,FALSE
+01315584-n,"Animalia, kingdom Animalia, animal kingdom",01942239-n,mollusk genus,FALSE
+01315584-n,"Animalia, kingdom Animalia, animal kingdom",02318690-n,echinoderm family,FALSE
+01315584-n,"Animalia, kingdom Animalia, animal kingdom",02318832-n,echinoderm genus,FALSE
+01344517-n,"Monera, kingdom Monera, Prokayotae, kingdom Prokaryotae",01344910-n,"moneran, moneron",TRUE
+01389135-n,"Protoctista, kingdom Protoctista",01349840-n,protoctist order,FALSE
+01389135-n,"Protoctista, kingdom Protoctista",01389706-n,protoctist,TRUE
+01389135-n,"Protoctista, kingdom Protoctista",01390258-n,protoctist family,FALSE
+01389135-n,"Protoctista, kingdom Protoctista",01390771-n,protoctist genus,FALSE
+01911344-n,"Metazoa, subkingdom Metazoa",01911599-n,metazoan,TRUE
+01389849-n,"Protista, division Protista",01390092-n,"protist, protistan",TRUE
+01391829-n,"Protozoa, phylum Protozoa",01392148-n,"protozoan, protozoon",TRUE
+01468635-n,"Chordata, phylum Chordata",01468898-n,chordate,TRUE
+01468635-n,"Chordata, phylum Chordata",01469469-n,chordate family,FALSE
+01468635-n,"Chordata, phylum Chordata",01469637-n,chordate genus,FALSE
+01469821-n,"Cephalochordata, subphylum Cephalochordata",01469977-n,cephalochordate,TRUE
+01470627-n,"Urochordata, subphylum Urochordata, Urochorda, subphylum Urochorda, Tunicata, subphylum Tunicata",01470879-n,"tunicate, urochordate, urochord",TRUE
+01473711-n,"Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata",01431990-n,fish family,FALSE
+01473711-n,"Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata",01435158-n,fish genus,FALSE
+01473711-n,"Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata",01474323-n,"vertebrate, craniate",TRUE
+01473711-n,"Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata",01507078-n,bird family,FALSE
+01473711-n,"Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata",01509816-n,bird genus,FALSE
+01473711-n,"Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata",01628775-n,amphibian family,FALSE
+01473711-n,"Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata",01629241-n,amphibian genus,FALSE
+01473711-n,"Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata",01659454-n,reptile family,FALSE
+01473711-n,"Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata",01660364-n,reptile genus,FALSE
+01473711-n,"Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata",01865198-n,mammal family,FALSE
+01473711-n,"Vertebrata, subphylum Vertebrata, Craniata, subphylum Craniata",01867348-n,mammal genus,FALSE
+01769840-n,"Arthropoda, phylum Arthropoda",01770302-n,arthropod,TRUE
+01769840-n,"Arthropoda, phylum Arthropoda",02162607-n,insect,FALSE
+01791371-n,"Pentastomida, subphylum Pentastomida",01791505-n,"tongue worm, pentastomid",TRUE
+01909193-n,"Porifera, phylum Porifera",01909390-n,"sponge, poriferan, parazoan",TRUE
+01909193-n,"Porifera, phylum Porifera",01909675-n,sponge genus,FALSE
+01911752-n,"Cnidaria, phylum Cnidaria, Coelenterata, phylum Coelenterata",01912063-n,"coelenterate, cnidarian",TRUE
+01911752-n,"Cnidaria, phylum Cnidaria, Coelenterata, phylum Coelenterata",01912547-n,polyp,FALSE
+01911752-n,"Cnidaria, phylum Cnidaria, Coelenterata, phylum Coelenterata",01912893-n,"medusa, medusoid, medusan",FALSE
+01911752-n,"Cnidaria, phylum Cnidaria, Coelenterata, phylum Coelenterata",01913388-n,jellyfish,FALSE
+01920951-n,"Ctenophora, phylum Ctenophora",01921385-n,"ctenophore, comb jelly",TRUE
+01925812-n,"Acanthocephala, phylum Acanthocephala",01926045-n,"acanthocephalan, spiny-headed worm",TRUE
+01926278-n,"Chaetognatha, phylum Chaetognatha",01926531-n,"arrowworm, chaetognath",TRUE
+01927231-n,"Platyhelminthes, phylum Platyhelminthes",01927441-n,bladder worm,FALSE
+01927231-n,"Platyhelminthes, phylum Platyhelminthes",01927557-n,"flatworm, platyhelminth",TRUE
+01931001-n,"Nemertea, phylum Nemertea, Nemertina, phylum Nemertina",01931158-n,"ribbon worm, nemertean, nemertine, proboscis worm",TRUE
+01931378-n,"Pogonophora, phylum Pogonophora",01931506-n,"beard worm, pogonophoran",TRUE
+01931688-n,"Rotifera, phylum Rotifera",01931827-n,rotifer,TRUE
+01932037-n,"Nematoda, phylum Nematoda, Aschelminthes, phylum Aschelminthes",01925358-n,"helminth, parasitic worm",FALSE
+01932037-n,"Nematoda, phylum Nematoda, Aschelminthes, phylum Aschelminthes",01932753-n,"nematode, nematode worm, roundworm",TRUE
+01936848-n,"Annelida, phylum Annelida",01937081-n,"annelid, annelid worm, segmented worm",TRUE
+01943129-n,"Mollusca, phylum Mollusca",01943377-n,"mollusk, mollusc, shellfish",TRUE
+02315847-n,"Phoronida, Phoronidea, phylum Phoronida",02316012-n,phoronid,TRUE
+02316147-n,"Bryozoa, phylum Bryozoa, polyzoa",02316361-n,"bryozoan, polyzoan, sea mat, sea moss, moss animal",TRUE
+02316653-n,"Ectoprocta, phylum Ectoprocta",02316810-n,ectoproct,TRUE
+02316973-n,"Entoprocta, phylum Entoprocta, Endoprocta",02317144-n,entoproct,TRUE
+02317961-n,"Brachiopoda, phylum Brachiopoda",02318139-n,"brachiopod, lamp shell, lampshell",TRUE
+02318348-n,"Sipuncula, phylum Sipuncula",02318473-n,"peanut worm, sipunculid",TRUE
+02319044-n,"Echinodermata, phylum Echinodermata",02319359-n,echinoderm,TRUE
+01360900-n,"class Cyanobacteria, Cyanophyceae, class Cyanophyceae",01361213-n,"cyanobacteria, blue-green algae",TRUE
+01392516-n,"Sarcodina, class Sarcodina",01392764-n,"sarcodinian, sarcodine",TRUE
+01392928-n,"Actinopoda, subclass Actinopoda",01393107-n,actinopod,TRUE
+01393815-n,"Rhizopoda, subclass Rhizopoda",01394032-n,"rhizopod, rhizopodan",TRUE
+01397542-n,"Ciliata, class Ciliata, Ciliophora, class Ciliophora",01397895-n,"ciliate, ciliated protozoan, ciliophoran",TRUE
+01398172-n,"Infusoria, subclass Infusoria",01398414-n,infusorian,TRUE
+01403532-n,"Bacillariophyceae, class Bacillariophyceae, Diatomophyceae, class Diatomophyceae",01403747-n,diatom,TRUE
+01404810-n,"Phaeophyceae, class Phaeophyceae",01405241-n,brown algae,TRUE
+01418995-n,"Mastigophora, class Mastigophora, Flagellata, class Flagellata",01419226-n,"flagellate, flagellate protozoan, flagellated protozoan, mastigophoran, mastigophore",TRUE
+01420878-n,"Zoomastigina, subclass Zoomastigina",01421261-n,"zoomastigote, zooflagellate",TRUE
+01423296-n,"Phytomastigina, subclass Phytomastigina",01423501-n,plantlike flagellate,TRUE
+01423805-n,"Cryptophyceae, class Cryptophyceae",01423974-n,"cryptomonad, cryptophyte",TRUE
+01424137-n,"Sporozoa, class Sporozoa",01424448-n,sporozoan,TRUE
+01471173-n,"Ascidiaceae, class Ascidiaceae",01471353-n,ascidian,TRUE
+01471173-n,"Ascidiaceae, class Ascidiaceae",01473536-n,ascidian tadpole,FALSE
+01472928-n,"Larvacea, class Larvacea",01473120-n,larvacean,TRUE
+01476631-n,"Agnatha, superclass Agnatha",01476924-n,"jawless vertebrate, jawless fish, agnathan",TRUE
+01482284-n,"Gnathostomata, superclass Gnathostomata",01482461-n,gnathostome,TRUE
+01482578-n,"Placodermi, class Placodermi",01482747-n,placoderm,TRUE
+01482977-n,"Chondrichthyes, class Chondrichthyes",01483157-n,"cartilaginous fish, chondrichthian",TRUE
+01483356-n,"Holocephali, subclass Holocephali",01483521-n,"holocephalan, holocephalian",TRUE
+01484240-n,"Elasmobranchii, subclass Elasmobranchii, Selachii, subclass Selachii",01484712-n,"elasmobranch, selachian",TRUE
+01504903-n,"Aves, class Aves",01505702-n,bird,TRUE
+01504903-n,"Aves, class Aves",01616256-n,young bird,FALSE
+01628388-n,"amphibia, class Amphibia",01630065-n,amphibian,TRUE
+01628388-n,"amphibia, class Amphibia",02472103-n,"tadpole, polliwog, pollywog",FALSE
+01663360-n,"Reptilia, class Reptilia",01663732-n,"reptile, reptilian",TRUE
+01664045-n,"Anapsida, subclass Anapsida",01664233-n,"anapsid, anapsid reptile",TRUE
+01697900-n,"Archosauria, subclass Archosauria",01698322-n,"archosaur, archosaurian, archosaurian reptile",TRUE
+01771610-n,"Arachnida, class Arachnida",01771988-n,"arachnid, arachnoid",TRUE
+01786577-n,"Tardigrada, class Tardigrada",01786934-n,tardigrade,TRUE
+01787068-n,"Chilopoda, class Chilopoda",01787316-n,centipede,TRUE
+01789043-n,"Diplopoda, class Diplopoda, Myriapoda, class Myriapoda",01789287-n,"millipede, millepede, milliped",TRUE
+01864106-n,"Mammalia, class Mammalia",01324345-n,young mammal,FALSE
+01864106-n,"Mammalia, class Mammalia",01864419-n,"mammal, mammalian",TRUE
+01888861-n,"Eutheria, subclass Eutheria",01889397-n,"placental, placental mammal, eutherian, eutherian mammal",TRUE
+01910136-n,"Hyalospongiae, class Hyalospongiae",01910379-n,glass sponge,TRUE
+01913170-n,"Scyphozoa, class Scyphozoa",01913704-n,scyphozoan,TRUE
+01914152-n,"Hydrozoa, class Hydrozoa",01914480-n,"hydrozoan, hydroid",TRUE
+01916479-n,"Anthozoa, class Anthozoa, Actinozoa, class Actinozoa",01916804-n,"anthozoan, actinozoan",TRUE
+01927774-n,"Turbellaria, class Turbellaria",01927911-n,"planarian, planaria",TRUE
+01928110-n,"Trematoda, class Trematoda",01925358-n,"helminth, parasitic worm",FALSE
+01928110-n,"Trematoda, class Trematoda",01928336-n,"fluke, trematode, trematode worm",TRUE
+01928110-n,"Trematoda, class Trematoda",01928557-n,cercaria,FALSE
+01929942-n,"Cestoda, class Cestoda",01925358-n,"helminth, parasitic worm",FALSE
+01929942-n,"Cestoda, class Cestoda",01930097-n,"tapeworm, cestode",TRUE
+01937346-n,"Archiannelida, class Archiannelida",01937485-n,archiannelid,TRUE
+01937653-n,"Oligochaeta, class Oligochaeta",01937817-n,"oligochaete, oligochaete worm",TRUE
+01937653-n,"Oligochaeta, class Oligochaeta",01938036-n,"earthworm, angleworm, fishworm, fishing worm, wiggler, nightwalker, nightcrawler, crawler, dew worm, red worm",FALSE
+01938860-n,"Polychaeta, class Polychaeta",01939032-n,"polychaete, polychete, polychaete worm, polychete worm",TRUE
+01938860-n,"Polychaeta, class Polychaeta",01939312-n,"lugworm, lug, lobworm",FALSE
+01940360-n,"Hirudinea, class Hirudinea",01940550-n,"leech, bloodsucker, hirudinean",TRUE
+01943671-n,"Scaphopoda, class Scaphopoda",01943864-n,scaphopod,TRUE
+01944311-n,"Gastropoda, class Gastropoda, Gasteropoda, class Gasteropoda",01944818-n,"gastropod, univalve",TRUE
+01944311-n,"Gastropoda, class Gastropoda, Gasteropoda, class Gasteropoda",01951214-n,limpet,FALSE
+01958104-n,"Bivalvia, class Bivalvia, Lamellibranchia, class Lamellibranchia, class Pelecypoda",01958574-n,"bivalve, pelecypod, lamellibranch",TRUE
+01958104-n,"Bivalvia, class Bivalvia, Lamellibranchia, class Lamellibranchia, class Pelecypoda",01958985-n,spat,FALSE
+01970756-n,"Cephalopoda, class Cephalopoda",01970956-n,"cephalopod, cephalopod mollusk",TRUE
+01977040-n,"Crustacea, class Crustacea",01977414-n,crustacean,TRUE
+01977953-n,"Malacostraca, subclass Malacostraca",01978328-n,malacostracan crustacean,TRUE
+01999046-n,"Copepoda, subclass Copepoda",01999239-n,"copepod, copepod crustacean",TRUE
+02000352-n,"Ostracoda, subclass Ostracoda",02000479-n,"seed shrimp, mussel shrimp, ostracod",TRUE
+02000673-n,"Cirripedia, subclass Cirripedia",02000837-n,"barnacle, cirriped, cirripede",TRUE
+02002028-n,"Onychophora, class Onychophora",02002421-n,"onychophoran, velvet worm, peripatus",TRUE
+02319864-n,"Asteroidea, class Asteroidea",02319987-n,"starfish, sea star",TRUE
+02320305-n,"Ophiurida, subclass Ophiurida",02320433-n,"brittle star, brittle-star, serpent star",TRUE
+02320635-n,"Euryalida, subclass Euryalida",02320819-n,"basket star, basket fish",TRUE
+02321567-n,"Echinoidea, class Echinoidea",02321747-n,sea urchin,TRUE
+02322619-n,"Crinoidea, class Crinoidea",02322779-n,crinoid,TRUE
+02323994-n,"Holothuroidea, class Holothuroidea",02324181-n,"sea cucumber, holothurian",TRUE
+02473703-n,"Hominoidea, superfamily Hominoidea",02473931-n,hominoid,TRUE
+02516829-n,"Channidae, class Channidae",02516951-n,northern snakehead,TRUE
+02517206-n,"Osteichthyes, class Osteichthyes",02517456-n,bony fish,TRUE
+02517619-n,"Crossopterygii, subclass Crossopterygii",02517845-n,"crossopterygian, lobefin, lobe-finned fish",TRUE
+02518545-n,"Dipnoi, subclass Dipnoi",02518819-n,lungfish,TRUE
+02530444-n,"Teleostei, subclass Teleostei",02314400-n,leptocephalus,FALSE
+02530444-n,"Teleostei, subclass Teleostei",02530794-n,"teleost fish, teleost, teleostan",TRUE
+01377630-n,"Actinomycetales, order Actinomycetales",01377845-n,actinomycete,TRUE
+01380547-n,"order Myxobacteria, Myxobacterales, order Myxobacterales, Myxobacteriales, order Myxobacteriales",01381186-n,"myxobacteria, myxobacterium, myxobacter, gliding bacteria, slime bacteria",TRUE
+01384040-n,"Spirochaetales, order Spirochaetales",01384674-n,"spirochete, spirochaete",TRUE
+01393268-n,"Heliozoa, order Heliozoa",01393404-n,heliozoan,TRUE
+01393540-n,"Radiolaria, order Radiolaria",01393669-n,radiolarian,TRUE
+01394210-n,"Amoebida, order Amoebida, Amoebina, order Amoebina",01395021-n,"ameba, amoeba",TRUE
+01395484-n,"Foraminifera, order Foraminifera",01395671-n,"foram, foraminifer",TRUE
+01396514-n,"Testacea, order Testacea",01396681-n,testacean,TRUE
+01406446-n,"Fucales, order Fucales",01407136-n,fucoid,TRUE
+01419682-n,"Dinoflagellata, order Dinoflagellata, Cilioflagellata, order Cilioflagellata",01420002-n,dinoflagellate,TRUE
+01421435-n,"Hypermastigina, order Hypermastigina",01421588-n,hypermastigote,TRUE
+01421723-n,"Polymastigina, order Polymastigina",01421973-n,polymastigote,TRUE
+01425476-n,"Coccidia, order Coccidia",01425943-n,"coccidium, eimeria",TRUE
+01426105-n,"Gregarinida, order Gregarinida",01426258-n,gregarine,TRUE
+01426398-n,"Haemosporidia, order Haemosporidia",01426612-n,haemosporidian,TRUE
+01429107-n,"Haplosporidia, order Haplosporidia",01429266-n,haplosporidian,TRUE
+01429646-n,"Actinomyxidia, order Actinomyxidia",01429784-n,actinomyxidian,TRUE
+01429882-n,"Mycrosporidia, order Mycrosporidia",01430040-n,microsporidian,TRUE
+01430188-n,"Myxosporidia, order Myxosporidia",01430344-n,myxosporidian,TRUE
+01430796-n,"Malacopterygii, superorder Malacopterygii",01431221-n,"soft-finned fish, malacopterygian",TRUE
+01440446-n,"Cypriniformes, order Cypriniformes",01440849-n,cypriniform fish,TRUE
+01477282-n,"Ostracodermi, order Ostracodermi",01477505-n,ostracoderm,TRUE
+01477666-n,"Heterostraci, suborder Heterostraci",01477873-n,heterostracan,TRUE
+01478062-n,"Osteostraci, suborder Osteostraci, Cephalaspida, suborder Cephalaspida",01478289-n,"osteostracan, cephalaspid",TRUE
+01478435-n,"Anaspida, order Anaspida",01478581-n,anaspid,TRUE
+01478776-n,"Conodonta, order Conodonta, Conodontophorida, order Conodontophorida",01479059-n,conodont,TRUE
+01479470-n,"Cyclostomata, order Cyclostomata",01479721-n,cyclostome,TRUE
+01526549-n,"Passeriformes, order Passeriformes",01527000-n,"passerine, passeriform bird",TRUE
+01527526-n,"Oscines, suborder Oscines, Passeres, suborder Passeres",01528361-n,"oscine, oscine bird",TRUE
+01549301-n,"Tyranni, suborder Tyranni",01549562-n,tyrannid,TRUE
+01623608-n,"Strigiformes, order Strigiformes",01623768-n,"owl, bird of Minerva, bird of night, hooter",TRUE
+01631091-n,"Urodella, order Urodella, Caudata, order Caudata",01631411-n,"urodele, caudate",TRUE
+01658218-n,"Labyrinthodontia, superorder Labyrinthodontia, Labyrinthodonta, superorder Labyrinthodonta",01658592-n,labyrinthodont,TRUE
+01664915-n,"Chelonia, order Chelonia, Testudinata, order Testudinata, Testudines, order Testudines",01665263-n,"chelonian, chelonian reptile",TRUE
+01676309-n,"Sauria, suborder Sauria, Lacertilia, suborder Lacertilia",01676857-n,saurian,TRUE
+01698923-n,"Crocodylia, order Crocodylia, Crocodilia, order Crocodilia",01699274-n,"crocodilian reptile, crocodilian",TRUE
+01702717-n,"Ornithischia, order Ornithischia",01703111-n,"ornithischian, ornithischian dinosaur",TRUE
+01703975-n,"Thyreophora, suborder Thyreophora, thyreophoran",01704192-n,armored dinosaur,TRUE
+01705503-n,suborder Pachycephalosaurus,01705652-n,bone-headed dinosaur,TRUE
+01705982-n,"Ceratopsia, suborder Ceratopsia",01706210-n,"ceratopsian, horned dinosaur",TRUE
+01707888-n,"Euronithopoda, suborder Euronithopoda, euronithopod, Ornithopoda, suborder Ornithopoda",01708232-n,"ornithopod, ornithopod dinosaur",TRUE
+01710536-n,"Saurischia, order Saurischia",01710747-n,"saurischian, saurischian dinosaur",TRUE
+01711419-n,"Sauropoda, suborder Sauropoda",01711639-n,"sauropod, sauropod dinosaur",TRUE
+01714303-n,"Theropoda, suborder Theropoda",01714649-n,"theropod, theropod dinosaur, bird-footed dinosaur",TRUE
+01715073-n,suborder Ceratosaura,01715393-n,"ceratosaur, ceratosaurus",TRUE
+01715951-n,"Carnosaura, suborder Carnosaura",01716149-n,carnosaur,TRUE
+01718333-n,"Ornithomimida, suborder Ornithomimida",01718529-n,ornithomimid,TRUE
+01719373-n,"Maniraptora, suborder Maniraptora",01719657-n,maniraptor,FALSE
+01719373-n,"Maniraptora, suborder Maniraptora",01719870-n,oviraptorid,FALSE
+01722286-n,"Therapsida, order Therapsida",01722555-n,"therapsid, protomammal",TRUE
+01724045-n,"Ictodosauria, order Ictodosauria",01724208-n,ictodosaur,TRUE
+01724359-n,"Pelycosauria, order Pelycosauria",01724539-n,pelycosaur,TRUE
+01725469-n,"Pterosauria, order Pterosauria",01725639-n,"pterosaur, flying reptile",TRUE
+01726319-n,"Thecodontia, order Thecodontia",01726524-n,"thecodont, thecodont reptile",TRUE
+01726696-n,"Ichthyosauria, order Ichthyosauria",01726872-n,ichthyosaur,TRUE
+01729031-n,"Serpentes, suborder Serpentes, Ophidia, suborder Ophidia",01729333-n,"snake, serpent, ophidian",TRUE
+01772904-n,"Scorpionida, order Scorpionida",01773034-n,scorpion,TRUE
+01773194-n,"Chelonethida, order Chelonethida, Pseudoscorpionida, order Pseudoscorpionida, Pseudoscorpiones, order Pseudoscorpiones",01773436-n,"false scorpion, pseudoscorpion",TRUE
+01773887-n,"Pedipalpi, order Pedipalpi, Uropygi, order Uropygi",01774058-n,"whip-scorpion, whip scorpion",TRUE
+01774607-n,"Araneae, order Araneae, Araneida, order Araneida",01774863-n,spider,TRUE
+01778520-n,"Acarina, order Acarina",01778833-n,acarine,TRUE
+01778520-n,"Acarina, order Acarina",01778954-n,tick,FALSE
+01778520-n,"Acarina, order Acarina",01782270-n,mite,FALSE
+01789520-n,"Pycnogonida, order Pycnogonida",01789647-n,"sea spider, pycnogonid",TRUE
+01791061-n,"Eurypterida, order Eurypterida",01791220-n,eurypterid,TRUE
+01791705-n,"Galliformes, order Galliformes",01792027-n,"gallinaceous bird, gallinacean",TRUE
+01813107-n,"Columbiformes, order Columbiformes",01813341-n,columbiform bird,TRUE
+01819276-n,"Psittaciformes, order Psittaciformes",01819528-n,parrot,TRUE
+01825064-n,"Cuculiformes, order Cuculiformes",01825243-n,cuculiform bird,TRUE
+01828058-n,"Coraciiformes, order Coraciiformes",01828571-n,coraciiform bird,TRUE
+01834160-n,"Apodiformes, order Apodiformes",01834353-n,apodiform bird,TRUE
+01837343-n,"Caprimulgiformes, order Caprimulgiformes",01837559-n,caprimulgiform bird,TRUE
+01840387-n,"Piciformes, order Piciformes",01840679-n,piciform bird,TRUE
+01847913-n,"Anseriformes, order Anseriformes",01848118-n,anseriform bird,TRUE
+01876767-n,"Marsupialia, order Marsupialia",01877075-n,"marsupial, pouched mammal",TRUE
+01891161-n,"Insectivora, order Insectivora",01891715-n,insectivore,TRUE
+01914913-n,"Siphonophora, order Siphonophora",01915095-n,siphonophore,TRUE
+01917056-n,"Actiniaria, order Actiniaria, Actinaria, order Actinaria",01917250-n,"sea anemone, anemone",FALSE
+01917056-n,"Actiniaria, order Actiniaria, Actinaria, order Actinaria",01917471-n,"actinia, actinian, actiniarian",TRUE
+01918651-n,"Gorgonacea, suborder Gorgonacea, Gorgoniacea, suborder Gorgoniacea",01918828-n,"gorgonian, gorgonian coral",TRUE
+01919379-n,"Madreporaria, order Madreporaria",01919566-n,"stony coral, madrepore, madriporian coral",TRUE
+01922553-n,"Platyctenea, order Platyctenea",01922692-n,platyctenean,TRUE
+01953098-n,"Nudibranchia, order Nudibranchia",01953372-n,"sea slug, nudibranch",TRUE
+01956981-n,"Solenogastres, order Solenogastres, Aplacophora, order Aplacophora",01957157-n,"solenogaster, aplacophoran",TRUE
+01972191-n,"Octopoda, order Octopoda",01972367-n,octopod,TRUE
+01973507-n,"Decapoda, order Decapoda",01973735-n,decapod,TRUE
+01978521-n,"Decapoda, order Decapoda",01978787-n,"decapod crustacean, decapod",FALSE
+01979118-n,"Brachyura, suborder Brachyura",01979509-n,brachyuran,TRUE
+01979118-n,"Brachyura, suborder Brachyura",01979598-n,crab,FALSE
+01985123-n,"Reptantia, suborder Reptantia",01985291-n,lobster,TRUE
+01991122-n,"Euphausiacea, order Euphausiacea",01991342-n,krill,TRUE
+01992342-n,"Stomatopoda, order Stomatopoda",01992510-n,"stomatopod, stomatopod crustacean",TRUE
+01992342-n,"Stomatopoda, order Stomatopoda",01992648-n,"mantis shrimp, mantis crab",FALSE
+01993268-n,"Isopoda, order Isopoda",01993441-n,isopod,TRUE
+01995170-n,"Amphipoda, order Amphipoda",01995427-n,amphipod,TRUE
+02000090-n,"Branchiura, order Branchiura",02000259-n,fish louse,TRUE
+02024092-n,"Charadriiformes, order Charadriiformes",02043159-n,coastal diving bird,TRUE
+02024789-n,"Charadrii, suborder Charadrii",02025338-n,"shorebird, shore bird, limicoline bird",TRUE
+02051168-n,"Gaviiformes, order Gaviiformes",02051352-n,gaviiform seabird,TRUE
+02051953-n,"Podicipitiformes, order Podicipitiformes, Podicipediformes, order Podicipediformes, Colymbiformes, order Colymbiformes",02052186-n,podicipitiform seabird,TRUE
+02057934-n,"Sphenisciformes, order Sphenisciformes",02058312-n,sphenisciform seabird,TRUE
+02060132-n,"Procellariiformes, order Procellariiformes",02060552-n,procellariiform seabird,TRUE
+02064862-n,"Cetacea, order Cetacea",02065083-n,"cetacean, cetacean mammal, blower",TRUE
+02065644-n,"Mysticeti, suborder Mysticeti",02065877-n,"baleen whale, whalebone whale",TRUE
+02069103-n,"Odontoceti, suborder Odontoceti",02069360-n,toothed whale,TRUE
+02075693-n,"Sirenia, order Sirenia",02075902-n,"sea cow, sirenian mammal, sirenian",TRUE
+02077567-n,"Carnivora, order Carnivora",02077948-n,carnivore,TRUE
+02078379-n,"Pinnipedia, suborder Pinnipedia",02078579-n,"pinniped mammal, pinniped, pinnatiped",TRUE
+02141573-n,"Chiroptera, order Chiroptera",02141851-n,"bat, chiropteran",TRUE
+02142131-n,"Megachiroptera, suborder Megachiroptera",02142323-n,"fruit bat, megabat",TRUE
+02143622-n,"Microchiroptera, suborder Microchiroptera",02143958-n,"carnivorous bat, microbat",TRUE
+02164596-n,"Mecoptera, order Mecoptera",02164887-n,mecopteran,TRUE
+02165796-n,"Collembola, order Collembola",02165949-n,"collembolan, springtail",TRUE
+02166268-n,"Protura, order Protura",02166415-n,"proturan, telsontail",TRUE
+02166634-n,"Coleoptera, order Coleoptera",02167116-n,beetle,TRUE
+02186005-n,"Embioptera, order Embioptera, Embiodea, order Embiodea",02186159-n,web spinner,TRUE
+02186349-n,"Anoplura, order Anoplura",02186509-n,"louse, sucking louse",TRUE
+02187989-n,"Mallophaga, order Mallophaga",02188133-n,"bird louse, biting louse, louse",TRUE
+02188625-n,"Siphonaptera, order Siphonaptera",02188805-n,flea,TRUE
+02190717-n,"Diptera, order Diptera",02191351-n,"dipterous insect, two-winged insects, dipteran, dipteron",TRUE
+02190717-n,"Diptera, order Diptera",02192818-n,fly,FALSE
+02208548-n,"Hymenoptera, order Hymenoptera",02208922-n,"hymenopterous insect, hymenopteran, hymenopteron, hymenopter",TRUE
+02225370-n,"Isoptera, order Isoptera",02225918-n,"termite, white ant",TRUE
+02228611-n,"Orthoptera, order Orthoptera",02228835-n,"orthopterous insect, orthopteron, orthopteran",TRUE
+02233434-n,"Phasmida, order Phasmida, Phasmatodea, order Phasmatodea",02233704-n,"phasmid, phasmid insect",TRUE
+02235258-n,"Dictyoptera, order Dictyoptera",02235603-n,dictyopterous insect,TRUE
+02235748-n,"Blattodea, suborder Blattodea, Blattaria, suborder Blattaria",02235990-n,"cockroach, roach",TRUE
+02239147-n,"Hemiptera, order Hemiptera",02239548-n,"hemipterous insect, bug, hemipteran, hemipteron",TRUE
+02243836-n,"Heteroptera, suborder Heteroptera",02244221-n,heteropterous insect,TRUE
+02248244-n,"Homoptera, suborder Homoptera",02248663-n,"homopterous insect, homopteran",FALSE
+02262835-n,"Psocoptera, order Psocoptera, Corrodentia, order Corrodentia",02263073-n,psocopterous insect,TRUE
+02264535-n,"Ephemeroptera, order Ephemeroptera, Ephemerida, order Ephemerida",02264830-n,"ephemerid, ephemeropteran",TRUE
+02265331-n,"Plecoptera, order Plecoptera",02265455-n,"stonefly, stone fly, plecopteran",TRUE
+02265690-n,"Neuroptera, order Neuroptera",02266030-n,"neuropteron, neuropteran, neuropterous insect",TRUE
+02270627-n,"Odonata, order Odonata",02270800-n,odonate,TRUE
+02271667-n,"Trichoptera, order Trichoptera",02271848-n,"trichopterous insect, trichopteran, trichopteron",TRUE
+02271667-n,"Trichoptera, order Trichoptera",02272309-n,"caddisworm, strawworm",FALSE
+02272481-n,"Thysanura, order Thysanura",02272663-n,"thysanuran insect, thysanuron",TRUE
+02274079-n,"Thysanoptera, order Thysanoptera",02274222-n,"thysanopter, thysanopteron, thysanopterous insect",TRUE
+02275359-n,"Dermaptera, order Dermaptera",02275523-n,earwig,TRUE
+02276197-n,"Lepidoptera, order Lepidoptera",02276676-n,"lepidopterous insect, lepidopteron, lepidopteran",TRUE
+02276197-n,"Lepidoptera, order Lepidoptera",02311989-n,caterpillar,FALSE
+02322075-n,"Exocycloida, order Exocycloida",02322207-n,sand dollar,TRUE
+02322341-n,"Spatangoida, order Spatangoida",02322481-n,heart urchin,TRUE
+02325838-n,"Lagomorpha, order Lagomorpha",02326101-n,"lagomorph, gnawing mammal",TRUE
+02331745-n,"Rodentia, order Rodentia",02332053-n,"rodent, gnawer",TRUE
+02331745-n,"Rodentia, order Rodentia",02372332-n,naked mole rat,FALSE
+02375745-n,"Perissodactyla, order Perissodactyla",02375988-n,"odd-toed ungulate, perissodactyl, perissodactyl mammal",TRUE
+02396720-n,"Artiodactyla, order Artiodactyla",02397129-n,"even-toed ungulate, artiodactyl, artiodactyl mammal",TRUE
+02401384-n,"Ruminantia, suborder Ruminantia",02401652-n,ruminant,TRUE
+02456004-n,"Edentata, order Edentata",02456242-n,edentate,TRUE
+02472219-n,"Primates, order Primates",02472545-n,primate,TRUE
+02473082-n,"Anthropoidea, suborder Anthropoidea",02473530-n,anthropoid ape,TRUE
+02498420-n,"Prosimii, suborder Prosimii",02498683-n,prosimian,TRUE
+02499207-n,"Lemuroidea, suborder Lemuroidea",02499544-n,lemur,TRUE
+02505533-n,"Proboscidea, order Proboscidea",02505758-n,"proboscidean, proboscidian",TRUE
+02519800-n,"Siluriformes, order Siluriformes",02520073-n,"catfish, siluriform fish",TRUE
+02528497-n,"Anguilliformes, order Anguilliformes, order Apodes",02528752-n,eel,TRUE
+02554455-n,"Acanthopterygii, superorder Acanthopterygii",02554802-n,"spiny-finned fish, acanthopterygian",TRUE
+02555827-n,"Perciformes, order Perciformes, Percomorphi, order Percomorphi",02557361-n,"percoid fish, percoid, percoidean",TRUE
+02555827-n,"Perciformes, order Perciformes, Percomorphi, order Percomorphi",02558494-n,perch,FALSE
+02555827-n,"Perciformes, order Perciformes, Percomorphi, order Percomorphi",02565813-n,"freshwater bream, bream",FALSE
+02555827-n,"Perciformes, order Perciformes, Percomorphi, order Percomorphi",02593332-n,"sea bream, bream",FALSE
+02615023-n,"Blennioidea, suborder Blennioidea",02615287-n,"blennioid fish, blennioid",TRUE
+02625800-n,"Scombroidea, suborder Scombroidea",02626075-n,"scombroid, scombroid fish",TRUE
+02640953-n,"Ganoidei, order Ganoidei",02641226-n,"ganoid, ganoid fish",TRUE
+02644455-n,"Scorpaenoidea, suborder Scorpaenoidea",02644737-n,"scorpaenoid, scorpaenoid fish",TRUE
+02654965-n,"Plectognathi, order Plectognathi, order Tetraodontiformes",02655298-n,"plectognath, plectognath fish",TRUE
+02659713-n,"Heterosomata, order Heterosomata, order Pleuronectiformes",02659998-n,flatfish,TRUE
+01370071-n,"Enterobacteriaceae, family Enterobacteriaceae",01370413-n,"enteric bacteria, enterobacteria, enterics, entric",TRUE
+01373733-n,"Rickettsiaceae, family Rickettsiaceae",01374124-n,rickettsia,TRUE
+01396245-n,"Nummulitidae, family Nummulitidae",01396394-n,nummulite,TRUE
+01406770-n,"Fucaceae, family Fucaceae",01407006-n,"fucoid, fucoid algae",TRUE
+01406770-n,"Fucaceae, family Fucaceae",01407269-n,rockweed,FALSE
+01412750-n,"Zygnemataceae, family Zygnemataceae",01413098-n,pond scum,TRUE
+01415120-n,"Characeae, family Characeae",01415335-n,stonewort,TRUE
+01420448-n,"Peridiniidae, family Peridiniidae",01420755-n,peridinian,TRUE
+01427248-n,"Haemoproteidae, family Haemoproteidae",01427423-n,haemoproteid,TRUE
+01427977-n,"Babesiidae, family Babesiidae",01428275-n,piroplasm,TRUE
+01441102-n,"Cobitidae, family Cobitidae",01441222-n,loach,TRUE
+01441361-n,"Cyprinidae, family Cyprinidae",01441762-n,"cyprinid, cyprinid fish",TRUE
+01441361-n,"Cyprinidae, family Cyprinidae",01442155-n,carp,FALSE
+01447161-n,"Catostomidae, family Catostomidae",01447424-n,catostomid,TRUE
+01447161-n,"Catostomidae, family Catostomidae",01447563-n,sucker,FALSE
+01448924-n,"Cyprinodontidae, family Cyprinodontidae",01449230-n,cyprinodont,TRUE
+01451408-n,"Poeciliidae, family Poeciliidae",01451592-n,"topminnow, poeciliid fish, poeciliid, live-bearer",TRUE
+01452922-n,"Holocentridae, family Holocentridae",01453302-n,squirrelfish,TRUE
+01455274-n,"Zeidae, family Zeidae",01455439-n,dory,TRUE
+01457343-n,"Gasterosteidae, family Gasterosteidae",01457497-n,"stickleback, prickleback",TRUE
+01458233-n,"Syngnathidae, family Syngnathidae",01458419-n,"pipefish, needlefish",TRUE
+01459580-n,"Macrorhamphosidae, family Macrorhamphosidae",01459723-n,"snipefish, bellows fish",TRUE
+01459917-n,"Centriscidae, family Centriscidae",01460048-n,"shrimpfish, shrimp-fish",TRUE
+01480014-n,"Petromyzontidae, family Petromyzontidae",01480166-n,"lamprey, lamprey eel, lamper eel",TRUE
+01480941-n,"Myxinidae, family Myxinidae",01481152-n,"hagfish, hag, slime eels",TRUE
+01485829-n,"Lamnidae, family Lamnidae",01486163-n,mackerel shark,TRUE
+01490875-n,"Scyliorhinidae, family Scyliorhinidae",01491026-n,cat shark,TRUE
+01491180-n,"Carcharhinidae, family Carcharhinidae",01491559-n,requiem shark,TRUE
+01494632-n,"Triakidae, family Triakidae",01494998-n,smooth dogfish,TRUE
+01496007-n,"Squalidae, family Squalidae",01496182-n,spiny dogfish,TRUE
+01498840-n,"Torpedinidae, family Torpedinidae",01498972-n,"electric ray, crampfish, numbfish, torpedo",TRUE
+01499585-n,"Pristidae, family Pristidae",01499759-n,sawfish,TRUE
+01500220-n,"Rhinobatidae, family Rhinobatidae",01500379-n,guitarfish,TRUE
+01500519-n,"Dasyatidae, family Dasyatidae",01500682-n,stingray,TRUE
+01501463-n,"Myliobatidae, family Myliobatidae",01501630-n,eagle ray,TRUE
+01502539-n,"Mobulidae, family Mobulidae",01502732-n,"manta, manta ray, devilfish",TRUE
+01503636-n,"Rajidae, family Rajidae",01503801-n,skate,TRUE
+02520399-n,"Siluridae, family Siluridae",02520569-n,"silurid, silurid fish",TRUE
+02523022-n,"Laricariidae, family Laricariidae",02523156-n,armored catfish,TRUE
+02523300-n,"Ariidae, family Ariidae",02523441-n,sea catfish,TRUE
+02524547-n,"Gadidae, family Gadidae",02524277-n,"gadoid, gadoid fish",TRUE
+02528174-n,"Macrouridae, family Macrouridae, Macruridae, family Macruridae",02528334-n,"grenadier, rattail, rattail fish",TRUE
+02529776-n,"Muraenidae, family Muraenidae",02529902-n,"moray, moray eel",TRUE
+02530129-n,"Congridae, family Congridae",02530253-n,"conger, conger eel",TRUE
+02532146-n,"Clupeidae, family Clupeidae",02532403-n,"clupeid fish, clupeid",TRUE
+02536339-n,"Engraulidae, family Engraulidae",02536465-n,anchovy,TRUE
+02536983-n,"Salmonidae, family Salmonidae",02537190-n,salmonid,TRUE
+02536983-n,"Salmonidae, family Salmonidae",02537365-n,salmon,FALSE
+02541361-n,"Coregonidae, family Coregonidae",02541616-n,whitefish,TRUE
+02542886-n,"Osmeridae, family Osmeridae",02543043-n,smelt,TRUE
+02545724-n,"Myctophidae, family Myctophidae",02545886-n,lanternfish,TRUE
+02546043-n,"Synodontidae, family Synodontidae",02546196-n,"lizardfish, snakefish, snake-fish",TRUE
+02546368-n,"Chlorophthalmidae, family Chlorophthalmidae",02546583-n,greeneye,TRUE
+02548808-n,"Trachipteridae, family Trachipteridae",02548962-n,ribbonfish,TRUE
+02550193-n,"Ogcocephalidae, family Ogcocephalidae",02550364-n,batfish,TRUE
+02551621-n,"Antennariidae, family Antennariidae",02551879-n,frogfish,FALSE
+02551621-n,"Antennariidae, family Antennariidae",02552007-n,sargassum fish,FALSE
+02552427-n,"Belonidae, family Belonidae",02552620-n,"needlefish, gar, billfish",TRUE
+02552927-n,"Exocoetidae, family Exocoetidae",02553091-n,flying fish,TRUE
+02553546-n,"Hemiramphidae, family Hemiramphidae",02553765-n,halfbeak,TRUE
+02559254-n,"Percidae, family Percidae",02559477-n,perch,TRUE
+02560981-n,"Trichodontidae, family Trichodontidae",02561191-n,sandfish,TRUE
+02561355-n,"Ophidiidae, family Ophidiidae",02561491-n,cusk-eel,TRUE
+02561611-n,"Brotulidae, family Brotulidae",02561775-n,brotula,TRUE
+02561863-n,"Carapidae, family Carapidae",02562014-n,"pearlfish, pearl-fish",TRUE
+02562237-n,"Centropomidae, family Centropomidae",02562493-n,robalo,FALSE
+02562237-n,"Centropomidae, family Centropomidae",02562741-n,snook,FALSE
+02564716-n,"Centrarchidae, family Centrarchidae",02564946-n,"sunfish, centrarchid",TRUE
+02564716-n,"Centrarchidae, family Centrarchidae",02566901-n,freshwater bass,FALSE
+02568359-n,"Serranidae, family Serranidae",02568740-n,"serranid fish, serranid",TRUE
+02568359-n,"Serranidae, family Serranidae",02569465-n,sea bass,FALSE
+02573279-n,"Embiotocidae, family Embiotocidae",02573469-n,"surfperch, surffish, surf fish",TRUE
+02574614-n,"Apogonidae, family Apogonidae",02574827-n,cardinalfish,TRUE
+02577282-n,"Echeneididae, family Echeneididae, family Echeneidae",02577541-n,"remora, suckerfish, sucking fish",TRUE
+02578397-n,"Carangidae, family Carangidae",02578854-n,"carangid fish, carangid",TRUE
+02578397-n,"Carangidae, family Carangidae",02579206-n,jack,FALSE
+02578397-n,"Carangidae, family Carangidae",02582967-n,scad,FALSE
+02584434-n,"Coryphaenidae, family Coryphaenidae",02584588-n,"dolphinfish, dolphin, mahimahi",TRUE
+02585550-n,"Branchiostegidae, family Branchiostegidae",02585727-n,"blanquillo, tilefish",TRUE
+02585842-n,"Characidae, family Characidae",02586198-n,"characin, characin fish, characid",TRUE
+02588363-n,"Cichlidae, family Cichlidae",02588503-n,"cichlid, cichlid fish",TRUE
+02589013-n,"Lutjanidae, family Lutjanidae",02589174-n,snapper,TRUE
+02590738-n,"Haemulidae, family Haemulidae",02590916-n,grunt,TRUE
+02592867-n,"Sparidae, family Sparidae",02593125-n,"sparid, sparid fish",TRUE
+02596493-n,"Sciaenidae, family Sciaenidae",02596880-n,"sciaenid fish, sciaenid",TRUE
+02602414-n,"Mullidae, family Mullidae",02602588-n,mullet,TRUE
+02603830-n,"Mugilidae, family Mugilidae",02603974-n,"mullet, grey mullet, gray mullet",TRUE
+02604845-n,"Atherinidae, family Atherinidae",02605035-n,"silversides, silverside",TRUE
+02606367-n,"Pempheridae, family Pempheridae",02606492-n,sweeper,TRUE
+02606644-n,"Kyphosidae, family Kyphosidae",02606787-n,sea chub,TRUE
+02607769-n,"Chaetodontidae, family Chaetodontidae",02607946-n,butterfly fish,TRUE
+02608824-n,"Pomacentridae, family Pomacentridae",02609014-n,"damselfish, demoiselle",TRUE
+02613171-n,"Scaridae, family Scaridae",02613294-n,"parrotfish, polly fish, pollyfish",TRUE
+02613464-n,"Polynemidae, family Polynemidae",02613610-n,threadfin,TRUE
+02614055-n,"Opisthognathidae, family Opisthognathidae",02614191-n,jawfish,TRUE
+02614397-n,"Uranoscopidae, family Uranoscopidae",02614528-n,stargazer,TRUE
+02614676-n,"Dactyloscopidae, family Dactyloscopidae",02614797-n,sand stargazer,TRUE
+02615612-n,"Blenniidae, family Blenniidae",02615811-n,"blenny, combtooth blenny",TRUE
+02616590-n,"Clinidae, family Clinidae",02616770-n,"clinid, clinid fish",TRUE
+02617418-n,"Pholidae, family Pholidae, family Pholididae",02617608-n,"gunnel, bracketed blenny",TRUE
+02619659-n,"Zoarcidae, family Zoarcidae",02619837-n,"eelpout, pout",TRUE
+02621327-n,"Callionymidae, family Callionymidae",02621457-n,dragonet,TRUE
+02621659-n,"Gobiidae, family Gobiidae",02621795-n,"goby, gudgeon",TRUE
+02622368-n,"Eleotridae, family Eleotridae",02622491-n,"sleeper, sleeper goby",TRUE
+02622663-n,"Percophidae, family Percophidae",02622797-n,flathead,TRUE
+02623456-n,"Microdesmidae, family Microdesmidae",02623586-n,worm fish,TRUE
+02623737-n,"Acanthuridae, family Acanthuridae",02623888-n,surgeonfish,TRUE
+02624351-n,"Gempylidae, family Gempylidae",02624538-n,gempylid,TRUE
+02625453-n,"Trichiuridae, family Trichiuridae",02625585-n,"cutlassfish, frost fish, hairtail",TRUE
+02626498-n,"Scombridae, family Scombridae",02626797-n,mackerel,TRUE
+02632682-n,"Istiophoridae, family Istiophoridae",02632911-n,sailfish,TRUE
+02632682-n,"Istiophoridae, family Istiophoridae",02633369-n,billfish,TRUE
+02635324-n,"Stromateidae, family Stromateidae",02635619-n,"butterfish, stromateid fish, stromateid",TRUE
+02637940-n,"Gobiesocidae, family Gobiesocidae",02638210-n,clingfish,TRUE
+02639296-n,"Gerreidae, family Gerreidae, Gerridae, family Gerridae",02639484-n,mojarra,TRUE
+02642723-n,"Acipenseridae, family Acipenseridae",02642872-n,sturgeon,TRUE
+02645060-n,"Scorpaenidae, family Scorpaenidae",02645274-n,"scorpaenid, scorpaenid fish",TRUE
+02647597-n,"Cottidae, family Cottidae",02647934-n,sculpin,TRUE
+02650133-n,"Agonidae, family Agonidae",02650290-n,"poacher, sea poacher, sea poker",TRUE
+02651086-n,"Hexagrammidae, family Hexagrammidae",02651255-n,greenling,TRUE
+02652030-n,"Platycephalidae, family Platycephalidae",02652176-n,flathead,TRUE
+02652319-n,"Triglidae, family Triglidae",02652680-n,gurnard,TRUE
+02654476-n,"Dactylopteridae, family Dactylopteridae",02654762-n,"flying gurnard, flying robin, butterflyfish",TRUE
+02655609-n,"Balistidae, family Balistidae",02655775-n,triggerfish,FALSE
+02655609-n,"Balistidae, family Balistidae",02656416-n,filefish,FALSE
+02656886-n,"Ostraciidae, family Ostraciidae, family Ostraciontidae",02657055-n,"boxfish, trunkfish",TRUE
+02657520-n,"Tetraodontidae, family Tetraodontidae",02657650-n,"puffer, pufferfish, blowfish, globefish",TRUE
+02657985-n,"Diodontidae, family Diodontidae",02658153-n,spiny puffer,TRUE
+02660435-n,"Pleuronectidae, family Pleuronectidae",02660709-n,"righteye flounder, righteyed flounder",TRUE
+02663399-n,"Bothidae, family Bothidae",02663647-n,"lefteye flounder, lefteyed flounder",TRUE
+02665982-n,"Cynoglossidae, family Cynoglossidae",02666115-n,"tonguefish, tongue-fish",TRUE
+02666287-n,"Soleidae, family Soleidae",02666479-n,sole,TRUE
+01525430-n,"Dinornithidae, family Dinornithidae",01525746-n,moa,TRUE
+01529276-n,"Meliphagidae, family Meliphagidae",01529407-n,"honey eater, honeysucker",TRUE
+01530121-n,"Alaudidae, family Alaudidae",01530258-n,lark,TRUE
+01531677-n,"Fringillidae, family Fringillidae",01532313-n,finch,TRUE
+01541416-n,"Coerebidae, family Coerebidae, Dacninae, family Dacninae",01541596-n,honeycreeper,TRUE
+01542018-n,"Passeridae, family Passeridae",01542214-n,"sparrow, true sparrow",TRUE
+01545208-n,"Ploceidae, family Ploceidae",01545427-n,"weaver, weaverbird, weaver finch",TRUE
+01548989-n,"Eurylaimidae, family Eurylaimidae",01549147-n,broadbill,TRUE
+01550100-n,"Tyrannidae, superfamily Tyrannidae",01550473-n,"New World flycatcher, flycatcher, tyrant flycatcher, tyrant bird",TRUE
+01555597-n,"Formicariidae, family Formicariidae",01555783-n,"antbird, ant bird",TRUE
+01556780-n,"Dendrocolaptidae, family Dendrocolaptidae",01557089-n,"woodhewer, woodcreeper, wood-creeper, tree creeper",TRUE
+01558227-n,"Muscicapidae, family Muscicapidae",01558450-n,"Old World flycatcher, true flycatcher, flycatcher",TRUE
+01559312-n,"Turdidae, family Turdidae",01559826-n,thrush,TRUE
+01565225-n,"Sylviidae, family Sylviidae",01567035-n,"Old World warbler, true warbler",TRUE
+01569529-n,"Parulidae, family Parulidae",01569774-n,"New World warbler, wood warbler",TRUE
+01573610-n,"Paradisaeidae, family Paradisaeidae",01573767-n,bird of paradise,TRUE
+01578218-n,"Oriolidae, family Oriolidae",01578386-n,"Old World oriole, oriole",TRUE
+01579147-n,"Sturnidae, family Sturnidae",01579336-n,starling,TRUE
+01580982-n,"Corvidae, family Corvidae",01581216-n,corvine bird,TRUE
+01582509-n,"Garrulinae, subfamily Garrulinae",01582718-n,jay,TRUE
+01586645-n,"Troglodytidae, family Troglodytidae",01586866-n,"wren, jenny wren",TRUE
+01590813-n,"Xenicidae, family Xenicidae, Acanthisittidae, family Acanthisittidae",01591072-n,New Zealand wren,TRUE
+01591766-n,"Certhiidae, family Certhiidae",01591927-n,"creeper, tree creeper",TRUE
+01593084-n,"Sittidae, family Sittidae",01593224-n,"nuthatch, nutcracker",TRUE
+01594131-n,"Paridae, family Paridae",01594338-n,"titmouse, tit",TRUE
+01599835-n,"Thraupidae, family Thraupidae",01599977-n,tanager,TRUE
+01601073-n,"Laniidae, family Laniidae",01601229-n,shrike,TRUE
+01602560-n,"Malaconotinae, subfamily Malaconotinae",01602726-n,bush shrike,TRUE
+01603121-n,"Ptilonorhynchidae, family Ptilonorhynchidae",01603298-n,"bowerbird, catbird",TRUE
+01604191-n,"Cinclidae, family Cinclidae",01604335-n,"water ouzel, dipper",TRUE
+01607760-n,"Accipitridae, family Accipitridae",01608271-n,hawk,FALSE
+01607760-n,"Accipitridae, family Accipitridae",01611073-n,kite,FALSE
+01607760-n,"Accipitridae, family Accipitridae",01615935-n,"eagle, bird of Jove",FALSE
+01607760-n,"Accipitridae, family Accipitridae",01619405-n,Old World vulture,TRUE
+01613399-n,"Falconidae, family Falconidae",01613596-n,falcon,TRUE
+01621312-n,"Cathartidae, family Cathartidae",01621563-n,"New World vulture, cathartid",TRUE
+01797454-n,"Tetraonidae, family Tetraonidae",01797729-n,grouse,TRUE
+01801727-n,"Cracidae, family Cracidae",01801943-n,guan,TRUE
+01803400-n,"Megapodiidae, family Megapodiidae",01803729-n,"megapode, mound bird, mound-bird, mound builder, scrub fowl",TRUE
+01804950-n,"Phasianidae, family Phasianidae",01805362-n,phasianid,TRUE
+01809906-n,"Perdicidae, subfamily Perdicidae, Perdicinae, subfamily Perdicinae",01810137-n,partridge,TRUE
+01812773-n,"Tinamidae, family Tinamidae",01812909-n,"tinamou, partridge",TRUE
+01814323-n,"Columbidae, family Columbidae",01814550-n,pigeon,TRUE
+01818072-n,"Pteroclididae, family Pteroclididae",01818242-n,"sandgrouse, sand grouse",TRUE
+01822831-n,"Loriinae, subfamily Loriinae",01822989-n,lory,TRUE
+01825414-n,"Cuculidae, family Cuculidae",01825654-n,cuckoo,TRUE
+01827650-n,"Musophagidae, family Musophagidae",01827919-n,"touraco, turaco, turacou, turakoo",TRUE
+01828864-n,"Coraciidae, family Coraciidae",01829005-n,roller,TRUE
+01829639-n,"Alcedinidae, family Alcedinidae",01830044-n,kingfisher,TRUE
+01831355-n,"Meropidae, family Meropidae",01831611-n,bee eater,TRUE
+01831784-n,"Bucerotidae, family Bucerotidae",01832054-n,hornbill,TRUE
+01832243-n,"Upupidae, family Upupidae",01832510-n,"hoopoe, hoopoo",TRUE
+01833264-n,"Momotidae, family Momotidae",01833556-n,"motmot, momot",TRUE
+01834571-n,"Apodidae, family Apodidae",01834808-n,swift,TRUE
+01835924-n,"Hemiprocnidae, family Hemiprocnidae",01836056-n,"tree swift, crested swift",TRUE
+01836260-n,"Trochilidae, family Trochilidae",01836446-n,hummingbird,TRUE
+01837728-n,"Caprimulgidae, family Caprimulgidae",01837917-n,"goatsucker, nightjar, caprimulgid",TRUE
+01839450-n,"Podargidae, family Podargidae",01839713-n,frogmouth,TRUE
+01840967-n,"Picidae, family Picidae",01841239-n,"woodpecker, peckerwood, pecker",TRUE
+01844752-n,"Capitonidae, family Capitonidae",01844876-n,barbet,TRUE
+01845021-n,"Bucconidae, family Bucconidae",01845145-n,puffbird,TRUE
+01845296-n,"Indicatoridae, family Indicatoridae",01845429-n,honey guide,TRUE
+01845583-n,"Galbulidae, family Galbulidae",01845706-n,jacamar,TRUE
+01845879-n,"Ramphastidae, family Ramphastidae",01846024-n,toucan,TRUE
+01846573-n,"Trogonidae, family Trogonidae",01846872-n,trogon,TRUE
+01848268-n,"Anatidae, family Anatidae",01848972-n,duck,FALSE
+01848268-n,"Anatidae, family Anatidae",01858313-n,goose,FALSE
+01848268-n,"Anatidae, family Anatidae",01861082-n,swan,FALSE
+01862978-n,"Anhimidae, family Anhimidae",01863138-n,screamer,TRUE
+02004475-n,"Ciconiidae, family Ciconiidae",02004729-n,stork,TRUE
+02008252-n,"Threskiornithidae, family Threskiornithidae, family Ibidiidae",02008444-n,ibis,TRUE
+02009164-n,"Plataleidae, family Plataleidae",02009310-n,spoonbill,TRUE
+02010076-n,"Phoenicopteridae, family Phoenicopteridae",02010212-n,flamingo,TRUE
+02010375-n,"Ardeidae, family Ardeidae",02010695-n,heron,TRUE
+02015369-n,"Gruidae, family Gruidae",02015503-n,crane,TRUE
+02017300-n,"Rallidae, family Rallidae",02017595-n,rail,TRUE
+02021292-n,"Otididae, family Otididae",02021449-n,bustard,TRUE
+02025787-n,"Charadriidae, family Charadriidae",02025995-n,plover,TRUE
+02028184-n,"Scolopacidae, family Scolopacidae",02028713-n,sandpiper,TRUE
+02039932-n,"Phalaropidae, family Phalaropidae",02040118-n,phalarope,TRUE
+02041271-n,"Glareolidae, family Glareolidae",02041825-n,courser,TRUE
+02043526-n,"Laridae, family Laridae",02043739-n,larid,TRUE
+02045577-n,"Sterninae, subfamily Sterninae",02045717-n,tern,TRUE
+02046653-n,"Stercorariidae, family Stercorariidae",02046832-n,jaeger,TRUE
+02047678-n,"Alcidae, family Alcidae",02048023-n,auk,FALSE
+02047678-n,"Alcidae, family Alcidae",02050268-n,puffin,FALSE
+02054355-n,"Pelecanidae, family Pelecanidae",02054499-n,pelican,TRUE
+02055590-n,"Sulidae, family Sulidae",02055737-n,gannet,TRUE
+02058085-n,"Spheniscidae, family Spheniscidae",02058457-n,penguin,TRUE
+02060728-n,"Diomedeidae, family Diomedeidae",02060875-n,"albatross, mollymawk",TRUE
+02061587-n,"Procellariidae, family Procellariidae",02061815-n,petrel,TRUE
+02063372-n,"Hydrobatidae, family Hydrobatidae",02063542-n,storm petrel,TRUE
+02064369-n,"Pelecanoididae, family Pelecanoididae",02064506-n,diving petrel,TRUE
+01631526-n,"Salamandridae, family Salamandridae",01632925-n,"newt, triton",TRUE
+01637325-n,"Dicamptodontidae, family Dicamptodontidae",01637668-n,"dicamptodon, dicamptodontid",TRUE
+01638300-n,"Plethodontidae, family Plethodontidae",01638768-n,"lungless salamander, plethodont",TRUE
+01643024-n,"Ranidae, family Ranidae",01643487-n,"true frog, ranid",TRUE
+01645312-n,"Leptodactylidae, family Leptodactylidae",01645584-n,"leptodactylid frog, leptodactylid",TRUE
+01648275-n,"Bufonidae, family Bufonidae",01648417-n,true toad,TRUE
+01651459-n,"Pelobatidae, family Pelobatidae",01651811-n,"spadefoot, spadefoot toad",TRUE
+01652589-n,"Hylidae, family Hylidae",01652808-n,"tree toad, tree frog, tree-frog",TRUE
+01656251-n,"Pipidae, family Pipidae",01656414-n,tongueless frog,TRUE
+01657757-n,"Caeciliidae, family Caeciliidae, Caeciliadae, family Caeciliadae",01657985-n,"caecilian, blindworm",TRUE
+01668402-n,"Chelydridae, family Chelydridae",01668573-n,snapping turtle,TRUE
+01670211-n,"Emydidae, family Emydidae",01670419-n,terrapin,TRUE
+01672524-n,"Testudinidae, family Testudinidae",01672733-n,tortoise,TRUE
+01674515-n,"Trionychidae, family Trionychidae",01674673-n,"soft-shelled turtle, pancake turtle",TRUE
+01678954-n,"Iguanidae, family Iguanidae, Iguania, family Iguania",01679396-n,"iguanid, iguanid lizard",TRUE
+01686069-n,"Xantusiidae, family Xantusiidae",01686199-n,night lizard,TRUE
+01686365-n,"Scincidae, family Scincidae",01686774-n,"skink, scincid, scincid lizard",TRUE
+01687918-n,"Teiidae, family Teiidae",01688080-n,"teiid lizard, teiid",TRUE
+01690082-n,"Agamidae, family Agamidae",01690306-n,"agamid, agamid lizard",TRUE
+01691867-n,"Anguidae, family Anguidae",01692052-n,anguid lizard,TRUE
+01693726-n,"Anniellidae, family Anniellidae",01693858-n,legless lizard,TRUE
+01694423-n,"Helodermatidae, family Helodermatidae",01694592-n,venomous lizard,TRUE
+01695354-n,"Lacertidae, family Lacertidae",01695505-n,"lacertid lizard, lacertid",TRUE
+01696113-n,"Chamaeleontidae, family Chamaeleontidae, Chamaeleonidae, family Chamaeleonidae, Rhiptoglossa, family Rhiptoglossa",01696424-n,"chameleon, chamaeleon",TRUE
+01708358-n,"Hadrosauridae, family Hadrosauridae",01708575-n,"hadrosaur, hadrosaurus, duck-billed dinosaur",TRUE
+01720307-n,"Dromaeosauridae, family Dromaeosauridae",01720501-n,dromaeosaur,TRUE
+01729601-n,"Colubridae, family Colubridae",01730287-n,"colubrid snake, colubrid",TRUE
+01743034-n,"Leptotyphlopidae, family Leptotyphlopidae",01743192-n,"blind snake, worm snake",TRUE
+01744385-n,"Boidae, family Boidae",01744584-n,boa,TRUE
+01745864-n,"Pythoninae, subfamily Pythoninae",01746246-n,python,TRUE
+01747298-n,"Elapidae, family Elapidae",01747766-n,"elapid, elapid snake",TRUE
+01754262-n,"Hydrophidae, family Hydrophidae",01754389-n,sea snake,TRUE
+01754620-n,"Viperidae, family Viperidae",01754806-n,viper,TRUE
+01756362-n,"Crotalidae, family Crotalidae",01756600-n,pit viper,TRUE
+01756362-n,"Crotalidae, family Crotalidae",01757517-n,"rattlesnake, rattler",TRUE
+01776571-n,"Theridiidae, family Theridiidae",01776738-n,"comb-footed spider, theridiid",TRUE
+01777236-n,"Theraphosidae, family Theraphosidae",01777391-n,tarantula,TRUE
+01777559-n,"Lycosidae, family Lycosidae",01777703-n,"wolf spider, hunting spider",TRUE
+01778233-n,"Ctenizidae, family Ctenizidae",01778371-n,trap-door spider,TRUE
+01779187-n,"Ixodidae, family Ixodidae",01779346-n,"hard tick, ixodid",TRUE
+01781981-n,"Argasidae, family Argasidae",01782104-n,"soft tick, argasid",TRUE
+01782667-n,"Acaridae, family Acaridae",01782783-n,acarid,TRUE
+01782943-n,"Trombidiidae, family Trombidiidae",01783067-n,trombidiid,TRUE
+01783192-n,"Trombiculidae, family Trombiculidae",01783337-n,trombiculid,TRUE
+01784691-n,"Tetranychidae, family Tetranychidae",01784850-n,"spider mite, tetranychid",TRUE
+01981385-n,"Portunidae, family Portunidae",01981571-n,swimming crab,TRUE
+01984184-n,"Majidae, family Majidae",01984343-n,spider crab,TRUE
+01985536-n,"Homaridae, family Homaridae",01985689-n,true lobster,TRUE
+01987599-n,"Astacidae, family Astacidae, Astacura",01987769-n,"crayfish, crawfish, crawdad, crawdaddy",TRUE
+01989179-n,"Crangonidae, family Crangonidae",01989447-n,shrimp,TRUE
+02167625-n,"Cicindelidae, family Cicindelidae",02167757-n,tiger beetle,TRUE
+02167899-n,"Coccinellidae, family Coccinellidae",02168108-n,"ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",TRUE
+02169638-n,"Carabidae, family Carabidae",02169803-n,"ground beetle, carabid beetle",TRUE
+02170773-n,"Lampyridae, family Lampyridae",02170897-n,"firefly, lightning bug",TRUE
+02171194-n,"Cerambycidae, family Cerambycidae",02171351-n,"long-horned beetle, longicorn, longicorn beetle",TRUE
+02171997-n,"Chrysomelidae, family Chrysomelidae",02172149-n,"leaf beetle, chrysomelid",TRUE
+02172921-n,"Dermestidae, family Dermestidae",02173052-n,"carpet beetle, carpet bug",TRUE
+02173500-n,"Cleridae, family Cleridae",02173645-n,"clerid beetle, clerid",TRUE
+02173906-n,"Lamellicornia, superfamily Lamellicornia",02174105-n,lamellicorn beetle,TRUE
+02174285-n,"Scarabaeidae, family Scarabaeidae",02174521-n,"scarabaeid beetle, scarabaeid, scarabaean",TRUE
+02178443-n,"Lucanidae, family Lucanidae",02178568-n,stag beetle,TRUE
+02178725-n,"Elateridae, family Elateridae",02178913-n,"elaterid beetle, elater, elaterid",TRUE
+02178725-n,"Elateridae, family Elateridae",02179568-n,wireworm,FALSE
+02179720-n,"Dytiscidae, family Dytiscidae",02179848-n,water beetle,TRUE
+02180028-n,"Gyrinidae, family Gyrinidae",02180158-n,whirligig beetle,TRUE
+02180896-n,"Curculionidae, family Curculionidae",02181063-n,snout beetle,TRUE
+02181538-n,"Meloidae, family Meloidae",02181664-n,"blister beetle, meloid",TRUE
+02182081-n,"Scolytidae, family Scolytidae, Ipidae, family Ipidae",02182885-n,bark beetle,TRUE
+02183394-n,"Staphylinidae, family Staphylinidae",02183527-n,rove beetle,TRUE
+02183665-n,"Tenebrionidae, family Tenebrionidae",02183887-n,"darkling beetle, darkling groung beetle, tenebrionid",TRUE
+02183665-n,"Tenebrionidae, family Tenebrionidae",02184129-n,mealworm,FALSE
+02184515-n,"Bruchidae, family Bruchidae",02184697-n,"seed beetle, seed weevil",TRUE
+02191866-n,"Cecidomyidae, family Cecidomyidae",02192015-n,"gall midge, gallfly, gall gnat",TRUE
+02195325-n,"Tachinidae, family Tachinidae",02195466-n,tachina fly,TRUE
+02198055-n,"Tabanidae, family Tabanidae",02198178-n,"horsefly, cleg, clegg, horse fly",TRUE
+02198345-n,"Bombyliidae, family Bombyliidae",02198471-n,bee fly,TRUE
+02198648-n,"Asilidae, family Asilidae",02198771-n,"robber fly, bee killer",TRUE
+02200984-n,"Hippoboscidae, family Hippoboscidae",02201184-n,"louse fly, hippoboscid",TRUE
+02202651-n,"Culicidae, family Culicidae",02202850-n,mosquito,FALSE
+02202651-n,"Culicidae, family Culicidae",02203161-n,"wiggler, wriggler",FALSE
+02205161-n,"Ceratopogonidae, family Ceratopogonidae",02205330-n,"punkie, punky, punkey, no-see-um, biting midge",TRUE
+02205660-n,"Chironomidae, family Chironomidae",02205804-n,midge,TRUE
+02206109-n,"Mycetophilidae, family Mycetophylidae",02206244-n,fungus gnat,TRUE
+02206391-n,"Psychodidae, family Psychodidae",02206630-n,psychodid,TRUE
+02207747-n,"Tipulidae, family Tipulidae",02207871-n,"crane fly, daddy longlegs",TRUE
+02209276-n,"Apoidea, superfamily Apoidea",02209508-n,bee,TRUE
+02209276-n,"Apoidea, superfamily Apoidea",02209997-n,queen bee,FALSE
+02209276-n,"Apoidea, superfamily Apoidea",02210457-n,worker bee,FALSE
+02213751-n,"Megachilidae, family Megachilidae",02214279-n,mason bee,TRUE
+02214975-n,"Vespidae, family Vespidae",02215254-n,"vespid, vespid wasp",TRUE
+02217624-n,"Sphecoidea, superfamily Sphecoidea",02217813-n,"sphecoid wasp, sphecoid",TRUE
+02217986-n,"Sphecidae, family Sphecidae",02219017-n,mud dauber,TRUE
+02219199-n,"Cynipidae, family Cynipidae",02219392-n,"gall wasp, gallfly, cynipid wasp, cynipid gall wasp",TRUE
+02219986-n,"Chalcididae, family Chalcididae, Chalcidae, family Chalcidae",02220215-n,"chalcid fly, chalcidfly, chalcid, chalcid wasp",TRUE
+02219986-n,"Chalcididae, family Chalcididae, Chalcidae, family Chalcidae",02220491-n,"strawworm, jointworm",FALSE
+02220887-n,"Ichneumonidae, family Ichneumonidae",02221023-n,ichneumon fly,TRUE
+02221215-n,"Tenthredinidae, family Tenthredinidae",02221365-n,sawfly,TRUE
+02221886-n,"Formicidae, family Formicidae",02222138-n,"ant, emmet, pismire",TRUE
+02223045-n,"Dorylinae, subfamily Dorylinae",02223170-n,"army ant, driver ant, legionary ant",TRUE
+02229250-n,"Acrididae, family Acrididae, Locustidae, family Locustidae",02229473-n,"short-horned grasshopper, acridid",TRUE
+02230425-n,"Tettigoniidae, family Tettigoniidae",02230618-n,"long-horned grasshopper, tettigoniid",TRUE
+02232037-n,"Gryllidae, family Gryllidae",02232196-n,cricket,TRUE
+02233959-n,"Phasmidae, family Phasmidae, Phasmatidae, family Phasmatidae",02234139-n,"walking stick, walkingstick, stick insect",TRUE
+02239891-n,"Miridae, family Miridae, Capsidae, family Capsidae",02240233-n,"mirid bug, mirid, capsid",TRUE
+02241126-n,"Tingidae, family Tingidae",02241246-n,lace bug,TRUE
+02241395-n,"Lygaeidae, family Lygaeidae",02241539-n,"lygaeid, lygaeid bug",TRUE
+02241999-n,"Coreidae, family Coreidae",02242180-n,"coreid bug, coreid",TRUE
+02244656-n,"Belostomatidae, family Belostomatidae",02244789-n,giant water bug,TRUE
+02244945-n,"Nepidae, family Nepidae",02245107-n,water scorpion,TRUE
+02246003-n,"Gerrididae, family Gerrididae, Gerridae, family Gerridae",02246214-n,"water strider, pond-skater, water skater",TRUE
+02246659-n,"Reduviidae, family Reduviidae",02246825-n,"assassin bug, reduviid",TRUE
+02247615-n,"Pyrrhocoridae, family Pyrrhocoridae",02247763-n,firebug,TRUE
+02248936-n,"Aleyrodidae, family Aleyrodidae",02249280-n,whitefly,TRUE
+02250799-n,"Coccoidea, superfamily Coccoidea",02251020-n,coccid insect,TRUE
+02251396-n,"Coccidae, family Coccidae",02251539-n,soft scale,TRUE
+02252017-n,"Diaspididae, family Diaspididae",02252167-n,armored scale,TRUE
+02253116-n,"Pseudococcidae, family Pseudococcidae",02253474-n,"mealybug, mealy bug",TRUE
+02254691-n,"Aphidoidea, superfamily Aphidoidea",02254878-n,aphid,TRUE
+02257022-n,"Adelgidae, family Adelgidae",02257349-n,adelgid,TRUE
+02258662-n,"Psyllidae, family Psyllidae, Chermidae, family Chermidae",02258824-n,"jumping plant louse, psylla, psyllid",TRUE
+02259017-n,"Cicadidae, family Cicadidae",02259308-n,"cicada, cicala",TRUE
+02260188-n,"Cercopidae, family Cercopidae",02260367-n,"spittle insect, spittlebug",TRUE
+02261432-n,"Cicadellidae, family Cicadellidae",02261864-n,leafhopper,TRUE
+02261562-n,"Jassidae, family Jassidae",02261864-n,leafhopper,TRUE
+02262217-n,"Membracidae, family Membracidae",02262360-n,treehopper,TRUE
+02262496-n,"Fulgoridae, family Fulgoridae",02262639-n,"lantern fly, lantern-fly",TRUE
+02263275-n,"Psocidae, family Psocidae",02263515-n,psocid,TRUE
+02264976-n,"Ephemeridae, family Ephemeridae",02265101-n,"mayfly, dayfly, shadfly",TRUE
+02267386-n,"Chrysopidae, family Chrysopidae",02267243-n,"aphid lion, aphis lion",FALSE
+02267386-n,"Chrysopidae, family Chrysopidae",02267537-n,"green lacewing, chrysopid, stink fly",TRUE
+02267829-n,"Hemerobiidae, family Hemerobiidae",02267243-n,"aphid lion, aphis lion",FALSE
+02267829-n,"Hemerobiidae, family Hemerobiidae",02267982-n,"brown lacewing, hemerobiid, hemerobiid fly",TRUE
+02268369-n,"Corydalidae, family Corydalidae",02269073-n,"fish fly, fish-fly",TRUE
+02269671-n,"Raphidiidae, family Raphidiidae",02269860-n,snakefly,TRUE
+02270008-n,"Mantispidae, family Mantispidae",02270135-n,mantispid,TRUE
+02270296-n,"Sisyridae, family Sisyridae",02270478-n,"spongefly, spongillafly",TRUE
+02273739-n,"Machilidae, family Machilidae",02273874-n,"jumping bristletail, machilid",TRUE
+02274392-n,"Thripidae, family Thripidae",02274549-n,"thrips, thrip, thripid",TRUE
+02277168-n,"Nymphalidae, family Nymphalidae",02277474-n,"nymphalid, nymphalid butterfly, brush-footed butterfly, four-footed butterfly",TRUE
+02280208-n,"Satyridae, family Satyridae",02280394-n,"ringlet, ringlet butterfly",TRUE
+02282094-n,"Danaidae, family Danaidae",02282289-n,"danaid, danaid butterfly",TRUE
+02282875-n,"Pieridae, family Pieridae",02283110-n,"pierid, pierid butterfly",TRUE
+02282875-n,"Pieridae, family Pieridae",02283301-n,cabbage butterfly,FALSE
+02282875-n,"Pieridae, family Pieridae",02284058-n,"sulphur butterfly, sulfur butterfly",FALSE
+02284204-n,"Lycaenidae, family Lycaenidae",02284439-n,"lycaenid, lycaenid butterfly",TRUE
+02286380-n,"Tortricidae, family Tortricidae",02286603-n,"tortricid, tortricid moth",TRUE
+02288011-n,"Lymantriidae, family Lymantriidae",02288200-n,"lymantriid, tussock moth",TRUE
+02288011-n,"Lymantriidae, family Lymantriidae",02288453-n,tussock caterpillar,FALSE
+02289467-n,"Geometridae, family Geometridae",02289656-n,"geometrid, geometrid moth",TRUE
+02289467-n,"Geometridae, family Geometridae",02290451-n,cankerworm,FALSE
+02291125-n,"Pyralidae, family Pyralidae, Pyralididae, family Pyralididae",02291441-n,"pyralid, pyralid moth",TRUE
+02293676-n,"Tineoidea, superfamily Tineoidea",02293872-n,"tineoid, tineoid moth",TRUE
+02294043-n,"Tineidae, family Tineidae",02294224-n,"tineid, tineid moth",TRUE
+02295787-n,"Gelechiidae, family Gelechiidae",02296004-n,"gelechiid, gelechiid moth",TRUE
+02297413-n,"Noctuidae, family Noctuidae",02297716-n,"noctuid moth, noctuid, owlet moth",TRUE
+02297413-n,"Noctuidae, family Noctuidae",02298042-n,cutworm,FALSE
+02301031-n,"Sphingidae, family Sphingidae",02301193-n,"hawkmoth, hawk moth, sphingid, sphinx moth, hummingbird moth",TRUE
+02302670-n,"Bombycidae, family Bombycidae",02302825-n,"bombycid, bombycid moth, silkworm moth",TRUE
+02303724-n,"Saturniidae, family Saturniidae",02304104-n,"saturniid, saturniid moth",TRUE
+02303724-n,"Saturniidae, family Saturniidae",02305272-n,"silkworm, giant silkworm, wild wilkworm",FALSE
+02307897-n,"Arctiidae, family Arctiidae",02308059-n,"arctiid, arctiid moth",TRUE
+02307897-n,"Arctiidae, family Arctiidae",02313593-n,woolly bear moth,FALSE
+02308811-n,"Lasiocampidae, family Lasiocampidae",02309085-n,"lasiocampid, lasiocampid moth",TRUE
+02308811-n,"Lasiocampidae, family Lasiocampidae",02310685-n,lappet caterpillar,FALSE
+02308811-n,"Lasiocampidae, family Lasiocampidae",02310791-n,webworm,FALSE
+01877425-n,"Didelphidae, family Didelphidae",01877569-n,"opossum, possum",TRUE
+01878821-n,"Peramelidae, family Peramelidae",01878967-n,bandicoot,TRUE
+01879484-n,"Macropodidae, family Macropodidae",01879775-n,kangaroo,TRUE
+01882624-n,"Potoroinae, subfamily Potoroinae",01882793-n,"rat kangaroo, kangaroo rat",TRUE
+01883578-n,"Phalangeridae, family Phalangeridae",01883812-n,"phalanger, opossum, possum",TRUE
+01885589-n,"Vombatidae, family Vombatidae",01885711-n,wombat,TRUE
+01885853-n,"Dasyuridae, family Dasyuridae, family Dasyurinae",01886154-n,"dasyurid marsupial, dasyurid",TRUE
+01891969-n,"Talpidae, family Talpidae",01892161-n,mole,TRUE
+01894079-n,"Soricidae, family Soricidae",01894274-n,"shrew, shrewmouse",TRUE
+01896681-n,"Tenrecidae, family Tenrecidae",01896848-n,"tenrec, tendrac",TRUE
+02066169-n,"Balaenidae, family Balaenidae",02066315-n,right whale,TRUE
+02066807-n,"Balaenopteridae, family Balaenopteridae",02066991-n,"rorqual, razorback",TRUE
+02070594-n,"Ziphiidae, family Ziphiidae, Hyperodontidae, family Hyperodontidae",02070859-n,beaked whale,TRUE
+02071388-n,"Delphinidae, family Delphinidae",02071627-n,dolphin,TRUE
+02074557-n,"Platanistidae, family Platanistidae",02074692-n,river dolphin,TRUE
+02079187-n,"Otariidae, family Otariidae",02079431-n,eared seal,TRUE
+02081822-n,"Phocidae, family Phocidae",02082041-n,"earless seal, true seal, hair seal",TRUE
+02085690-n,"Canidae, family Canidae",02085998-n,"canine, canid",TRUE
+02085690-n,"Canidae, family Canidae",02117987-n,wild dog,FALSE
+02119611-n,"Hyaenidae, family Hyaenidae",02119787-n,"hyena, hyaena",TRUE
+02123344-n,"Felidae, family Felidae",02123649-n,"feline, felid, cat",TRUE
+02123344-n,"Felidae, family Felidae",02130460-n,"big cat, cat",FALSE
+02134070-n,"Ursidae, family Ursidae",02134305-n,bear,TRUE
+02137241-n,"Viverridae, family Viverridae, Viverrinae, family Viverrinae",02137623-n,"viverrine, viverrine mammal",TRUE
+02137241-n,"Viverridae, family Viverridae, Viverrinae, family Viverrinae",02137872-n,"civet, civet cat",FALSE
+02145945-n,"Rhinolophidae, family Rhinolophidae",02146091-n,horseshoe bat,TRUE
+02147736-n,"Vespertilionidae, family Vespertilionidae",02148076-n,"vespertilian bat, vespertilionid",TRUE
+02152958-n,"Desmodontidae, family Desmodontidae",02153134-n,"vampire bat, true vampire bat",TRUE
+02326367-n,"Leporidae, family Leporidae",02326554-n,"leporid, leporid mammal",TRUE
+02330922-n,"Ochotonidae, family Ochotonidae",02331081-n,"pika, mouse hare, rock rabbit, coney, cony",TRUE
+02338001-n,"Cricetidae, family Cricetidae",02338663-n,New World mouse,TRUE
+02338001-n,"Cricetidae, family Cricetidae",02341553-n,"wood rat, wood-rat",FALSE
+02338001-n,"Cricetidae, family Cricetidae",02347180-n,lemming,FALSE
+02346139-n,"Gerbillinae, subfamily Gerbillinae",02346424-n,"gerbil, gerbille",TRUE
+02349475-n,"Hystricidae, family Hystricidae",02349650-n,Old World porcupine,TRUE
+02350517-n,"Erethizontidae, family Erethizontidae",02350396-n,New World porcupine,TRUE
+02351057-n,"Heteromyidae, family Heteromyidae",02351440-n,pocket mouse,TRUE
+02353497-n,"Zapodidae, family Zapodidae",02353641-n,jumping mouse,TRUE
+02354170-n,"Dipodidae, family Dipodidae",02354522-n,jerboa,TRUE
+02355042-n,"Gliridae, family Gliridae",02355243-n,dormouse,TRUE
+02356181-n,"Geomyidae, family Geomyidae",02356513-n,"gopher, pocket gopher, pouched rat",TRUE
+02358363-n,"Sciuridae, family Sciuridae",02357879-n,squirrel,TRUE
+02364677-n,"Petauristidae, subfamily Petauristidae",02364846-n,Asiatic flying squirrel,TRUE
+02375049-n,"Procaviidae, family Procaviidae",02375236-n,"hyrax, coney, cony, dassie, das",TRUE
+02376253-n,"Equidae, family Equidae",02376801-n,"equine, equid",TRUE
+02376253-n,"Equidae, family Equidae",02380132-n,"mare, female horse",FALSE
+02394434-n,"Rhinocerotidae, family Rhinocerotidae, rhinoceros family",02394646-n,"rhinoceros, rhino",TRUE
+02397474-n,"Suidae, family Suidae",02397655-n,swine,TRUE
+02402791-n,"Bovidae, family Bovidae",02403683-n,bovid,TRUE
+02402791-n,"Bovidae, family Bovidae",02410605-n,"Old World buffalo, buffalo",FALSE
+02402791-n,"Bovidae, family Bovidae",02420710-n,goat antelope,FALSE
+02432341-n,"Cervidae, family Cervidae",02432691-n,"deer, cervid",TRUE
+02438320-n,"Tragulidae, family Tragulidae",02438484-n,"chevrotain, mouse deer",TRUE
+02443336-n,"Mustelidae, family Mustelidae",02443957-n,"musteline mammal, mustelid, musteline",TRUE
+02456750-n,"Dasypodidae, family Dasypodidae",02457010-n,armadillo,TRUE
+02459407-n,"Bradypodidae, family Bradypodidae",02459593-n,"sloth, tree sloth",TRUE
+02460987-n,"Megatheriidae, family Megatheriidae",02461148-n,"megatherian, megatheriid, megatherian mammal",TRUE
+02461632-n,"Mylodontidae, family Mylodontidae",02461821-n,mylodontid,TRUE
+02461632-n,"Mylodontidae, family Mylodontidae",02462267-n,mapinguari,FALSE
+02462439-n,"Myrmecophagidae, family Myrmecophagidae",02462640-n,"anteater, New World anteater",TRUE
+02474098-n,"Hominidae, family Hominidae",02474393-n,hominid,TRUE
+02482527-n,"Pongidae, family Pongidae",02482784-n,"great ape, pongid",TRUE
+02485451-n,"Hylobatidae, family Hylobatidae",02485723-n,lesser ape,TRUE
+02486546-n,"Cercopithecidae, family Cercopithecidae",02487104-n,"Old World monkey, catarrhine",TRUE
+02491919-n,"Platyrrhini, superfamily Platyrrhini",02492220-n,"New World monkey, platyrrhine, platyrrhinian",TRUE
+02492661-n,"Callithricidae, family Callithricidae",02492850-n,marmoset,TRUE
+02497497-n,"Tupaiidae, family Tupaiidae",02497873-n,tree shrew,TRUE
+02505944-n,"Elephantidae, family Elephantidae",02506148-n,elephant,TRUE
+02509968-n,"Procyonidae, family Procyonidae",02510280-n,procyonid,TRUE
+01935441-n,"Ancylostomatidae, family Ancylostomatidae",01935792-n,hookworm,TRUE
+01935983-n,"Filariidae, family Filariidae",01936119-n,filaria,TRUE
+01948084-n,"Limacidae, family Limacidae",01948326-n,slug,TRUE
+01948759-n,"Neritidae, family Neritidae",01948918-n,"neritid, neritid gastropod",TRUE
+01949916-n,"Buccinidae, family Buccinidae",01950037-n,whelk,TRUE
+01950254-n,"Cymatiidae, family Cymatiidae",01950376-n,triton,TRUE
+01950515-n,"Naticidae, family Naticidae",01950638-n,"moon shell, moonshell",TRUE
+01962942-n,"Ostreidae, family Ostreidae",01963100-n,oyster,TRUE
+01966371-n,"Mytilidae, family Mytilidae",01966690-n,"marine mussel, mytilid",TRUE
+01968388-n,"Pectinidae, family Pectinidae",01968530-n,"scallop, scollop, escallop",TRUE
+01969438-n,"Teredinidae, family Teredinidae",01969735-n,"shipworm, teredinid",TRUE
+01976207-n,"Belemnitidae, family Belemnitidae",01976364-n,belemnite,TRUE
+02165056-n,"Panorpidae, family Panorpidae",02165213-n,scorpion fly,TRUE
+02165483-n,"Bittacidae, family Bittacidae",02165660-n,hanging fly,TRUE
+01359529-n,genus Clostridium,01359797-n,"clostridium, clostridia",TRUE
+01359529-n,genus Clostridium,01360148-n,clostridium perfringens,FALSE
+01361844-n,genus Nostoc,01362006-n,nostoc,TRUE
+01362272-n,genus Trichodesmium,01362403-n,trichodesmium,TRUE
+01363578-n,"Pseudomonas, genus Pseudomonas",01363902-n,pseudomonad,TRUE
+01364106-n,"Xanthomonas, genus Xanthomonas",01364324-n,xanthomonad,TRUE
+01364837-n,"Nitrobacter, genus Nitrobacter",01364977-n,"nitric bacteria, nitrobacteria",TRUE
+01365121-n,"Nitrosomonas, genus Nitrosomonas",01365264-n,"nitrosobacteria, nitrous bacteria",TRUE
+01365640-n,genus Thiobacillus,01365762-n,thiobacillus,TRUE
+01366241-n,genus Spirillum,01366360-n,spirillum,TRUE
+01366649-n,genus Vibrio,01366803-n,"vibrio, vibrion",TRUE
+01369056-n,genus Corynebacterium,01368917-n,corynebacterium,TRUE
+01369522-n,genus Listeria,01369724-n,listeria,TRUE
+01370736-n,genus Escherichia,01370857-n,escherichia,TRUE
+01371193-n,genus Klebsiella,01371313-n,klebsiella,TRUE
+01371494-n,genus Salmonella,01371614-n,salmonella,TRUE
+01372783-n,genus Shigella,01372901-n,shigella,TRUE
+01373222-n,genus Erwinia,01373339-n,erwinia,TRUE
+01375185-n,genus Chlamydia,01375350-n,chlamydia,TRUE
+01376316-n,genus Mycoplasma,01376467-n,mycoplasma,TRUE
+01378258-n,genus Actinomyces,01378401-n,actinomyces,TRUE
+01378733-n,genus Streptomyces,01378878-n,streptomyces,TRUE
+01379589-n,genus Mycobacterium,01379733-n,"mycobacteria, mycobacterium",TRUE
+01381893-n,genus Staphylococcus,01382030-n,"staphylococcus, staphylococci, staph",TRUE
+01382595-n,genus Lactobacillus,01382759-n,lactobacillus,TRUE
+01383130-n,genus Diplococcus,01383251-n,diplococcus,TRUE
+01385123-n,genus Treponema,01385340-n,treponema,TRUE
+01385480-n,genus Borrelia,01385668-n,borrelia,TRUE
+01385973-n,genus Leptospira,01386143-n,leptospira,TRUE
+01397007-n,genus Arcella,01397133-n,arcella,TRUE
+01397276-n,genus Difflugia,01397412-n,difflugia,TRUE
+01398526-n,genus Paramecium,01398689-n,"paramecium, paramecia",TRUE
+01398811-n,genus Tetrahymena,01398963-n,tetrahymena,TRUE
+01399099-n,genus Stentor,01399258-n,stentor,TRUE
+01399417-n,genus Vorticella,01399592-n,vorticella,TRUE
+01404327-n,"Tribonema, genus Tribonema, genus Conferva",01404483-n,conferva,TRUE
+01405925-n,"Laminaria, genus Laminaria",01406098-n,kelp,TRUE
+01407454-n,genus Fucus,01407648-n,fucus,TRUE
+01409206-n,genus Euglena,01409377-n,euglena,TRUE
+01411188-n,"Ulva, genus Ulva",01411384-n,"sea lettuce, laver",TRUE
+01413209-n,genus Spirogyra,01413330-n,spirogyra,TRUE
+01413881-n,genus Chlorella,01414091-n,chlorella,TRUE
+01415965-n,"Desmidium, genus Desmidium",01416098-n,desmid,TRUE
+01418034-n,"Porphyra, genus Porphyra",01418165-n,"red laver, laver",TRUE
+01422381-n,genus Giardia,01422529-n,giardia,TRUE
+01422955-n,genus Trichomonas,01423166-n,trichomonad,TRUE
+01427717-n,"genus Leucocytozoon, genus Leucocytozoan",01427864-n,"leucocytozoan, leucocytozoon",TRUE
+01428801-n,"Sarcocystis, genus Sarcocystis",01428955-n,"sarcosporidian, sarcocystidean, sarcocystieian",TRUE
+01448639-n,"Maxostoma, genus Maxostoma",01448793-n,"redhorse, redhorse sucker",TRUE
+01450192-n,genus Rivulus,01450299-n,rivulus,TRUE
+01452498-n,"Mollienesia, genus Mollienesia",01452621-n,"mollie, molly",TRUE
+01454367-n,genus Anomalops,01454504-n,"anomalops, flashlight fish",TRUE
+01456232-n,"Antigonia, genus Antigonia",01456383-n,boarfish,TRUE
+01457034-n,"Fistularia, genus Fistularia",01457186-n,cornetfish,TRUE
+01459272-n,"Hippocampus, genus Hippocampus",01459397-n,"seahorse, sea horse",TRUE
+01481707-n,genus Eptatretus,01481854-n,eptatretus,TRUE
+01483844-n,genus Chimaera,01483972-n,chimaera,TRUE
+01486621-n,"Isurus, genus Isurus",01486738-n,"mako, mako shark",TRUE
+01496980-n,"Sphyrna, genus Sphyrna",01497116-n,"hammerhead, hammerhead shark",TRUE
+01501218-n,"Gymnura, genus Gymnura",01501340-n,butterfly ray,TRUE
+02519246-n,genus Ceratodus,02519407-n,ceratodus,TRUE
+02521621-n,"Ameiurus, genus Ameiurus",02521779-n,"bullhead, bullhead catfish",TRUE
+02523616-n,"Arius, genus Arius",02523760-n,crucifix fish,TRUE
+02524878-n,"Gadus, genus Gadus",02525030-n,"cod, codfish",TRUE
+02527442-n,"Urophycis, genus Urophycis",02527559-n,ling,TRUE
+02529304-n,"Anguilla, genus Anguilla",02529449-n,"common eel, freshwater eel",TRUE
+02532925-n,"Alosa, genus Alosa",02533052-n,shad,TRUE
+02540478-n,"Salvelinus, genus Salvelinus",02541037-n,"char, charr",TRUE
+02543770-n,"Mallotus, genus Mallotus",02543888-n,"capelin, capelan, caplin",TRUE
+02545435-n,"Argentina, genus Argentina",02545589-n,argentine,TRUE
+02546717-n,"Alepisaurus, genus Alepisaurus",02546905-n,"lancetfish, lancet fish, wolffish",FALSE
+02546717-n,"Alepisaurus, genus Alepisaurus",02547106-n,handsaw fish,FALSE
+02560092-n,"Stizostedion, genus Stizostedion",02560222-n,"pike-perch, pike perch",TRUE
+02563595-n,"Esox, genus Esox",02563739-n,pike,TRUE
+02565311-n,"Pomoxis, genus Pomoxis",02565427-n,crappie,TRUE
+02567203-n,"Micropterus, genus Micropterus",02567351-n,black bass,TRUE
+02571782-n,"Epinephelus, genus Epinephelus",02572115-n,hind,TRUE
+02572943-n,"Rypticus, genus Rypticus",02573115-n,soapfish,TRUE
+02574117-n,"Priacanthus, genus Priacanthus",02574283-n,bigeye,TRUE
+02580163-n,"Oligoplites, genus Oligoplites",02580293-n,"leatherjacket, leatherjack",TRUE
+02581235-n,"Seriola, genus Seriola",02581402-n,"amberjack, amberfish",TRUE
+02582051-n,"Trachinotus, genus Trachinotus",02582188-n,pompano,TRUE
+02586399-n,"Hemigrammus, genus Hemigrammus",02586521-n,tetra,TRUE
+02586956-n,"Serrasalmus, genus Serrasalmus",02587080-n,"piranha, pirana, caribe",FALSE
+02599803-n,"Menticirrhus, genus Menticirrhus",02599997-n,whiting,FALSE
+02599803-n,"Menticirrhus, genus Menticirrhus",02600238-n,kingfish,FALSE
+02608201-n,genus Chaetodon,02608333-n,chaetodon,TRUE
+02608439-n,"Pomacanthus, genus Pomacanthus",02608566-n,angelfish,TRUE
+02609556-n,"Amphiprion, genus Amphiprion",02609702-n,anemone fish,TRUE
+02612096-n,"Hemipteronatus, genus Hemipteronatus",02612247-n,"razor fish, razor-fish",TRUE
+02616918-n,"Chaenopsis, genus Chaenopsis",02617112-n,pikeblenny,TRUE
+02618459-n,"Lumpenus, genus Lumpenus",02618758-n,eelblenny,TRUE
+02619335-n,"Anarhichas, genus Anarhichas",02619481-n,"wolffish, wolf fish, catfish",TRUE
+02621002-n,"Ammodytes, genus Ammodytes",02621143-n,"sand lance, sand launce, sand eel, launce",TRUE
+02622039-n,"Periophthalmus, genus Periophthalmus",02622180-n,"mudskipper, mudspringer",TRUE
+02629220-n,"Thunnus, genus Thunnus",02629392-n,"tuna, tunny",TRUE
+02630316-n,"Sarda, genus Sarda",02630465-n,bonito,TRUE
+02633556-n,"Makaira, genus Makaira",02633671-n,marlin,TRUE
+02634529-n,"Tetrapturus, genus Tetrapturus",02634669-n,spearfish,TRUE
+02636786-n,"Psenes, genus Psenes",02636915-n,driftfish,TRUE
+02637044-n,"Ariomma, genus Ariomma",02637175-n,driftfish,TRUE
+02637347-n,"Tetragonurus, genus Tetragonurus",02637488-n,squaretail,TRUE
+02638665-n,"Lobotes, genus Lobotes",02638800-n,tripletail,TRUE
+02640469-n,"Sillago, genus Sillago",02640607-n,whiting,TRUE
+02645565-n,"Scorpaena, genus Scorpaena",02645742-n,"scorpionfish, scorpion fish, sea scorpion",TRUE
+02646078-n,"Pterois, genus Pterois",02646196-n,lionfish,TRUE
+02646619-n,"Sebastes, genus Sebastes",02646743-n,rockfish,TRUE
+02647773-n,"Cottus, genus Cottus",02648168-n,bullhead,FALSE
+02647773-n,"Cottus, genus Cottus",02648321-n,miller's-thumb,FALSE
+02656595-n,"Monocanthus, genus Monocanthus",02656742-n,"leatherjacket, leatherfish",TRUE
+02658801-n,"Chilomycterus, genus Chilomycterus",02658931-n,burrfish,TRUE
+02659180-n,genus Mola,02659300-n,"ocean sunfish, sunfish, mola, headfish",TRUE
+02664711-n,"Citharichthys, genus Citharichthys",02664869-n,whiff,FALSE
+02664711-n,"Citharichthys, genus Citharichthys",02665189-n,sand dab,FALSE
+01470316-n,genus Amphioxus,01470445-n,"lancelet, amphioxus",TRUE
+01472227-n,genus Salpa,01472364-n,"salp, salpa",TRUE
+01472659-n,genus Doliolum,01472786-n,doliolum,TRUE
+01473227-n,genus Appendicularia,01473374-n,appendicularia,TRUE
+01518039-n,genus Protoavis,01518224-n,protoavis,TRUE
+01519519-n,genus Ibero-mesornis,01519677-n,"ibero-mesornis, iberomesornis",TRUE
+01519906-n,genus Archaeornis,01520030-n,archaeornis,TRUE
+01522042-n,"Casuarius, genus Casuarius",01522204-n,cassowary,TRUE
+01523083-n,genus Apteryx,01523217-n,"kiwi, apteryx",TRUE
+01524946-n,genus Aepyornis,01525091-n,"elephant bird, aepyornis",TRUE
+01529696-n,"Prunella, genus Prunella",01529835-n,accentor,TRUE
+01530885-n,"Motacilla, genus Motacilla",01531037-n,wagtail,TRUE
+01531183-n,"Anthus, genus Anthus",01531295-n,"pipit, titlark, lark",TRUE
+01535810-n,"Serinus, genus Serinus",01535980-n,"canary, canary bird",FALSE
+01535810-n,"Serinus, genus Serinus",01536292-n,serin,TRUE
+01536962-n,genus Junco,01537074-n,"junco, snowbird",TRUE
+01541777-n,"Coereba, genus Coereba",01541913-n,banana quit,TRUE
+01545913-n,"Vidua, genus Vidua",01546024-n,"whydah, whidah, widow bird",TRUE
+01546458-n,"Estrilda, genus Estrilda",01546577-n,"avadavat, amadavat",TRUE
+01546708-n,"Poephila, genus Poephila",01546849-n,"grassfinch, grass finch",TRUE
+01547518-n,"Drepanis, genus Drepanis",01547651-n,mamo,TRUE
+01548066-n,"Menura, genus Menura",01548215-n,lyrebird,TRUE
+01548530-n,"Atrichornis, genus Atrichornis",01548680-n,"scrubbird, scrub-bird, scrub bird",TRUE
+01552674-n,"Pyrocephalus, genus Pyrocephalus",01552813-n,"vermillion flycatcher, firebird, Pyrocephalus rubinus mexicanus",TRUE
+01553266-n,genus Cotinga,01553402-n,"cotinga, chatterer",TRUE
+01554190-n,"Pipra, genus Pipra",01554352-n,manakin,TRUE
+01554556-n,"Procnias, genus Procnias",01554675-n,bellbird,TRUE
+01555295-n,"Furnarius, genus Furnarius",01555454-n,ovenbird,TRUE
+01556021-n,"Formicarius, genus Formicarius",01556168-n,ant thrush,TRUE
+01556261-n,"Thamnophilus, genus Thamnophilus",01556403-n,ant shrike,TRUE
+01559009-n,"Pachycephala, genus Pachycephala",01559155-n,"thickhead, whistler",TRUE
+01563152-n,"Saxicola, genus Saxicola",01563277-n,"Old World chat, chat",TRUE
+01563700-n,"Myadestes, genus Myadestes",01563822-n,solitaire,TRUE
+01563959-n,"Phoenicurus, genus Phoenicurus",01564093-n,"redstart, redtail",TRUE
+01564254-n,"Oenanthe, genus Oenanthe",01564373-n,wheatear,TRUE
+01564525-n,"Sialia, genus Sialia",01564655-n,bluebird,TRUE
+01565954-n,"Polioptila, genus Polioptila",01566090-n,gnatcatcher,TRUE
+01566220-n,"Regulus, genus Regulus",01566387-n,kinglet,TRUE
+01568445-n,"Prinia, genus Prinia",01568571-n,wren warbler,TRUE
+01569150-n,"Timalia, genus Timalia",01569286-n,"babbler, cackler",TRUE
+01572354-n,"Icteria, genus Icteria",01572477-n,"New World chat, chat",TRUE
+01572753-n,"Seiurus, genus Seiurus",01573062-n,water thrush,TRUE
+01573190-n,"Geothlypis, genus Geothlypis",01573317-n,yellowthroat,TRUE
+01575551-n,"Sturnella, genus Sturnella",01575715-n,"meadowlark, lark",TRUE
+01576124-n,"Cacicus, genus Cacicus",01576268-n,"cacique, cazique",TRUE
+01576911-n,"Quiscalus, genus Quiscalus",01577031-n,"grackle, crow blackbird",TRUE
+01577638-n,"Molothrus, genus Molothrus",01577758-n,cowbird,TRUE
+01578853-n,"Sphecotheres, genus Sphecotheres",01578999-n,fig-bird,TRUE
+01581462-n,"Corvus, genus Corvus",01581669-n,crow,TRUE
+01582866-n,"Garrulus, genus Garrulus",01583020-n,Old World jay,TRUE
+01584248-n,"Nucifraga, genus Nucifraga",01584371-n,nutcracker,TRUE
+01584752-n,"Pica, genus Pica",01584861-n,magpie,TRUE
+01585684-n,"Cracticus, genus Cracticus",01585850-n,butcherbird,TRUE
+01586014-n,"Strepera, genus Strepera",01586136-n,"currawong, bell magpie",TRUE
+01587635-n,"Cistothorus, genus Cistothorus",01587762-n,marsh wren,TRUE
+01588811-n,"Campylorhynchus, genus Campylorhynchus, Heleodytes, genus Heleodytes",01589015-n,cactus wren,TRUE
+01590354-n,"Toxostoma, genus Toxostoma",01590475-n,"thrasher, mocking thrush",TRUE
+01594551-n,"Parus, genus Parus",01594725-n,chickadee,TRUE
+01595533-n,"Psaltriparus, genus Psaltriparus",01595669-n,"bushtit, bush tit",TRUE
+01596498-n,"Irena, genus Irena",01596645-n,"fairy bluebird, bluebird",TRUE
+01599528-n,"Artamus, genus Artamus",01599663-n,"wood swallow, swallow shrike",TRUE
+01600192-n,"Piranga, genus Piranga",01600912-n,"hepatic tanager, Piranga flava hepatica",TRUE
+01601461-n,"Lanius, genus Lanius",01601629-n,butcherbird,TRUE
+01605147-n,genus Vireo,01605271-n,vireo,TRUE
+01606119-n,"Bombycilla, genus bombycilla",01606241-n,waxwing,TRUE
+01609744-n,"Buteo, genus Buteo",01609950-n,buteonine,TRUE
+01612190-n,"Circus, genus Circus",01612392-n,harrier,TRUE
+01613067-n,"Circaetus, genus Circaetus",01613193-n,"harrier eagle, short-toed eagle",TRUE
+01617410-n,"Haliaeetus, genus Haliaeetus",01617762-n,sea eagle,TRUE
+01624871-n,"Bubo, genus Bubo",01624993-n,horned owl,TRUE
+01625925-n,"Otus, genus Otus",01626347-n,scops owl,TRUE
+01793584-n,"Gallus, genus Gallus",01792381-n,"domestic fowl, fowl, poultry",FALSE
+01793584-n,"Gallus, genus Gallus",01793748-n,"jungle fowl, gallina",FALSE
+01798066-n,"Lyrurus, genus Lyrurus",01798186-n,black grouse,TRUE
+01798863-n,"Lagopus, genus Lagopus",01798981-n,ptarmigan,TRUE
+01800993-n,"Tympanuchus, genus Tympanuchus",01801125-n,"prairie chicken, prairie grouse, prairie fowl",TRUE
+01802181-n,"Crax, genus Crax",01802320-n,curassow,TRUE
+01802683-n,"Pipile, genus Pipile",01802836-n,piping guan,TRUE
+01802927-n,"Ortalis, genus Ortalis",01803065-n,chachalaca,TRUE
+01805536-n,"Phasianus, genus Phasianus",01805719-n,pheasant,TRUE
+01806405-n,"Argusianus, genus Argusianus",01806534-n,"argus, argus pheasant",TRUE
+01806981-n,"Colinus, genus Colinus",01807119-n,"bobwhite, bobwhite quail, partridge",TRUE
+01807437-n,"Coturnix, genus Coturnix",01807562-n,Old World quail,TRUE
+01807840-n,"Lophophorus, genus Lophophorus",01807962-n,"monal, monaul",TRUE
+01808333-n,"Pavo, genus Pavo",01808442-n,"peafowl, bird of Juno",TRUE
+01809625-n,genus Tragopan,01809746-n,tragopan,TRUE
+01811088-n,"Oreortyx, genus Oreortyx",01811237-n,"mountain quail, mountain partridge, Oreortyx picta palmeri",TRUE
+01815897-n,"Streptopelia, genus Streptopelia",01816026-n,turtledove,TRUE
+01820810-n,"Amazona, genus Amazona",01820940-n,amazon,TRUE
+01821050-n,"Ara, genus Ara",01821156-n,macaw,TRUE
+01821600-n,"Kakatoe, genus Kakatoe, Cacatua, genus Cacatua",01821756-n,cockatoo,TRUE
+01822559-n,"Agapornis, genus Agapornis",01822693-n,lovebird,TRUE
+01826868-n,"Crotophaga, genus Crotophaga",01826985-n,ani,TRUE
+01827084-n,"Centropus, genus Centropus",01827216-n,coucal,TRUE
+01832957-n,"Phoeniculus, genus Phoeniculus",01833120-n,wood hoopoe,TRUE
+01833872-n,"Todus, genus Todus",01834001-n,tody,TRUE
+01836925-n,"Chalcostigma, genus Chalcostigma",01837181-n,thornbill,TRUE
+01837053-n,"Ramphomicron, genus Ramphomicron",01837181-n,thornbill,TRUE
+01838887-n,"Chordeiles, genus Chordeiles",01839025-n,"nighthawk, bullbat, mosquito hawk",TRUE
+01842111-n,"Colaptes, genus Colaptes",01842239-n,flicker,TRUE
+01843609-n,"Sphyrapicus, genus Sphyrapicus",01843743-n,sapsucker,TRUE
+01844210-n,"Jynx, genus Jynx",01844320-n,wryneck,TRUE
+01844456-n,"Picumnus, genus Picumnus",01844584-n,piculet,TRUE
+01846217-n,"Aulacorhyncus, genus Aulacorhyncus",01846360-n,toucanet,TRUE
+01847055-n,"Pharomacrus, genus Pharomacrus",01847192-n,"quetzal, quetzal bird",TRUE
+01850206-n,"Anas, genus Anas",01850764-n,teal,TRUE
+01851989-n,"Tadorna, genus Tadorna",01852107-n,sheldrake,TRUE
+01853317-n,"Aythya, genus Aythya",01854016-n,"scaup, scaup duck, bluebill, broadbill",TRUE
+01855713-n,"Somateria, genus Somateria",01855836-n,"eider, eider duck",TRUE
+01856020-n,"Melanitta, genus Melanitta",01856139-n,"scoter, scooter",TRUE
+01856864-n,"Mergus, genus Mergus",01857056-n,"merganser, fish duck, sawbill, sheldrake",TRUE
+01859812-n,"Branta, genus Branta",01859966-n,"brant, brant goose, brent, brent goose",TRUE
+01860803-n,genus Coscoroba,01860922-n,coscoroba,TRUE
+01863666-n,"Chauna, genus Chauna",01863789-n,crested screamer,TRUE
+02006110-n,"Anastomus, genus Anastomus",02006231-n,openbill,TRUE
+02017875-n,"Gallirallus, genus Gallirallus",02018011-n,"weka, maori hen, wood hen",TRUE
+02018852-n,"Gallinula, genus Gallinula",02019012-n,"gallinule, marsh hen, water hen, swamphen",TRUE
+02020532-n,"Fulica, genus Fulica",02020681-n,coot,TRUE
+02022416-n,"Turnix, genus Turnix",02022583-n,"button quail, button-quail, bustard quail, hemipode",TRUE
+02022416-n,"Turnix, genus Turnix",02022999-n,ortygan,TRUE
+02023556-n,"Psophia, genus Psophia",02023704-n,trumpeter,TRUE
+02027007-n,"Pluvialis, genus Pluvialis",02027133-n,golden plover,TRUE
+02027290-n,"Vanellus, genus Vanellus",02027417-n,"lapwing, green plover, peewit, pewit",TRUE
+02027577-n,"Arenaria, genus Arenaria",02027697-n,turnstone,TRUE
+02030384-n,"Tringa, genus Tringa",02030829-n,yellowlegs,TRUE
+02035569-n,"Limnodromus, genus Limnodromus",02035695-n,dowitcher,TRUE
+02036098-n,"Numenius, genus Numenius",02036215-n,curlew,TRUE
+02036670-n,"Limosa, genus Limosa",02036783-n,godwit,TRUE
+02037048-n,"Himantopus, genus Himantopus",02038056-n,"white-headed stilt, Himantopus himantopus leucocephalus",TRUE
+02039202-n,"Recurvirostra, genus Recurvirostra",02039365-n,avocet,TRUE
+02039636-n,"Haematopus, genus Haematopus",02039764-n,"oystercatcher, oyster catcher",TRUE
+02041491-n,"Glareola, genus Glareola",02041647-n,"pratincole, glareole",TRUE
+02045291-n,"Rissa, genus Rissa",02045413-n,kittiwake,TRUE
+02046313-n,"Rynchops, genus Rynchops",02046462-n,skimmer,TRUE
+02047313-n,"Catharacta, genus Catharacta",02047432-n,"skua, bonxie",TRUE
+02049267-n,"Cepphus, genus Cepphus",02049413-n,guillemot,TRUE
+02049806-n,"Uria, genus Uria",02049914-n,murre,TRUE
+02051606-n,"Gavia, genus Gavia",02051742-n,"loon, diver",TRUE
+02052509-n,"Podiceps, genus Podiceps",02052658-n,grebe,TRUE
+02055293-n,"Fregata, genus Fregata",02055429-n,"frigate bird, man-of-war bird",TRUE
+02055933-n,"Sula, genus Sula",02056238-n,booby,TRUE
+02057030-n,genus Anhinga,02057156-n,"snakebird, anhinga, darter",TRUE
+02057620-n,"Phaethon, genus Phaethon",02057761-n,"tropic bird, tropicbird, boatswain bird",TRUE
+02059862-n,"Eudyptes, genus Eudyptes",02059984-n,"rock hopper, crested penguin",TRUE
+02062943-n,"Puffinus, genus Puffinus",02063064-n,shearwater,TRUE
+01630789-n,genus Ichthyostega,01630972-n,ichthyostega,TRUE
+01634544-n,"Ambystoma, genus Ambystoma",01634688-n,"ambystomid, ambystomid salamander",TRUE
+01639316-n,"Desmograthus, genus Desmograthus",01639470-n,dusky salamander,TRUE
+01639625-n,"Aneides, genus Aneides",01639753-n,climbing salamander,TRUE
+01640119-n,"Batrachoseps, genus Batrachoseps",01640256-n,"slender salamander, worm salamander",TRUE
+01640437-n,"Hydromantes, genus Hydromantes",01640573-n,web-toed salamander,TRUE
+01641252-n,genus Amphiuma,01641363-n,"amphiuma, congo snake, congo eel, blind eel",TRUE
+01641712-n,genus Siren,01641828-n,siren,TRUE
+01645733-n,"Eleutherodactylus, genus Eleutherodactylus",01645896-n,robber frog,TRUE
+01648775-n,genus Bufo,01648933-n,bufo,TRUE
+01654011-n,"Acris, genus Acris",01654128-n,cricket frog,TRUE
+01654541-n,"Pseudacris, genus Pseudacris",01654667-n,chorus frog,TRUE
+01656025-n,"Hypopachus, genus Hypopachus",01656150-n,sheep frog,TRUE
+01666885-n,"Lepidochelys, genus Lepidochelys",01667010-n,ridley,TRUE
+01669608-n,"Kinosternon, genus Kinosternon",01669755-n,mud turtle,TRUE
+01669943-n,"Sternotherus, genus Sternotherus",01670073-n,"musk turtle, stinkpot",TRUE
+01671709-n,"Terrapene, genus Terrapene",01671832-n,"box turtle, box tortoise",TRUE
+01673019-n,"Testudo, genus Testudo",01673443-n,giant tortoise,TRUE
+01673314-n,"Geochelone, genus Geochelone",01673443-n,giant tortoise,TRUE
+01678240-n,"Coleonyx, genus Coleonyx",01678363-n,banded gecko,TRUE
+01681819-n,"Holbrookia, genus Holbrookia",01681948-n,earless lizard,TRUE
+01682135-n,"Crotaphytus, genus Crotaphytus",01682267-n,collared lizard,TRUE
+01682478-n,"Gambelia, genus Gambelia",01682603-n,leopard lizard,TRUE
+01682778-n,"Sceloporus, genus Sceloporus",01682905-n,spiny lizard,TRUE
+01684453-n,"Phrynosoma, genus Phrynosoma",01684581-n,"horned lizard, horned toad, horny frog",TRUE
+01684934-n,"Basiliscus, genus Basiliscus",01685076-n,basilisk,TRUE
+01685677-n,"Amphisbaena, genus Amphisbaena, Amphisbaenia, genus Amphisbaenia",01685842-n,worm lizard,TRUE
+01688320-n,"Cnemidophorus, genus Cnemidophorus",01688449-n,"whiptail, whiptail lizard",TRUE
+01689650-n,"Tupinambis, genus Tupinambis",01689769-n,teju,TRUE
+01690497-n,genus Agama,01690619-n,agama,TRUE
+01691069-n,"Draco, genus Draco",01691230-n,"dragon, flying dragon, flying lizard",TRUE
+01691453-n,genus Moloch,01691602-n,moloch,TRUE
+01692319-n,"Gerrhonotus, genus Gerrhonotus",01692452-n,alligator lizard,TRUE
+01692980-n,"Ophisaurus, genus Ophisaurus",01693107-n,"glass lizard, glass snake, joint snake",TRUE
+01697199-n,"Varanus, genus Varanus",01697350-n,"monitor, monitor lizard, varan",TRUE
+01699643-n,"Crocodylus, genus Crocodylus, Crocodilus, genus Crocodilus",01699819-n,crocodile,TRUE
+01700944-n,genus Alligator,01701075-n,"alligator, gator",TRUE
+01701577-n,genus Caiman,01701681-n,"caiman, cayman",TRUE
+01703395-n,genus Pisanosaurus,01703565-n,"pisanosaur, pisanosaurus",TRUE
+01703693-n,genus Staurikosaurus,01703846-n,"staurikosaur, staurikosaurus",TRUE
+01704728-n,genus Ankylosaurus,01704897-n,"ankylosaur, ankylosaurus",TRUE
+01706825-n,genus Triceratops,01706964-n,triceratops,TRUE
+01707138-n,genus Styracosaurus,01707267-n,"styracosaur, styracosaurus",TRUE
+01707488-n,genus Psittacosaurus,01707651-n,"psittacosaur, psittacosaurus",TRUE
+01708888-n,genus Anatotitan,01709042-n,anatotitan,TRUE
+01709174-n,genus Corythosaurus,01709327-n,"corythosaur, corythosaurus",TRUE
+01709506-n,genus Edmontosaurus,01709641-n,edmontosaurus,TRUE
+01709790-n,genus Trachodon,01709935-n,"trachodon, trachodont",TRUE
+01710207-n,genus Iguanodon,01710339-n,iguanodon,TRUE
+01712364-n,genus Barosaurus,01712517-n,"barosaur, barosaurus",TRUE
+01712676-n,genus Diplodocus,01712818-n,diplodocus,TRUE
+01713170-n,"Titanosaurus, genus Titanosaurus",01713388-n,"titanosaur, titanosaurian",TRUE
+01713938-n,"Seismosaurus, genus Seismosaurus",01714137-n,"ground-shaker, seismosaur",TRUE
+01715247-n,genus Ceratosaurus,01715811-n,coelophysis,TRUE
+01716700-n,"genus Allosaurus, genus Antrodemus",01716872-n,"allosaur, allosaurus",TRUE
+01717045-n,genus Compsognathus,01717177-n,compsognathus,TRUE
+01717327-n,genus Herrerasaurus,01717484-n,"herrerasaur, herrerasaurus",TRUE
+01717623-n,genus Eoraptor,01717775-n,eoraptor,TRUE
+01718024-n,genus Megalosaurus,01718159-n,"megalosaur, megalosaurus",TRUE
+01718763-n,genus Struthiomimus,01718939-n,struthiomimus,TRUE
+01719100-n,genus Deinocheirus,01719235-n,deinocheirus,TRUE
+01719976-n,genus Velociraptor,01720108-n,velociraptor,TRUE
+01720598-n,genus Deinonychus,01720737-n,deinonychus,TRUE
+01720917-n,genus Utahraptor,01721055-n,"utahraptor, superslasher",TRUE
+01724895-n,genus Edaphosaurus,01725030-n,edaphosaurus,TRUE
+01725179-n,genus Dimetrodon,01725311-n,dimetrodon,TRUE
+01726066-n,"Pterodactylus, genus Pterodactylus",01726220-n,pterodactyl,TRUE
+01727344-n,genus Ichthyosaurus,01727481-n,ichthyosaurus,TRUE
+01728211-n,genus Plesiosaurus,01728354-n,"plesiosaur, plesiosaurus",TRUE
+01728720-n,genus Nothosaurus,01728844-n,nothosaur,TRUE
+01731379-n,"Diadophis, genus Diadophis",01731561-n,"ringneck snake, ring-necked snake, ring snake",TRUE
+01731774-n,"Heterodon, genus Heterodon",01731963-n,"hognose snake, puff adder, sand viper",TRUE
+01732174-n,"Phyllorhynchus, genus Phyllorhynchus",01732313-n,leaf-nosed snake,TRUE
+01732479-n,"Opheodrys, genus Opheodrys",01732618-n,"green snake, grass snake",TRUE
+01733070-n,"Chlorophis, genus Chlorophis",01733204-n,green snake,TRUE
+01733320-n,"Coluber, genus Coluber",01733453-n,racer,TRUE
+01734059-n,"Masticophis, genus Masticophis",01734186-n,"whip-snake, whip snake, whipsnake",TRUE
+01735086-n,"Elaphe, genus Elaphe",01735630-n,chicken snake,TRUE
+01736275-n,"Pituophis, genus Pituophis",01736398-n,"bull snake, bull-snake",TRUE
+01736914-n,"Lampropeltis, genus Lampropeltis",01737059-n,"king snake, kingsnake",TRUE
+01737703-n,"Thamnophis, genus Thamnophis",01737830-n,"garter snake, grass snake",TRUE
+01739838-n,"Natrix, genus Natrix",01740369-n,water moccasin,TRUE
+01741111-n,"Chilomeniscus, genus Chilomeniscus",01741242-n,sand snake,TRUE
+01741606-n,"Tantilla, genus Tantilla",01741735-n,black-headed snake,TRUE
+01741901-n,"Oxybelis, genus Oxybelis",01742022-n,vine snake,TRUE
+01742159-n,"Trimorphodon, genus Trimorphodon",01742288-n,lyre snake,TRUE
+01749206-n,"Calliophis, genus Calliophis, Callophis, genus Callophis",01749368-n,Asian coral snake,TRUE
+01752069-n,"Dendroaspis, genus Dendroaspis, Dendraspis, genus Dendraspis",01752223-n,mamba,TRUE
+01753561-n,"Bungarus, genus Bungarus",01753677-n,krait,TRUE
+01757915-n,"Crotalus, genus Crotalus",01758381-n,"timber rattlesnake, banded rattlesnake, Crotalus horridus horridus",TRUE
+01783560-n,"Trombicula, genus Trombicula",01783712-n,"harvest mite, chigger, jigger, redbug",TRUE
+01784051-n,"Sarcoptes, genus Sarcoptes",01784339-n,"itch mite, sarcoptid",TRUE
+01790798-n,"Tachypleus, genus Tachypleus",01790932-n,Asian horseshoe crab,TRUE
+01974658-n,genus Architeuthis,01974772-n,"architeuthis, giant squid",TRUE
+01982694-n,"Uca, genus Uca",01982807-n,fiddler crab,TRUE
+01983112-n,"Pinnotheres, genus Pinnotheres",01983296-n,pea crab,TRUE
+01987188-n,"Palinurus, genus Palinurus",01987336-n,"spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish",TRUE
+01987972-n,"Astacus, genus Astacus",01988134-n,"Old World crayfish, ecrevisse",TRUE
+01988713-n,"Pagurus, genus Pagurus",01988855-n,hermit crab,TRUE
+01989994-n,"Palaemon, genus Palaemon",01990186-n,prawn,TRUE
+01990705-n,"Peneus, genus Peneus",01990844-n,tropical prawn,TRUE
+01991895-n,"Mysis, genus Mysis",01992157-n,opossum shrimp,TRUE
+01992031-n,"Praunus, genus Praunus",01992157-n,opossum shrimp,TRUE
+01993024-n,genus Squilla,01993157-n,"squilla, mantis prawn",TRUE
+01994021-n,"Armadillidium, genus Armadillidium",01994174-n,pill bug,TRUE
+01994462-n,"Oniscus, genus Oniscus",01994916-n,sow bug,TRUE
+01994767-n,"Porcellio, genus Porcellio",01994916-n,sow bug,TRUE
+01995719-n,"Orchestia, genus Orchestia",01995868-n,"beach flea, sand hopper, sandhopper, sand flea",TRUE
+01996054-n,"Caprella, genus Caprella",01996179-n,skeleton shrimp,TRUE
+01996368-n,"Cyamus, genus Cyamus",01996484-n,whale louse,TRUE
+01997455-n,genus Daphnia,01997564-n,"daphnia, water flea",TRUE
+01997977-n,"Artemia, genus Artemia, Chirocephalus, genus Chirocephalus",01998168-n,fairy shrimp,TRUE
+01998745-n,"Triops, genus Triops",01998934-n,tadpole shrimp,TRUE
+01999656-n,genus Cyclops,01999773-n,"cyclops, water flea",TRUE
+02170027-n,"Brachinus, genus Brachinus",02170157-n,bombardier beetle,TRUE
+02170297-n,genus Calosoma,02170472-n,calosoma,TRUE
+02171528-n,"Monochamus, genus Monochamus",02171675-n,"sawyer, sawyer beetle",FALSE
+02171528-n,"Monochamus, genus Monochamus",02171870-n,pine sawyer,FALSE
+02184251-n,"Tribolium, genus Tribolium",02184376-n,"flour beetle, flour weevil",TRUE
+02193783-n,genus Glossina,02193925-n,"tsetse fly, tsetse, tzetze fly, tzetze, glossina",TRUE
+02194269-n,"Calliphora, genus Calliphora",02194425-n,"blowfly, blow fly",TRUE
+02194779-n,"Lucilia, genus Lucilia",02194904-n,"greenbottle, greenbottle fly",TRUE
+02197539-n,"Hypoderma, genus Hypoderma",02197743-n,warble fly,TRUE
+02200197-n,genus Drosophila,02200529-n,vinegar fly,TRUE
+02203904-n,"Anopheles, genus Anopheles",02204149-n,anopheline,TRUE
+02203904-n,"Anopheles, genus Anopheles",02204278-n,"malarial mosquito, malaria mosquito",FALSE
+02207237-n,genus Sciara,02207374-n,"fungus gnat, sciara, sciarid",TRUE
+02208175-n,"Simulium, genus Simulium",02208325-n,"blackfly, black fly, buffalo gnat",TRUE
+02211882-n,"Xylocopa, genus Xylocopa",02212006-n,carpenter bee,TRUE
+02212160-n,"Bombus, genus Bombus",02212276-n,"bumblebee, humblebee",TRUE
+02212407-n,"Psithyrus, genus Psithyrus",02212616-n,cuckoo-bumblebee,TRUE
+02212943-n,genus Andrena,02213079-n,"andrena, andrenid, mining bee",TRUE
+02213935-n,"Megachile, genus Megachile",02214096-n,"leaf-cutting bee, leaf-cutter, leaf-cutter bee",TRUE
+02214425-n,"Anthidium, genus Anthidium",02214548-n,potter bee,TRUE
+02216855-n,"Eumenes, genus Eumenes",02216993-n,mason wasp,TRUE
+02216855-n,"Eumenes, genus Eumenes",02217151-n,potter wasp,TRUE
+02218148-n,"Sceliphron, genus Sceliphron",02218273-n,mason wasp,TRUE
+02220649-n,"Chalcis, genus Chalcis",02220786-n,chalcis fly,TRUE
+02223328-n,"Camponotus, genus Camponotus",02223456-n,carpenter ant,TRUE
+02223612-n,"Solenopsis, genus Solenopsis",02223735-n,fire ant,TRUE
+02224851-n,"Myrmecia, genus Myrmecia",02224973-n,bulldog ant,TRUE
+02230082-n,"Melanoplus, genus Melanoplus",02230256-n,migratory grasshopper,TRUE
+02230867-n,"Microcentrum, genus Microcentrum",02230993-n,katydid,TRUE
+02233007-n,"Oecanthus, genus Oecanthus",02233132-n,tree cricket,TRUE
+02234738-n,"Phyllium, genus Phyllium",02234875-n,"walking leaf, leaf insect",TRUE
+02237730-n,"Blaberus, genus Blaberus",02237857-n,giant cockroach,TRUE
+02238563-n,genus Mantis,02238696-n,"mantis, mantid",TRUE
+02240765-n,"Lygus, genus Lygus",02240887-n,lygus bug,TRUE
+02242586-n,"Leptoglossus, genus Leptoglossus",02242720-n,"leaf-footed bug, leaf-foot bug",TRUE
+02245717-n,"Corixa, genus Corixa",02245861-n,"water boatman, boat bug",TRUE
+02247048-n,"Triatoma, genus Triatoma",02247167-n,"conenose, cone-nosed bug, conenose bug, big bedbug, kissing bug",TRUE
+02247891-n,"Dysdercus, genus Dysdercus",02248095-n,cotton stainer,TRUE
+02250015-n,"Bemisia, genus Bemisia",02250163-n,sweet-potato whitefly,TRUE
+02259534-n,"Tibicen, genus Tibicen",02259655-n,"dog-day cicada, harvest fly",TRUE
+02261006-n,"Aphrophora, genus Aphrophora",02261160-n,pine spittlebug,TRUE
+02266500-n,"Myrmeleon, genus Myrmeleon",02266673-n,"ant lion, antlion, antlion fly",FALSE
+02266500-n,"Myrmeleon, genus Myrmeleon",02266884-n,"doodlebug, ant lion, antlion",FALSE
+02268512-n,"Corydalus, genus Corydalus, Corydalis, genus Corydalis",02268921-n,"hellgrammite, dobson",TRUE
+02278024-n,"Nymphalis, genus Nymphalis",02278425-n,"tortoiseshell, tortoiseshell butterfly",TRUE
+02280995-n,"Spyeria, genus Spyeria",02281115-n,silverspot,TRUE
+02281356-n,"Apatura, genus Apatura",02281491-n,"emperor butterfly, emperor",TRUE
+02284639-n,"Lycaena, genus Lycaena",02284909-n,blue,FALSE
+02284639-n,"Lycaena, genus Lycaena",02285037-n,copper,FALSE
+02285368-n,"Strymon, genus Strymon",02285555-n,"hairstreak, hairstreak butterfly",TRUE
+02289856-n,"Paleacrita, genus Paleacrita",02290639-n,spring cankerworm,TRUE
+02290128-n,"Alsophila, genus Alsophila",02290774-n,fall cankerworm,TRUE
+02298369-n,"Catacala, genus Catacala",02298522-n,underwing,TRUE
+02303030-n,"Bombyx, genus Bombyx",02303449-n,silkworm,TRUE
+02309324-n,"Lasiocampa, genus Lasiocampa",02309477-n,"eggar, egger",TRUE
+02309659-n,"Malacosoma, genus Malacosoma",02309977-n,tent caterpillar,TRUE
+01874885-n,"Tachyglossus, genus Tachyglossus",01875042-n,"echidna, spiny anteater, anteater",TRUE
+01875276-n,"Zaglossus, genus Zaglossus",01875413-n,"echidna, spiny anteater, anteater",TRUE
+01877806-n,"Didelphis, genus Didelphis",01878251-n,crab-eating opossum,TRUE
+01878521-n,"Caenolestes, genus Caenolestes",01878675-n,opossum rat,TRUE
+01880844-n,"Lagorchestes, genus Lagorchestes",01880976-n,"hare wallaby, kangaroo hare",TRUE
+01881141-n,"Onychogalea, genus Onychogalea",01881280-n,"nail-tailed wallaby, nail-tailed kangaroo",TRUE
+01881444-n,"Petrogale, genus Petrogale",01881570-n,"rock wallaby, rock kangaroo",TRUE
+01881736-n,"Thylogale, genus Thylogale",01881858-n,"pademelon, paddymelon",TRUE
+01882020-n,"Dendrolagus, genus Dendrolagus",01882150-n,"tree wallaby, tree kangaroo",TRUE
+01882996-n,"Potorous, genus Potorous",01883114-n,potoroo,TRUE
+01883211-n,"Bettongia, genus Bettongia",01883357-n,bettong,TRUE
+01883211-n,"Bettongia, genus Bettongia",01883454-n,"jerboa kangaroo, kangaroo jerboa",FALSE
+01884057-n,genus Phalanger,01884205-n,cuscus,TRUE
+01884632-n,"Petaurus, genus Petaurus",01884766-n,"flying phalanger, flying opossum, flying squirrel",TRUE
+01885013-n,"Acrobates, genus Acrobates",01885149-n,flying mouse,TRUE
+01886403-n,"Dasyurus, genus Dasyurus",01886561-n,dasyure,TRUE
+01887673-n,"Phascogale, genus Phascogale",01887799-n,"pouched mouse, marsupial mouse, marsupial rat",TRUE
+01893052-n,"Chrysochloris, genus Chrysochloris",01893205-n,golden mole,TRUE
+01893359-n,"Uropsilus, genus Uropsilus",01893501-n,shrew mole,TRUE
+02072221-n,"Tursiops, genus Tursiops",02072353-n,"bottlenose dolphin, bottle-nosed dolphin, bottlenose",TRUE
+02072963-n,"Phocoena, genus Phocoena",02073082-n,porpoise,TRUE
+02079675-n,"Arctocephalus, genus Arctocephalus",02079804-n,fur seal,TRUE
+02080185-n,"Callorhinus, genus Callorhinus",02080310-n,fur seal,TRUE
+02082943-n,"Mirounga, genus Mirounga",02083067-n,"elephant seal, sea elephant",TRUE
+02084075-n,"Odobenus, genus Odobenus",02084223-n,"walrus, seahorse, sea horse",TRUE
+02086515-n,"Canis, genus Canis",02116752-n,wolf,FALSE
+02086515-n,"Canis, genus Canis",02117748-n,jackal,FALSE
+02123886-n,"Felis, genus Felis",02127275-n,wildcat,FALSE
+02129603-n,genus Lynx,02129704-n,"lynx, catamount",TRUE
+02133728-n,"Nimravus, genus Nimravus",02133863-n,false saber-toothed tiger,TRUE
+02140080-n,"Herpestes, genus Herpestes",02140201-n,mongoose,TRUE
+02140694-n,"Paradoxurus, genus Paradoxurus",02140821-n,"palm cat, palm civet",TRUE
+02140975-n,"Suricata, genus Suricata",02141093-n,"meerkat, mierkat",TRUE
+02142566-n,"Pteropus, genus Pteropus",02142701-n,flying fox,TRUE
+02143009-n,"Nyctimene, genus Nyctimene",02143143-n,"harpy, harpy bat, tube-nosed bat, tube-nosed fruit bat",TRUE
+02145227-n,"Phyllostomus, genus Phyllostomus",02145386-n,spearnose bat,TRUE
+02146411-n,"Hipposideros, genus Hipposideros",02146543-n,horseshoe bat,TRUE
+02151350-n,"Plecotus, genus Plecotus",02151487-n,long-eared bat,TRUE
+02151949-n,"Tadarida, genus Tadarida",02152072-n,"freetail, free-tailed bat, freetailed bat",TRUE
+02152668-n,"Eumops, genus Eumops",02152786-n,mastiff bat,TRUE
+02327863-n,"Sylvilagus, genus Sylvilagus",02328018-n,"wood rabbit, cottontail, cottontail rabbit",TRUE
+02328889-n,"Lepus, genus Lepus",02329084-n,hare,TRUE
+02328889-n,"Lepus, genus Lepus",02329680-n,jackrabbit,TRUE
+02335258-n,"Apodemus, genus Apodemus",02335407-n,"field mouse, fieldmouse",TRUE
+02336731-n,"Nesokia, genus Nesokia",02336853-n,"bandicoot rat, mole rat",TRUE
+02336989-n,"Conilurus, genus Conilurus",02337112-n,jerboa rat,TRUE
+02337261-n,"Notomys, genus Notomys",02337380-n,kangaroo mouse,TRUE
+02337659-n,"Hydromys, genus Hydromys",02337883-n,beaver rat,TRUE
+02338781-n,"Reithrodontomys, genus Reithrodontomys",02338927-n,"American harvest mouse, harvest mouse",TRUE
+02340426-n,"Onychomys, genus Onychomys",02340554-n,grasshopper mouse,TRUE
+02344761-n,"Clethrionomys, genus Clethrionomys",02344902-n,"red-backed mouse, redback vole",TRUE
+02345065-n,genus Phenacomys,02345186-n,phenacomys,TRUE
+02345379-n,"Cricetus, genus Cricetus",02345537-n,hamster,TRUE
+02346658-n,"Meriones, genus Meriones",02346827-n,jird,TRUE
+02347865-n,"Myopus, genus Myopus",02347992-n,"grey lemming, gray lemming, red-backed lemming",TRUE
+02348123-n,"Dicrostonyx, genus Dicrostonyx",02348252-n,pied lemming,TRUE
+02349792-n,"Atherurus, genus Atherurus",02349926-n,"brush-tailed porcupine, brush-tail porcupine",TRUE
+02353189-n,"Microdipodops, genus Microdipodops",02353322-n,"kangaroo mouse, dwarf pocket rat",TRUE
+02354338-n,"Dipus, genus Dipus",02354654-n,typical jerboa,TRUE
+02355949-n,"Eliomys, genus Eliomys",02356063-n,lerot,TRUE
+02358760-n,"Sciurus, genus Sciurus",02358129-n,tree squirrel,FALSE
+02358760-n,"Sciurus, genus Sciurus",02359629-n,black squirrel,FALSE
+02360393-n,"Citellus, genus Citellus, Spermophilus, genus Spermophilus",02360743-n,"ground squirrel, gopher, spermophile",TRUE
+02361856-n,"Cynomys, genus Cynomys",02361976-n,"prairie dog, prairie marmot",TRUE
+02362787-n,"Eutamias, genus Eutamias",02362934-n,chipmunk,TRUE
+02363295-n,"Glaucomys, genus Glaucomys",02363433-n,American flying squirrel,TRUE
+02363874-n,"Marmota, genus Marmota",02363989-n,marmot,TRUE
+02365514-n,"Castor, genus Castor",02365657-n,beaver,TRUE
+02367029-n,"Cavia, genus Cavia",02367172-n,cavy,TRUE
+02369105-n,"Stictomys, genus Stictomys",02369231-n,mountain paca,TRUE
+02370330-n,"Lagidium, genus Lagidium",02370464-n,"mountain chinchilla, mountain viscacha",TRUE
+02370932-n,"Abrocoma, genus Abrocoma",02371051-n,"abrocome, chinchilla rat, rat chinchilla",TRUE
+02371339-n,"Spalax, genus Spalax",02371473-n,mole rat,TRUE
+02371822-n,"Bathyergus, genus Bathyergus",02371945-n,mole rat,TRUE
+02372076-n,"Heterocephalus, genus Heterocephalus",02372207-n,sand rat,TRUE
+02374453-n,"Uintatherium, genus Uintatherium",02374792-n,"dinoceras, uintathere",TRUE
+02376495-n,"Equus, genus Equus",02391998-n,ass,FALSE
+02376495-n,"Equus, genus Equus",02392753-n,mule,FALSE
+02376495-n,"Equus, genus Equus",02392910-n,hinny,FALSE
+02376495-n,"Equus, genus Equus",02393106-n,wild ass,FALSE
+02376495-n,"Equus, genus Equus",02393701-n,zebra,FALSE
+02378244-n,"Hyracotherium, genus Hyracotherium",02378514-n,"eohippus, dawn horse",TRUE
+02378668-n,genus Mesohippus,02378787-n,mesohippus,TRUE
+02378955-n,genus Protohippus,02379075-n,protohippus,TRUE
+02396097-n,"Tapirus, genus Tapirus",02396232-n,tapir,TRUE
+02397896-n,"Sus, genus Sus",02398346-n,"piglet, piggy, shoat, shote",TRUE
+02399622-n,"Phacochoerus, genus Phacochoerus",02399748-n,warthog,TRUE
+02400029-n,"Tayassu, genus Tayassu, genus Pecari",02400181-n,"peccary, musk hog",TRUE
+02404313-n,"Bos, genus Bos",02404662-n,bovine,TRUE
+02404313-n,"Bos, genus Bos",02404827-n,"ox, wild ox",FALSE
+02404313-n,"Bos, genus Bos",02405655-n,ox,FALSE
+02404313-n,"Bos, genus Bos",02407558-n,zebu,FALSE
+02412348-n,"Bibos, genus Bibos",02404827-n,"ox, wild ox",TRUE
+02412348-n,"Bibos, genus Bibos",02412516-n,Asian wild ox,FALSE
+02412959-n,genus Bison,02413155-n,bison,TRUE
+02414073-n,"Ovis, genus Ovis",02414351-n,sheep,TRUE
+02414073-n,"Ovis, genus Ovis",02414856-n,wether,FALSE
+02414073-n,"Ovis, genus Ovis",02415086-n,lamb,FALSE
+02419056-n,"Capra, genus Capra",02419165-n,"goat, caprine animal",TRUE
+02421580-n,"Capricornis, genus Capricornis",02421702-n,serow,TRUE
+02423954-n,"Connochaetes, genus Connochaetes",02424095-n,"gnu, wildebeest",TRUE
+02424258-n,"Madoqua, genus Madoqua",02424438-n,dik-dik,TRUE
+02424608-n,"Alcelaphus, genus Alcelaphus",02424752-n,hartebeest,TRUE
+02425506-n,"Gazella, genus Gazella",02425668-n,gazelle,TRUE
+02426433-n,"Tragelaphus, genus Tragelaphus, Strepsiceros, genus Strepsiceros",02426951-n,"kudu, koodoo, koudou",TRUE
+02426433-n,"Tragelaphus, genus Tragelaphus, Strepsiceros, genus Strepsiceros",02427341-n,harnessed antelope,TRUE
+02429280-n,"Taurotragus, genus Taurotragus",02429459-n,eland,TRUE
+02429983-n,"Kobus, genus Kobus",02430370-n,waterbuck,TRUE
+02430875-n,genus Oryx,02430995-n,"oryx, pasang",TRUE
+02437229-n,"Mazama, genus Mazama",02437343-n,brocket,TRUE
+02437465-n,"Muntiacus, genus Muntiacus",02437585-n,"muntjac, barking deer",TRUE
+02439624-n,"Camelus, genus Camelus",02439767-n,camel,TRUE
+02444354-n,"Mustela, genus Mustela",02444573-n,weasel,FALSE
+02444354-n,"Mustela, genus Mustela",02445476-n,mink,FALSE
+02446314-n,"Poecilogale, genus Poecilogale",02446439-n,muishond,TRUE
+02447278-n,"Lutra, genus Lutra",02447450-n,otter,TRUE
+02451133-n,"Melogale, genus Melogale",02451264-n,ferret badger,TRUE
+02452552-n,"Martes, genus Martes",02452665-n,"marten, marten cat",TRUE
+02461306-n,"Megatherium, genus Megatherium",02461453-n,"ground sloth, megathere",TRUE
+02461944-n,genus Mylodon,02462116-n,mylodon,TRUE
+02464332-n,"Manis, genus Manis",02464461-n,"pangolin, scaly anteater, anteater",TRUE
+02474643-n,genus Homo,02474924-n,"homo, man, human being, human",TRUE
+02474643-n,genus Homo,02478300-n,"Homo sapiens sapiens, modern man",FALSE
+02478452-n,"genus Australopithecus, Australopithecus",02478850-n,australopithecine,TRUE
+02480521-n,"Dryopithecus, genus Dryopithecus",02480708-n,dryopithecine,TRUE
+02480521-n,"Dryopithecus, genus Dryopithecus",02480870-n,"rudapithecus, Dryopithecus Rudapithecus hungaricus",TRUE
+02481293-n,genus Proconsul,02481506-n,proconsul,TRUE
+02483304-n,genus Gorilla,02483734-n,"western lowland gorilla, Gorilla gorilla gorilla",FALSE
+02483304-n,genus Gorilla,02483866-n,"eastern lowland gorilla, Gorilla gorilla grauri",FALSE
+02483304-n,genus Gorilla,02483997-n,"mountain gorilla, Gorilla gorilla beringei",FALSE
+02483304-n,genus Gorilla,02484131-n,silverback,FALSE
+02487444-n,"Cercopithecus, genus Cercopithecus",02487606-n,"guenon, guenon monkey",TRUE
+02488496-n,"Cercocebus, genus Cercocebus",02488619-n,mangabey,TRUE
+02489848-n,"Macaca, genus Macaca",02489978-n,macaque,TRUE
+02490780-n,"Presbytes, genus Presbytes, mammal Semnopithecus",02490922-n,langur,TRUE
+02491209-n,genus Colobus,02491333-n,"colobus, colobus monkey",TRUE
+02493066-n,"Callithrix, genus Callithrix",02493228-n,true marmoset,TRUE
+02493595-n,"Leontocebus, genus Leontocebus, genus Leontideus",02493738-n,"tamarin, lion monkey, lion marmoset, leoncita",TRUE
+02495167-n,"Alouatta, genus Alouatta",02495291-n,"howler monkey, howler",TRUE
+02495464-n,"Pithecia, genus Pithecia",02495579-n,saki,TRUE
+02495740-n,"Cacajao, genus Cacajao",02495855-n,uakari,TRUE
+02496021-n,"Callicebus, genus Callicebus",02496140-n,"titi, titi monkey",TRUE
+02496888-n,"Lagothrix, genus Lagothrix",02497014-n,woolly monkey,TRUE
+02498077-n,"Ptilocercus, genus Ptilocercus",02498201-n,"pentail, pen-tail, pen-tailed tree shrew",TRUE
+02502331-n,genus Galago,02502439-n,"galago, bushbaby, bush baby",TRUE
+02504063-n,"Tarsius, genus Tarsius",02504214-n,tarsier,TRUE
+02504988-n,"Cynocephalus, genus Cynocephalus",02505145-n,"flying lemur, flying cat, colugo",TRUE
+02507266-n,"Mammuthus, genus Mammuthus",02507401-n,mammoth,TRUE
+02508440-n,"Mammut, genus Mammut, genus Mastodon",02508629-n,"mastodon, mastodont",TRUE
+02509261-n,"Gomphotherium, genus Gomphotherium",02509414-n,gomphothere,TRUE
+02510494-n,"Procyon, genus Procyon",02510652-n,"raccoon, racoon",TRUE
+01910543-n,"Euplectella, genus Euplectella",01910683-n,Venus's flower basket,TRUE
+01914691-n,genus Hydra,01914793-n,hydra,TRUE
+01915329-n,genus Nanomia,01915450-n,nanomia,TRUE
+01916174-n,"Sertularia, genus Sertularia",01916332-n,sertularian,TRUE
+01918182-n,"Pennatula, genus Pennatula",01918341-n,sea pen,TRUE
+01919808-n,"Maeandra, genus Maeandra",01919930-n,brain coral,TRUE
+01920075-n,"Acropora, genus Acropora",01920252-n,"staghorn coral, stag's-horn coral",TRUE
+01921899-n,genus Beroe,01922026-n,beroe,TRUE
+01922943-n,"Pleurobrachia, genus Pleurobrachia",01923079-n,sea gooseberry,TRUE
+01926792-n,genus Sagitta,01926950-n,sagitta,TRUE
+01929629-n,"Schistosoma, genus Schistosoma",01929800-n,"schistosome, blood fluke",TRUE
+01930457-n,genus Echinococcus,01930569-n,echinococcus,TRUE
+01930714-n,genus Taenia,01930856-n,taenia,TRUE
+01940063-n,"Polycirrus, genus Polycirrus",01940220-n,bloodworm,TRUE
+01941259-n,"Haemopis, genus Haemopis",01941376-n,horseleech,TRUE
+01945365-n,"Haliotis, genus Haliotis",01945510-n,"abalone, ear-shell",TRUE
+01946008-n,"Lambis, genus Lambis",01946182-n,scorpion shell,TRUE
+01946395-n,"Strombus, genus Strombus",01946540-n,conch,TRUE
+01947258-n,"Helix, genus Helix",01947596-n,garden snail,TRUE
+01949128-n,genus Nerita,01949271-n,nerita,TRUE
+01949661-n,genus Neritina,01949780-n,neritina,TRUE
+01950925-n,"Littorina, genus Littorina",01951087-n,"periwinkle, winkle",TRUE
+01954486-n,"Haminoea, genus Haminoea",01954670-n,bubble shell,TRUE
+01955198-n,genus Physa,01955353-n,physa,TRUE
+01955838-n,"Cypraea, genus Cypraea",01956002-n,"cowrie, cowry",TRUE
+01957603-n,genus Chiton,01957725-n,"chiton, coat-of-mail shell, sea cradle, polyplacophore",TRUE
+01961555-n,"Ensis, genus Ensis",01961670-n,"razor clam, jackknife clam, knife-handle",TRUE
+01962475-n,"Cardium, genus Cardium",01962626-n,cockle,TRUE
+01963541-n,"Ostrea, genus Ostrea",01963700-n,"bluepoint, blue point",TRUE
+01965777-n,"Arca, genus Arca",01965958-n,ark shell,TRUE
+01965777-n,"Arca, genus Arca",01966120-n,blood clam,TRUE
+01967462-n,"Unio, genus Unio",01967598-n,pearly-shelled mussel,TRUE
+01967752-n,"Anodonta, genus Anodonta",01967893-n,thin-shelled mussel,TRUE
+01969602-n,genus Teredo,01969949-n,teredo,TRUE
+01970453-n,"Pholas, genus Pholas",01970604-n,piddock,TRUE
+01971373-n,genus Nautilus,01971538-n,"chambered nautilus, pearly nautilus, nautilus",TRUE
+01972671-n,genus Octopus,01972805-n,"octopus, devilfish",TRUE
+01974158-n,genus Loligo,01974261-n,loligo,TRUE
+01974369-n,genus Ommastrephes,01974491-n,ommastrephes,TRUE
+01975052-n,"Sepia, genus Sepia",01975182-n,"cuttlefish, cuttle",TRUE
+02322991-n,"Ptilocrinus, genus Ptilocrinus",02323117-n,sea lily,TRUE
+02323540-n,"Antedon, genus Antedon",02323822-n,"feather star, comatulid",TRUE
