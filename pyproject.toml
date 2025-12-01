@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "open-english-termnet"
+version = "0.1.0"
+description = ""
+authors = ["John McCrae <john@mccr.ae>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+wn = "^0.13.0"
+pyyaml = "^6.0.2"
+tqdm = "^4.67.1"
+editdistance = "^0.8.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

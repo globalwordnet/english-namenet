@@ -1,2 +1,6 @@
 oenn
 open_english_termnet/__pycache__
+changes.yaml
+poetry.lock
+*.pickle
+wikidata_db/latest-all.json.bz2
