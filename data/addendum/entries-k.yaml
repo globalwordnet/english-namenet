@@ -1,0 +1,105 @@
+Kafkaesque:
+  a:
+    sense:
+    - id: 'kafkaesque%3:01:00::'
+      pertainym:
+      - 'kafka%1:18:00::'
+Kampuchean:
+  a:
+    sense:
+    - derivation:
+      - 'kampuchea%1:15:00::'
+      id: 'kampuchean%3:01:00::'
+    - id: 'kampuchean%3:01:00::'
+      pertainym:
+      - 'cambodia%1:15:00::'
+Kantian:
+  a:
+    sense:
+    - derivation:
+      - 'kant%1:18:00::'
+      id: 'kantian%3:01:00::'
+    - id: 'kantian%3:01:00::'
+      pertainym:
+      - 'kant%1:18:00::'
+Kashmiri:
+  a:
+    sense:
+    - id: 'kashmiri%3:01:00::'
+      pertainym:
+      - 'kashmir%1:15:00::'
+Katari:
+  a:
+    sense:
+    - id: 'katari%3:01:00::'
+      pertainym:
+      - 'qatar%1:15:00::'
+Kazakhstani:
+  a:
+    sense:
+    - id: 'kazakhstani%3:01:00::'
+      pertainym:
+      - 'kazakhstan%1:15:00::'
+Kenyan:
+  a:
+    sense:
+    - derivation:
+      - 'kenya%1:15:00::'
+      id: 'kenyan%3:01:00::'
+    - id: 'kenyan%3:01:00::'
+      pertainym:
+      - 'kenya%1:15:00::'
+Keynesian:
+  a:
+    sense:
+    - derivation:
+      - 'keynes%1:18:00::'
+      id: 'keynesian%3:01:00::'
+    - id: 'keynesian%3:01:00::'
+      pertainym:
+      - 'keynes%1:18:00::'
+Kiplingesque:
+  a:
+    sense:
+    - id: 'kiplingesque%3:01:00::'
+      pertainym:
+      - 'kipling%1:18:00::'
+Koranic:
+  a:
+    sense:
+    - derivation:
+      - 'koran%1:10:00::'
+      id: 'koranic%3:01:00::'
+    - id: 'koranic%3:01:00::'
+      pertainym:
+      - 'koran%1:10:00::'
+Korean:
+  a:
+    sense:
+    - derivation:
+      - 'korea%1:15:00::'
+      id: 'korean%3:01:00::'
+    - id: 'korean%3:01:00::'
+      pertainym:
+      - 'korea%1:15:00::'
+Kurdish:
+  a:
+    sense:
+    - id: 'kurdish%3:01:00::'
+      pertainym:
+      - 'kurdistan%1:15:00::'
+Kuwaiti:
+  a:
+    sense:
+    - id: 'kuwaiti%3:01:01::'
+      pertainym:
+      - 'kuwait%1:15:00::'
+    - id: 'kuwaiti%3:01:00::'
+      pertainym:
+      - 'kuwait%1:15:01::'
+Kyrgyzstani:
+  a:
+    sense:
+    - id: 'kyrgyzstani%3:01:00::'
+      pertainym:
+      - 'kyrgyzstan%1:15:00::'

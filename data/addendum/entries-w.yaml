@@ -1,0 +1,84 @@
+Wagnerian:
+  a:
+    sense:
+    - derivation:
+      - 'wagner%1:18:00::'
+      id: 'wagnerian%3:01:00::'
+    - id: 'wagnerian%3:01:00::'
+      pertainym:
+      - 'wagner%1:18:00::'
+Washingtonian:
+  a:
+    sense:
+    - derivation:
+      - 'washington%1:18:00::'
+      id: 'washingtonian%3:01:03::'
+    - id: 'washingtonian%3:01:03::'
+      pertainym:
+      - 'washington%1:18:00::'
+    - derivation:
+      - 'washington%1:14:00::'
+      id: 'washingtonian%3:01:02::'
+    - id: 'washingtonian%3:01:02::'
+      pertainym:
+      - 'washington%1:14:00::'
+    - derivation:
+      - 'washington%1:15:01::'
+      id: 'washingtonian%3:01:01::'
+    - id: 'washingtonian%3:01:01::'
+      pertainym:
+      - 'washington%1:15:01::'
+    - derivation:
+      - 'washington%1:15:00::'
+      id: 'washingtonian%3:01:00::'
+    - id: 'washingtonian%3:01:00::'
+      pertainym:
+      - 'washington%1:15:00::'
+Welsh:
+  a:
+    sense:
+    - id: 'welsh%3:01:00::'
+      pertainym:
+      - 'wales%1:15:00::'
+Wesleyan:
+  a:
+    sense:
+    - derivation:
+      - 'wesley%1:18:00::'
+      id: 'wesleyan%3:01:00::'
+West African:
+  a:
+    sense:
+    - id: 'west_african%3:01:00::'
+      pertainym:
+      - 'west_africa%1:15:00::'
+Wilsonian:
+  a:
+    sense:
+    - derivation:
+      - 'wilson%1:18:00::'
+      id: 'wilsonian%3:01:00::'
+    - id: 'wilsonian%3:01:00::'
+      pertainym:
+      - 'wilson%1:18:00::'
+Wittgensteinian:
+  a:
+    sense:
+    - id: 'wittgensteinian%3:01:00::'
+      pertainym:
+      - 'wittgenstein%1:18:00::'
+Wordsworthian:
+  a:
+    sense:
+    - derivation:
+      - 'wordsworth%1:18:00::'
+      id: 'wordsworthian%3:01:00::'
+    - id: 'wordsworthian%3:01:00::'
+      pertainym:
+      - 'wordsworth%1:18:00::'
+wade:
+  v:
+    sense:
+    - derivation:
+      - 'wade%1:18:00::'
+      id: 'wade%2:38:00::'

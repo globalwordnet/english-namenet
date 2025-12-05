@@ -1,0 +1,12 @@
+Qatari:
+  a:
+    sense:
+    - id: 'qatari%3:01:00::'
+      pertainym:
+      - 'qatar%1:15:00::'
+Quebecois:
+  a:
+    sense:
+    - id: 'quebecois%3:01:00::'
+      pertainym:
+      - 'quebec%1:15:00::'

@@ -1,0 +1,238 @@
+East African:
+  a:
+    sense:
+    - derivation:
+      - 'east_africa%1:15:00::'
+      id: 'east_african%3:01:00::'
+    - id: 'east_african%3:01:00::'
+      pertainym:
+      - 'east_africa%1:15:00::'
+East German:
+  a:
+    sense:
+    - id: 'east_german%3:01:00::'
+      pertainym:
+      - 'east_germany%1:15:00::'
+East Indian:
+  a:
+    sense:
+    - derivation:
+      - 'east_india%1:15:00::'
+      id: 'east_indian%3:01:00::'
+    - id: 'east_indian%3:01:00::'
+      pertainym:
+      - 'east_indies%1:15:00::'
+East Pakistani:
+  a:
+    sense:
+    - id: 'east_pakistani%3:01:00::'
+      pertainym:
+      - 'bangladesh%1:15:00::'
+Ecuadorian:
+  a:
+    sense:
+    - derivation:
+      - 'ecuador%1:15:00::'
+      id: 'ecuadorian%3:01:00::'
+    - id: 'ecuadorian%3:01:00::'
+      pertainym:
+      - 'ecuador%1:15:00::'
+Edwardian:
+  a:
+    sense:
+    - derivation:
+      - 'edward%1:18:09::'
+      id: 'edwardian%3:01:00::'
+    - id: 'edwardian%3:01:00::'
+      pertainym:
+      - 'edward_vii%1:18:00::'
+Egyptian:
+  a:
+    sense:
+    - derivation:
+      - 'egypt%1:15:01::'
+      - 'egypt%1:15:00::'
+      id: 'egyptian%3:01:00::'
+    - id: 'egyptian%3:01:00::'
+      pertainym:
+      - 'egypt%1:15:00::'
+Einsteinian:
+  a:
+    sense:
+    - derivation:
+      - 'einstein%1:18:00::'
+      id: 'einsteinian%3:01:00::'
+    - id: 'einsteinian%3:01:00::'
+      pertainym:
+      - 'einstein%1:18:00::'
+Elizabethan:
+  a:
+    sense:
+    - derivation:
+      - 'elizabeth_i%1:18:00::'
+      id: 'elizabethan%3:01:00::'
+    - id: 'elizabethan%3:01:00::'
+      pertainym:
+      - 'elizabeth%1:18:01::'
+      - 'elizabethan_age%1:28:00::'
+English:
+  a:
+    sense:
+    - derivation:
+      - 'england%1:15:00::'
+      id: 'english%3:01:00::'
+    - id: 'english%3:01:00::'
+      pertainym:
+      - 'england%1:15:00::'
+Ephesian:
+  a:
+    sense:
+    - id: 'ephesian%3:01:00::'
+      pertainym:
+      - 'ephesus%1:15:00::'
+Epicurean:
+  a:
+    sense:
+    - id: 'epicurean%3:01:00::'
+      pertainym:
+      - 'epicurus%1:18:00::'
+Erasmian:
+  a:
+    sense:
+    - derivation:
+      - 'erasmus%1:18:00::'
+      id: 'erasmian%3:01:00::'
+    - id: 'erasmian%3:01:00::'
+      pertainym:
+      - 'erasmus%1:18:00::'
+Eritrean:
+  a:
+    sense:
+    - derivation:
+      - 'eritrea%1:15:00::'
+      id: 'eritrean%3:01:00::'
+    - id: 'eritrean%3:01:00::'
+      pertainym:
+      - 'eritrea%1:15:00::'
+Estonian:
+  a:
+    sense:
+    - derivation:
+      - 'estonia%1:15:00::'
+      id: 'estonian%3:01:00::'
+    - id: 'estonian%3:01:00::'
+      pertainym:
+      - 'estonia%1:15:00::'
+Ethiopian:
+  a:
+    sense:
+    - derivation:
+      - 'ethiopia%1:15:00::'
+      id: 'ethiopian%3:01:00::'
+    - id: 'ethiopian%3:01:00::'
+      pertainym:
+      - 'ethiopia%1:15:00::'
+Eurafrican:
+  a:
+    sense:
+    - id: 'eurafrican%3:01:00::'
+      pertainym:
+      - 'europe%1:17:00::'
+      - 'africa%1:17:00::'
+Eurasian:
+  a:
+    sense:
+    - derivation:
+      - 'eurasia%1:17:00::'
+      id: 'eurasian%3:01:00::'
+    - id: 'eurasian%3:01:00::'
+      pertainym:
+      - 'eurasia%1:17:00::'
+Eurasiatic:
+  a:
+    sense:
+    - derivation:
+      - 'eurasia%1:17:00::'
+      id: 'eurasiatic%3:01:00::'
+    - id: 'eurasiatic%3:01:00::'
+      pertainym:
+      - 'eurasia%1:17:00::'
+European:
+  a:
+    sense:
+    - derivation:
+      - 'europe%1:17:00::'
+      id: 'european%3:01:00::'
+    - id: 'european%3:01:00::'
+      pertainym:
+      - 'europe%1:17:00::'
+earthling:
+  n:
+    sense:
+    - derivation:
+      - 'earth%1:17:00::'
+      - 'earth%1:17:02::'
+      id: 'earthling%1:18:00::'
+eolithic:
+  a:
+    sense:
+    - id: 'eolithic%3:01:00::'
+      pertainym:
+      - 'eolithic_age%1:28:00::'
+equine:
+  a:
+    sense:
+    - id: 'equine%3:01:01::'
+      pertainym:
+      - 'equidae%1:05:00::'
+erotic:
+  a:
+    sense:
+    - derivation:
+      - 'eros%1:18:00::'
+      id: erotic%5:00:00:sexy:00
+euclidean:
+  a:
+    sense:
+    - derivation:
+      - 'euclid%1:18:00::'
+      id: 'euclidean%3:01:00::'
+    - id: 'euclidean%3:01:00::'
+      pertainym:
+      - 'euclid%1:18:00::'
+euclidian:
+  a:
+    sense:
+    - derivation:
+      - 'euclid%1:18:00::'
+      id: 'euclidian%3:01:00::'
+    - id: 'euclidian%3:01:00::'
+      pertainym:
+      - 'euclid%1:18:00::'
+eutherian:
+  a:
+    sense:
+    - derivation:
+      - 'eutheria%1:05:00::'
+      id: 'eutherian%3:01:00::'
+    - id: 'eutherian%3:01:00::'
+      pertainym:
+      - 'eutheria%1:05:00::'
+even-toed:
+  a:
+    sense:
+    - id: 'even-toed%3:01:00::'
+      pertainym:
+      - 'order_artiodactyla%1:05:00::'
+evert:
+  v:
+    sense:
+    - derivation:
+      - 'evert%1:18:00::'
+      id: 'evert%2:38:00::'
+extraterrestrial:
+  a:
+    sense:
+    - id: 'extraterrestrial%3:01:00::'
+      pertainym:
+      - 'earth%1:17:00::'

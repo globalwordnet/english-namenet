@@ -1,0 +1,215 @@
+Hadean:
+  a:
+    sense:
+    - derivation:
+      - 'hades%1:18:00::'
+      id: hadean%5:00:00:infernal:00
+Haitian:
+  a:
+    sense:
+    - derivation:
+      - 'haiti%1:15:00::'
+      id: 'haitian%3:01:00::'
+    - id: 'haitian%3:01:00::'
+      pertainym:
+      - 'haiti%1:15:00::'
+Handelian:
+  a:
+    sense:
+    - derivation:
+      - 'handel%1:18:00::'
+      id: 'handelian%3:01:00::'
+    - id: 'handelian%3:01:00::'
+      pertainym:
+      - 'handel%1:18:00::'
+Hawaiian:
+  a:
+    sense:
+    - derivation:
+      - 'hawaii%1:15:01::'
+      - 'hawaii%1:15:00::'
+      id: 'hawaiian%3:01:00::'
+    - id: 'hawaiian%3:01:00::'
+      pertainym:
+      - 'hawaii%1:15:00::'
+      - 'hawaii%1:15:01::'
+Hebridean:
+  a:
+    sense:
+    - derivation:
+      - 'hebrides%1:15:00::'
+      id: 'hebridean%3:01:00::'
+    - id: 'hebridean%3:01:00::'
+      pertainym:
+      - 'hebrides%1:15:00::'
+Hegelian:
+  a:
+    sense:
+    - derivation:
+      - 'hegel%1:18:00::'
+      id: 'hegelian%3:01:00::'
+    - id: 'hegelian%3:01:00::'
+      pertainym:
+      - 'hegel%1:18:00::'
+Hellenic:
+  a:
+    sense:
+    - id: 'hellenic%3:01:01::'
+      pertainym:
+      - 'greece%1:15:00::'
+Hemingwayesque:
+  a:
+    sense:
+    - id: 'hemingwayesque%3:01:00::'
+      pertainym:
+      - 'hemingway%1:18:00::'
+Hertzian:
+  a:
+    sense:
+    - derivation:
+      - 'hertz%1:18:01::'
+      id: 'hertzian%3:01:00::'
+    - id: 'hertzian%3:01:00::'
+      pertainym:
+      - 'hertz%1:18:00::'
+Highlander:
+  n:
+    sense:
+    - derivation:
+      - 'highlands%1:15:00::'
+      id: 'highlander%1:18:01::'
+    - derivation:
+      - 'highlands%1:15:00::'
+      id: 'highlander%1:18:00::'
+Himalayan:
+  a:
+    sense:
+    - derivation:
+      - 'himalayas%1:17:00::'
+      id: 'himalayan%3:01:00::'
+    - id: 'himalayan%3:01:00::'
+      pertainym:
+      - 'himalayas%1:17:00::'
+Hindustani:
+  a:
+    sense:
+    - id: 'hindustani%3:01:00::'
+      pertainym:
+      - 'hindustan%1:15:00::'
+Hippocratic:
+  a:
+    sense:
+    - derivation:
+      - 'hippocrates%1:18:00::'
+      id: 'hippocratic%3:01:00::'
+    - id: 'hippocratic%3:01:00::'
+      pertainym:
+      - 'hippocrates%1:18:00::'
+Hispaniolan:
+  a:
+    sense:
+    - derivation:
+      - 'hispaniola%1:15:00::'
+      id: 'hispaniolan%3:01:00::'
+    - id: 'hispaniolan%3:01:00::'
+      pertainym:
+      - 'haiti%1:15:01::'
+Hitlerian:
+  a:
+    sense:
+    - derivation:
+      - 'hitler%1:18:00::'
+      id: 'hitlerian%3:01:00::'
+    - id: 'hitlerian%3:01:00::'
+      pertainym:
+      - 'hitler%1:18:00::'
+Hollander:
+  n:
+    sense:
+    - derivation:
+      - 'holland%1:15:00::'
+      id: 'hollander%1:18:00::'
+Homeric:
+  a:
+    sense:
+    - derivation:
+      - 'homer%1:18:00::'
+      id: 'homeric%3:01:00::'
+    - id: 'homeric%3:01:00::'
+      pertainym:
+      - 'homer%1:18:00::'
+Honduran:
+  a:
+    sense:
+    - id: 'honduran%3:01:00::'
+      pertainym:
+      - 'honduras%1:15:00::'
+Hugoesque:
+  a:
+    sense:
+    - id: 'hugoesque%3:01:00::'
+      pertainym:
+      - 'hugo%1:18:00::'
+Hungarian:
+  a:
+    sense:
+    - derivation:
+      - 'hungary%1:15:00::'
+      id: 'hungarian%3:01:00::'
+    - id: 'hungarian%3:01:00::'
+      pertainym:
+      - 'hungary%1:15:00::'
+Huxleian:
+  a:
+    sense:
+    - derivation:
+      - 'huxley%1:18:00::'
+      id: 'huxleian%3:01:00::'
+    - id: 'huxleian%3:01:00::'
+      pertainym:
+      - 'huxley%1:18:00::'
+Huxleyan:
+  a:
+    sense:
+    - derivation:
+      - 'huxley%1:18:00::'
+      id: 'huxleyan%3:01:00::'
+    - id: 'huxleyan%3:01:00::'
+      pertainym:
+      - 'huxley%1:18:00::'
+heliac:
+  a:
+    sense:
+    - id: 'heliac%3:01:00::'
+      pertainym:
+      - 'sun%1:17:02::'
+heliacal:
+  a:
+    sense:
+    - id: 'heliacal%3:01:00::'
+      pertainym:
+      - 'sun%1:17:02::'
+herculean:
+  a:
+    sense:
+    - derivation:
+      - 'hercules%1:18:00::'
+      id: herculean%5:00:00:superhuman:00
+    - derivation:
+      - 'hercules%1:18:00::'
+      id: herculean%5:00:00:difficult:00
+hoover:
+  v:
+    sense:
+    - derivation:
+      - 'hoover%1:18:02::'
+      id: 'hoover%2:35:00::'
+hymenopterous:
+  a:
+    sense:
+    - derivation:
+      - 'hymenoptera%1:05:00::'
+      id: 'hymenopterous%3:01:00::'
+    - id: 'hymenopterous%3:01:00::'
+      pertainym:
+      - 'hymenoptera%1:05:00::'

@@ -1,0 +1,388 @@
+Pacific:
+  a:
+    sense:
+    - derivation:
+      - 'pacific%1:17:00::'
+      id: 'pacific%3:01:00::'
+    - id: 'pacific%3:01:00::'
+      pertainym:
+      - 'pacific%1:17:00::'
+Pakistani:
+  a:
+    sense:
+    - id: 'pakistani%3:01:00::'
+      pertainym:
+      - 'pakistan%1:15:00::'
+Paleozoic:
+  a:
+    sense:
+    - id: 'paleozoic%3:01:00::'
+      pertainym:
+      - 'paleozoic%1:28:00::'
+Palestinian:
+  a:
+    sense:
+    - derivation:
+      - 'palestine%1:15:01::'
+      - 'palestine%1:15:00::'
+      id: 'palestinian%3:01:00::'
+    - id: 'palestinian%3:01:00::'
+      pertainym:
+      - 'palestine%1:15:01::'
+Palladian:
+  a:
+    sense:
+    - derivation:
+      - 'palladio%1:18:00::'
+      id: 'palladian%3:01:00::'
+    - id: 'palladian%3:01:00::'
+      pertainym:
+      - 'palladio%1:18:00::'
+Panamanian:
+  a:
+    sense:
+    - derivation:
+      - 'panama%1:15:00::'
+      id: 'panamanian%3:01:00::'
+    - id: 'panamanian%3:01:00::'
+      pertainym:
+      - 'panama%1:15:00::'
+Paraguayan:
+  a:
+    sense:
+    - derivation:
+      - 'paraguay%1:15:00::'
+      id: 'paraguayan%3:01:00::'
+    - id: 'paraguayan%3:01:00::'
+      pertainym:
+      - 'paraguay%1:15:00::'
+Parisian:
+  a:
+    sense:
+    - derivation:
+      - 'paris%1:15:00::'
+      id: 'parisian%3:01:00::'
+    - id: 'parisian%3:01:00::'
+      pertainym:
+      - 'paris%1:15:00::'
+Parthian:
+  a:
+    sense:
+    - derivation:
+      - 'parthia%1:15:00::'
+      id: 'parthian%3:01:00::'
+    - id: 'parthian%3:01:00::'
+      pertainym:
+      - 'parthia%1:15:00::'
+Pasteurian:
+  a:
+    sense:
+    - derivation:
+      - 'pasteur%1:18:00::'
+      id: 'pasteurian%3:01:00::'
+    - id: 'pasteurian%3:01:00::'
+      pertainym:
+      - 'pasteur%1:18:00::'
+Pauline:
+  a:
+    sense:
+    - id: 'pauline%3:01:00::'
+      pertainym:
+      - 'paul%1:18:00::'
+Pavlovian:
+  a:
+    sense:
+    - derivation:
+      - 'pavlov%1:18:00::'
+      id: 'pavlovian%3:01:00::'
+    - id: 'pavlovian%3:01:00::'
+      pertainym:
+      - 'pavlov%1:18:00::'
+Peloponnesian:
+  a:
+    sense:
+    - derivation:
+      - 'peloponnesus%1:15:00::'
+      id: 'peloponnesian%3:01:00::'
+    - id: 'peloponnesian%3:01:00::'
+      pertainym:
+      - 'peloponnesus%1:15:00::'
+Persian:
+  a:
+    sense:
+    - derivation:
+      - 'persia%1:15:00::'
+      id: 'persian%3:01:00::'
+Peruvian:
+  a:
+    sense:
+    - derivation:
+      - 'peru%1:15:00::'
+      id: 'peruvian%3:01:00::'
+    - id: 'peruvian%3:01:00::'
+      pertainym:
+      - 'peru%1:15:00::'
+Philippine:
+  a:
+    sense:
+    - id: 'philippine%3:01:00::'
+      pertainym:
+      - 'philippines%1:15:00::'
+Philistine:
+  a:
+    sense:
+    - id: 'philistine%3:01:00::'
+      pertainym:
+      - 'philistia%1:15:00::'
+Phoenician:
+  a:
+    sense:
+    - id: 'phoenician%3:01:00::'
+      pertainym:
+      - 'phoenicia%1:15:00::'
+Piagetian:
+  a:
+    sense:
+    - derivation:
+      - 'piaget%1:18:00::'
+      id: 'piagetian%3:01:00::'
+    - id: 'piagetian%3:01:00::'
+      pertainym:
+      - 'piaget%1:18:00::'
+Platonic:
+  a:
+    sense:
+    - derivation:
+      - 'plato%1:18:00::'
+      id: 'platonic%3:01:00::'
+    - id: 'platonic%3:01:00::'
+      pertainym:
+      - 'plato%1:18:00::'
+Polish:
+  a:
+    sense:
+    - id: 'polish%3:01:00::'
+      pertainym:
+      - 'poland%1:15:00::'
+Polynesian:
+  a:
+    sense:
+    - id: 'polynesian%3:01:00::'
+      pertainym:
+      - 'polynesia%1:15:00::'
+Portuguese:
+  a:
+    sense:
+    - id: 'portuguese%3:01:00::'
+      pertainym:
+      - 'portugal%1:15:00::'
+Procrustean:
+  a:
+    sense:
+    - id: 'procrustean%3:01:00::'
+      pertainym:
+      - 'procrustes%1:18:00::'
+Proustian:
+  a:
+    sense:
+    - derivation:
+      - 'proust%1:18:00::'
+      id: 'proustian%3:01:00::'
+    - id: 'proustian%3:01:00::'
+      pertainym:
+      - 'proust%1:18:00::'
+Prussian:
+  a:
+    sense:
+    - derivation:
+      - 'prussia%1:15:00::'
+      id: 'prussian%3:01:00::'
+    - id: 'prussian%3:01:00::'
+      pertainym:
+      - 'prussia%1:15:00::'
+Ptolemaic:
+  a:
+    sense:
+    - derivation:
+      - 'ptolemy%1:18:00::'
+      id: 'ptolemaic%3:01:00::'
+    - id: 'ptolemaic%3:01:00::'
+      pertainym:
+      - 'ptolemy%1:18:00::'
+Pythagorean:
+  a:
+    sense:
+    - derivation:
+      - 'pythagoras%1:18:00::'
+      id: 'pythagorean%3:01:00::'
+    - id: 'pythagorean%3:01:00::'
+      pertainym:
+      - 'pythagoras%1:18:00::'
+palaeolithic:
+  a:
+    sense:
+    - id: 'palaeolithic%3:01:00::'
+      pertainym:
+      - 'stone_age%1:28:00::'
+paleolithic:
+  a:
+    sense:
+    - id: 'paleolithic%3:01:00::'
+      pertainym:
+      - 'paleolithic_age%1:28:00::'
+pasteurise:
+  v:
+    sense:
+    - derivation:
+      - 'pasteur%1:18:00::'
+      id: 'pasteurise%2:30:00::'
+pasteurize:
+  v:
+    sense:
+    - derivation:
+      - 'pasteur%1:18:00::'
+      id: 'pasteurize%2:30:00::'
+perch:
+  v:
+    sense:
+    - agent:
+      - 'percher%1:05:00::'
+      id: 'perch%2:35:00::'
+    - derivation:
+      - 'percher%1:05:00::'
+      id: 'perch%2:35:00::'
+peripatetic:
+  a:
+    sense:
+    - id: 'peripatetic%3:01:00::'
+      pertainym:
+      - 'aristotle%1:18:00::'
+planetary:
+  a:
+    sense:
+    - id: 'planetary%3:01:02::'
+      pertainym:
+      - 'earth%1:17:00::'
+plumbaginaceous:
+  a:
+    sense:
+    - derivation:
+      - 'plumbaginaceae%1:20:00::'
+      id: 'plumbaginaceous%3:01:00::'
+    - id: 'plumbaginaceous%3:01:00::'
+      pertainym:
+      - 'plumbaginaceae%1:20:00::'
+polemoniaceous:
+  a:
+    sense:
+    - derivation:
+      - 'polemoniaceae%1:20:00::'
+      id: 'polemoniaceous%3:01:00::'
+    - id: 'polemoniaceous%3:01:00::'
+      pertainym:
+      - 'family_polemoniaceae%1:20:00::'
+postexilic:
+  a:
+    sense:
+    - id: 'postexilic%3:01:00::'
+      pertainym:
+      - 'babylonian_captivity%1:04:00::'
+pre-Christian:
+  a:
+    sense:
+    - id: 'pre-christian%3:01:00::'
+      pertainym:
+      - 'christian_era%1:28:00::'
+pre-Jurassic:
+  a:
+    sense:
+    - id: 'pre-jurassic%3:01:00::'
+      pertainym:
+      - 'jurassic%1:28:00::'
+pre-Socratic:
+  a:
+    sense:
+    - id: 'pre-socratic%3:01:00::'
+      pertainym:
+      - 'socrates%1:18:00::'
+presocratic:
+  a:
+    sense:
+    - id: 'presocratic%3:01:00::'
+      pertainym:
+      - 'socrates%1:18:00::'
+pro-American:
+  a:
+    sense:
+    - id: 'pro-american%3:01:00::'
+      pertainym:
+      - 'america%1:15:00::'
+protean:
+  a:
+    sense:
+    - derivation:
+      - 'proteus%1:18:00::'
+      id: protean%5:00:00:variable:00
+proterozoic:
+  a:
+    sense:
+    - derivation:
+      - 'proterozoic%1:28:00::'
+      id: proterozoic%5:00:00:early:00
+protozoal:
+  a:
+    sense:
+    - id: 'protozoal%3:01:00::'
+      pertainym:
+      - 'phylum_protozoa%1:05:00::'
+protozoan:
+  a:
+    sense:
+    - id: 'protozoan%3:01:00::'
+      pertainym:
+      - 'phylum_protozoa%1:05:00::'
+protozoic:
+  a:
+    sense:
+    - id: 'protozoic%3:01:00::'
+      pertainym:
+      - 'phylum_protozoa%1:05:00::'
+provencal:
+  a:
+    sense:
+    - id: 'provencal%3:01:00::'
+      pertainym:
+      - 'provence%1:15:00::'
+psalmist:
+  n:
+    sense:
+    - derivation:
+      - 'psalm%1:10:00::'
+      id: 'psalmist%1:18:00::'
+pyramid:
+  v:
+    sense:
+    - derivation:
+      - 'pyramid%1:06:00::'
+      id: 'pyramid%2:35:00::'
+pyramidal:
+  a:
+    sense:
+    - derivation:
+      - 'pyramid%1:06:00::'
+      id: pyramidal%5:00:00:pointed:00
+pyramidical:
+  a:
+    sense:
+    - derivation:
+      - 'pyramid%1:06:00::'
+      id: pyramidical%5:00:00:pointed:00
+pyrrhic:
+  a:
+    sense:
+    - derivation:
+      - 'pyrrhus%1:18:00::'
+      id: 'pyrrhic%3:01:00::'
+    - id: 'pyrrhic%3:01:00::'
+      pertainym:
+      - 'pyrrhus%1:18:00::'

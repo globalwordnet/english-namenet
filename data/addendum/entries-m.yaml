@@ -1,0 +1,499 @@
+Macedonian:
+  a:
+    sense:
+    - derivation:
+      - 'macedonia%1:15:00::'
+      id: 'macedonian%3:01:00::'
+    - id: 'macedonian%3:01:00::'
+      pertainym:
+      - 'macedonia%1:15:00::'
+Machiavellian:
+  a:
+    sense:
+    - derivation:
+      - 'machiavelli%1:18:00::'
+      id: 'machiavellian%3:01:00::'
+    - id: 'machiavellian%3:01:00::'
+      pertainym:
+      - 'machiavelli%1:18:00::'
+Madagascan:
+  a:
+    sense:
+    - derivation:
+      - 'madagascar%1:15:01::'
+      - 'madagascar%1:15:00::'
+      id: 'madagascan%3:01:00::'
+    - id: 'madagascan%3:01:00::'
+      pertainym:
+      - 'madagascar%1:15:00::'
+Mahdism:
+  n:
+    sense:
+    - derivation:
+      - 'mahdi%1:18:00::'
+      id: 'mahdism%1:09:00::'
+Mahdist:
+  n:
+    sense:
+    - derivation:
+      - 'mahdi%1:18:00::'
+      id: 'mahdist%1:18:00::'
+Mainer:
+  n:
+    sense:
+    - derivation:
+      - 'maine%1:15:00::'
+      id: 'mainer%1:18:00::'
+Malawian:
+  a:
+    sense:
+    - derivation:
+      - 'malawi%1:15:00::'
+      id: 'malawian%3:01:00::'
+    - id: 'malawian%3:01:00::'
+      pertainym:
+      - 'malawi%1:15:00::'
+Malayan:
+  a:
+    sense:
+    - derivation:
+      - 'malaysia%1:15:00::'
+      id: 'malayan%3:01:01::'
+    - id: 'malayan%3:01:01::'
+      pertainym:
+      - 'malaya%1:15:00::'
+    - derivation:
+      - 'malaysia%1:15:00::'
+      id: 'malayan%3:01:00::'
+Malaysian:
+  a:
+    sense:
+    - derivation:
+      - 'malaysia%1:15:00::'
+      id: 'malaysian%3:01:00::'
+    - id: 'malaysian%3:01:00::'
+      pertainym:
+      - 'malaysia%1:15:00::'
+Malian:
+  a:
+    sense:
+    - derivation:
+      - 'mali%1:15:00::'
+      id: 'malian%3:01:00::'
+    - id: 'malian%3:01:00::'
+      pertainym:
+      - 'mali%1:15:00::'
+Maltese:
+  a:
+    sense:
+    - id: 'maltese%3:01:00::'
+      pertainym:
+      - 'malta%1:15:00::'
+      - 'malta%1:15:01::'
+Malthusian:
+  a:
+    sense:
+    - derivation:
+      - 'malthus%1:18:00::'
+      id: 'malthusian%3:01:00::'
+    - id: 'malthusian%3:01:00::'
+      pertainym:
+      - 'malthus%1:18:00::'
+Manchurian:
+  a:
+    sense:
+    - derivation:
+      - 'manchuria%1:15:00::'
+      id: 'manchurian%3:01:00::'
+    - id: 'manchurian%3:01:00::'
+      pertainym:
+      - 'manchuria%1:15:00::'
+Mancunian:
+  a:
+    sense:
+    - derivation:
+      - 'manchester%1:15:00::'
+      id: 'mancunian%3:01:00::'
+    - id: 'mancunian%3:01:00::'
+      pertainym:
+      - 'manchester%1:15:00::'
+Manx:
+  a:
+    sense:
+    - id: 'manx%3:01:00::'
+      pertainym:
+      - 'man%1:15:00::'
+Marian:
+  a:
+    sense:
+    - derivation:
+      - 'mary%1:18:00::'
+      id: 'marian%3:01:00::'
+    - id: 'marian%3:01:00::'
+      pertainym:
+      - 'mary%1:18:00::'
+Markovian:
+  a:
+    sense:
+    - derivation:
+      - 'markov%1:18:00::'
+      id: 'markovian%3:01:00::'
+Maroc:
+  a:
+    sense:
+    - id: 'maroc%3:01:00::'
+      pertainym:
+      - 'morocco%1:15:00::'
+Martian:
+  a:
+    sense:
+    - derivation:
+      - 'mars%1:17:00::'
+      id: 'martian%3:01:00::'
+    - id: 'martian%3:01:00::'
+      pertainym:
+      - 'mars%1:17:00::'
+Mauritanian:
+  a:
+    sense:
+    - derivation:
+      - 'mauritania%1:15:00::'
+      id: 'mauritanian%3:01:00::'
+    - id: 'mauritanian%3:01:00::'
+      pertainym:
+      - 'mauritius%1:15:01::'
+      - 'mauritius%1:15:00::'
+Mauritian:
+  a:
+    sense:
+    - derivation:
+      - 'mauritius%1:15:01::'
+      - 'mauritius%1:15:00::'
+      id: 'mauritian%3:01:01::'
+    - id: 'mauritian%3:01:01::'
+      pertainym:
+      - 'mauritius%1:15:01::'
+      - 'mauritius%1:15:00::'
+Mediterranean:
+  a:
+    sense:
+    - derivation:
+      - 'mediterranean%1:17:00::'
+      id: 'mediterranean%3:01:00::'
+    - id: 'mediterranean%3:01:00::'
+      pertainym:
+      - 'mediterranean%1:17:00::'
+Melanesian:
+  a:
+    sense:
+    - id: 'melanesian%3:01:00::'
+      pertainym:
+      - 'melanesia%1:15:00::'
+Mendelian:
+  a:
+    sense:
+    - derivation:
+      - 'mendel%1:18:00::'
+      id: 'mendelian%3:01:00::'
+    - id: 'mendelian%3:01:00::'
+      pertainym:
+      - 'mendel%1:18:00::'
+Mercurial:
+  a:
+    sense:
+    - id: 'mercurial%3:01:02::'
+      pertainym:
+      - 'mercury%1:17:00::'
+    - derivation:
+      - 'mercury%1:18:00::'
+      id: 'mercurial%3:01:01::'
+    - id: 'mercurial%3:01:01::'
+      pertainym:
+      - 'mercury%1:18:00::'
+Mesoamerican:
+  a:
+    sense:
+    - derivation:
+      - 'mesoamerica%1:15:00::'
+      id: 'mesoamerican%3:01:00::'
+Mesozoic:
+  a:
+    sense:
+    - id: 'mesozoic%3:01:00::'
+      pertainym:
+      - 'mesozoic%1:28:00::'
+Mexican:
+  a:
+    sense:
+    - derivation:
+      - 'mexico%1:15:00::'
+      id: 'mexican%3:01:00::'
+    - id: 'mexican%3:01:00::'
+      pertainym:
+      - 'mexico%1:15:00::'
+Michelangelesque:
+  a:
+    sense:
+    - id: 'michelangelesque%3:01:00::'
+      pertainym:
+      - 'michelangelo%1:18:00::'
+Middle Eastern:
+  a:
+    sense:
+    - id: 'middle_eastern%3:01:00::'
+      pertainym:
+      - 'middle_east%1:15:00::'
+Milanese:
+  a:
+    sense:
+    - id: 'milanese%3:01:00::'
+      pertainym:
+      - 'milan%1:15:00::'
+Minoan:
+  a:
+    sense:
+    - derivation:
+      - 'minos%1:18:00::'
+      id: 'minoan%3:01:00::'
+Mishnaic:
+  a:
+    sense:
+    - id: 'mishnaic%3:01:00::'
+      pertainym:
+      - 'mishna%1:10:00::'
+Mohammedan:
+  a:
+    sense:
+    - id: 'mohammedan%3:01:00::'
+      pertainym:
+      - 'mohammed%1:18:00::'
+Moldovan:
+  a:
+    sense:
+    - derivation:
+      - 'moldova%1:15:00::'
+      id: 'moldovan%3:01:00::'
+    - id: 'moldovan%3:01:00::'
+      pertainym:
+      - 'moldova%1:15:00::'
+Monacan:
+  a:
+    sense:
+    - derivation:
+      - 'monaco%1:15:00::'
+      id: 'monacan%3:01:00::'
+    - id: 'monacan%3:01:00::'
+      pertainym:
+      - 'monaco%1:15:00::'
+Monegasque:
+  a:
+    sense:
+    - id: 'monegasque%3:01:00::'
+      pertainym:
+      - 'monaco%1:15:00::'
+Mongol:
+  a:
+    sense:
+    - id: 'mongol%3:01:00::'
+      pertainym:
+      - 'mongolia%1:15:01::'
+Mongolian:
+  a:
+    sense:
+    - derivation:
+      - 'mongolia%1:15:00::'
+      id: 'mongolian%3:01:02::'
+    - id: 'mongolian%3:01:02::'
+      pertainym:
+      - 'mongolia%1:15:00::'
+    - derivation:
+      - 'mongolia%1:15:01::'
+      id: 'mongolian%3:01:01::'
+    - id: 'mongolian%3:01:01::'
+      pertainym:
+      - 'mongolia%1:15:01::'
+Mongoloid:
+  a:
+    sense:
+    - id: 'mongoloid%3:01:01::'
+      pertainym:
+      - 'mongolia%1:15:01::'
+Montserratian:
+  a:
+    sense:
+    - derivation:
+      - 'montserrat%1:15:00::'
+      id: 'montserratian%3:01:00::'
+Moravian:
+  a:
+    sense:
+    - id: 'moravian%3:01:00::'
+      pertainym:
+      - 'moravia%1:15:00::'
+Moroccan:
+  a:
+    sense:
+    - derivation:
+      - 'morocco%1:15:00::'
+      id: 'moroccan%3:01:00::'
+    - id: 'moroccan%3:01:00::'
+      pertainym:
+      - 'morocco%1:15:00::'
+Mosaic:
+  a:
+    sense:
+    - id: 'mosaic%3:01:00::'
+      pertainym:
+      - 'moses%1:18:00::'
+Mozambican:
+  a:
+    sense:
+    - derivation:
+      - 'mozambique%1:15:00::'
+      id: 'mozambican%3:01:01::'
+    - id: 'mozambican%3:01:01::'
+      pertainym:
+      - 'mozambique%1:15:00::'
+    - derivation:
+      - 'mozambique%1:15:00::'
+      id: 'mozambican%3:01:00::'
+Mozartean:
+  a:
+    sense:
+    - derivation:
+      - 'mozart%1:18:00::'
+      id: 'mozartean%3:01:00::'
+    - id: 'mozartean%3:01:00::'
+      pertainym:
+      - 'mozart%1:18:00::'
+Mozartian:
+  a:
+    sense:
+    - derivation:
+      - 'mozart%1:18:00::'
+      id: 'mozartian%3:01:00::'
+    - id: 'mozartian%3:01:00::'
+      pertainym:
+      - 'mozart%1:18:00::'
+Muhammadan:
+  a:
+    sense:
+    - id: 'muhammadan%3:01:00::'
+      pertainym:
+      - 'muhammad%1:18:00::'
+Mycenaean:
+  a:
+    sense:
+    - derivation:
+      - 'mycenae%1:15:00::'
+      id: 'mycenaean%3:01:00::'
+    - id: 'mycenaean%3:01:00::'
+      pertainym:
+      - 'mycenae%1:15:00::'
+mammalian:
+  a:
+    sense:
+    - id: 'mammalian%3:01:00::'
+      pertainym:
+      - 'mammalia%1:05:00::'
+mapquest:
+  v:
+    sense:
+    - derivation:
+      - 'mapquest%1:10:00::'
+      id: 'mapquest%2:31:00::'
+mecopterous:
+  a:
+    sense:
+    - derivation:
+      - 'mecoptera%1:05:00::'
+      id: 'mecopterous%3:01:00::'
+mediaeval:
+  a:
+    sense:
+    - id: 'mediaeval%3:01:00::'
+      pertainym:
+      - 'middle_ages%1:28:00::'
+medieval:
+  a:
+    sense:
+    - id: 'medieval%3:01:00::'
+      pertainym:
+      - 'middle_ages%1:28:00::'
+mephistophelean:
+  a:
+    sense:
+    - derivation:
+      - 'mephistopheles%1:18:00::'
+      id: mephistophelean%5:00:00:evil:00
+mephistophelian:
+  a:
+    sense:
+    - derivation:
+      - 'mephistopheles%1:18:00::'
+      id: mephistophelian%5:00:00:evil:00
+mercerize:
+  v:
+    sense:
+    - derivation:
+      - 'mercer%1:18:01::'
+      id: 'mercerize%2:30:00::'
+mesmerise:
+  v:
+    sense:
+    - derivation:
+      - 'mesmer%1:18:00::'
+      id: 'mesmerise%2:29:00::'
+mesmerize:
+  v:
+    sense:
+    - derivation:
+      - 'mesmer%1:18:00::'
+      id: 'mesmerize%2:29:00::'
+mesolithic:
+  a:
+    sense:
+    - id: 'mesolithic%3:01:00::'
+      pertainym:
+      - 'mesolithic_age%1:28:00::'
+messiahship:
+  n:
+    sense:
+    - derivation:
+      - 'messiah%1:18:01::'
+      - 'messiah%1:18:00::'
+      id: 'messiahship%1:04:00::'
+messianic:
+  a:
+    sense:
+    - derivation:
+      - 'messiah%1:18:01::'
+      - 'messiah%1:18:00::'
+      id: 'messianic%3:01:00::'
+mithraistic:
+  a:
+    sense:
+    - derivation:
+      - 'mithras%1:18:00::'
+      id: 'mithraistic%3:01:00::'
+moneran:
+  a:
+    sense:
+    - id: 'moneran%3:01:00::'
+      pertainym:
+      - 'monera%1:05:00::'
+moraceous:
+  a:
+    sense:
+    - derivation:
+      - 'moraceae%1:20:00::'
+      id: 'moraceous%3:01:00::'
+    - id: 'moraceous%3:01:00::'
+      pertainym:
+      - 'moraceae%1:20:00::'
+murine:
+  a:
+    sense:
+    - id: 'murine%3:01:00::'
+      pertainym:
+      - 'family_muridae%1:05:00::'

@@ -1,0 +1,97 @@
+Olympian:
+  a:
+    sense:
+    - id: 'olympian%3:01:01::'
+      pertainym:
+      - 'olympia%1:15:01::'
+    - derivation:
+      - 'olympus%1:17:00::'
+      - 'olympian%1:18:01::'
+      id: 'olympian%3:01:00::'
+    - id: 'olympian%3:01:00::'
+      pertainym:
+      - 'mount_olympus%1:17:00::'
+Olympic:
+  a:
+    sense:
+    - derivation:
+      - 'olympia%1:15:01::'
+      id: 'olympic%3:01:01::'
+    - id: 'olympic%3:01:01::'
+      pertainym:
+      - 'olympia%1:15:01::'
+Omani:
+  a:
+    sense:
+    - id: 'omani%3:01:00::'
+      pertainym:
+      - 'oman%1:15:00::'
+Orphic:
+  a:
+    sense:
+    - derivation:
+      - 'orpheus%1:18:00::'
+      id: 'orphic%3:01:00::'
+    - id: 'orphic%3:01:00::'
+      pertainym:
+      - 'orpheus%1:18:00::'
+Orwellian:
+  a:
+    sense:
+    - derivation:
+      - 'orwell%1:18:00::'
+      id: 'orwellian%3:01:00::'
+    - id: 'orwellian%3:01:00::'
+      pertainym:
+      - 'orwell%1:18:00::'
+Ottoman:
+  a:
+    sense:
+    - id: 'ottoman%3:01:00::'
+      pertainym:
+      - 'ottoman_empire%1:15:00::'
+Oxonian:
+  a:
+    sense:
+    - derivation:
+      - 'oxford%1:06:01::'
+      id: 'oxonian%3:01:01::'
+    - id: 'oxonian%3:01:01::'
+      pertainym:
+      - 'oxford%1:06:01::'
+    - derivation:
+      - 'oxford%1:15:00::'
+      id: 'oxonian%3:01:00::'
+    - id: 'oxonian%3:01:00::'
+      pertainym:
+      - 'oxford%1:15:00::'
+occidental:
+  a:
+    sense:
+    - derivation:
+      - 'occident%1:15:00::'
+      id: occidental%5:00:00:western:01
+oleaceous:
+  a:
+    sense:
+    - derivation:
+      - 'oleaceae%1:20:00::'
+      id: 'oleaceous%3:01:00::'
+    - id: 'oleaceous%3:01:00::'
+      pertainym:
+      - 'oleaceae%1:20:00::'
+orb-weaving:
+  a:
+    sense:
+    - id: 'orb-weaving%3:01:00::'
+      pertainym:
+      - 'orb-weaver%1:05:00::'
+oriental:
+  a:
+    sense:
+    - derivation:
+      - 'orient%1:15:00::'
+      id: oriental%5:00:00:eastern:01
+    - derivation:
+      - 'orient%1:15:00::'
+      id: oriental%5:00:01:eastern:01

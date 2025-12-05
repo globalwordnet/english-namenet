@@ -1,0 +1,717 @@
+Aberdonian:
+  a:
+    sense:
+    - derivation:
+      - 'aberdeen%1:15:03::'
+      - 'aberdeen%1:15:02::'
+      - 'aberdeen%1:15:01::'
+      - 'aberdeen%1:15:00::'
+      id: 'aberdonian%3:01:00::'
+    - id: 'aberdonian%3:01:00::'
+      pertainym:
+      - 'aberdeen%1:15:00::'
+Abkhaz:
+  a:
+    sense:
+    - id: 'abkhaz%3:01:00::'
+      pertainym:
+      - 'abkhaz%1:15:00::'
+Abkhazian:
+  a:
+    sense:
+    - id: 'abkhazian%3:01:00::'
+      pertainym:
+      - 'abkhazia%1:15:00::'
+Achaean:
+  a:
+    sense:
+    - id: 'achaean%3:01:00::'
+      pertainym:
+      - 'achaea%1:15:00::'
+Acheronian:
+  a:
+    sense:
+    - derivation:
+      - 'acheron%1:17:00::'
+      id: acheronian%5:00:00:dark:01
+Aegean:
+  a:
+    sense:
+    - derivation:
+      - 'aegean%1:17:00::'
+      id: 'aegean%3:01:00::'
+    - id: 'aegean%3:01:00::'
+      pertainym:
+      - 'aegean%1:17:00::'
+Aeolian:
+  a:
+    sense:
+    - derivation:
+      - 'aeolus%1:18:00::'
+      id: 'aeolian%3:01:00::'
+    - id: 'aeolian%3:01:00::'
+      pertainym:
+      - 'aeolus%1:18:00::'
+    - id: 'aeolian%3:01:01::'
+      pertainym:
+      - 'aeolis%1:15:00::'
+Aeschylean:
+  a:
+    sense:
+    - derivation:
+      - 'aeschylus%1:18:00::'
+      id: 'aeschylean%3:01:00::'
+    - id: 'aeschylean%3:01:00::'
+      pertainym:
+      - 'aeschylus%1:18:00::'
+Afghan:
+  a:
+    sense:
+    - derivation:
+      - 'afghanistan%1:15:00::'
+      id: 'afghan%3:01:00::'
+    - id: 'afghan%3:01:00::'
+      pertainym:
+      - 'afghanistan%1:15:00::'
+Afghani:
+  a:
+    sense:
+    - id: 'afghani%3:01:00::'
+      pertainym:
+      - 'afghanistan%1:15:00::'
+Afghanistani:
+  a:
+    sense:
+    - id: 'afghanistani%3:01:00::'
+      pertainym:
+      - 'afghanistan%1:15:00::'
+African:
+  a:
+    sense:
+    - derivation:
+      - 'africa%1:17:00::'
+      id: 'african%3:01:00::'
+    - id: 'african%3:01:00::'
+      pertainym:
+      - 'africa%1:17:00::'
+Afrikaans:
+  a:
+    sense:
+    - id: 'afrikaans%3:01:00::'
+      pertainym:
+      - 'south_africa%1:15:00::'
+Afrikaner:
+  a:
+    sense:
+    - id: 'afrikaner%3:01:00::'
+      pertainym:
+      - 'south_africa%1:15:00::'
+Afro-Asian:
+  a:
+    sense:
+    - id: 'afro-asian%3:01:00::'
+      pertainym:
+      - 'asia%1:17:00::'
+Alaskan:
+  a:
+    sense:
+    - derivation:
+      - 'alaska%1:15:00::'
+      id: 'alaskan%3:01:00::'
+    - id: 'alaskan%3:01:00::'
+      pertainym:
+      - 'alaska%1:15:00::'
+Albanian:
+  a:
+    sense:
+    - derivation:
+      - 'albania%1:15:00::'
+      id: 'albanian%3:01:00::'
+    - id: 'albanian%3:01:00::'
+      pertainym:
+      - 'albania%1:15:00::'
+Alexandrian:
+  a:
+    sense:
+    - derivation:
+      - 'alexander%1:18:00::'
+      id: 'alexandrian%3:01:00::'
+    - id: 'alexandrian%3:01:00::'
+      pertainym:
+      - 'alexander%1:18:00::'
+Algerian:
+  a:
+    sense:
+    - derivation:
+      - 'algeria%1:15:00::'
+      id: 'algerian%3:01:00::'
+    - id: 'algerian%3:01:00::'
+      pertainym:
+      - 'algeria%1:15:00::'
+Alpine:
+  a:
+    sense:
+    - id: 'alpine%3:01:00::'
+      pertainym:
+      - 'alps%1:17:00::'
+Alsatian:
+  a:
+    sense:
+    - derivation:
+      - 'alsace%1:15:00::'
+      id: 'alsatian%3:01:00::'
+    - id: 'alsatian%3:01:00::'
+      pertainym:
+      - 'alsace%1:15:00::'
+Ambrosian:
+  a:
+    sense:
+    - derivation:
+      - 'ambrose%1:18:00::'
+      id: 'ambrosian%3:01:00::'
+    - id: 'ambrosian%3:01:00::'
+      pertainym:
+      - 'ambrose%1:18:00::'
+American:
+  a:
+    sense:
+    - derivation:
+      - 'america%1:15:00::'
+      id: 'american%3:01:01::'
+    - id: 'american%3:01:01::'
+      pertainym:
+      - 'america%1:15:00::'
+    - derivation:
+      - 'america%1:17:00::'
+      id: 'american%3:01:00::'
+    - id: 'american%3:01:00::'
+      pertainym:
+      - 'america%1:17:00::'
+Andalusian:
+  a:
+    sense:
+    - derivation:
+      - 'andalusia%1:15:00::'
+      id: 'andalusian%3:01:00::'
+    - id: 'andalusian%3:01:00::'
+      pertainym:
+      - 'andalusia%1:15:00::'
+Andean:
+  a:
+    sense:
+    - derivation:
+      - 'andes%1:17:00::'
+      id: 'andean%3:01:00::'
+    - id: 'andean%3:01:00::'
+      pertainym:
+      - 'andes%1:17:00::'
+Andorran:
+  a:
+    sense:
+    - id: 'andorran%3:01:00::'
+      pertainym:
+      - 'andorra%1:15:00::'
+Anglo-Indian:
+  a:
+    sense:
+    - id: 'anglo-indian%3:01:00::'
+      pertainym:
+      - 'india%1:15:00::'
+Angolan:
+  a:
+    sense:
+    - derivation:
+      - 'angola%1:15:00::'
+      id: 'angolan%3:01:00::'
+    - id: 'angolan%3:01:00::'
+      pertainym:
+      - 'angola%1:15:00::'
+Anguillan:
+  a:
+    sense:
+    - derivation:
+      - 'anguilla%1:15:00::'
+      id: 'anguillan%3:01:01::'
+    - id: 'anguillan%3:01:01::'
+      pertainym:
+      - 'anguilla%1:15:00::'
+Antarctic:
+  a:
+    sense:
+    - derivation:
+      - 'antarctic%1:15:00::'
+      id: antarctic%5:00:00:polar:00
+Antiguan:
+  a:
+    sense:
+    - derivation:
+      - 'antigua%1:15:00::'
+      id: 'antiguan%3:01:01::'
+    - id: 'antiguan%3:01:01::'
+      pertainym:
+      - 'antigua%1:15:00::'
+Appalachian:
+  a:
+    sense:
+    - derivation:
+      - 'appalachia%1:15:00::'
+      id: 'appalachian%3:01:00::'
+    - id: 'appalachian%3:01:00::'
+      pertainym:
+      - 'appalachia%1:15:00::'
+  n:
+    sense:
+    - derivation:
+      - 'appalachia%1:15:00::'
+      id: 'appalachian%1:18:00::'
+Arabian:
+  a:
+    sense:
+    - derivation:
+      - 'arabia%1:15:00::'
+      id: 'arabian%3:01:01::'
+    - id: 'arabian%3:01:01::'
+      pertainym:
+      - 'arabia%1:15:00::'
+Aramaean:
+  a:
+    sense:
+    - derivation:
+      - 'aram%1:15:00::'
+      id: 'aramaean%3:01:00::'
+    - id: 'aramaean%3:01:00::'
+      pertainym:
+      - 'aram%1:15:00::'
+Aramean:
+  a:
+    sense:
+    - derivation:
+      - 'aram%1:15:00::'
+      id: 'aramean%3:01:00::'
+    - id: 'aramean%3:01:00::'
+      pertainym:
+      - 'aram%1:15:00::'
+Arctic:
+  a:
+    sense:
+    - derivation:
+      - 'arctic%1:15:00::'
+      id: arctic%5:00:00:polar:00
+Argentine:
+  a:
+    sense:
+    - id: 'argentine%3:01:00::'
+      pertainym:
+      - 'argentina%1:15:00::'
+Argentinian:
+  a:
+    sense:
+    - derivation:
+      - 'argentina%1:15:00::'
+      id: 'argentinian%3:01:00::'
+    - id: 'argentinian%3:01:00::'
+      pertainym:
+      - 'argentina%1:15:00::'
+Argive:
+  a:
+    sense:
+    - derivation:
+      - 'argos%1:15:00::'
+      id: 'argive%3:01:00::'
+    - id: 'argive%3:01:00::'
+      pertainym:
+      - 'argos%1:15:00::'
+  n:
+    sense:
+    - derivation:
+      - 'argos%1:15:00::'
+      id: 'argive%1:18:00::'
+Aristotelean:
+  a:
+    sense:
+    - derivation:
+      - 'aristotle%1:18:00::'
+      id: 'aristotelean%3:01:00::'
+    - id: 'aristotelean%3:01:00::'
+      pertainym:
+      - 'aristotle%1:18:00::'
+Aristotelian:
+  a:
+    sense:
+    - derivation:
+      - 'aristotle%1:18:00::'
+      id: 'aristotelian%3:01:00::'
+    - id: 'aristotelian%3:01:00::'
+      pertainym:
+      - 'aristotle%1:18:00::'
+Aristotelic:
+  a:
+    sense:
+    - id: 'aristotelic%3:01:00::'
+      pertainym:
+      - 'aristotle%1:18:00::'
+Armenian:
+  a:
+    sense:
+    - derivation:
+      - 'armenia%1:15:00::'
+      id: 'armenian%3:01:00::'
+    - id: 'armenian%3:01:00::'
+      pertainym:
+      - 'armenia%1:15:00::'
+Arthurian:
+  a:
+    sense:
+    - derivation:
+      - 'arthur%1:18:00::'
+      id: 'arthurian%3:01:00::'
+    - id: 'arthurian%3:01:00::'
+      pertainym:
+      - 'arthur%1:18:00::'
+Asian:
+  a:
+    sense:
+    - derivation:
+      - 'asia%1:17:00::'
+      id: 'asian%3:01:00::'
+    - id: 'asian%3:01:00::'
+      pertainym:
+      - 'asia%1:17:00::'
+Asiatic:
+  a:
+    sense:
+    - derivation:
+      - 'asia%1:17:00::'
+      id: 'asiatic%3:01:00::'
+    - id: 'asiatic%3:01:00::'
+      pertainym:
+      - 'asia%1:17:00::'
+Assamese:
+  a:
+    sense:
+    - id: 'assamese%3:01:00::'
+      pertainym:
+      - 'assam%1:15:00::'
+Athenian:
+  a:
+    sense:
+    - derivation:
+      - 'athens%1:15:02::'
+      - 'athens%1:15:01::'
+      - 'athens%1:15:00::'
+      id: 'athenian%3:01:00::'
+    - id: 'athenian%3:01:00::'
+      pertainym:
+      - 'athens%1:15:00::'
+Atlantic:
+  a:
+    sense:
+    - derivation:
+      - 'atlantic%1:17:00::'
+      id: 'atlantic%3:01:00::'
+    - id: 'atlantic%3:01:00::'
+      pertainym:
+      - 'atlantic%1:17:00::'
+Attic:
+  a:
+    sense:
+    - id: 'attic%3:01:00::'
+      pertainym:
+      - 'attica%1:15:00::'
+Audenesque:
+  a:
+    sense:
+    - id: 'audenesque%3:01:00::'
+      pertainym:
+      - 'auden%1:18:00::'
+Augean:
+  a:
+    sense:
+    - derivation:
+      - 'augeas%1:18:00::'
+      id: augean%5:00:00:dirty:01
+Augustan:
+  a:
+    sense:
+    - derivation:
+      - 'augustus%1:18:00::'
+      id: 'augustan%3:01:00::'
+    - id: 'augustan%3:01:00::'
+      pertainym:
+      - 'augustus%1:18:00::'
+Australasian:
+  a:
+    sense:
+    - derivation:
+      - 'australasia%1:15:00::'
+      id: 'australasian%3:01:00::'
+    - id: 'australasian%3:01:00::'
+      pertainym:
+      - 'australasia%1:15:00::'
+Australian:
+  a:
+    sense:
+    - derivation:
+      - 'australia%1:15:00::'
+      id: 'australian%3:01:00::'
+    - id: 'australian%3:01:00::'
+      pertainym:
+      - 'australia%1:17:00::'
+Austrian:
+  a:
+    sense:
+    - derivation:
+      - 'austria%1:15:00::'
+      id: 'austrian%3:01:00::'
+    - id: 'austrian%3:01:00::'
+      pertainym:
+      - 'austria%1:15:00::'
+Austronesian:
+  a:
+    sense:
+    - derivation:
+      - 'austronesia%1:15:00::'
+      id: 'austronesian%3:01:00::'
+    - id: 'austronesian%3:01:00::'
+      pertainym:
+      - 'austronesia%1:15:00::'
+Avestan:
+  a:
+    sense:
+    - derivation:
+      - 'avesta%1:10:00::'
+      id: 'avestan%3:01:00::'
+    - id: 'avestan%3:01:00::'
+      pertainym:
+      - 'avesta%1:10:00::'
+Azerbaijani:
+  a:
+    sense:
+    - id: 'azerbaijani%3:01:00::'
+      pertainym:
+      - 'azerbaijan%1:15:00::'
+accipitrine:
+  a:
+    sense:
+    - id: 'accipitrine%3:01:00::'
+      pertainym:
+      - 'accipiter%1:05:00::'
+aesculapian:
+  a:
+    sense:
+    - derivation:
+      - 'aesculapius%1:18:00::'
+      id: 'aesculapian%3:01:00::'
+    - id: 'aesculapian%3:01:00::'
+      pertainym:
+      - 'aesculapius%1:18:00::'
+alliaceous:
+  a:
+    sense:
+    - derivation:
+      - 'allium%1:20:00::'
+      id: 'alliaceous%3:01:00::'
+    - id: 'alliaceous%3:01:00::'
+      pertainym:
+      - 'allium%1:20:00::'
+almighty:
+  a:
+    sense:
+    - derivation:
+      - 'almighty%1:18:00::'
+      id: almighty%5:00:00:powerful:00
+amphibian:
+  a:
+    sense:
+    - id: 'amphibian%3:01:00::'
+      pertainym:
+      - 'amphibia%1:05:00::'
+amphibious:
+  a:
+    sense:
+    - derivation:
+      - 'amphibia%1:05:00::'
+      id: 'amphibious%3:01:00::'
+    - id: 'amphibious%3:01:00::'
+      pertainym:
+      - 'amphibia%1:05:00::'
+annelid:
+  a:
+    sense:
+    - id: 'annelid%3:01:00::'
+      pertainym:
+      - 'phylum_annelida%1:05:00::'
+annelidan:
+  a:
+    sense:
+    - id: 'annelidan%3:01:00::'
+      pertainym:
+      - 'phylum_annelida%1:05:00::'
+anopheline:
+  a:
+    sense:
+    - id: 'anopheline%3:01:00::'
+      pertainym:
+      - 'genus_anopheles%1:05:00::'
+anserine:
+  a:
+    sense:
+    - id: 'anserine%3:01:00::'
+      pertainym:
+      - 'subfamily_anserinae%1:05:00::'
+anti-American:
+  a:
+    sense:
+    - id: 'anti-american%3:01:00::'
+      pertainym:
+      - 'america%1:15:00::'
+anuran:
+  a:
+    sense:
+    - id: 'anuran%3:01:00::'
+      pertainym:
+      - 'anura%1:05:00::'
+apocalyptic:
+  a:
+    sense:
+    - derivation:
+      - 'apocalypse%1:10:00::'
+      id: apocalyptic%5:00:00:prophetic:00
+apocynaceous:
+  a:
+    sense:
+    - id: 'apocynaceous%3:01:00::'
+      pertainym:
+      - 'apocynaceae%1:20:00::'
+araceous:
+  a:
+    sense:
+    - derivation:
+      - 'araceae%1:20:00::'
+      id: 'araceous%3:01:00::'
+    - id: 'araceous%3:01:00::'
+      pertainym:
+      - 'araceae%1:20:00::'
+arachnidian:
+  a:
+    sense:
+    - derivation:
+      - 'arachnida%1:05:00::'
+      id: 'arachnidian%3:01:00::'
+    - id: 'arachnidian%3:01:00::'
+      pertainym:
+      - 'class_arachnida%1:05:00::'
+arachnoid:
+  a:
+    sense:
+    - id: 'arachnoid%3:01:00::'
+      pertainym:
+      - 'class_arachnida%1:05:00::'
+araneidal:
+  a:
+    sense:
+    - derivation:
+      - 'araneida%1:05:00::'
+      id: 'araneidal%3:01:00::'
+    - id: 'araneidal%3:01:00::'
+      pertainym:
+      - 'order_araneida%1:05:00::'
+araneidan:
+  a:
+    sense:
+    - id: 'araneidan%3:01:00::'
+      pertainym:
+      - 'order_araneida%1:05:00::'
+archaeozoic:
+  a:
+    sense:
+    - derivation:
+      - 'archaeozoic%1:28:00::'
+      id: archaeozoic%5:00:00:early:00
+archean:
+  a:
+    sense:
+    - derivation:
+      - 'archean%1:28:00::'
+      id: archean%5:00:00:early:00
+archeozoic:
+  a:
+    sense:
+    - derivation:
+      - 'archeozoic%1:28:00::'
+      id: archeozoic%5:00:00:early:00
+archosaurian:
+  a:
+    sense:
+    - id: 'archosaurian%3:01:00::'
+      pertainym:
+      - 'archosauria%1:05:00::'
+aroid:
+  a:
+    sense:
+    - id: 'aroid%3:01:00::'
+      pertainym:
+      - 'araceae%1:20:00::'
+arthropodal:
+  a:
+    sense:
+    - derivation:
+      - 'arthropoda%1:05:00::'
+      id: 'arthropodal%3:01:00::'
+    - id: 'arthropodal%3:01:00::'
+      pertainym:
+      - 'phylum_arthropoda%1:05:00::'
+arthropodan:
+  a:
+    sense:
+    - id: 'arthropodan%3:01:00::'
+      pertainym:
+      - 'phylum_arthropoda%1:05:00::'
+arthropodous:
+  a:
+    sense:
+    - derivation:
+      - 'arthropoda%1:05:00::'
+      id: 'arthropodous%3:01:00::'
+    - id: 'arthropodous%3:01:00::'
+      pertainym:
+      - 'phylum_arthropoda%1:05:00::'
+artiodactyl:
+  a:
+    sense:
+    - id: 'artiodactyl%3:01:00::'
+      pertainym:
+      - 'order_artiodactyla%1:05:00::'
+artiodactylous:
+  a:
+    sense:
+    - derivation:
+      - 'artiodactyla%1:05:00::'
+      id: 'artiodactylous%3:01:00::'
+    - id: 'artiodactylous%3:01:00::'
+      pertainym:
+      - 'order_artiodactyla%1:05:00::'
+arundinaceous:
+  a:
+    sense:
+    - derivation:
+      - 'arundinaria%1:20:00::'
+      id: 'arundinaceous%3:01:00::'
+    - id: 'arundinaceous%3:01:00::'
+      pertainym:
+      - 'genus_arundinaria%1:20:00::'
+asclepiadaceous:
+  a:
+    sense:
+    - derivation:
+      - 'asclepiadaceae%1:20:00::'
+      id: 'asclepiadaceous%3:01:00::'
+    - id: 'asclepiadaceous%3:01:00::'
+      pertainym:
+      - 'asclepiadaceae%1:20:00::'
+australopithecine:
+  a:
+    sense:
+    - id: 'australopithecine%3:01:00::'
+      pertainym:
+      - 'genus_australopithecus%1:05:00::'

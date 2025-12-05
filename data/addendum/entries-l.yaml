@@ -1,0 +1,286 @@
+Lamarckian:
+  a:
+    sense:
+    - derivation:
+      - 'lamarck%1:18:00::'
+      id: 'lamarckian%3:01:00::'
+Lancastrian:
+  a:
+    sense:
+    - derivation:
+      - 'lancaster%1:15:00::'
+      id: 'lancastrian%3:01:02::'
+    - id: 'lancastrian%3:01:02::'
+      pertainym:
+      - 'lancaster%1:15:00::'
+Laotian:
+  a:
+    sense:
+    - derivation:
+      - 'laos%1:15:00::'
+      id: 'laotian%3:01:00::'
+    - id: 'laotian%3:01:00::'
+      pertainym:
+      - 'laos%1:15:00::'
+Lapplander:
+  n:
+    sense:
+    - derivation:
+      - 'lappland%1:15:00::'
+      id: 'lapplander%1:18:00::'
+Latin:
+  a:
+    sense:
+    - id: 'latin%3:01:01::'
+      pertainym:
+      - 'latium%1:15:00::'
+Latin-American:
+  a:
+    sense:
+    - derivation:
+      - 'latin_america%1:15:00::'
+      id: 'latin-american%3:01:00::'
+    - id: 'latin-american%3:01:00::'
+      pertainym:
+      - 'latin_america%1:15:00::'
+Latvian:
+  a:
+    sense:
+    - derivation:
+      - 'latvia%1:15:00::'
+      id: 'latvian%3:01:00::'
+    - id: 'latvian%3:01:00::'
+      pertainym:
+      - 'latvia%1:15:00::'
+Lebanese:
+  a:
+    sense:
+    - id: 'lebanese%3:01:00::'
+      pertainym:
+      - 'lebanon%1:15:00::'
+Leibnitzian:
+  a:
+    sense:
+    - derivation:
+      - 'leibnitz%1:18:00::'
+      id: 'leibnitzian%3:01:00::'
+    - id: 'leibnitzian%3:01:00::'
+      pertainym:
+      - 'leibnitz%1:18:00::'
+Leibnizian:
+  a:
+    sense:
+    - derivation:
+      - 'leibniz%1:18:00::'
+      id: 'leibnizian%3:01:00::'
+    - id: 'leibnizian%3:01:00::'
+      pertainym:
+      - 'leibniz%1:18:00::'
+Leonardesque:
+  a:
+    sense:
+    - id: 'leonardesque%3:01:00::'
+      pertainym:
+      - 'leonardo%1:18:00::'
+Levantine:
+  a:
+    sense:
+    - id: 'levantine%3:01:00::'
+      pertainym:
+      - 'levant%1:15:00::'
+Levitical:
+  a:
+    sense:
+    - derivation:
+      - 'leviticus%1:10:00::'
+      id: 'levitical%3:01:00::'
+    - id: 'levitical%3:01:00::'
+      pertainym:
+      - 'leviticus%1:10:00::'
+Liberian:
+  a:
+    sense:
+    - derivation:
+      - 'liberia%1:15:00::'
+      id: 'liberian%3:01:00::'
+    - id: 'liberian%3:01:00::'
+      pertainym:
+      - 'liberia%1:15:00::'
+Libyan:
+  a:
+    sense:
+    - derivation:
+      - 'libya%1:15:00::'
+      id: 'libyan%3:01:00::'
+    - id: 'libyan%3:01:00::'
+      pertainym:
+      - 'libya%1:15:00::'
+Liechtensteiner:
+  a:
+    sense:
+    - id: 'liechtensteiner%3:01:00::'
+      pertainym:
+      - 'liechtenstein%1:15:00::'
+  n:
+    sense:
+    - derivation:
+      - 'liechtenstein%1:15:00::'
+      id: 'liechtensteiner%1:18:00::'
+Lilliputian:
+  a:
+    sense:
+    - derivation:
+      - 'lilliputian%1:18:00::'
+      id: 'lilliputian%3:01:00::'
+Lincolnesque:
+  a:
+    sense:
+    - id: 'lincolnesque%3:01:00::'
+      pertainym:
+      - 'lincoln%1:18:00::'
+Lincolnian:
+  a:
+    sense:
+    - derivation:
+      - 'lincoln%1:18:00::'
+      id: 'lincolnian%3:01:00::'
+    - id: 'lincolnian%3:01:00::'
+      pertainym:
+      - 'lincoln%1:18:00::'
+Linnaean:
+  a:
+    sense:
+    - derivation:
+      - 'linnaeus%1:18:00::'
+      id: 'linnaean%3:01:00::'
+    - id: 'linnaean%3:01:00::'
+      pertainym:
+      - 'linnaeus%1:18:00::'
+Linnean:
+  a:
+    sense:
+    - derivation:
+      - 'linnaeus%1:18:00::'
+      id: 'linnean%3:01:00::'
+    - id: 'linnean%3:01:00::'
+      pertainym:
+      - 'linnaeus%1:18:00::'
+Lithuanian:
+  a:
+    sense:
+    - derivation:
+      - 'lithuania%1:15:00::'
+      id: 'lithuanian%3:01:00::'
+    - id: 'lithuanian%3:01:00::'
+      pertainym:
+      - 'lithuania%1:15:00::'
+Liverpudlian:
+  a:
+    sense:
+    - derivation:
+      - 'liverpool%1:15:00::'
+      id: 'liverpudlian%3:01:00::'
+    - id: 'liverpudlian%3:01:00::'
+      pertainym:
+      - 'liverpool%1:15:00::'
+Londoner:
+  n:
+    sense:
+    - derivation:
+      - 'london%1:15:00::'
+      id: 'londoner%1:18:00::'
+Lowlander:
+  n:
+    sense:
+    - derivation:
+      - 'lowlands%1:15:00::'
+      id: 'lowlander%1:18:00::'
+Lusitanian:
+  a:
+    sense:
+    - derivation:
+      - 'lusitania%1:15:00::'
+      id: 'lusitanian%3:01:00::'
+    - id: 'lusitanian%3:01:00::'
+      pertainym:
+      - 'lusitania%1:15:00::'
+Lutheran:
+  a:
+    sense:
+    - id: 'lutheran%3:01:00::'
+      pertainym:
+      - 'luther%1:18:00::'
+Luxembourger:
+  n:
+    sense:
+    - derivation:
+      - 'luxembourg%1:15:01::'
+      - 'luxembourg%1:15:00::'
+      id: 'luxembourger%1:18:00::'
+Luxembourgian:
+  a:
+    sense:
+    - derivation:
+      - 'luxembourg%1:15:00::'
+      id: 'luxembourgian%3:01:00::'
+    - id: 'luxembourgian%3:01:00::'
+      pertainym:
+      - 'luxembourg%1:15:00::'
+Luxemburger:
+  a:
+    sense:
+    - id: 'luxemburger%3:01:02::'
+      pertainym:
+      - 'luxemburg%1:15:01::'
+    - id: 'luxemburger%3:01:00::'
+      pertainym:
+      - 'luxemburg%1:15:00::'
+  n:
+    sense:
+    - derivation:
+      - 'luxemburg%1:15:01::'
+      - 'luxemburg%1:15:00::'
+      id: 'luxemburger%1:18:00::'
+lacertilian:
+  a:
+    sense:
+    - derivation:
+      - 'lacertilia%1:05:00::'
+      id: 'lacertilian%3:01:00::'
+liliaceous:
+  a:
+    sense:
+    - derivation:
+      - 'liliaceae%1:20:00::'
+      id: 'liliaceous%3:01:00::'
+    - id: 'liliaceous%3:01:00::'
+      pertainym:
+      - 'liliaceae%1:20:00::'
+lobeliaceous:
+  a:
+    sense:
+    - derivation:
+      - 'lobeliaceae%1:20:00::'
+      id: 'lobeliaceous%3:01:00::'
+    - id: 'lobeliaceous%3:01:00::'
+      pertainym:
+      - 'lobeliaceae%1:20:00::'
+lucullan:
+  a:
+    sense:
+    - derivation:
+      - 'lucullus%1:18:00::'
+      id: lucullan%5:00:00:rich:03
+lunar:
+  a:
+    sense:
+    - id: 'lunar%3:01:00::'
+      pertainym:
+      - 'moon%1:17:01::'
+lunisolar:
+  a:
+    sense:
+    - id: 'lunisolar%3:01:00::'
+      pertainym:
+      - 'moon%1:17:01::'
+      - 'sun%1:17:02::'

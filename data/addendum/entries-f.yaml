@@ -1,0 +1,112 @@
+Falstaffian:
+  a:
+    sense:
+    - derivation:
+      - 'falstaff%1:18:00::'
+      id: 'falstaffian%3:01:00::'
+    - id: 'falstaffian%3:01:00::'
+      pertainym:
+      - 'falstaff%1:18:00::'
+Faustian:
+  a:
+    sense:
+    - derivation:
+      - 'faust%1:18:00::'
+      id: 'faustian%3:01:00::'
+    - id: 'faustian%3:01:00::'
+      pertainym:
+      - 'faust%1:18:00::'
+Fijian:
+  a:
+    sense:
+    - derivation:
+      - 'fiji%1:15:00::'
+      id: 'fijian%3:01:00::'
+    - id: 'fijian%3:01:00::'
+      pertainym:
+      - 'fiji%1:15:00::'
+Filipino:
+  a:
+    sense:
+    - id: 'filipino%3:01:00::'
+      pertainym:
+      - 'philippines%1:15:00::'
+Finnish:
+  a:
+    sense:
+    - id: 'finnish%3:01:00::'
+      pertainym:
+      - 'finland%1:15:00::'
+Flemish:
+  a:
+    sense:
+    - id: 'flemish%3:01:00::'
+      pertainym:
+      - 'flanders%1:15:00::'
+Florentine:
+  a:
+    sense:
+    - id: 'florentine%3:01:00::'
+      pertainym:
+      - 'florence%1:15:00::'
+Formosan:
+  a:
+    sense:
+    - derivation:
+      - 'formosa%1:15:00::'
+      id: 'formosan%3:01:00::'
+Franciscan:
+  a:
+    sense:
+    - derivation:
+      - 'st._francis%1:18:00::'
+      id: 'franciscan%3:01:00::'
+    - id: 'franciscan%3:01:00::'
+      pertainym:
+      - 'francis_of_assisi%1:18:00::'
+French:
+  a:
+    sense:
+    - id: 'french%3:01:00::'
+      pertainym:
+      - 'france%1:15:00::'
+Freudian:
+  a:
+    sense:
+    - derivation:
+      - 'freud%1:18:00::'
+      id: 'freudian%3:01:00::'
+    - id: 'freudian%3:01:00::'
+      pertainym:
+      - 'freud%1:18:00::'
+Frisian:
+  a:
+    sense:
+    - derivation:
+      - 'frisia%1:15:00::'
+      id: 'frisian%3:01:00::'
+    - id: 'frisian%3:01:00::'
+      pertainym:
+      - 'friesland%1:15:00::'
+      - 'frisia%1:15:00::'
+Frostian:
+  a:
+    sense:
+    - derivation:
+      - 'frost%1:18:00::'
+      id: 'frostian%3:01:00::'
+    - id: 'frostian%3:01:00::'
+      pertainym:
+      - 'frost%1:18:00::'
+fall:
+  v:
+    sense:
+    - derivation:
+      - 'fall%1:11:03::'
+      id: 'fall%2:41:01::'
+filariid:
+  a:
+    sense:
+    - id: 'filariid%3:01:00::'
+      pertainym:
+      - 'family_filariidae%1:05:00::'

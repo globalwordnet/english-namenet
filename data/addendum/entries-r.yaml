@@ -1,0 +1,163 @@
+Rabelaisian:
+  a:
+    sense:
+    - derivation:
+      - 'rabelais%1:18:00::'
+      id: 'rabelaisian%3:01:00::'
+    - id: 'rabelaisian%3:01:00::'
+      pertainym:
+      - 'rabelais%1:18:00::'
+Rembrandtesque:
+  a:
+    sense:
+    - id: 'rembrandtesque%3:01:00::'
+      pertainym:
+      - 'rembrandt%1:18:00::'
+Rhenish:
+  a:
+    sense:
+    - id: 'rhenish%3:01:00::'
+      pertainym:
+      - 'rhine%1:17:00::'
+Rhodesian:
+  a:
+    sense:
+    - derivation:
+      - 'rhodesia%1:15:00::'
+      id: 'rhodesian%3:01:00::'
+    - id: 'rhodesian%3:01:00::'
+      pertainym:
+      - 'rhodesia%1:15:00::'
+Riemannian:
+  a:
+    sense:
+    - derivation:
+      - 'riemann%1:18:00::'
+      id: 'riemannian%3:01:00::'
+    - id: 'riemannian%3:01:00::'
+      pertainym:
+      - 'riemann%1:18:00::'
+Roman:
+  a:
+    sense:
+    - id: 'roman%3:01:01::'
+      pertainym:
+      - 'rome%1:15:00::'
+Romanian:
+  a:
+    sense:
+    - derivation:
+      - 'romania%1:15:00::'
+      id: 'romanian%3:01:00::'
+    - id: 'romanian%3:01:00::'
+      pertainym:
+      - 'romania%1:15:00::'
+Rooseveltian:
+  a:
+    sense:
+    - derivation:
+      - 'roosevelt%1:18:02::'
+      id: 'rooseveltian%3:01:00::'
+    - id: 'rooseveltian%3:01:00::'
+      pertainym:
+      - 'roosevelt%1:18:02::'
+Roumanian:
+  a:
+    sense:
+    - derivation:
+      - 'roumania%1:15:00::'
+      id: 'roumanian%3:01:00::'
+    - id: 'roumanian%3:01:00::'
+      pertainym:
+      - 'romania%1:15:00::'
+Rousseauan:
+  a:
+    sense:
+    - derivation:
+      - 'rousseau%1:18:00::'
+      id: 'rousseauan%3:01:00::'
+    - id: 'rousseauan%3:01:00::'
+      pertainym:
+      - 'rousseau%1:18:00::'
+Ruandan:
+  a:
+    sense:
+    - id: 'ruandan%3:01:00::'
+      pertainym:
+      - 'rwanda%1:15:00::'
+Rumanian:
+  a:
+    sense:
+    - derivation:
+      - 'rumania%1:15:00::'
+      id: 'rumanian%3:01:00::'
+    - id: 'rumanian%3:01:00::'
+      pertainym:
+      - 'romania%1:15:00::'
+Russian:
+  a:
+    sense:
+    - derivation:
+      - 'russia%1:15:04::'
+      - 'russia%1:15:02::'
+      id: 'russian%3:01:00::'
+    - id: 'russian%3:01:00::'
+      pertainym:
+      - 'russia%1:15:00::'
+Rwandan:
+  a:
+    sense:
+    - id: 'rwandan%3:01:00::'
+      pertainym:
+      - 'rwanda%1:15:00::'
+redeem:
+  v:
+    sense:
+    - agent:
+      - 'redeemer%1:18:00::'
+      id: 'redeem%2:41:04::'
+    - derivation:
+      - 'redeemer%1:18:00::'
+      id: 'redeem%2:41:04::'
+reptilian:
+  a:
+    sense:
+    - derivation:
+      - 'reptilia%1:05:00::'
+      id: 'reptilian%3:01:00::'
+    - id: 'reptilian%3:01:00::'
+      pertainym:
+      - 'reptilia%1:05:00::'
+restore:
+  v:
+    sense:
+    - derivation:
+      - 'restoration%1:04:02::'
+      id: 'restore%2:41:00::'
+reveal:
+  v:
+    sense:
+    - derivation:
+      - 'revelation%1:10:00::'
+      id: 'reveal%2:39:04::'
+romaic:
+  a:
+    sense:
+    - id: 'romaic%3:01:00::'
+      pertainym:
+      - 'greece%1:15:00::'
+rosaceous:
+  a:
+    sense:
+    - derivation:
+      - 'rosaceae%1:20:00::'
+      id: 'rosaceous%3:01:00::'
+    - id: 'rosaceous%3:01:00::'
+      pertainym:
+      - 'rosaceae%1:20:00::'
+ruminant:
+  a:
+    sense:
+    - id: 'ruminant%3:01:00::'
+      pertainym:
+      - 'ruminantia%1:05:00::'

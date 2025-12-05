@@ -4,3 +4,7 @@ changes.yaml
 poetry.lock
 *.pickle
 wikidata_db/latest-all.json.bz2
+data/automatic
+open_english_namenet/__pycache__
+wikidata_db/target
+wikidata_db/Cargo.lock

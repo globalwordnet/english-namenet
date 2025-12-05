@@ -1,0 +1,236 @@
+Qaanaaq:
+  n:
+    sense:
+    - id: 'qaanaaq%1:15:01::'
+      synset: 08974216-n
+Qaddafi:
+  n:
+    sense:
+    - id: 'qaddafi%1:18:00::'
+      synset: 11270277-n
+Qadhafi:
+  n:
+    sense:
+    - id: 'qadhafi%1:18:00::'
+      synset: 11270277-n
+Qaeda:
+  n:
+    sense:
+    - id: 'qaeda%1:14:00::'
+      synset: 08030577-n
+Qandahar:
+  n:
+    sense:
+    - id: 'qandahar%1:15:00::'
+      synset: 08722223-n
+Qara Qum:
+  n:
+    sense:
+    - id: 'qara_qum%1:15:00::'
+      synset: 09193372-n
+Qassam Brigades:
+  n:
+    sense:
+    - id: 'qassam_brigades%1:14:00::'
+      synset: 08057009-n
+Qatar:
+  n:
+    sense:
+    - id: 'qatar%1:15:00::'
+      synset: 09009275-n
+    - id: 'qatar%1:15:01::'
+      synset: 09009061-n
+Qatar Peninsula:
+  n:
+    sense:
+    - id: 'qatar_peninsula%1:15:00::'
+      synset: 09009061-n
+Qibla:
+  n:
+    pronunciation:
+    - value: ˈqibla
+    sense:
+    - id: 'qibla%1:14:00::'
+      synset: 08057274-n
+Qin Shi Huang Ti:
+  n:
+    sense:
+    - id: 'qin_shi_huang_ti%1:18:00::'
+      synset: 11270571-n
+Qizil Qum:
+  n:
+    sense:
+    - id: 'qizil_qum%1:15:00::'
+      synset: 09193530-n
+Qom:
+  n:
+    sense:
+    - id: 'qom%1:15:01::'
+      synset: 08932476-n
+Quamassia:
+  n:
+    sense:
+    - id: 'quamassia%1:20:00::'
+      synset: 12469529-n
+Quaoar:
+  n:
+    sense:
+    - id: 'quaoar%1:17:00::'
+      synset: 09424625-n
+Quaternary:
+  n:
+    pronunciation:
+    - value: ˈkwɑːtɚˌnɛəɹi
+      variety: US
+    sense:
+    - id: 'quaternary%1:28:00::'
+      synset: 15149497-n
+Quaternary period:
+  n:
+    sense:
+    - id: 'quaternary_period%1:28:00::'
+      synset: 15149497-n
+Quebec:
+  n:
+    pronunciation:
+    - value: kwɪˈbɛk
+    sense:
+    - id: 'quebec%1:15:01::'
+      synset: 08848309-n
+    - id: 'quebec%1:15:00::'
+      synset: 08848063-n
+Quebec Bridge:
+  n:
+    sense:
+    - id: 'quebec_bridge%1:06:00::'
+      synset: 04039654-n
+Quebec City:
+  n:
+    sense:
+    - id: 'quebec_city%1:15:00::'
+      synset: 08848309-n
+Queen Charlotte Sound:
+  n:
+    sense:
+    - id: 'queen_charlotte_sound%1:17:00::'
+      synset: 09425428-n
+Queen City:
+  n:
+    sense:
+    - id: 'queen_city%1:15:00::'
+      synset: 09151045-n
+Queen Isabella:
+  n:
+    sense:
+    - id: 'queen_isabella%1:18:00::'
+      synset: 11093785-n
+Queen Maud Land:
+  n:
+    sense:
+    - id: 'queen_maud_land%1:15:00::'
+      synset: 08645989-n
+Queen Victoria:
+  n:
+    sense:
+    - id: 'queen_victoria%1:18:00::'
+      synset: 11385852-n
+Queens:
+  n:
+    sense:
+    - id: 'queens%1:15:00::'
+      synset: 09145849-n
+Queensboro Bridge:
+  n:
+    sense:
+    - id: 'queensboro_bridge%1:06:00::'
+      synset: 04040123-n
+Queensland:
+  n:
+    sense:
+    - id: 'queensland%1:15:00::'
+      synset: 08851683-n
+Queensland lungfish:
+  n:
+    sense:
+    - id: 'queensland_lungfish%1:05:00::'
+      synset: 02519625-n
+Quentin Jerome Tarantino:
+  n:
+    sense:
+    - id: 'quentin_jerome_tarantino%1:18:00::'
+      synset: 11351295-n
+Quentin Tarantino:
+  n:
+    sense:
+    - id: 'quentin_tarantino%1:18:00::'
+      synset: 11351295-n
+Quercus:
+  n:
+    sense:
+    - id: 'quercus%1:20:00::'
+      synset: 12288613-n
+Quetzalcoatl:
+  n:
+    sense:
+    - id: 'quetzalcoatl%1:18:00::'
+      synset: 10520682-n
+Quezon City:
+  n:
+    sense:
+    - id: 'quezon_city%1:15:00::'
+      synset: 09004551-n
+Quincy:
+  n:
+    pronunciation:
+    - value: ˈkwɪnsi
+    sense:
+    - id: 'quincy%1:18:00::'
+      synset: 11270823-n
+Quine:
+  n:
+    pronunciation:
+    - value: kwaɪn
+      variety: US
+    sense:
+    - id: 'quine%1:18:00::'
+      synset: 11270981-n
+Quintana Roo:
+  n:
+    sense:
+    - id: 'quintana_roo%1:15:00::'
+      synset: 08763082-n
+Quintus Septimius Florens Tertullianus:
+  n:
+    sense:
+    - id: 'quintus_septimius_florens_tertullianus%1:18:00::'
+      synset: 11356663-n
+Quiscalus:
+  n:
+    sense:
+    - id: 'quiscalus%1:05:00::'
+      synset: 01576911-n
+Quito:
+  n:
+    sense:
+    - id: 'quito%1:15:00::'
+      synset: 08795085-n
+Qum:
+  n:
+    sense:
+    - id: 'qum%1:15:00::'
+      synset: 08932476-n
+Quran:
+  n:
+    sense:
+    - id: 'quran%1:10:00::'
+      synset: 06473279-n
+quassia family:
+  n:
+    sense:
+    - id: 'quassia_family%1:20:00::'
+      synset: 12736329-n
+quillwort family:
+  n:
+    sense:
+    - id: 'quillwort_family%1:20:00::'
+      synset: 13246853-n

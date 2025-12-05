@@ -1,0 +1,513 @@
+Sabahan:
+  a:
+    sense:
+    - derivation:
+      - 'sabah%1:15:00::'
+      id: 'sabahan%3:01:00::'
+    - id: 'sabahan%3:01:00::'
+      pertainym:
+      - 'sabah%1:15:00::'
+Saharan:
+  a:
+    sense:
+    - id: 'saharan%3:01:00::'
+      pertainym:
+      - 'sahara%1:15:00::'
+Salvadoran:
+  a:
+    sense:
+    - id: 'salvadoran%3:01:00::'
+      pertainym:
+      - 'el_salvador%1:15:00::'
+Salvadorean:
+  a:
+    sense:
+    - derivation:
+      - 'el_salvador%1:15:00::'
+      id: 'salvadorean%3:01:00::'
+    - id: 'salvadorean%3:01:00::'
+      pertainym:
+      - 'el_salvador%1:15:00::'
+Samoan:
+  a:
+    sense:
+    - derivation:
+      - 'samoa%1:15:00::'
+      id: 'samoan%3:01:00::'
+    - id: 'samoan%3:01:00::'
+      pertainym:
+      - 'samoa%1:15:00::'
+San Marinese:
+  a:
+    sense:
+    - id: 'san_marinese%3:01:00::'
+      pertainym:
+      - 'san_marino%1:15:00::'
+Sapphic:
+  a:
+    sense:
+    - derivation:
+      - 'sappho%1:18:00::'
+      id: sapphic%5:00:00:rhythmical:00
+Sarawakian:
+  a:
+    sense:
+    - derivation:
+      - 'sarawak%1:15:00::'
+      id: 'sarawakian%3:01:00::'
+    - id: 'sarawakian%3:01:00::'
+      pertainym:
+      - 'sarawak%1:15:00::'
+Sardinian:
+  a:
+    sense:
+    - derivation:
+      - 'sardinia%1:15:01::'
+      id: 'sardinian%3:01:00::'
+    - id: 'sardinian%3:01:00::'
+      pertainym:
+      - 'sardinia%1:15:00::'
+Satanic:
+  a:
+    sense:
+    - derivation:
+      - 'satan%1:18:00::'
+      id: 'satanic%3:01:00::'
+    - id: 'satanic%3:01:00::'
+      pertainym:
+      - 'satan%1:18:00::'
+Saudi:
+  a:
+    sense:
+    - id: 'saudi%3:01:00::'
+      pertainym:
+      - 'saudi_arabia%1:15:00::'
+Saudi-Arabian:
+  a:
+    sense:
+    - derivation:
+      - 'saudi_arabia%1:15:00::'
+      id: 'saudi-arabian%3:01:00::'
+    - id: 'saudi-arabian%3:01:00::'
+      pertainym:
+      - 'saudi_arabia%1:15:00::'
+Scandinavian:
+  a:
+    sense:
+    - derivation:
+      - 'scandinavia%1:15:01::'
+      - 'scandinavia%1:15:00::'
+      id: 'scandinavian%3:01:02::'
+    - id: 'scandinavian%3:01:02::'
+      pertainym:
+      - 'scandinavia%1:15:00::'
+Scotch:
+  a:
+    sense:
+    - id: 'scotch%3:01:00::'
+      pertainym:
+      - 'scotland%1:15:00::'
+Scots:
+  a:
+    sense:
+    - id: 'scots%3:01:00::'
+      pertainym:
+      - 'scotland%1:15:00::'
+Scottish:
+  a:
+    sense:
+    - id: 'scottish%3:01:00::'
+      pertainym:
+      - 'scotland%1:15:00::'
+Scythian:
+  a:
+    sense:
+    - derivation:
+      - 'scythia%1:15:00::'
+      id: 'scythian%3:01:00::'
+Senecan:
+  a:
+    sense:
+    - derivation:
+      - 'seneca%1:18:00::'
+      id: 'senecan%3:01:00::'
+    - id: 'senecan%3:01:00::'
+      pertainym:
+      - 'seneca%1:18:00::'
+Senegalese:
+  a:
+    sense:
+    - id: 'senegalese%3:01:00::'
+      pertainym:
+      - 'senegal%1:15:00::'
+Serbian:
+  a:
+    sense:
+    - derivation:
+      - 'serbia%1:15:00::'
+      id: 'serbian%3:01:00::'
+    - id: 'serbian%3:01:00::'
+      pertainym:
+      - 'serbia%1:15:00::'
+Seychellois:
+  a:
+    sense:
+    - id: 'seychellois%3:01:00::'
+      pertainym:
+      - 'seychelles%1:15:00::'
+Shakespearean:
+  a:
+    sense:
+    - derivation:
+      - 'shakespeare%1:18:00::'
+      id: 'shakespearean%3:01:00::'
+    - id: 'shakespearean%3:01:00::'
+      pertainym:
+      - 'shakespeare%1:18:00::'
+Shakespearian:
+  a:
+    sense:
+    - derivation:
+      - 'shakespeare%1:18:00::'
+      id: 'shakespearian%3:01:00::'
+    - id: 'shakespearian%3:01:00::'
+      pertainym:
+      - 'shakespeare%1:18:00::'
+Shavian:
+  a:
+    sense:
+    - derivation:
+      - 'shaw%1:18:00::'
+      id: 'shavian%3:01:00::'
+    - id: 'shavian%3:01:00::'
+      pertainym:
+      - 'shaw%1:18:00::'
+Shivaist:
+  n:
+    sense:
+    - derivation:
+      - 'shiva%1:18:00::'
+      id: 'shivaist%1:18:00::'
+Siamese:
+  a:
+    sense:
+    - id: 'siamese%3:01:00::'
+      pertainym:
+      - 'siam%1:15:00::'
+Siberian:
+  a:
+    sense:
+    - derivation:
+      - 'siberia%1:15:00::'
+      id: 'siberian%3:01:00::'
+    - id: 'siberian%3:01:00::'
+      pertainym:
+      - 'siberia%1:15:00::'
+Sicilian:
+  a:
+    sense:
+    - derivation:
+      - 'sicily%1:15:01::'
+      id: 'sicilian%3:01:00::'
+    - id: 'sicilian%3:01:00::'
+      pertainym:
+      - 'sicily%1:15:00::'
+Sierra Leonean:
+  a:
+    sense:
+    - derivation:
+      - 'sierra_leone%1:15:00::'
+      id: 'sierra_leonean%3:01:00::'
+    - id: 'sierra_leonean%3:01:00::'
+      pertainym:
+      - 'sierra_leone%1:15:00::'
+Singaporean:
+  a:
+    sense:
+    - derivation:
+      - 'singapore%1:15:01::'
+      - 'singapore%1:15:00::'
+      id: 'singaporean%3:01:02::'
+    - id: 'singaporean%3:01:02::'
+      pertainym:
+      - 'singapore%1:15:00::'
+      - 'singapore%1:15:01::'
+    - derivation:
+      - 'singapore%1:15:00::'
+      id: 'singaporean%3:01:01::'
+    - id: 'singaporean%3:01:01::'
+      pertainym:
+      - 'singapore%1:15:00::'
+Sisyphean:
+  a:
+    sense:
+    - derivation:
+      - 'sisyphus%1:18:00::'
+      id: 'sisyphean%3:01:00::'
+    - id: 'sisyphean%3:01:00::'
+      pertainym:
+      - 'sisyphus%1:18:00::'
+    - derivation:
+      - 'sisyphus%1:18:00::'
+      id: sisyphean%5:00:00:effortful:00
+Skinnerian:
+  a:
+    sense:
+    - derivation:
+      - 'skinner%1:18:00::'
+      id: 'skinnerian%3:01:00::'
+    - id: 'skinnerian%3:01:00::'
+      pertainym:
+      - 'skinner%1:18:00::'
+Slovakian:
+  a:
+    sense:
+    - derivation:
+      - 'slovakia%1:15:00::'
+      id: 'slovakian%3:01:00::'
+    - id: 'slovakian%3:01:00::'
+      pertainym:
+      - 'slovakia%1:15:00::'
+Slovenian:
+  a:
+    sense:
+    - derivation:
+      - 'slovenia%1:15:00::'
+      id: 'slovenian%3:01:00::'
+    - id: 'slovenian%3:01:00::'
+      pertainym:
+      - 'slovenia%1:15:00::'
+Socratic:
+  a:
+    sense:
+    - derivation:
+      - 'socrates%1:18:00::'
+      id: 'socratic%3:01:00::'
+    - id: 'socratic%3:01:00::'
+      pertainym:
+      - 'socrates%1:18:00::'
+Solomonic:
+  a:
+    sense:
+    - derivation:
+      - 'solomon%1:18:00::'
+      id: 'solomonic%3:01:00::'
+    - id: 'solomonic%3:01:00::'
+      pertainym:
+      - 'solomon%1:18:00::'
+Somali:
+  a:
+    sense:
+    - id: 'somali%3:01:00::'
+      pertainym:
+      - 'somalia%1:15:00::'
+Somalian:
+  a:
+    sense:
+    - derivation:
+      - 'somalia%1:15:00::'
+      id: 'somalian%3:01:00::'
+    - id: 'somalian%3:01:00::'
+      pertainym:
+      - 'somalia%1:15:00::'
+South African:
+  a:
+    sense:
+    - derivation:
+      - 'south_africa%1:15:00::'
+      id: 'south_african%3:01:00::'
+    - id: 'south_african%3:01:00::'
+      pertainym:
+      - 'south_africa%1:15:00::'
+South American:
+  a:
+    sense:
+    - derivation:
+      - 'south_america%1:17:00::'
+      id: 'south_american%3:01:00::'
+    - id: 'south_american%3:01:00::'
+      pertainym:
+      - 'south_america%1:17:00::'
+South Korean:
+  a:
+    sense:
+    - derivation:
+      - 'south_korea%1:15:00::'
+      id: 'south_korean%3:01:00::'
+    - id: 'south_korean%3:01:00::'
+      pertainym:
+      - 'south_korea%1:15:00::'
+Soviet:
+  a:
+    sense:
+    - id: 'soviet%3:01:00::'
+      pertainym:
+      - 'soviet_union%1:15:00::'
+Spanish:
+  a:
+    sense:
+    - id: 'spanish%3:01:00::'
+      pertainym:
+      - 'spain%1:15:00::'
+Spartan:
+  a:
+    sense:
+    - derivation:
+      - 'sparta%1:15:00::'
+      id: 'spartan%3:01:00::'
+    - id: 'spartan%3:01:00::'
+      pertainym:
+      - 'sparta%1:15:00::'
+Sri Lankan:
+  a:
+    sense:
+    - derivation:
+      - 'sri_lanka%1:15:00::'
+      id: 'sri_lankan%3:01:00::'
+    - id: 'sri_lankan%3:01:00::'
+      pertainym:
+      - 'ceylon%1:15:00::'
+Stalinist:
+  a:
+    sense:
+    - id: 'stalinist%3:01:00::'
+      pertainym:
+      - 'stalin%1:18:00::'
+Stravinskian:
+  a:
+    sense:
+    - derivation:
+      - 'stravinsky%1:18:00::'
+      id: 'stravinskian%3:01:00::'
+    - id: 'stravinskian%3:01:00::'
+      pertainym:
+      - 'stravinsky%1:18:00::'
+Stravinskyan:
+  a:
+    sense:
+    - derivation:
+      - 'stravinsky%1:18:00::'
+      id: 'stravinskyan%3:01:00::'
+    - id: 'stravinskyan%3:01:00::'
+      pertainym:
+      - 'stravinsky%1:18:00::'
+Sudanese:
+  a:
+    sense:
+    - id: 'sudanese%3:01:00::'
+      pertainym:
+      - 'sudan%1:15:00::'
+Sumatran:
+  a:
+    sense:
+    - id: 'sumatran%3:01:00::'
+      pertainym:
+      - 'sumatra%1:15:00::'
+Sumerian:
+  a:
+    sense:
+    - derivation:
+      - 'sumer%1:15:00::'
+      id: 'sumerian%3:01:00::'
+    - id: 'sumerian%3:01:00::'
+      pertainym:
+      - 'sumer%1:15:00::'
+Swazi:
+  a:
+    sense:
+    - id: 'swazi%3:01:02::'
+      pertainym:
+      - 'swaziland%1:15:00::'
+Swedish:
+  a:
+    sense:
+    - id: 'swedish%3:01:00::'
+      pertainym:
+      - 'sweden%1:15:00::'
+Swiss:
+  a:
+    sense:
+    - id: 'swiss%3:01:00::'
+      pertainym:
+      - 'switzerland%1:15:00::'
+Syrian:
+  a:
+    sense:
+    - derivation:
+      - 'syria%1:15:00::'
+      id: 'syrian%3:01:00::'
+    - id: 'syrian%3:01:00::'
+      pertainym:
+      - 'syria%1:15:00::'
+salientian:
+  a:
+    sense:
+    - derivation:
+      - 'salientia%1:05:00::'
+      id: 'salientian%3:01:00::'
+    - id: 'salientian%3:01:00::'
+      pertainym:
+      - 'salientia%1:05:00::'
+saurian:
+  a:
+    sense:
+    - derivation:
+      - 'sauria%1:05:00::'
+      id: 'saurian%3:01:00::'
+solanaceous:
+  a:
+    sense:
+    - derivation:
+      - 'solanaceae%1:20:00::'
+      id: 'solanaceous%3:01:00::'
+    - id: 'solanaceous%3:01:00::'
+      pertainym:
+      - 'solanaceae%1:20:00::'
+solar:
+  a:
+    sense:
+    - id: 'solar%3:01:00::'
+      pertainym:
+      - 'sun%1:17:02::'
+south-polar:
+  a:
+    sense:
+    - derivation:
+      - 'south_pole%1:15:00::'
+      id: south-polar%5:00:00:polar:00
+sub-Saharan:
+  a:
+    sense:
+    - id: 'sub-saharan%3:01:00::'
+      pertainym:
+      - 'sahara%1:15:00::'
+subarctic:
+  a:
+    sense:
+    - id: 'subarctic%3:01:00::'
+      pertainym:
+      - 'arctic_circle%1:15:00::'
+sublunar:
+  a:
+    sense:
+    - id: 'sublunar%3:01:00::'
+      pertainym:
+      - 'moon%1:17:01::'
+sublunary:
+  a:
+    sense:
+    - id: 'sublunary%3:01:00::'
+      pertainym:
+      - 'moon%1:17:01::'
+superlunar:
+  a:
+    sense:
+    - id: 'superlunar%3:01:00::'
+      pertainym:
+      - 'moon%1:17:01::'
+superlunary:
+  a:
+    sense:
+    - id: 'superlunary%3:01:00::'
+      pertainym:
+      - 'moon%1:17:01::'

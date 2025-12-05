@@ -1,0 +1,45 @@
+Ugandan:
+  a:
+    sense:
+    - id: 'ugandan%3:01:00::'
+      pertainym:
+      - 'uganda%1:15:00::'
+Ukrainian:
+  a:
+    sense:
+    - derivation:
+      - 'ukraine%1:15:00::'
+      id: 'ukrainian%3:01:00::'
+    - id: 'ukrainian%3:01:00::'
+      pertainym:
+      - 'ukraine%1:15:00::'
+Uruguayan:
+  a:
+    sense:
+    - derivation:
+      - 'uruguay%1:15:00::'
+      id: 'uruguayan%3:01:00::'
+    - id: 'uruguayan%3:01:00::'
+      pertainym:
+      - 'uruguay%1:15:00::'
+Utopian:
+  a:
+    sense:
+    - derivation:
+      - 'utopia%1:10:00::'
+      id: 'utopian%3:01:00::'
+    - id: 'utopian%3:01:00::'
+      pertainym:
+      - 'utopia%1:10:00::'
+Uzbekistani:
+  a:
+    sense:
+    - id: 'uzbekistani%3:01:00::'
+      pertainym:
+      - 'uzbekistan%1:15:00::'
+umbelliferous:
+  a:
+    sense:
+    - id: 'umbelliferous%3:01:00::'
+      pertainym:
+      - 'umbelliferae%1:20:00::'

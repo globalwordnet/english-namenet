@@ -1,0 +1,6547 @@
+B horizon:
+  n:
+    sense:
+    - id: 'b_horizon%1:15:00::'
+      synset: 08676243-n
+B-52:
+  n:
+    sense:
+    - id: 'b-52%1:06:00::'
+      synset: 02769049-n
+B-horizon:
+  n:
+    sense:
+    - id: 'b-horizon%1:15:00::'
+      synset: 08676243-n
+B. B. King:
+  n:
+    sense:
+    - id: 'b._b._king%1:18:00::'
+      synset: 11125288-n
+B. F. Skinner:
+  n:
+    sense:
+    - id: 'b._f._skinner%1:18:00::'
+      synset: 11324456-n
+BR:
+  n:
+    sense:
+    - id: 'br%1:14:00::'
+      synset: 08058236-n
+Baader Meinhof Gang:
+  n:
+    sense:
+    - id: 'baader_meinhof_gang%1:14:00::'
+      synset: 08034727-n
+Baader-Meinhof Gang:
+  n:
+    sense:
+    - id: 'baader-meinhof_gang%1:14:00::'
+      synset: 08034727-n
+Baal:
+  n:
+    pronunciation:
+    - value: ˈbɑːl
+      variety: GB
+    - value: ˈbɑːl
+      variety: US
+    sense:
+    - id: 'baal%1:18:00::'
+      synset: 09539835-n
+Baal Merodach:
+  n:
+    sense:
+    - id: 'baal_merodach%1:18:00::'
+      synset: 09542423-n
+Babar:
+  n:
+    sense:
+    - id: 'babar%1:18:00::'
+      synset: 09612922-n
+Babar the Elephant:
+  n:
+    sense:
+    - id: 'babar_the_elephant%1:18:01::'
+      synset: 09612922-n
+Babe Didrikson:
+  n:
+    sense:
+    - id: 'babe_didrikson%1:18:00::'
+      synset: 11424662-n
+Babe Didrikson Zaharias:
+  n:
+    sense:
+    - id: 'babe_didrikson_zaharias%1:18:01::'
+      synset: 11424662-n
+Babe Ruth:
+  n:
+    sense:
+    - id: 'babe_ruth%1:18:00::'
+      synset: 11296090-n
+Babe Zaharias:
+  n:
+    sense:
+    - id: 'babe_zaharias%1:18:00::'
+      synset: 11424662-n
+Babel:
+  n:
+    pronunciation:
+    - value: ˈbeɪ.bl̩
+      variety: GB
+    - value: ˈbæb.l̩
+      variety: US
+    - value: ˈbeɪ.bl̩
+      variety: CA
+    sense:
+    - id: 'babel%1:06:00::'
+      synset: 04467869-n
+Babesiidae:
+  n:
+    sense:
+    - id: 'babesiidae%1:05:00::'
+      synset: 01427977-n
+Baby Doc:
+  n:
+    sense:
+    - id: 'baby_doc%1:18:00::'
+      synset: 10966742-n
+Babylon:
+  n:
+    pronunciation:
+    - value: ˈbæbɪ.lɒn
+      variety: GB
+    sense:
+    - derivation:
+      - 'babylonian%3:01:00::'
+      id: 'babylon%1:15:00::'
+      synset: 08936605-n
+Babylonia:
+  n:
+    sense:
+    - id: 'babylonia%1:15:00::'
+      synset: 08937276-n
+Babylonian Captivity:
+  n:
+    sense:
+    - id: 'babylonian_captivity%1:04:00::'
+      synset: 00208990-n
+Babyrousa:
+  n:
+    sense:
+    - id: 'babyrousa%1:05:00::'
+      synset: 02399319-n
+Baccharis:
+  n:
+    sense:
+    - id: 'baccharis%1:20:00::'
+      synset: 11958434-n
+Bacchus:
+  n:
+    sense:
+    - id: 'bacchus%1:18:00::'
+      synset: 09582533-n
+Bacillaceae:
+  n:
+    sense:
+    - id: 'bacillaceae%1:05:00::'
+      synset: 01359100-n
+Bacillariophyceae:
+  n:
+    sense:
+    - id: 'bacillariophyceae%1:05:00::'
+      synset: 01403532-n
+Bacon:
+  n:
+    pronunciation:
+    - value: ˈbeɪ.kən
+    sense:
+    - id: 'bacon%1:18:01::'
+      synset: 10850327-n
+    - id: 'bacon%1:18:00::'
+      synset: 10850052-n
+Bacteroidaceae:
+  n:
+    sense:
+    - id: 'bacteroidaceae%1:05:00::'
+      synset: 01367228-n
+Bacteroides:
+  n:
+    sense:
+    - id: 'bacteroides%1:05:00::'
+      synset: 01367507-n
+Bad Lands:
+  n:
+    sense:
+    - id: 'bad_lands%1:15:00::'
+      synset: 08519818-n
+Badger State:
+  n:
+    sense:
+    - id: 'badger_state%1:15:00::'
+      synset: 09179934-n
+Badlands:
+  n:
+    pronunciation:
+    - value: ˈbæd.lændz
+    sense:
+    - id: 'badlands%1:15:00::'
+      synset: 08519818-n
+Badlands National Park:
+  n:
+    sense:
+    - id: 'badlands_national_park%1:15:00::'
+      synset: 08620012-n
+Badlands Wilderness:
+  n:
+    sense:
+    - id: 'badlands_wilderness%1:15:01::'
+      synset: 08519818-n
+Baeda:
+  n:
+    sense:
+    - id: 'baeda%1:18:00::'
+      synset: 10860365-n
+Baedeker:
+  n:
+    sense:
+    - id: 'baedeker%1:18:00::'
+      synset: 10850599-n
+Baffin Bay:
+  n:
+    sense:
+    - id: 'baffin_bay%1:17:00::'
+      synset: 09235597-n
+Baffin Island:
+  n:
+    sense:
+    - id: 'baffin_island%1:15:00::'
+      synset: 08837535-n
+Bagdad:
+  n:
+    sense:
+    - id: 'bagdad%1:15:00::'
+      synset: 08933966-n
+Baghdad:
+  n:
+    sense:
+    - id: 'baghdad%1:15:00::'
+      synset: 08933966-n
+Bahama Islands:
+  n:
+    sense:
+    - id: 'bahama_islands%1:15:00::'
+      synset: 08866260-n
+Bahamas:
+  n:
+    sense:
+    - derivation:
+      - 'bahamian%3:01:00::'
+      id: 'bahamas%1:15:00::'
+      synset: 08866260-n
+Bahia Blanca:
+  n:
+    sense:
+    - id: 'bahia_blanca%1:15:00::'
+      synset: 08730531-n
+Bahrain:
+  n:
+    sense:
+    - id: 'bahrain%1:15:01::'
+      synset: 08867413-n
+    - id: 'bahrain%1:15:00::'
+      synset: 08867086-n
+Bahrain Island:
+  n:
+    sense:
+    - id: 'bahrain_island%1:15:00::'
+      synset: 08867413-n
+Bahrein:
+  n:
+    sense:
+    - id: 'bahrein%1:15:01::'
+      synset: 08867413-n
+    - id: 'bahrein%1:15:00::'
+      synset: 08867086-n
+Bahrein Island:
+  n:
+    sense:
+    - id: 'bahrein_island%1:15:00::'
+      synset: 08867413-n
+Baikal:
+  n:
+    sense:
+    - id: 'baikal%1:17:00::'
+      synset: 09265673-n
+Bailey:
+  n:
+    pronunciation:
+    - value: ˈbeɪli
+    sense:
+    - id: 'bailey%1:18:01::'
+      synset: 10850959-n
+    - id: 'bailey%1:18:00::'
+      synset: 10850732-n
+Baiomys:
+  n:
+    sense:
+    - id: 'baiomys%1:05:00::'
+      synset: 02340132-n
+Bairava:
+  n:
+    sense:
+    - id: 'bairava%1:18:00::'
+      synset: 09552041-n
+Bairdiella:
+  n:
+    sense:
+    - id: 'bairdiella%1:05:00::'
+      synset: 02597847-n
+Bairiki:
+  n:
+    sense:
+    - id: 'bairiki%1:15:00::'
+      synset: 08859956-n
+Baja California:
+  n:
+    sense:
+    - id: 'baja_california%1:17:00::'
+      synset: 09366667-n
+Baja California Peninsula:
+  n:
+    sense:
+    - id: 'baja_california_peninsula%1:17:01::'
+      synset: 09366667-n
+Bakersfield:
+  n:
+    sense:
+    - id: 'bakersfield%1:15:00::'
+      synset: 09084790-n
+Bakke decision:
+  n:
+    sense:
+    - id: 'bakke_decision%1:04:00::'
+      synset: 01193854-n
+Baku:
+  n:
+    sense:
+    - id: 'baku%1:15:00::'
+      synset: 09040796-n
+Bakunin:
+  n:
+    sense:
+    - id: 'bakunin%1:18:00::'
+      synset: 10851079-n
+Balaena:
+  n:
+    sense:
+    - id: 'balaena%1:05:00::'
+      synset: 02066499-n
+Balaeniceps:
+  n:
+    sense:
+    - id: 'balaeniceps%1:05:00::'
+      synset: 02007892-n
+Balaenicipitidae:
+  n:
+    sense:
+    - id: 'balaenicipitidae%1:05:00::'
+      synset: 02007756-n
+Balaenidae:
+  n:
+    sense:
+    - id: 'balaenidae%1:05:00::'
+      synset: 02066169-n
+Balaenoptera:
+  n:
+    sense:
+    - id: 'balaenoptera%1:05:00::'
+      synset: 02067261-n
+Balaenopteridae:
+  n:
+    sense:
+    - id: 'balaenopteridae%1:05:00::'
+      synset: 02066807-n
+Balanchine:
+  n:
+    sense:
+    - id: 'balanchine%1:18:00::'
+      synset: 10851252-n
+Balanidae:
+  n:
+    sense:
+    - id: 'balanidae%1:05:00::'
+      synset: 02001121-n
+Balanus:
+  n:
+    sense:
+    - id: 'balanus%1:05:00::'
+      synset: 02001253-n
+Balarama:
+  n:
+    sense:
+    - id: 'balarama%1:18:00::'
+      synset: 09554541-n
+Balaton:
+  n:
+    sense:
+    - id: 'balaton%1:17:00::'
+      synset: 09235842-n
+Balboa:
+  n:
+    pronunciation:
+    - value: bælˈbəʊə
+    sense:
+    - id: 'balboa%1:18:00::'
+      synset: 10851456-n
+Balder:
+  n:
+    sense:
+    - id: 'balder%1:18:00::'
+      synset: 09602665-n
+Baldr:
+  n:
+    sense:
+    - id: 'baldr%1:18:00::'
+      synset: 09602665-n
+Bale:
+  n:
+    sense:
+    - id: 'bale%1:15:00::'
+      synset: 09054958-n
+Balearic Islands:
+  n:
+    sense:
+    - id: 'balearic_islands%1:15:00::'
+      synset: 09047038-n
+Balenciaga:
+  n:
+    sense:
+    - id: 'balenciaga%1:18:00::'
+      synset: 10852011-n
+Balfour:
+  n:
+    sense:
+    - id: 'balfour%1:18:00::'
+      synset: 10852164-n
+Bali:
+  n:
+    sense:
+    - id: 'bali%1:15:00::'
+      synset: 08928282-n
+Balistes:
+  n:
+    sense:
+    - id: 'balistes%1:05:00::'
+      synset: 02655989-n
+Balistidae:
+  n:
+    sense:
+    - id: 'balistidae%1:05:00::'
+      synset: 02655609-n
+Balkan Mountain Range:
+  n:
+    sense:
+    - id: 'balkan_mountain_range%1:17:00::'
+      synset: 09235983-n
+Balkan Mountains:
+  n:
+    sense:
+    - id: 'balkan_mountains%1:17:00::'
+      synset: 09235983-n
+Balkan Peninsula:
+  n:
+    sense:
+    - id: 'balkan_peninsula%1:15:00::'
+      synset: 08731605-n
+Balkan Wars:
+  n:
+    sense:
+    - id: 'balkan_wars%1:04:00::'
+      synset: 01305426-n
+Balkans:
+  n:
+    sense:
+    - id: 'balkans%1:17:00::'
+      synset: 09235983-n
+    - id: 'balkans%1:15:01::'
+      synset: 08731605-n
+    - id: 'balkans%1:15:00::'
+      synset: 08715852-n
+Ball:
+  n:
+    sense:
+    - id: 'ball%1:18:00::'
+      synset: 10852327-n
+Ballota:
+  n:
+    sense:
+    - id: 'ballota%1:20:00::'
+      synset: 12862446-n
+Balmoral Castle:
+  n:
+    sense:
+    - id: 'balmoral_castle%1:15:00::'
+      synset: 08912655-n
+Balsaminaceae:
+  n:
+    sense:
+    - id: 'balsaminaceae%1:20:00::'
+      synset: 12704711-n
+Balsamorhiza:
+  n:
+    sense:
+    - id: 'balsamorhiza%1:20:00::'
+      synset: 11959446-n
+Balthasar:
+  n:
+    sense:
+    - id: 'balthasar%1:18:00::'
+      synset: 10852504-n
+Balthazar:
+  n:
+    pronunciation:
+    - value: bælˈθeɪzə
+      variety: GB
+    - value: ˈbælθəˌzɔɹ
+      variety: US
+    sense:
+    - id: 'balthazar%1:18:00::'
+      synset: 10852504-n
+Baltic Sea:
+  n:
+    sense:
+    - id: 'baltic_sea%1:17:00::'
+      synset: 09236161-n
+Baltimore:
+  n:
+    pronunciation:
+    - value: ˈbɔl.tɪˌmɔɹ
+      variety: US
+    - value: ˈbɔːltɪmɔː
+      variety: GB
+    sense:
+    - id: 'baltimore%1:15:00::'
+      synset: 09116965-n
+Balzac:
+  n:
+    sense:
+    - derivation:
+      - 'balzacian%3:01:00::'
+      id: 'balzac%1:18:00::'
+      synset: 10852707-n
+Bam:
+  n:
+    sense:
+    - id: 'bam%1:15:00::'
+      synset: 08931499-n
+Bamako:
+  n:
+    sense:
+    - id: 'bamako%1:15:00::'
+      synset: 08988309-n
+Bambusa:
+  n:
+    sense:
+    - id: 'bambusa%1:20:00::'
+      synset: 12168216-n
+Bambuseae:
+  n:
+    sense:
+    - id: 'bambuseae%1:20:00::'
+      synset: 12167548-n
+Band of Partisans:
+  n:
+    sense:
+    - id: 'band_of_partisans%1:14:00::'
+      synset: 08034010-n
+Bandung:
+  n:
+    sense:
+    - id: 'bandung%1:15:00::'
+      synset: 08929706-n
+Banff:
+  n:
+    sense:
+    - id: 'banff%1:15:00::'
+      synset: 08841419-n
+Banff National Park:
+  n:
+    sense:
+    - id: 'banff_national_park%1:15:01::'
+      synset: 08841419-n
+Bangalore:
+  n:
+    sense:
+    - id: 'bangalore%1:15:00::'
+      synset: 08923320-n
+Bangiaceae:
+  n:
+    sense:
+    - id: 'bangiaceae%1:05:00::'
+      synset: 01417897-n
+Bangkok:
+  n:
+    sense:
+    - id: 'bangkok%1:15:00::'
+      synset: 09059355-n
+Bangla Desh:
+  n:
+    sense:
+    - id: 'bangla_desh%1:15:00::'
+      synset: 08867723-n
+Bangladesh:
+  n:
+    sense:
+    - id: 'bangladesh%1:15:00::'
+      synset: 08867723-n
+Bangor:
+  n:
+    sense:
+    - id: 'bangor%1:15:02::'
+      synset: 09115526-n
+    - id: 'bangor%1:15:01::'
+      synset: 08915481-n
+    - id: 'bangor%1:15:00::'
+      synset: 08908594-n
+Bangui:
+  n:
+    sense:
+    - id: 'bangui%1:15:00::'
+      synset: 08736634-n
+Banjul:
+  n:
+    sense:
+    - id: 'banjul%1:15:00::'
+      synset: 08965815-n
+Bankhead:
+  n:
+    sense:
+    - id: 'bankhead%1:18:00::'
+      synset: 10852900-n
+Bankia:
+  n:
+    sense:
+    - id: 'bankia%1:05:00::'
+      synset: 01970037-n
+Banks:
+  n:
+    pronunciation:
+    - value: bæŋks
+    sense:
+    - id: 'banks%1:18:00::'
+      synset: 10853021-n
+Bannister:
+  n:
+    sense:
+    - id: 'bannister%1:18:00::'
+      synset: 10853191-n
+Bannockburn:
+  n:
+    sense:
+    - id: 'bannockburn%1:04:00::'
+      synset: 01272646-n
+Banting:
+  n:
+    sense:
+    - id: 'banting%1:18:00::'
+      synset: 10853401-n
+Baphia:
+  n:
+    sense:
+    - id: 'baphia%1:20:00::'
+      synset: 12529441-n
+Baptisia:
+  n:
+    sense:
+    - id: 'baptisia%1:20:00::'
+      synset: 12529802-n
+Barack Hussein Obama:
+  n:
+    sense:
+    - id: 'barack_hussein_obama%1:18:00::'
+      synset: 10895767-n
+Barack Obama:
+  n:
+    sense:
+    - id: 'barack_obama%1:18:01::'
+      synset: 10895767-n
+Baraka:
+  n:
+    sense:
+    - id: 'baraka%1:18:00::'
+      synset: 10853607-n
+Barany:
+  n:
+    sense:
+    - id: 'barany%1:18:00::'
+      synset: 10853772-n
+Barbados:
+  n:
+    sense:
+    - derivation:
+      - 'barbadian%3:01:00::'
+      id: 'barbados%1:15:01::'
+      synset: 08773269-n
+    - derivation:
+      - 'barbadian%3:01:00::'
+      id: 'barbados%1:15:00::'
+      synset: 08773047-n
+Barbara Hepworth:
+  n:
+    sense:
+    - id: 'barbara_hepworth%1:18:00::'
+      synset: 11064163-n
+Barbara Tuchman:
+  n:
+    sense:
+    - id: 'barbara_tuchman%1:18:00::'
+      synset: 11371207-n
+Barbara W. Tuchman:
+  n:
+    sense:
+    - id: 'barbara_w._tuchman%1:18:01::'
+      synset: 11371207-n
+Barbara Ward:
+  n:
+    sense:
+    - id: 'barbara_ward%1:18:00::'
+      synset: 11394276-n
+Barbara Wertheim Tuchman:
+  n:
+    sense:
+    - id: 'barbara_wertheim_tuchman%1:18:00::'
+      synset: 11371207-n
+Barbarea:
+  n:
+    sense:
+    - id: 'barbarea%1:20:00::'
+      synset: 11893865-n
+Barbarossa:
+  n:
+    sense:
+    - id: 'barbarossa%1:18:00::'
+      synset: 10999883-n
+    - id: 'barbarossa%1:18:01::'
+      synset: 10853933-n
+Barbary:
+  n:
+    sense:
+    - id: 'barbary%1:15:00::'
+      synset: 08520259-n
+Barber:
+  n:
+    pronunciation:
+    - value: ˈbɑː.bə
+      variety: GB
+    - value: ˈbɑɹ.bɚ
+      variety: US
+    sense:
+    - id: 'barber%1:18:01::'
+      synset: 10854035-n
+Barbra Joan Streisand:
+  n:
+    sense:
+    - id: 'barbra_joan_streisand%1:18:00::'
+      synset: 11342173-n
+Barbra Streisand:
+  n:
+    sense:
+    - id: 'barbra_streisand%1:18:00::'
+      synset: 11342173-n
+Barbuda:
+  n:
+    sense:
+    - id: 'barbuda%1:15:00::'
+      synset: 08727946-n
+Barcelona:
+  n:
+    sense:
+    - id: 'barcelona%1:15:00::'
+      synset: 09047559-n
+Bard of Avon:
+  n:
+    sense:
+    - id: 'bard_of_avon%1:18:00::'
+      synset: 11315186-n
+Bardeen:
+  n:
+    sense:
+    - id: 'bardeen%1:18:00::'
+      synset: 10854139-n
+Barents Sea:
+  n:
+    sense:
+    - id: 'barents_sea%1:17:00::'
+      synset: 09237329-n
+Bari:
+  n:
+    sense:
+    - id: 'bari%1:15:00::'
+      synset: 08828357-n
+Barkley:
+  n:
+    sense:
+    - id: 'barkley%1:18:00::'
+      synset: 10854286-n
+Barnaba Chiaramonti:
+  n:
+    sense:
+    - id: 'barnaba_chiaramonti%1:18:00::'
+      synset: 11257540-n
+Barney Oldfield:
+  n:
+    sense:
+    - id: 'barney_oldfield%1:18:00::'
+      synset: 11233956-n
+Barnum:
+  n:
+    sense:
+    - id: 'barnum%1:18:00::'
+      synset: 10854465-n
+Baron Adrian:
+  n:
+    sense:
+    - id: 'baron_adrian%1:18:00::'
+      synset: 10828490-n
+Baron Alexander von Humboldt:
+  n:
+    sense:
+    - id: 'baron_alexander_von_humboldt%1:18:00::'
+      synset: 11085933-n
+Baron Clive:
+  n:
+    sense:
+    - id: 'baron_clive%1:18:00::'
+      synset: 10922686-n
+Baron Clive of Plassey:
+  n:
+    sense:
+    - id: 'baron_clive_of_plassey%1:18:00::'
+      synset: 10922686-n
+Baron Friedrich Heinrich Alexander von Humboldt:
+  n:
+    sense:
+    - id: 'baron_friedrich_heinrich_alexander_von_humboldt%1:18:00::'
+      synset: 11085933-n
+Baron Friedrich Wilhelm Ludolf Gerhard Augustin von Steuben:
+  n:
+    sense:
+    - id: 'baron_friedrich_wilhelm_ludolf_gerhard_augustin_von_steuben%1:18:00::'
+      synset: 11337081-n
+Baron Georges Cuvier:
+  n:
+    sense:
+    - id: 'baron_georges_cuvier%1:18:00::'
+      synset: 10939030-n
+Baron Hermann Ludwig Ferdinand von Helmholtz:
+  n:
+    sense:
+    - id: 'baron_hermann_ludwig_ferdinand_von_helmholtz%1:18:00::'
+      synset: 11059340-n
+Baron Hugh Caswall Tremenheere Dowding:
+  n:
+    sense:
+    - id: 'baron_hugh_caswall_tremenheere_dowding%1:18:00::'
+      synset: 10961706-n
+Baron Jean Baptiste Joseph Fourier:
+  n:
+    sense:
+    - id: 'baron_jean_baptiste_joseph_fourier%1:18:00::'
+      synset: 10996464-n
+Baron Karl Maria Friedrich Ernst von Weber:
+  n:
+    sense:
+    - id: 'baron_karl_maria_friedrich_ernst_von_weber%1:18:00::'
+      synset: 11398457-n
+Baron Karl Wilhelm von Humboldt:
+  n:
+    sense:
+    - id: 'baron_karl_wilhelm_von_humboldt%1:18:00::'
+      synset: 11086204-n
+Baron Lister:
+  n:
+    sense:
+    - id: 'baron_lister%1:18:00::'
+      synset: 11154885-n
+Baron Lloyd Webber of Sydmonton:
+  n:
+    sense:
+    - id: 'baron_lloyd_webber_of_sydmonton%1:18:00::'
+      synset: 11156395-n
+Baron Munchausen:
+  n:
+    sense:
+    - id: 'baron_munchausen%1:18:00::'
+      synset: 11216295-n
+Baron Olivier of Brighton:
+  n:
+    sense:
+    - id: 'baron_olivier_of_brighton%1:18:00::'
+      synset: 11234310-n
+Baron Richard von Krafft-Ebing:
+  n:
+    sense:
+    - id: 'baron_richard_von_krafft-ebing%1:18:00::'
+      synset: 11130195-n
+Baron Snow of Leicester:
+  n:
+    sense:
+    - id: 'baron_snow_of_leicester%1:18:00::'
+      synset: 11327077-n
+Baron Verulam:
+  n:
+    sense:
+    - id: 'baron_verulam%1:18:00::'
+      synset: 10850052-n
+Baron Wilhelm von Humboldt:
+  n:
+    sense:
+    - id: 'baron_wilhelm_von_humboldt%1:18:00::'
+      synset: 11086204-n
+Baron de la Brede et de Montesquieu:
+  n:
+    sense:
+    - id: 'baron_de_la_brede_et_de_montesquieu%1:18:00::'
+      synset: 11206901-n
+Baroness Dudevant:
+  n:
+    sense:
+    - id: 'baroness_dudevant%1:18:00::'
+      synset: 11300003-n
+Baroness Emmusca Orczy:
+  n:
+    sense:
+    - id: 'baroness_emmusca_orczy%1:18:00::'
+      synset: 11236254-n
+Baroness Jackson of Lodsworth:
+  n:
+    sense:
+    - id: 'baroness_jackson_of_lodsworth%1:18:00::'
+      synset: 11394276-n
+Baroness Karen Blixen:
+  n:
+    sense:
+    - id: 'baroness_karen_blixen%1:18:00::'
+      synset: 10955737-n
+Baroness Thatcher of Kesteven:
+  n:
+    sense:
+    - id: 'baroness_thatcher_of_kesteven%1:18:00::'
+      synset: 11357774-n
+Baronne Anne Louise Germaine Necker de Steal-Holstein:
+  n:
+    sense:
+    - id: 'baronne_anne_louise_germaine_necker_de_steal-holstein%1:18:00::'
+      synset: 11331954-n
+Baroque era:
+  n:
+    sense:
+    - id: 'baroque_era%1:28:00::'
+      synset: 15283887-n
+Baroque period:
+  n:
+    sense:
+    - id: 'baroque_period%1:28:00::'
+      synset: 15283887-n
+Barranquilla:
+  n:
+    sense:
+    - id: 'barranquilla%1:15:00::'
+      synset: 08750640-n
+Barrie:
+  n:
+    sense:
+    - id: 'barrie%1:18:00::'
+      synset: 10854618-n
+Barrymore:
+  n:
+    sense:
+    - id: 'barrymore%1:18:04::'
+      synset: 10855625-n
+    - id: 'barrymore%1:18:03::'
+      synset: 10855462-n
+    - id: 'barrymore%1:18:02::'
+      synset: 10855305-n
+    - id: 'barrymore%1:18:01::'
+      synset: 10855046-n
+    - id: 'barrymore%1:18:00::'
+      synset: 10854814-n
+Barstow:
+  n:
+    sense:
+    - id: 'barstow%1:15:00::'
+      synset: 09084948-n
+Barth:
+  n:
+    sense:
+    - id: 'barth%1:18:01::'
+      synset: 10855904-n
+    - id: 'barth%1:18:00::'
+      synset: 10855780-n
+Barthelme:
+  n:
+    sense:
+    - id: 'barthelme%1:18:00::'
+      synset: 10856009-n
+Barthold Georg Niebuhr:
+  n:
+    sense:
+    - id: 'barthold_georg_niebuhr%1:18:01::'
+      synset: 11226695-n
+Barthold George Niebuhr:
+  n:
+    sense:
+    - id: 'barthold_george_niebuhr%1:18:00::'
+      synset: 11226695-n
+Bartholdi:
+  n:
+    sense:
+    - id: 'bartholdi%1:18:00::'
+      synset: 10856151-n
+Bartholin:
+  n:
+    sense:
+    - id: 'bartholin%1:18:00::'
+      synset: 10856321-n
+Bartholomeu Dias:
+  n:
+    sense:
+    - id: 'bartholomeu_dias%1:18:00::'
+      synset: 10953905-n
+Bartholomeu Diaz:
+  n:
+    sense:
+    - id: 'bartholomeu_diaz%1:18:00::'
+      synset: 10953905-n
+Bartholomew Roberts:
+  n:
+    sense:
+    - id: 'bartholomew_roberts%1:18:00::'
+      synset: 11284183-n
+Bartle Frere:
+  n:
+    sense:
+    - id: 'bartle_frere%1:20:00::'
+      synset: 12234762-n
+Bartlesville:
+  n:
+    sense:
+    - id: 'bartlesville%1:15:00::'
+      synset: 09154741-n
+Bartlett:
+  n:
+    pronunciation:
+    - value: ˈbɑː(ɹ)tlət
+      variety: GB
+    sense:
+    - id: 'bartlett%1:18:01::'
+      synset: 10856619-n
+    - id: 'bartlett%1:18:00::'
+      synset: 10856458-n
+Bartok:
+  n:
+    sense:
+    - id: 'bartok%1:18:00::'
+      synset: 10856854-n
+Bartolome Esteban Murillo:
+  n:
+    sense:
+    - id: 'bartolome_esteban_murillo%1:18:00::'
+      synset: 11217623-n
+Bartolomeo Alberto Capillari:
+  n:
+    sense:
+    - id: 'bartolomeo_alberto_capillari%1:18:00::'
+      synset: 11034829-n
+Bartolomeo Eustachi:
+  n:
+    sense:
+    - id: 'bartolomeo_eustachi%1:18:01::'
+      synset: 10983042-n
+Bartolomeo Prignano:
+  n:
+    sense:
+    - id: 'bartolomeo_prignano%1:18:00::'
+      synset: 11377081-n
+Bartolomeo Vanzetti:
+  n:
+    sense:
+    - id: 'bartolomeo_vanzetti%1:18:00::'
+      synset: 11380306-n
+Bartolomeu Dias:
+  n:
+    sense:
+    - id: 'bartolomeu_dias%1:18:01::'
+      synset: 10953905-n
+Bartolommeo Eustachio:
+  n:
+    sense:
+    - id: 'bartolommeo_eustachio%1:18:00::'
+      synset: 10983042-n
+Bartramia:
+  n:
+    sense:
+    - id: 'bartramia%1:05:00::'
+      synset: 02032225-n
+Baruch:
+  n:
+    sense:
+    - id: 'baruch%1:18:01::'
+      synset: 10857163-n
+    - id: 'baruch%1:18:00::'
+      synset: 10857057-n
+    - id: 'baruch%1:10:00::'
+      synset: 06470993-n
+Baruch Spinoza:
+  n:
+    sense:
+    - id: 'baruch_spinoza%1:18:01::'
+      synset: 11331445-n
+Baruch ben Neriah:
+  n:
+    sense:
+    - id: 'baruch_ben_neriah%1:18:01::'
+      synset: 10857057-n
+Baruch de Spinoza:
+  n:
+    sense:
+    - id: 'baruch_de_spinoza%1:18:00::'
+      synset: 11331445-n
+Baryshnikov:
+  n:
+    sense:
+    - id: 'baryshnikov%1:18:00::'
+      synset: 10857333-n
+Base:
+  n:
+    sense:
+    - id: 'base%1:14:00::'
+      synset: 08030577-n
+Basel:
+  n:
+    sense:
+    - id: 'basel%1:15:00::'
+      synset: 09054958-n
+Basia:
+  n:
+    sense:
+    - id: 'basia%1:15:00::'
+      synset: 08934186-n
+Basidiomycetes:
+  n:
+    sense:
+    - id: 'basidiomycetes%1:20:00::'
+      synset: 13017601-n
+Basidiomycota:
+  n:
+    sense:
+    - id: 'basidiomycota%1:20:00::'
+      synset: 13016985-n
+Basidiomycotina:
+  n:
+    sense:
+    - id: 'basidiomycotina%1:20:00::'
+      synset: 13016985-n
+Basil:
+  n:
+    sense:
+    - id: 'basil%1:18:00::'
+      synset: 10857514-n
+Basil of Caesarea:
+  n:
+    sense:
+    - id: 'basil_of_caesarea%1:18:00::'
+      synset: 10857514-n
+Basil the Great:
+  n:
+    sense:
+    - id: 'basil_the_great%1:18:00::'
+      synset: 10857514-n
+Basilicata:
+  n:
+    sense:
+    - id: 'basilicata%1:15:00::'
+      synset: 08822339-n
+Basiliscus:
+  n:
+    sense:
+    - id: 'basiliscus%1:05:00::'
+      synset: 01684934-n
+Basle:
+  n:
+    sense:
+    - id: 'basle%1:15:00::'
+      synset: 09054958-n
+Basque Fatherland and Liberty:
+  n:
+    sense:
+    - id: 'basque_fatherland_and_liberty%1:14:00::'
+      synset: 08034942-n
+Basque Homeland and Freedom:
+  n:
+    sense:
+    - id: 'basque_homeland_and_freedom%1:14:00::'
+      synset: 08034942-n
+Basra:
+  n:
+    sense:
+    - id: 'basra%1:15:00::'
+      synset: 08934186-n
+Bassariscidae:
+  n:
+    sense:
+    - id: 'bassariscidae%1:05:00::'
+      synset: 02511089-n
+Bassariscus:
+  n:
+    sense:
+    - id: 'bassariscus%1:05:00::'
+      synset: 02511246-n
+Basse-Normandie:
+  n:
+    sense:
+    - id: 'basse-normandie%1:15:00::'
+      synset: 08960709-n
+Basseterre:
+  n:
+    sense:
+    - id: 'basseterre%1:15:00::'
+      synset: 09010438-n
+Bassia:
+  n:
+    sense:
+    - id: 'bassia%1:20:00::'
+      synset: 11852199-n
+Bast:
+  n:
+    pronunciation:
+    - value: bɑːst
+      variety: GB
+    - value: bæst
+      variety: US
+    sense:
+    - id: 'bast%1:18:00::'
+      synset: 09535163-n
+Bastet:
+  n:
+    sense:
+    - id: 'bastet%1:18:01::'
+      synset: 09535163-n
+Bastille:
+  n:
+    sense:
+    - id: 'bastille%1:06:01::'
+      synset: 02808769-n
+Basutoland:
+  n:
+    sense:
+    - id: 'basutoland%1:15:00::'
+      synset: 08978603-n
+Bataan:
+  n:
+    sense:
+    - id: 'bataan%1:04:00::'
+      synset: 01272836-n
+Bath:
+  n:
+    sense:
+    - id: 'bath%1:15:00::'
+      synset: 08898429-n
+Bathsheba:
+  n:
+    sense:
+    - id: 'bathsheba%1:18:00::'
+      synset: 10857884-n
+Bathyergidae:
+  n:
+    sense:
+    - id: 'bathyergidae%1:05:00::'
+      synset: 02371664-n
+Bathyergus:
+  n:
+    sense:
+    - id: 'bathyergus%1:05:00::'
+      synset: 02371822-n
+Batidaceae:
+  n:
+    sense:
+    - id: 'batidaceae%1:20:00::'
+      synset: 11847638-n
+Batis:
+  n:
+    sense:
+    - id: 'batis%1:20:00::'
+      synset: 11847817-n
+Batna:
+  n:
+    sense:
+    - id: 'batna%1:15:00::'
+      synset: 08724213-n
+Batoidei:
+  n:
+    sense:
+    - id: 'batoidei%1:05:00::'
+      synset: 01499258-n
+Baton Rouge:
+  n:
+    sense:
+    - id: 'baton_rouge%1:15:00::'
+      synset: 09113970-n
+Baton Rouge Bridge:
+  n:
+    sense:
+    - id: 'baton_rouge_bridge%1:06:01::'
+      synset: 02813001-n
+Batrachia:
+  n:
+    sense:
+    - id: 'batrachia%1:05:00::'
+      synset: 01642010-n
+Batrachoididae:
+  n:
+    sense:
+    - id: 'batrachoididae%1:05:00::'
+      synset: 02551153-n
+Batrachoseps:
+  n:
+    sense:
+    - id: 'batrachoseps%1:05:00::'
+      synset: 01640119-n
+Battle Born State:
+  n:
+    sense:
+    - id: 'battle_born_state%1:15:00::'
+      synset: 09133059-n
+Battle of Actium:
+  n:
+    sense:
+    - id: 'battle_of_actium%1:04:01::'
+      synset: 01270950-n
+Battle of Agincourt:
+  n:
+    sense:
+    - id: 'battle_of_agincourt%1:04:01::'
+      synset: 01271654-n
+Battle of Bannockburn:
+  n:
+    sense:
+    - id: 'battle_of_bannockburn%1:04:01::'
+      synset: 01272646-n
+Battle of Bataan:
+  n:
+    sense:
+    - id: 'battle_of_bataan%1:04:01::'
+      synset: 01272836-n
+Battle of Blenheim:
+  n:
+    sense:
+    - id: 'battle_of_blenheim%1:04:01::'
+      synset: 01274408-n
+Battle of Borodino:
+  n:
+    sense:
+    - id: 'battle_of_borodino%1:04:01::'
+      synset: 01274627-n
+Battle of Bosworth Field:
+  n:
+    sense:
+    - id: 'battle_of_bosworth_field%1:04:01::'
+      synset: 01274860-n
+Battle of Britain:
+  n:
+    sense:
+    - id: 'battle_of_britain%1:04:00::'
+      synset: 01273121-n
+Battle of Buena Vista:
+  n:
+    sense:
+    - id: 'battle_of_buena_vista%1:04:01::'
+      synset: 01275723-n
+Battle of Bull Run:
+  n:
+    sense:
+    - id: 'battle_of_bull_run%1:04:00::'
+      synset: 01275984-n
+Battle of Chaeronea:
+  n:
+    sense:
+    - id: 'battle_of_chaeronea%1:04:01::'
+      synset: 01277024-n
+Battle of Chancellorsville:
+  n:
+    sense:
+    - id: 'battle_of_chancellorsville%1:04:01::'
+      synset: 01277402-n
+Battle of Chapultepec:
+  n:
+    sense:
+    - id: 'battle_of_chapultepec%1:04:01::'
+      synset: 01277635-n
+Battle of Chongju:
+  n:
+    sense:
+    - id: 'battle_of_chongju%1:04:01::'
+      synset: 01302485-n
+Battle of El Alamein:
+  n:
+    sense:
+    - id: 'battle_of_el_alamein%1:04:00::'
+      synset: 01280725-n
+Battle of Eniwetok:
+  n:
+    sense:
+    - id: 'battle_of_eniwetok%1:04:01::'
+      synset: 01281002-n
+Battle of Flodden Field:
+  n:
+    sense:
+    - id: 'battle_of_flodden_field%1:04:00::'
+      synset: 01281185-n
+Battle of Fontenoy:
+  n:
+    sense:
+    - id: 'battle_of_fontenoy%1:04:00::'
+      synset: 01281366-n
+Battle of Fredericksburg:
+  n:
+    sense:
+    - id: 'battle_of_fredericksburg%1:04:00::'
+      synset: 01281835-n
+Battle of Gettysburg:
+  n:
+    sense:
+    - id: 'battle_of_gettysburg%1:04:00::'
+      synset: 01282108-n
+Battle of Granicus River:
+  n:
+    sense:
+    - id: 'battle_of_granicus_river%1:04:00::'
+      synset: 01282359-n
+Battle of Guadalcanal:
+  n:
+    sense:
+    - id: 'battle_of_guadalcanal%1:04:00::'
+      synset: 01282548-n
+Battle of Hampton Roads:
+  n:
+    sense:
+    - id: 'battle_of_hampton_roads%1:04:01::'
+      synset: 01282801-n
+Battle of Inchon:
+  n:
+    sense:
+    - id: 'battle_of_inchon%1:04:01::'
+      synset: 01283483-n
+Battle of Iwo Jima:
+  n:
+    sense:
+    - id: 'battle_of_iwo_jima%1:04:01::'
+      synset: 01284515-n
+Battle of Jena:
+  n:
+    sense:
+    - id: 'battle_of_jena%1:04:00::'
+      synset: 01284782-n
+Battle of Karbala:
+  n:
+    sense:
+    - id: 'battle_of_karbala%1:04:01::'
+      synset: 01273353-n
+Battle of Kerbala:
+  n:
+    sense:
+    - id: 'battle_of_kerbala%1:04:00::'
+      synset: 01273353-n
+Battle of Kwajalein:
+  n:
+    sense:
+    - id: 'battle_of_kwajalein%1:04:01::'
+      synset: 01285459-n
+Battle of Lake Trasimene:
+  n:
+    sense:
+    - id: 'battle_of_lake_trasimene%1:04:02::'
+      synset: 01285678-n
+Battle of Lake Trasimenus:
+  n:
+    sense:
+    - id: 'battle_of_lake_trasimenus%1:04:00::'
+      synset: 01285678-n
+Battle of Lepanto:
+  n:
+    sense:
+    - id: 'battle_of_lepanto%1:04:00::'
+      synset: 01286058-n
+Battle of Leyte:
+  n:
+    sense:
+    - id: 'battle_of_leyte%1:04:01::'
+      synset: 01286617-n
+Battle of Little Bighorn:
+  n:
+    sense:
+    - id: 'battle_of_little_bighorn%1:04:00::'
+      synset: 01286937-n
+Battle of Magenta:
+  n:
+    sense:
+    - id: 'battle_of_magenta%1:04:00::'
+      synset: 01288277-n
+Battle of Maldon:
+  n:
+    sense:
+    - id: 'battle_of_maldon%1:04:00::'
+      synset: 01288493-n
+Battle of Manila Bay:
+  n:
+    sense:
+    - id: 'battle_of_manila_bay%1:04:01::'
+      synset: 01288674-n
+Battle of Marengo:
+  n:
+    sense:
+    - id: 'battle_of_marengo%1:04:01::'
+      synset: 01289238-n
+Battle of Midway:
+  n:
+    sense:
+    - id: 'battle_of_midway%1:04:00::'
+      synset: 01290275-n
+Battle of Monmouth:
+  n:
+    sense:
+    - id: 'battle_of_monmouth%1:04:00::'
+      synset: 01290765-n
+Battle of Monmouth Court House:
+  n:
+    sense:
+    - id: 'battle_of_monmouth_court_house%1:04:00::'
+      synset: 01290765-n
+Battle of Naseby:
+  n:
+    sense:
+    - id: 'battle_of_naseby%1:04:00::'
+      synset: 01291042-n
+Battle of Okinawa:
+  n:
+    sense:
+    - id: 'battle_of_okinawa%1:04:01::'
+      synset: 01291554-n
+Battle of Port Arthur:
+  n:
+    sense:
+    - id: 'battle_of_port_arthur%1:04:01::'
+      synset: 01294510-n
+Battle of Puebla:
+  n:
+    sense:
+    - id: 'battle_of_puebla%1:04:00::'
+      synset: 01294693-n
+Battle of Pydna:
+  n:
+    sense:
+    - id: 'battle_of_pydna%1:04:00::'
+      synset: 01294836-n
+Battle of Ravenna:
+  n:
+    sense:
+    - id: 'battle_of_ravenna%1:04:00::'
+      synset: 01295046-n
+Battle of Rocroi:
+  n:
+    sense:
+    - id: 'battle_of_rocroi%1:04:00::'
+      synset: 01295228-n
+Battle of Saint-Mihiel:
+  n:
+    sense:
+    - id: 'battle_of_saint-mihiel%1:04:01::'
+      synset: 01295660-n
+Battle of Spotsylvania Court House:
+  n:
+    sense:
+    - id: 'battle_of_spotsylvania_court_house%1:04:01::'
+      synset: 01298409-n
+Battle of Tarawa:
+  n:
+    sense:
+    - id: 'battle_of_tarawa%1:04:01::'
+      synset: 01299188-n
+Battle of Tsushima:
+  n:
+    sense:
+    - id: 'battle_of_tsushima%1:04:01::'
+      synset: 01300653-n
+Battle of Verdun:
+  n:
+    sense:
+    - id: 'battle_of_verdun%1:04:01::'
+      synset: 01301064-n
+Battle of Wake:
+  n:
+    sense:
+    - id: 'battle_of_wake%1:04:00::'
+      synset: 01301715-n
+Battle of Wake Island:
+  n:
+    sense:
+    - id: 'battle_of_wake_island%1:04:00::'
+      synset: 01301715-n
+Battle of Waterloo:
+  n:
+    sense:
+    - id: 'battle_of_waterloo%1:04:00::'
+      synset: 01301967-n
+Battle of the Alamo:
+  n:
+    sense:
+    - id: 'battle_of_the_alamo%1:04:01::'
+      synset: 01271853-n
+Battle of the Ardennes Bulge:
+  n:
+    sense:
+    - id: 'battle_of_the_ardennes_bulge%1:04:00::'
+      synset: 01273600-n
+Battle of the Boyne:
+  n:
+    sense:
+    - id: 'battle_of_the_boyne%1:04:01::'
+      synset: 01275280-n
+Battle of the Bulge:
+  n:
+    sense:
+    - id: 'battle_of_the_bulge%1:04:00::'
+      synset: 01273600-n
+Battle of the Catalaunian Plains:
+  n:
+    sense:
+    - id: 'battle_of_the_catalaunian_plains%1:04:01::'
+      synset: 01277226-n
+Battle of the Caudine Forks:
+  n:
+    sense:
+    - id: 'battle_of_the_caudine_forks%1:04:01::'
+      synset: 01276867-n
+Battle of the Granicus:
+  n:
+    sense:
+    - id: 'battle_of_the_granicus%1:04:01::'
+      synset: 01282359-n
+Battle of the Little Bighorn:
+  n:
+    sense:
+    - id: 'battle_of_the_little_bighorn%1:04:00::'
+      synset: 01286937-n
+Battle of the Marne:
+  n:
+    sense:
+    - id: 'battle_of_the_marne%1:04:00::'
+      synset: 01273921-n
+Battle of the Metaurus:
+  n:
+    sense:
+    - id: 'battle_of_the_metaurus%1:04:01::'
+      synset: 01289672-n
+Battle of the Somme:
+  n:
+    sense:
+    - id: 'battle_of_the_somme%1:04:02::'
+      synset: 01298019-n
+Battle of the Spanish Armada:
+  n:
+    sense:
+    - id: 'battle_of_the_spanish_armada%1:04:00::'
+      synset: 01298175-n
+Battles of Lexington and Concord:
+  n:
+    sense:
+    - id: 'battles_of_lexington_and_concord%1:04:01::'
+      synset: 01286428-n
+Battles of Saratoga:
+  n:
+    sense:
+    - id: 'battles_of_saratoga%1:04:01::'
+      synset: 01296620-n
+Baudelaire:
+  n:
+    sense:
+    - id: 'baudelaire%1:18:00::'
+      synset: 10858080-n
+Bauhinia:
+  n:
+    sense:
+    - id: 'bauhinia%1:20:00::'
+      synset: 12511176-n
+Baum:
+  n:
+    sense:
+    - id: 'baum%1:18:00::'
+      synset: 10858261-n
+Bavaria:
+  n:
+    sense:
+    - derivation:
+      - 'bavarian%3:01:00::'
+      - 'bavarian%1:18:00::'
+      id: 'bavaria%1:15:00::'
+      synset: 08789429-n
+Bay State:
+  n:
+    sense:
+    - id: 'bay_state%1:15:00::'
+      synset: 09117607-n
+Bay of Bengal:
+  n:
+    sense:
+    - id: 'bay_of_bengal%1:17:00::'
+      synset: 09239349-n
+Bay of Biscay:
+  n:
+    sense:
+    - id: 'bay_of_biscay%1:17:00::'
+      synset: 09239495-n
+Bay of Campeche:
+  n:
+    sense:
+    - id: 'bay_of_campeche%1:17:00::'
+      synset: 09320635-n
+Bay of Fundy:
+  n:
+    sense:
+    - id: 'bay_of_fundy%1:17:00::'
+      synset: 09239688-n
+Bay of Naples:
+  n:
+    sense:
+    - id: 'bay_of_naples%1:17:00::'
+      synset: 09239875-n
+Bay of Ob:
+  n:
+    sense:
+    - id: 'bay_of_ob%1:17:00::'
+      synset: 09321880-n
+Bayard:
+  n:
+    sense:
+    - id: 'bayard%1:18:00::'
+      synset: 10858398-n
+Bayes:
+  n:
+    sense:
+    - id: 'bayes%1:18:00::'
+      synset: 10858593-n
+Baykal:
+  n:
+    sense:
+    - id: 'baykal%1:17:00::'
+      synset: 09265673-n
+Bayonne:
+  n:
+    sense:
+    - id: 'bayonne%1:15:00::'
+      synset: 09135860-n
+Bayonne Bridge:
+  n:
+    sense:
+    - id: 'bayonne_bridge%1:06:00::'
+      synset: 02816224-n
+Bayrut:
+  n:
+    sense:
+    - id: 'bayrut%1:15:00::'
+      synset: 08977579-n
+Bayt Lahm:
+  n:
+    sense:
+    - id: 'bayt_lahm%1:15:00::'
+      synset: 08813084-n
+Beacon Hill:
+  n:
+    sense:
+    - id: 'beacon_hill%1:15:00::'
+      synset: 09118782-n
+Beadle:
+  n:
+    sense:
+    - id: 'beadle%1:18:01::'
+      synset: 10858727-n
+Bean Town:
+  n:
+    sense:
+    - id: 'bean_town%1:15:00::'
+      synset: 09118343-n
+Beantown:
+  n:
+    sense:
+    - id: 'beantown%1:15:00::'
+      synset: 09118343-n
+Bearer of the Sword:
+  n:
+    sense:
+    - id: 'bearer_of_the_sword%1:14:00::'
+      synset: 08027291-n
+Beatles:
+  n:
+    pronunciation:
+    - value: ˈbiːtl̩z
+      variety: GB
+    - value: ˈbiːtl̩z
+      variety: US
+    sense:
+    - id: 'beatles%1:14:00::'
+      synset: 08386847-n
+Beatrice:
+  n:
+    sense:
+    - id: 'beatrice%1:18:00::'
+      synset: 09613050-n
+Beatrice Lillie:
+  n:
+    sense:
+    - id: 'beatrice_lillie%1:18:00::'
+      synset: 11152107-n
+Beatrice Webb:
+  n:
+    sense:
+    - id: 'beatrice_webb%1:18:00::'
+      synset: 11398082-n
+Beau Brummell:
+  n:
+    sense:
+    - id: 'beau_brummell%1:18:00::'
+      synset: 10887984-n
+Beaufort Sea:
+  n:
+    sense:
+    - id: 'beaufort_sea%1:17:00::'
+      synset: 09240415-n
+Beaumont:
+  n:
+    sense:
+    - id: 'beaumont%1:18:01::'
+      synset: 10859065-n
+    - id: 'beaumont%1:18:00::'
+      synset: 10858925-n
+    - id: 'beaumont%1:15:00::'
+      synset: 09165942-n
+Beaumontia:
+  n:
+    sense:
+    - id: 'beaumontia%1:20:00::'
+      synset: 11791438-n
+Beauvoir:
+  n:
+    sense:
+    - id: 'beauvoir%1:18:00::'
+      synset: 10859213-n
+Beaver State:
+  n:
+    sense:
+    - id: 'beaver_state%1:15:00::'
+      synset: 09155698-n
+Beaverbrook:
+  n:
+    sense:
+    - id: 'beaverbrook%1:18:00::'
+      synset: 10859387-n
+Becket:
+  n:
+    pronunciation:
+    - value: ˈbɛkɪt
+      variety: GB
+    sense:
+    - id: 'becket%1:18:00::'
+      synset: 10859617-n
+Beckett:
+  n:
+    sense:
+    - id: 'beckett%1:18:00::'
+      synset: 10859950-n
+Beckley:
+  n:
+    sense:
+    - id: 'beckley%1:15:00::'
+      synset: 09178463-n
+Becquerel:
+  n:
+    sense:
+    - id: 'becquerel%1:18:00::'
+      synset: 10860159-n
+Beda:
+  n:
+    sense:
+    - id: 'beda%1:18:00::'
+      synset: 10860365-n
+Bede:
+  n:
+    sense:
+    - id: 'bede%1:18:00::'
+      synset: 10860365-n
+Bedloe's Island:
+  n:
+    sense:
+    - id: 'bedloe''s_island%1:15:00::'
+      synset: 09137054-n
+Bedrich Smetana:
+  n:
+    sense:
+    - id: 'bedrich_smetana%1:18:00::'
+      synset: 11325154-n
+Beecher:
+  n:
+    sense:
+    - id: 'beecher%1:18:00::'
+      synset: 10860661-n
+Beehive State:
+  n:
+    sense:
+    - id: 'beehive_state%1:15:00::'
+      synset: 09169783-n
+Beelzebub:
+  n:
+    pronunciation:
+    - value: biːˈɛlzɪbʌb
+      variety: GB
+    - value: ˈbilzɪbʌb
+      variety: US
+    sense:
+    - id: 'beelzebub%1:18:00::'
+      synset: 09566482-n
+Beerbohm:
+  n:
+    sense:
+    - id: 'beerbohm%1:18:00::'
+      synset: 10860837-n
+Begin:
+  n:
+    pronunciation:
+    - value: bɪˈɡɪn
+    sense:
+    - id: 'begin%1:18:00::'
+      synset: 10861253-n
+Begoniaceae:
+  n:
+    sense:
+    - id: 'begoniaceae%1:20:00::'
+      synset: 12380251-n
+Behmen:
+  n:
+    sense:
+    - id: 'behmen%1:18:00::'
+      synset: 10873993-n
+Behrens:
+  n:
+    sense:
+    - id: 'behrens%1:18:00::'
+      synset: 10861476-n
+Behring:
+  n:
+    sense:
+    - id: 'behring%1:18:00::'
+      synset: 10866509-n
+Beijing:
+  n:
+    sense:
+    - id: 'beijing%1:15:00::'
+      synset: 08742559-n
+Beira:
+  n:
+    sense:
+    - id: 'beira%1:15:00::'
+      synset: 08993755-n
+Beirut:
+  n:
+    sense:
+    - id: 'beirut%1:15:00::'
+      synset: 08977579-n
+Bel and the Dragon:
+  n:
+    sense:
+    - id: 'bel_and_the_dragon%1:10:00::'
+      synset: 06470843-n
+Bel-Merodach:
+  n:
+    sense:
+    - id: 'bel-merodach%1:18:00::'
+      synset: 09542423-n
+Bela Bartok:
+  n:
+    sense:
+    - id: 'bela_bartok%1:18:00::'
+      synset: 10856854-n
+Bela Ferenc Blasko:
+  n:
+    sense:
+    - id: 'bela_ferenc_blasko%1:18:00::'
+      synset: 11164421-n
+Bela Lugosi:
+  n:
+    sense:
+    - id: 'bela_lugosi%1:18:00::'
+      synset: 11164421-n
+Belamcanda:
+  n:
+    sense:
+    - id: 'belamcanda%1:20:00::'
+      synset: 12436416-n
+Belarus:
+  n:
+    pronunciation:
+    - value: ˌbɛləˈɹuːs
+      variety: GB
+    - value: ˌbɛləˈɹus
+      variety: US
+    sense:
+    - derivation:
+      - 'belarusian%3:01:00::'
+      id: 'belarus%1:15:00::'
+      synset: 09033521-n
+Belau:
+  n:
+    sense:
+    - id: 'belau%1:15:00::'
+      synset: 09000318-n
+Belem:
+  n:
+    sense:
+    - id: 'belem%1:15:00::'
+      synset: 08873847-n
+Belemnitidae:
+  n:
+    sense:
+    - id: 'belemnitidae%1:05:00::'
+      synset: 01976207-n
+Belemnoidea:
+  n:
+    sense:
+    - id: 'belemnoidea%1:05:00::'
+      synset: 01976016-n
+Belfast:
+  n:
+    sense:
+    - id: 'belfast%1:15:00::'
+      synset: 08908706-n
+Belgian Congo:
+  n:
+    sense:
+    - id: 'belgian_congo%1:15:00::'
+      synset: 08752218-n
+Belgian capital:
+  n:
+    sense:
+    - id: 'belgian_capital%1:15:00::'
+      synset: 08869442-n
+Belgique:
+  n:
+    sense:
+    - id: 'belgique%1:15:00::'
+      synset: 08868745-n
+Belgium:
+  n:
+    sense:
+    - derivation:
+      - 'belgian%3:01:00::'
+      id: 'belgium%1:15:00::'
+      synset: 08868745-n
+Belgrade:
+  n:
+    sense:
+    - id: 'belgrade%1:15:00::'
+      synset: 08835270-n
+Belisarius:
+  n:
+    sense:
+    - id: 'belisarius%1:18:00::'
+      synset: 10861626-n
+Belize:
+  n:
+    sense:
+    - id: 'belize%1:15:00::'
+      synset: 08755354-n
+Bell:
+  n:
+    pronunciation:
+    - value: bɛl
+    sense:
+    - id: 'bell%1:18:02::'
+      synset: 10862171-n
+    - id: 'bell%1:18:01::'
+      synset: 10861972-n
+    - id: 'bell%1:18:00::'
+      synset: 10861809-n
+Bellarmine:
+  n:
+    sense:
+    - id: 'bellarmine%1:18:00::'
+      synset: 10862326-n
+Bellarmino:
+  n:
+    sense:
+    - id: 'bellarmino%1:18:00::'
+      synset: 10862326-n
+Belle Miriam Silverman:
+  n:
+    sense:
+    - id: 'belle_miriam_silverman%1:18:00::'
+      synset: 11320321-n
+Belleau Wood:
+  n:
+    sense:
+    - id: 'belleau_wood%1:04:00::'
+      synset: 01273921-n
+Bellerophon:
+  n:
+    sense:
+    - id: 'bellerophon%1:18:00::'
+      synset: 09523135-n
+Bellingham:
+  n:
+    sense:
+    - id: 'bellingham%1:15:00::'
+      synset: 09176473-n
+Bellini:
+  n:
+    sense:
+    - id: 'bellini%1:18:00::'
+      synset: 10862519-n
+Bellis:
+  n:
+    sense:
+    - id: 'bellis%1:20:00::'
+      synset: 11959849-n
+Belloc:
+  n:
+    sense:
+    - id: 'belloc%1:18:00::'
+      synset: 10862631-n
+Bellow:
+  n:
+    pronunciation:
+    - value: ˈbɛloʊ
+      variety: US
+    - value: ˈbɛləʊ
+      variety: GB
+    sense:
+    - id: 'bellow%1:18:00::'
+      synset: 10862824-n
+Belmont:
+  n:
+    sense:
+    - id: 'belmont%1:06:00::'
+      synset: 02830473-n
+Belmont Park:
+  n:
+    sense:
+    - id: 'belmont_park%1:06:00::'
+      synset: 02830473-n
+Belo Horizonte:
+  n:
+    sense:
+    - id: 'belo_horizonte%1:15:00::'
+      synset: 08874118-n
+Belonidae:
+  n:
+    sense:
+    - id: 'belonidae%1:05:00::'
+      synset: 02552427-n
+Belorussia:
+  n:
+    sense:
+    - id: 'belorussia%1:15:00::'
+      synset: 09033521-n
+Belostomatidae:
+  n:
+    sense:
+    - id: 'belostomatidae%1:05:00::'
+      synset: 02244656-n
+Belsen:
+  n:
+    sense:
+    - id: 'belsen%1:06:00::'
+      synset: 02830650-n
+Belshazzar:
+  n:
+    sense:
+    - id: 'belshazzar%1:18:00::'
+      synset: 10863021-n
+Bemidji:
+  n:
+    sense:
+    - id: 'bemidji%1:15:00::'
+      synset: 09125023-n
+Bemisia:
+  n:
+    sense:
+    - id: 'bemisia%1:05:00::'
+      synset: 02250015-n
+Ben Gurion:
+  n:
+    sense:
+    - id: 'ben_gurion%1:18:00::'
+      synset: 10864401-n
+Ben Hecht:
+  n:
+    sense:
+    - id: 'ben_hecht%1:18:00::'
+      synset: 11057962-n
+Ben Hogan:
+  n:
+    sense:
+    - id: 'ben_hogan%1:18:00::'
+      synset: 11075449-n
+Ben Jonson:
+  n:
+    sense:
+    - id: 'ben_jonson%1:18:00::'
+      synset: 11111174-n
+Ben Shahn:
+  n:
+    sense:
+    - id: 'ben_shahn%1:18:00::'
+      synset: 11315023-n
+Ben Sira:
+  n:
+    sense:
+    - id: 'ben_sira%1:10:00::'
+      synset: 06471965-n
+Benchley:
+  n:
+    sense:
+    - id: 'benchley%1:18:00::'
+      synset: 10863301-n
+Bend:
+  n:
+    pronunciation:
+    - value: bɛnd
+    sense:
+    - id: 'bend%1:15:00::'
+      synset: 09156059-n
+Benedetto Caetani:
+  n:
+    sense:
+    - id: 'benedetto_caetani%1:18:00::'
+      synset: 10876395-n
+Benedetto Odescalchi:
+  n:
+    sense:
+    - id: 'benedetto_odescalchi%1:18:00::'
+      synset: 11092386-n
+Benedict:
+  n:
+    sense:
+    - id: 'benedict%1:18:02::'
+      synset: 10863997-n
+    - id: 'benedict%1:18:00::'
+      synset: 10863454-n
+Benedict Arnold:
+  n:
+    sense:
+    - id: 'benedict_arnold%1:18:00::'
+      synset: 10843133-n
+Benedict XIV:
+  n:
+    sense:
+    - id: 'benedict_xiv%1:18:00::'
+      synset: 10863627-n
+Benedict XV:
+  n:
+    sense:
+    - id: 'benedict_xv%1:18:00::'
+      synset: 10863827-n
+Benedict de Spinoza:
+  n:
+    sense:
+    - id: 'benedict_de_spinoza%1:18:00::'
+      synset: 11331445-n
+Benedict of Nursia:
+  n:
+    sense:
+    - id: 'benedict_of_nursia%1:18:01::'
+      synset: 10863454-n
+Benet:
+  n:
+    pronunciation:
+    - value: ˈbɛnət
+    sense:
+    - id: 'benet%1:18:01::'
+      synset: 10864263-n
+    - id: 'benet%1:18:00::'
+      synset: 10864123-n
+Bengal:
+  n:
+    pronunciation:
+    - value: bɛŋˈɡɔːl
+      variety: GB
+    - value: bɛŋˈɡɑl
+      variety: US
+    sense:
+    - id: 'bengal%1:15:00::'
+      synset: 08728368-n
+Benghazi:
+  n:
+    sense:
+    - id: 'benghazi%1:15:00::'
+      synset: 08980136-n
+Benin:
+  n:
+    sense:
+    - id: 'benin%1:15:00::'
+      synset: 08777253-n
+Benito Mussolini:
+  n:
+    sense:
+    - id: 'benito_mussolini%1:18:00::'
+      synset: 11218243-n
+Benjamin:
+  n:
+    pronunciation:
+    - value: ˈbɛndʒəmɪn
+    sense:
+    - id: 'benjamin%1:18:00::'
+      synset: 10864646-n
+Benjamin Britten:
+  n:
+    sense:
+    - id: 'benjamin_britten%1:18:00::'
+      synset: 10884231-n
+Benjamin David Goodman:
+  n:
+    sense:
+    - id: 'benjamin_david_goodman%1:18:00::'
+      synset: 11027328-n
+Benjamin Disraeli:
+  n:
+    sense:
+    - id: 'benjamin_disraeli%1:18:00::'
+      synset: 10957356-n
+Benjamin Franklin:
+  n:
+    sense:
+    - id: 'benjamin_franklin%1:18:00::'
+      synset: 10999075-n
+Benjamin Franklin Bridge:
+  n:
+    sense:
+    - id: 'benjamin_franklin_bridge%1:06:00::'
+      synset: 02833478-n
+Benjamin Franklin Norris Jr.:
+  n:
+    sense:
+    - id: 'benjamin_franklin_norris_jr.%1:18:00::'
+      synset: 11229533-n
+Benjamin Harris:
+  n:
+    sense:
+    - id: 'benjamin_harris%1:18:00::'
+      synset: 11050256-n
+Benjamin Harrison:
+  n:
+    sense:
+    - id: 'benjamin_harrison%1:18:00::'
+      synset: 11051664-n
+Benjamin Henry Latrobe:
+  n:
+    sense:
+    - id: 'benjamin_henry_latrobe%1:18:00::'
+      synset: 11138592-n
+Benjamin Jonson:
+  n:
+    sense:
+    - id: 'benjamin_jonson%1:18:00::'
+      synset: 11111174-n
+Benjamin Jowett:
+  n:
+    sense:
+    - id: 'benjamin_jowett%1:18:00::'
+      synset: 11112928-n
+Benjamin Kubelsky:
+  n:
+    sense:
+    - id: 'benjamin_kubelsky%1:18:00::'
+      synset: 10865020-n
+Benjamin Peirce:
+  n:
+    sense:
+    - id: 'benjamin_peirce%1:18:00::'
+      synset: 11248476-n
+Benjamin Ricketson Tucker:
+  n:
+    sense:
+    - id: 'benjamin_ricketson_tucker%1:18:00::'
+      synset: 11371524-n
+Benjamin Rush:
+  n:
+    sense:
+    - id: 'benjamin_rush%1:18:00::'
+      synset: 11294259-n
+Benjamin Shahn:
+  n:
+    sense:
+    - id: 'benjamin_shahn%1:18:00::'
+      synset: 11315023-n
+Benjamin Spock:
+  n:
+    sense:
+    - id: 'benjamin_spock%1:18:00::'
+      synset: 11331618-n
+Benjamin Thompson:
+  n:
+    sense:
+    - id: 'benjamin_thompson%1:18:00::'
+      synset: 11359664-n
+Benjamin Tucker:
+  n:
+    sense:
+    - id: 'benjamin_tucker%1:18:01::'
+      synset: 11371524-n
+Benjamin West:
+  n:
+    sense:
+    - id: 'benjamin_west%1:18:00::'
+      synset: 11402107-n
+Bennett:
+  n:
+    sense:
+    - id: 'bennett%1:18:00::'
+      synset: 10864844-n
+Bennettitaceae:
+  n:
+    sense:
+    - id: 'bennettitaceae%1:20:00::'
+      synset: 11624844-n
+Bennettitales:
+  n:
+    sense:
+    - id: 'bennettitales%1:20:00::'
+      synset: 11624676-n
+Bennettitis:
+  n:
+    sense:
+    - id: 'bennettitis%1:20:00::'
+      synset: 11625027-n
+Bennington:
+  n:
+    sense:
+    - id: 'bennington%1:15:00::'
+      synset: 09171171-n
+Benny:
+  n:
+    sense:
+    - id: 'benny%1:18:00::'
+      synset: 10865020-n
+Benny Goodman:
+  n:
+    sense:
+    - id: 'benny_goodman%1:18:00::'
+      synset: 11027328-n
+Benny Hill:
+  n:
+    sense:
+    - id: 'benny_hill%1:18:00::'
+      synset: 11069933-n
+Benoit Mandelbrot:
+  n:
+    sense:
+    - id: 'benoit_mandelbrot%1:18:00::'
+      synset: 11173446-n
+Bentham:
+  n:
+    sense:
+    - id: 'bentham%1:18:00::'
+      synset: 10865199-n
+Benton:
+  n:
+    sense:
+    - id: 'benton%1:18:01::'
+      synset: 10865522-n
+    - id: 'benton%1:18:00::'
+      synset: 10865359-n
+Benvenuto Cellini:
+  n:
+    sense:
+    - id: 'benvenuto_cellini%1:18:00::'
+      synset: 10908540-n
+Benzoin:
+  n:
+    pronunciation:
+    - value: ˈbɛnzəʊɪn
+      variety: GB
+    sense:
+    - id: 'benzoin%1:20:00::'
+      synset: 11726589-n
+Beograd:
+  n:
+    sense:
+    - id: 'beograd%1:15:00::'
+      synset: 08835270-n
+Beowulf:
+  n:
+    sense:
+    - id: 'beowulf%1:18:00::'
+      synset: 09613170-n
+Berber Coast:
+  n:
+    sense:
+    - id: 'berber_coast%1:15:01::'
+      synset: 08520259-n
+    - id: 'berber_coast%1:15:02::'
+      synset: 08520498-n
+Berberidaceae:
+  n:
+    sense:
+    - id: 'berberidaceae%1:20:00::'
+      synset: 11717627-n
+Berberis:
+  n:
+    sense:
+    - id: 'berberis%1:20:00::'
+      synset: 11717857-n
+Berbery:
+  n:
+    sense:
+    - id: 'berbery%1:15:01::'
+      synset: 08520259-n
+Berg:
+  n:
+    sense:
+    - id: 'berg%1:18:00::'
+      synset: 10865685-n
+Bergen:
+  n:
+    sense:
+    - id: 'bergen%1:15:00::'
+      synset: 08783148-n
+Bergen-Belsen concentration camp:
+  n:
+    sense:
+    - id: 'bergen-belsen_concentration_camp%1:06:01::'
+      synset: 02830650-n
+Bergman:
+  n:
+    sense:
+    - id: 'bergman%1:18:01::'
+      synset: 10865996-n
+    - id: 'bergman%1:18:00::'
+      synset: 10865820-n
+Bergson:
+  n:
+    sense:
+    - id: 'bergson%1:18:00::'
+      synset: 10866100-n
+Beria:
+  n:
+    sense:
+    - id: 'beria%1:18:00::'
+      synset: 10866289-n
+Bering:
+  n:
+    pronunciation:
+    - value: bɪˈɹɪŋ
+      variety: GB
+    sense:
+    - id: 'bering%1:18:00::'
+      synset: 10866509-n
+Bering Sea:
+  n:
+    sense:
+    - id: 'bering_sea%1:17:00::'
+      synset: 09241689-n
+Bering Strait:
+  n:
+    sense:
+    - id: 'bering_strait%1:17:00::'
+      synset: 09241870-n
+Berkeley:
+  n:
+    sense:
+    - id: 'berkeley%1:18:00::'
+      synset: 10866721-n
+    - id: 'berkeley%1:15:00::'
+      synset: 09085055-n
+Berkshire:
+  n:
+    pronunciation:
+    - value: ˈbɑːkʃə
+      variety: GB
+    - value: bɚkʃɚ
+      variety: US
+    sense:
+    - id: 'berkshire%1:15:00::'
+      synset: 08901483-n
+Berkshire Hills:
+  n:
+    sense:
+    - id: 'berkshire_hills%1:17:00::'
+      synset: 09241985-n
+Berkshires:
+  n:
+    sense:
+    - id: 'berkshires%1:17:00::'
+      synset: 09241985-n
+Berlage:
+  n:
+    sense:
+    - id: 'berlage%1:18:00::'
+      synset: 10866926-n
+Berlin:
+  n:
+    pronunciation:
+    - value: bəˈlɪn
+      variety: GB
+    - value: ˈbɝ.lɪn
+      variety: US
+    sense:
+    - derivation:
+      - 'berliner%1:18:00::'
+      id: 'berlin%1:15:00::'
+      synset: 08787478-n
+    - id: 'berlin%1:18:00::'
+      synset: 10867050-n
+Berlin airlift:
+  n:
+    sense:
+    - id: 'berlin_airlift%1:04:00::'
+      synset: 00317632-n
+Berlioz:
+  n:
+    sense:
+    - id: 'berlioz%1:18:00::'
+      synset: 10867249-n
+Bermuda:
+  n:
+    pronunciation:
+    - value: bɚˈmjuːdə
+      variety: US
+    - value: bəˈmjuːdə
+      variety: GB
+    sense:
+    - id: 'bermuda%1:15:00::'
+      synset: 08728511-n
+Bermuda Triangle:
+  n:
+    sense:
+    - id: 'bermuda_triangle%1:15:00::'
+      synset: 08728784-n
+Bermudas:
+  n:
+    sense:
+    - id: 'bermudas%1:15:00::'
+      synset: 08728511-n
+Bern:
+  n:
+    sense:
+    - id: 'bern%1:15:00::'
+      synset: 09054796-n
+Berna Eli Oldfield:
+  n:
+    sense:
+    - id: 'berna_eli_oldfield%1:18:00::'
+      synset: 11233956-n
+Bernard:
+  n:
+    sense:
+    - id: 'bernard%1:18:00::'
+      synset: 10867389-n
+Bernard Arthur Owen Williams:
+  n:
+    sense:
+    - id: 'bernard_arthur_owen_williams%1:18:00::'
+      synset: 11410165-n
+Bernard Baruch:
+  n:
+    sense:
+    - id: 'bernard_baruch%1:18:00::'
+      synset: 10857163-n
+Bernard Hinault:
+  n:
+    sense:
+    - id: 'bernard_hinault%1:18:00::'
+      synset: 11070718-n
+Bernard Law Montgomery:
+  n:
+    sense:
+    - id: 'bernard_law_montgomery%1:18:00::'
+      synset: 11208306-n
+Bernard Malamud:
+  n:
+    sense:
+    - id: 'bernard_malamud%1:18:00::'
+      synset: 11171074-n
+Bernard Mannes Baruch:
+  n:
+    sense:
+    - id: 'bernard_mannes_baruch%1:18:00::'
+      synset: 10857163-n
+Bernard Montgomery:
+  n:
+    sense:
+    - id: 'bernard_montgomery%1:18:01::'
+      synset: 11208306-n
+Bernardo Bertolucci:
+  n:
+    sense:
+    - id: 'bernardo_bertolucci%1:18:00::'
+      synset: 10868919-n
+Bernd Heinrich Wilhelm von Kleist:
+  n:
+    sense:
+    - id: 'bernd_heinrich_wilhelm_von_kleist%1:18:00::'
+      synset: 11127426-n
+Berne:
+  n:
+    sense:
+    - id: 'berne%1:15:00::'
+      synset: 09054796-n
+Bernhard Riemann:
+  n:
+    sense:
+    - id: 'bernhard_riemann%1:18:00::'
+      synset: 11282158-n
+Bernhardt:
+  n:
+    sense:
+    - id: 'bernhardt%1:18:00::'
+      synset: 10867590-n
+Bernini:
+  n:
+    sense:
+    - id: 'bernini%1:18:00::'
+      synset: 10867718-n
+Bernoulli:
+  n:
+    sense:
+    - id: 'bernoulli%1:18:02::'
+      synset: 10868237-n
+    - id: 'bernoulli%1:18:01::'
+      synset: 10868096-n
+    - id: 'bernoulli%1:18:00::'
+      synset: 10867952-n
+Bernstein:
+  n:
+    sense:
+    - id: 'bernstein%1:18:00::'
+      synset: 10868398-n
+Berra:
+  n:
+    sense:
+    - id: 'berra%1:18:00::'
+      synset: 10868542-n
+Berry:
+  n:
+    sense:
+    - id: 'berry%1:18:00::'
+      synset: 10868679-n
+Berteroa:
+  n:
+    sense:
+    - id: 'berteroa%1:20:00::'
+      synset: 11894769-n
+Bertholletia:
+  n:
+    sense:
+    - id: 'bertholletia%1:20:00::'
+      synset: 12348235-n
+Bertillon:
+  n:
+    sense:
+    - id: 'bertillon%1:18:00::'
+      synset: 10868809-n
+Bertolt Brecht:
+  n:
+    sense:
+    - id: 'bertolt_brecht%1:18:00::'
+      synset: 10883148-n
+Bertolucci:
+  n:
+    sense:
+    - id: 'bertolucci%1:18:00::'
+      synset: 10868919-n
+Bertram Brockhouse:
+  n:
+    sense:
+    - id: 'bertram_brockhouse%1:18:00::'
+      synset: 10884727-n
+Bertrand Arthur William Russell:
+  n:
+    sense:
+    - id: 'bertrand_arthur_william_russell%1:18:00::'
+      synset: 11294802-n
+Bertrand Russell:
+  n:
+    sense:
+    - id: 'bertrand_russell%1:18:00::'
+      synset: 11294802-n
+Berycomorphi:
+  n:
+    sense:
+    - id: 'berycomorphi%1:05:00::'
+      synset: 01452722-n
+Berzelius:
+  n:
+    sense:
+    - id: 'berzelius%1:18:00::'
+      synset: 10869031-n
+Bessel:
+  n:
+    sense:
+    - id: 'bessel%1:18:00::'
+      synset: 10869221-n
+Bessemer:
+  n:
+    sense:
+    - id: 'bessemer%1:18:00::'
+      synset: 10869469-n
+Bessera:
+  n:
+    sense:
+    - id: 'bessera%1:20:00::'
+      synset: 12464052-n
+Besseya:
+  n:
+    sense:
+    - id: 'besseya%1:20:00::'
+      synset: 12898779-n
+Bessie Smith:
+  n:
+    sense:
+    - id: 'bessie_smith%1:18:00::'
+      synset: 11325740-n
+Best:
+  n:
+    sense:
+    - id: 'best%1:18:01::'
+      synset: 10869645-n
+Best and Greatest:
+  n:
+    sense:
+    - id: 'best_and_greatest%1:18:00::'
+      synset: 09597722-n
+Beta:
+  n:
+    pronunciation:
+    - value: ˈbiːtə
+      variety: GB
+    - value: ˈbeɪtə
+      variety: US
+    sense:
+    - id: 'beta%1:20:00::'
+      synset: 11852577-n
+Beta Centauri:
+  n:
+    sense:
+    - id: 'beta_centauri%1:17:00::'
+      synset: 09242256-n
+Beta Crucis:
+  n:
+    sense:
+    - id: 'beta_crucis%1:17:00::'
+      synset: 09242374-n
+Beta Orionis:
+  n:
+    sense:
+    - id: 'beta_orionis%1:17:00::'
+      synset: 09433243-n
+Betelgeuse:
+  n:
+    sense:
+    - id: 'betelgeuse%1:17:00::'
+      synset: 09242638-n
+Bethe:
+  n:
+    sense:
+    - id: 'bethe%1:18:00::'
+      synset: 10869869-n
+Bethlehem:
+  n:
+    pronunciation:
+    - value: ˈbɛθləhɛm
+    sense:
+    - id: 'bethlehem%1:15:01::'
+      synset: 09157947-n
+    - id: 'bethlehem%1:15:00::'
+      synset: 08813084-n
+Bethlehem Ephrathah:
+  n:
+    sense:
+    - id: 'bethlehem_ephrathah%1:15:00::'
+      synset: 08813084-n
+Bethlehem-Judah:
+  n:
+    sense:
+    - id: 'bethlehem-judah%1:15:00::'
+      synset: 08813084-n
+Bethune:
+  n:
+    sense:
+    - id: 'bethune%1:18:00::'
+      synset: 10870065-n
+Betsy Griscom Ross:
+  n:
+    sense:
+    - id: 'betsy_griscom_ross%1:18:00::'
+      synset: 11290567-n
+Betsy Ross:
+  n:
+    sense:
+    - id: 'betsy_ross%1:18:00::'
+      synset: 11290567-n
+Bette Davis:
+  n:
+    sense:
+    - id: 'bette_davis%1:18:00::'
+      synset: 10944099-n
+Bettongia:
+  n:
+    sense:
+    - id: 'bettongia%1:05:00::'
+      synset: 01883211-n
+Betty Friedan:
+  n:
+    sense:
+    - id: 'betty_friedan%1:18:00::'
+      synset: 11002446-n
+Betty Naomi Friedan:
+  n:
+    sense:
+    - id: 'betty_naomi_friedan%1:18:00::'
+      synset: 11002446-n
+Betty Naomi Goldstein Friedan:
+  n:
+    sense:
+    - id: 'betty_naomi_goldstein_friedan%1:18:00::'
+      synset: 11002446-n
+Betula:
+  n:
+    sense:
+    - id: 'betula%1:20:00::'
+      synset: 12301403-n
+Betulaceae:
+  n:
+    sense:
+    - derivation:
+      - 'betulaceous%3:01:00::'
+      id: 'betulaceae%1:20:00::'
+      synset: 12301004-n
+Beveridge:
+  n:
+    sense:
+    - id: 'beveridge%1:18:00::'
+      synset: 10870263-n
+Beverly Hills:
+  n:
+    sense:
+    - id: 'beverly_hills%1:15:00::'
+      synset: 09085261-n
+Beverly Sills:
+  n:
+    sense:
+    - id: 'beverly_sills%1:18:00::'
+      synset: 11320321-n
+Bevin:
+  n:
+    sense:
+    - id: 'bevin%1:18:00::'
+      synset: 10870560-n
+Bhaga:
+  n:
+    sense:
+    - id: 'bhaga%1:18:00::'
+      synset: 09547975-n
+Bhagavad Gita:
+  n:
+    sense:
+    - id: 'bhagavad_gita%1:10:01::'
+      synset: 06442826-n
+Bhagavad-Gita:
+  n:
+    sense:
+    - id: 'bhagavad-gita%1:10:00::'
+      synset: 06442826-n
+Bhagavadgita:
+  n:
+    sense:
+    - id: 'bhagavadgita%1:10:00::'
+      synset: 06442826-n
+Bharat:
+  n:
+    sense:
+    - id: 'bharat%1:15:00::'
+      synset: 08920762-n
+Bhumi Devi:
+  n:
+    sense:
+    - id: 'bhumi_devi%1:18:00::'
+      synset: 09548305-n
+Bhutan:
+  n:
+    sense:
+    - id: 'bhutan%1:15:00::'
+      synset: 08871201-n
+Bible Belt:
+  n:
+    sense:
+    - id: 'bible_belt%1:15:00::'
+      synset: 08527051-n
+Biblical Elam:
+  n:
+    sense:
+    - id: 'biblical_elam%1:15:01::'
+      synset: 08933015-n
+Biblical Magi:
+  n:
+    sense:
+    - id: 'biblical_magi%1:14:01::'
+      synset: 08503548-n
+Bibos:
+  n:
+    sense:
+    - id: 'bibos%1:05:00::'
+      synset: 02412348-n
+Bida:
+  n:
+    sense:
+    - id: 'bida%1:15:00::'
+      synset: 09009632-n
+Bidens:
+  n:
+    sense:
+    - id: 'bidens%1:20:00::'
+      synset: 11960356-n
+Bierce:
+  n:
+    sense:
+    - id: 'bierce%1:18:00::'
+      synset: 10870735-n
+Big Ben:
+  n:
+    sense:
+    - id: 'big_ben%1:06:00::'
+      synset: 02839980-n
+Big Bend:
+  n:
+    sense:
+    - id: 'big_bend%1:15:00::'
+      synset: 08620206-n
+Big Bend National Park:
+  n:
+    sense:
+    - id: 'big_bend_national_park%1:15:00::'
+      synset: 08620378-n
+Big Bill Haywood:
+  n:
+    sense:
+    - id: 'big_bill_haywood%1:18:00::'
+      synset: 11056907-n
+Big Bill Tilden:
+  n:
+    sense:
+    - id: 'big_bill_tilden%1:18:00::'
+      synset: 11362435-n
+Big Dipper:
+  n:
+    sense:
+    - id: 'big_dipper%1:17:00::'
+      synset: 09242765-n
+Big Sioux River:
+  n:
+    sense:
+    - id: 'big_sioux_river%1:17:00::'
+      synset: 09243481-n
+Big Sur:
+  n:
+    sense:
+    - id: 'big_sur%1:15:00::'
+      synset: 09189549-n
+Bigfoot:
+  n:
+    pronunciation:
+    - value: ˈbɪɡˌfʊt
+    sense:
+    - id: 'bigfoot%1:18:00::'
+      synset: 09510515-n
+Bighorn:
+  n:
+    sense:
+    - id: 'bighorn%1:17:00::'
+      synset: 09242953-n
+Bighorn River:
+  n:
+    sense:
+    - id: 'bighorn_river%1:17:00::'
+      synset: 09242953-n
+Bight of Benin:
+  n:
+    sense:
+    - id: 'bight_of_benin%1:17:00::'
+      synset: 09243341-n
+Bignonia:
+  n:
+    sense:
+    - id: 'bignonia%1:20:00::'
+      synset: 12834630-n
+Bignoniaceae:
+  n:
+    sense:
+    - derivation:
+      - 'bignoniaceous%3:01:00::'
+      id: 'bignoniaceae%1:20:00::'
+      synset: 12834153-n
+Bihar:
+  n:
+    sense:
+    - id: 'bihar%1:15:00::'
+      synset: 08925053-n
+Bikini:
+  n:
+    pronunciation:
+    - value: bɪˈkiːni
+      variety: GB
+    sense:
+    - id: 'bikini%1:15:00::'
+      synset: 08858288-n
+Bikini Atoll:
+  n:
+    sense:
+    - id: 'bikini_atoll%1:15:01::'
+      synset: 08858288-n
+Bill Clinton:
+  n:
+    sense:
+    - id: 'bill_clinton%1:18:00::'
+      synset: 10922343-n
+Bill Gates:
+  n:
+    sense:
+    - id: 'bill_gates%1:18:00::'
+      synset: 11011932-n
+Bill Haley:
+  n:
+    sense:
+    - id: 'bill_haley%1:18:00::'
+      synset: 11044222-n
+Bill Mauldin:
+  n:
+    sense:
+    - id: 'bill_mauldin%1:18:00::'
+      synset: 11185154-n
+Bill Russell:
+  n:
+    sense:
+    - id: 'bill_russell%1:18:00::'
+      synset: 11295485-n
+Billie Jean King:
+  n:
+    sense:
+    - id: 'billie_jean_king%1:18:00::'
+      synset: 11125453-n
+Billie Jean Moffitt King:
+  n:
+    sense:
+    - id: 'billie_jean_moffitt_king%1:18:00::'
+      synset: 11125453-n
+Billie the Kid:
+  n:
+    sense:
+    - id: 'billie_the_kid%1:18:00::'
+      synset: 10876597-n
+Billings:
+  n:
+    pronunciation:
+    - value: ˈbɪlɪŋz
+    sense:
+    - id: 'billings%1:15:00::'
+      synset: 09131358-n
+Billy Graham:
+  n:
+    sense:
+    - id: 'billy_graham%1:18:00::'
+      synset: 11030381-n
+Billy Mitchell:
+  n:
+    sense:
+    - id: 'billy_mitchell%1:18:00::'
+      synset: 11202611-n
+Billy Sunday:
+  n:
+    sense:
+    - id: 'billy_sunday%1:18:00::'
+      synset: 11345529-n
+Billy Wilder:
+  n:
+    sense:
+    - id: 'billy_wilder%1:18:00::'
+      synset: 11406498-n
+Billy the Kid:
+  n:
+    sense:
+    - id: 'billy_the_kid%1:18:01::'
+      synset: 10876597-n
+Binet:
+  n:
+    sense:
+    - id: 'binet%1:18:00::'
+      synset: 10870878-n
+Bing Crosby:
+  n:
+    sense:
+    - id: 'bing_crosby%1:18:00::'
+      synset: 10936483-n
+Binghamton:
+  n:
+    sense:
+    - id: 'binghamton%1:15:00::'
+      synset: 09147255-n
+Bioko:
+  n:
+    sense:
+    - id: 'bioko%1:15:00::'
+      synset: 08781765-n
+Bird Parker:
+  n:
+    sense:
+    - id: 'bird_parker%1:18:00::'
+      synset: 11242904-n
+Birgit Nilsson:
+  n:
+    sense:
+    - id: 'birgit_nilsson%1:18:01::'
+      synset: 11227758-n
+Birmingham:
+  n:
+    sense:
+    - id: 'birmingham%1:15:01::'
+      synset: 09076410-n
+    - id: 'birmingham%1:15:00::'
+      synset: 08897840-n
+Bisayas:
+  n:
+    sense:
+    - id: 'bisayas%1:15:00::'
+      synset: 09004822-n
+Biscayne Bay:
+  n:
+    sense:
+    - id: 'biscayne_bay%1:17:00::'
+      synset: 09244630-n
+Biscayne National Park:
+  n:
+    sense:
+    - id: 'biscayne_national_park%1:15:00::'
+      synset: 08620553-n
+Biscutella:
+  n:
+    sense:
+    - id: 'biscutella%1:20:00::'
+      synset: 11895176-n
+Bishkek:
+  n:
+    sense:
+    - id: 'bishkek%1:15:00::'
+      synset: 09043162-n
+Bishop Berkeley:
+  n:
+    sense:
+    - id: 'bishop_berkeley%1:18:00::'
+      synset: 10866721-n
+Bishop Ulfila:
+  n:
+    sense:
+    - id: 'bishop_ulfila%1:18:00::'
+      synset: 11375664-n
+Bishop Ulfilas:
+  n:
+    sense:
+    - id: 'bishop_ulfilas%1:18:00::'
+      synset: 11375664-n
+Bishop Wulfila:
+  n:
+    sense:
+    - id: 'bishop_wulfila%1:18:00::'
+      synset: 11375664-n
+Biskek:
+  n:
+    sense:
+    - id: 'biskek%1:15:00::'
+      synset: 09043162-n
+Bismarck:
+  n:
+    pronunciation:
+    - value: ˈbɪzmɑɹk
+      variety: US
+    sense:
+    - derivation:
+      - 'bismarckian%3:01:00::'
+      id: 'bismarck%1:18:00::'
+      synset: 10871195-n
+    - id: 'bismarck%1:15:00::'
+      synset: 09152399-n
+Bismarck Archipelago:
+  n:
+    sense:
+    - id: 'bismarck_archipelago%1:15:00::'
+      synset: 08861811-n
+Bismarck Sea:
+  n:
+    sense:
+    - id: 'bismarck_sea%1:17:00::'
+      synset: 09244807-n
+    - id: 'bismarck_sea%1:04:00::'
+      synset: 01274162-n
+Bissau:
+  n:
+    sense:
+    - id: 'bissau%1:15:00::'
+      synset: 08967800-n
+Bithynia:
+  n:
+    sense:
+    - id: 'bithynia%1:15:00::'
+      synset: 08520942-n
+Bitis:
+  n:
+    sense:
+    - id: 'bitis%1:05:00::'
+      synset: 01755530-n
+Bittacidae:
+  n:
+    sense:
+    - id: 'bittacidae%1:05:00::'
+      synset: 02165483-n
+Bivalvia:
+  n:
+    sense:
+    - id: 'bivalvia%1:05:00::'
+      synset: 01958104-n
+Bizet:
+  n:
+    sense:
+    - id: 'bizet%1:18:00::'
+      synset: 10871461-n
+Blaberus:
+  n:
+    sense:
+    - id: 'blaberus%1:05:00::'
+      synset: 02237730-n
+Black Africa:
+  n:
+    sense:
+    - id: 'black_africa%1:15:00::'
+      synset: 09195377-n
+Black Forest:
+  n:
+    sense:
+    - id: 'black_forest%1:17:00::'
+      synset: 09245649-n
+Black Hawk:
+  n:
+    sense:
+    - id: 'black_hawk%1:18:00::'
+      synset: 10871916-n
+Black Hills:
+  n:
+    sense:
+    - id: 'black_hills%1:17:00::'
+      synset: 09245787-n
+Black Hole of Calcutta:
+  n:
+    sense:
+    - id: 'black_hole_of_calcutta%1:06:00::'
+      synset: 02850461-n
+Black Jack Pershing:
+  n:
+    sense:
+    - id: 'black_jack_pershing%1:18:00::'
+      synset: 11250770-n
+Black Prince:
+  n:
+    sense:
+    - id: 'black_prince%1:18:00::'
+      synset: 10969774-n
+Black Rock Desert:
+  n:
+    sense:
+    - id: 'black_rock_desert%1:15:00::'
+      synset: 09191489-n
+Black Sea:
+  n:
+    sense:
+    - id: 'black_sea%1:17:00::'
+      synset: 09246232-n
+Black September:
+  n:
+    sense:
+    - id: 'black_september%1:14:00::'
+      synset: 08036995-n
+Black September Movement:
+  n:
+    sense:
+    - id: 'black_september_movement%1:14:00::'
+      synset: 08035419-n
+Black September Organization:
+  n:
+    sense:
+    - id: 'black_september_organization%1:14:01::'
+      synset: 08036995-n
+    - id: 'black_september_organization%1:14:02::'
+      synset: 08035419-n
+Blackbeard:
+  n:
+    sense:
+    - id: 'blackbeard%1:18:00::'
+      synset: 11353998-n
+Blackpool:
+  n:
+    sense:
+    - id: 'blackpool%1:15:00::'
+      synset: 08898594-n
+Blacksburg:
+  n:
+    sense:
+    - id: 'blacksburg%1:15:00::'
+      synset: 09173039-n
+Blair:
+  n:
+    sense:
+    - id: 'blair%1:18:00::'
+      synset: 10872102-n
+Blaise Pascal:
+  n:
+    sense:
+    - id: 'blaise_pascal%1:18:00::'
+      synset: 11244409-n
+Blake:
+  n:
+    sense:
+    - id: 'blake%1:18:00::'
+      synset: 10872265-n
+Blandfordia:
+  n:
+    sense:
+    - id: 'blandfordia%1:20:00::'
+      synset: 12464434-n
+Blantyre:
+  n:
+    sense:
+    - id: 'blantyre%1:15:00::'
+      synset: 08982724-n
+Blarina:
+  n:
+    sense:
+    - id: 'blarina%1:05:00::'
+      synset: 01894912-n
+Blarney Stone:
+  n:
+    sense:
+    - id: 'blarney_stone%1:06:00::'
+      synset: 02852967-n
+Blastocladia:
+  n:
+    sense:
+    - id: 'blastocladia%1:20:00::'
+      synset: 12999586-n
+Blastocladiales:
+  n:
+    sense:
+    - id: 'blastocladiales%1:20:00::'
+      synset: 12999141-n
+Blastodiaceae:
+  n:
+    sense:
+    - id: 'blastodiaceae%1:20:00::'
+      synset: 12999414-n
+Blastomyces:
+  n:
+    sense:
+    - id: 'blastomyces%1:20:00::'
+      synset: 13100934-n
+Blatta:
+  n:
+    sense:
+    - id: 'blatta%1:05:00::'
+      synset: 02236419-n
+Blattaria:
+  n:
+    sense:
+    - id: 'blattaria%1:05:00::'
+      synset: 02235748-n
+Blattella:
+  n:
+    sense:
+    - id: 'blattella%1:05:00::'
+      synset: 02237371-n
+Blattidae:
+  n:
+    sense:
+    - id: 'blattidae%1:05:00::'
+      synset: 02236229-n
+Blattodea:
+  n:
+    sense:
+    - id: 'blattodea%1:05:00::'
+      synset: 02235748-n
+Blechnaceae:
+  n:
+    sense:
+    - id: 'blechnaceae%1:20:00::'
+      synset: 13205390-n
+Blechnum:
+  n:
+    sense:
+    - id: 'blechnum%1:20:00::'
+      synset: 13205771-n
+Blenheim:
+  n:
+    pronunciation:
+    - value: ˈblɛnəm
+    sense:
+    - id: 'blenheim%1:04:00::'
+      synset: 01274408-n
+Blenniidae:
+  n:
+    sense:
+    - id: 'blenniidae%1:05:00::'
+      synset: 02615612-n
+Blennioidea:
+  n:
+    sense:
+    - id: 'blennioidea%1:05:00::'
+      synset: 02615023-n
+Blennius:
+  n:
+    sense:
+    - id: 'blennius%1:05:00::'
+      synset: 02616064-n
+Blephilia:
+  n:
+    sense:
+    - id: 'blephilia%1:20:00::'
+      synset: 12862865-n
+Bleriot:
+  n:
+    sense:
+    - id: 'bleriot%1:18:00::'
+      synset: 10872399-n
+Blessed Trinity:
+  n:
+    sense:
+    - id: 'blessed_trinity%1:18:00::'
+      synset: 09559900-n
+Blessed Virgin:
+  n:
+    sense:
+    - id: 'blessed_virgin%1:18:00::'
+      synset: 11181402-n
+Bletilla:
+  n:
+    sense:
+    - id: 'bletilla%1:20:00::'
+      synset: 12067089-n
+Blida:
+  n:
+    sense:
+    - id: 'blida%1:15:00::'
+      synset: 08724316-n
+Bligh:
+  n:
+    sense:
+    - id: 'bligh%1:18:00::'
+      synset: 10872557-n
+Blighia:
+  n:
+    sense:
+    - id: 'blighia%1:20:00::'
+      synset: 12762801-n
+Blighty:
+  n:
+    sense:
+    - exemplifies:
+      - 'slang%1:10:01::'
+      id: 'blighty%1:15:01::'
+      synset: 08879115-n
+Blissus:
+  n:
+    sense:
+    - id: 'blissus%1:05:00::'
+      synset: 02241725-n
+Blitzstein:
+  n:
+    sense:
+    - id: 'blitzstein%1:18:00::'
+      synset: 10872840-n
+Blixen:
+  n:
+    sense:
+    - id: 'blixen%1:18:00::'
+      synset: 10955737-n
+Bloch:
+  n:
+    sense:
+    - id: 'bloch%1:18:00::'
+      synset: 10873009-n
+Bloemfontein:
+  n:
+    sense:
+    - id: 'bloemfontein%1:15:00::'
+      synset: 09024695-n
+Blok:
+  n:
+    sense:
+    - id: 'blok%1:18:00::'
+      synset: 10873224-n
+Bloodless Revolution:
+  n:
+    sense:
+    - id: 'bloodless_revolution%1:04:00::'
+      synset: 01306847-n
+Bloomeria:
+  n:
+    sense:
+    - id: 'bloomeria%1:20:00::'
+      synset: 12464766-n
+Bloomfield:
+  n:
+    sense:
+    - id: 'bloomfield%1:18:00::'
+      synset: 10873363-n
+Bloomington:
+  n:
+    sense:
+    - id: 'bloomington%1:15:00::'
+      synset: 09107634-n
+Bloomsbury:
+  n:
+    sense:
+    - id: 'bloomsbury%1:15:00::'
+      synset: 08895147-n
+Blue Nile:
+  n:
+    sense:
+    - id: 'blue_nile%1:17:00::'
+      synset: 09247100-n
+Blue Ridge:
+  n:
+    sense:
+    - id: 'blue_ridge%1:17:00::'
+      synset: 09247232-n
+Blue Ridge Mountains:
+  n:
+    sense:
+    - id: 'blue_ridge_mountains%1:17:00::'
+      synset: 09247232-n
+Bluebeard:
+  n:
+    sense:
+    - id: 'bluebeard%1:18:00::'
+      synset: 09613379-n
+Bluegrass:
+  n:
+    sense:
+    - id: 'bluegrass%1:15:00::'
+      synset: 09112954-n
+Bluegrass Country:
+  n:
+    sense:
+    - id: 'bluegrass_country%1:15:00::'
+      synset: 09112954-n
+Bluegrass Region:
+  n:
+    sense:
+    - id: 'bluegrass_region%1:15:00::'
+      synset: 09112954-n
+Bluegrass State:
+  n:
+    sense:
+    - id: 'bluegrass_state%1:15:00::'
+      synset: 09111697-n
+Bo Hai:
+  n:
+    sense:
+    - id: 'bo_hai%1:17:00::'
+      synset: 09249116-n
+Boann:
+  n:
+    sense:
+    - id: 'boann%1:18:00::'
+      synset: 09531500-n
+Bob Dylan:
+  n:
+    sense:
+    - id: 'bob_dylan%1:18:00::'
+      synset: 10967100-n
+Bob Hope:
+  n:
+    sense:
+    - id: 'bob_hope%1:18:00::'
+      synset: 11079258-n
+Bob Marley:
+  n:
+    sense:
+    - id: 'bob_marley%1:18:00::'
+      synset: 11177570-n
+Bob Mathias:
+  n:
+    sense:
+    - id: 'bob_mathias%1:18:00::'
+      synset: 11184322-n
+Bob Woodward:
+  n:
+    sense:
+    - id: 'bob_woodward%1:18:00::'
+      synset: 11416333-n
+Bobby Fischer:
+  n:
+    sense:
+    - id: 'bobby_fischer%1:18:00::'
+      synset: 10991520-n
+Bobby Jones:
+  n:
+    sense:
+    - id: 'bobby_jones%1:18:00::'
+      synset: 11110502-n
+Bobby Orr:
+  n:
+    sense:
+    - id: 'bobby_orr%1:18:00::'
+      synset: 11237062-n
+Boccaccio:
+  n:
+    sense:
+    - id: 'boccaccio%1:18:00::'
+      synset: 10873742-n
+Boddhisatva:
+  n:
+    sense:
+    - id: 'boddhisatva%1:18:00::'
+      synset: 09555495-n
+Bodensee:
+  n:
+    sense:
+    - id: 'bodensee%1:17:00::'
+      synset: 09275672-n
+Bodhisattva:
+  n:
+    pronunciation:
+    - value: boʊ̯diːˈsɑtvə
+    sense:
+    - id: 'bodhisattva%1:18:00::'
+      synset: 09555495-n
+Boehm:
+  n:
+    sense:
+    - id: 'boehm%1:18:00::'
+      synset: 10873993-n
+Boehme:
+  n:
+    sense:
+    - id: 'boehme%1:18:00::'
+      synset: 10873993-n
+Boehmeria:
+  n:
+    sense:
+    - id: 'boehmeria%1:20:00::'
+      synset: 12413460-n
+Boeing B-52 Stratofortress:
+  n:
+    sense:
+    - id: 'boeing_b-52_stratofortress%1:06:01::'
+      synset: 02769049-n
+Boell:
+  n:
+    sense:
+    - id: 'boell%1:18:00::'
+      synset: 10874223-n
+Boeotia:
+  n:
+    sense:
+    - derivation:
+      - 'boeotian%3:01:00::'
+      id: 'boeotia%1:15:00::'
+      synset: 08807095-n
+Boer War:
+  n:
+    sense:
+    - id: 'boer_war%1:04:00::'
+      synset: 01305743-n
+Boethius:
+  n:
+    sense:
+    - id: 'boethius%1:18:00::'
+      synset: 10874373-n
+Bogart:
+  n:
+    sense:
+    - derivation:
+      - 'bogartian%3:01:00::'
+      id: 'bogart%1:18:00::'
+      synset: 10874643-n
+Bogota:
+  n:
+    sense:
+    - id: 'bogota%1:15:00::'
+      synset: 08750812-n
+Bohai Sea:
+  n:
+    sense:
+    - id: 'bohai_sea%1:17:01::'
+      synset: 09249116-n
+Bohemia:
+  n:
+    pronunciation:
+    - value: boʊˈhimiə
+      variety: US
+    sense:
+    - derivation:
+      - 'bohemian%3:01:00::'
+      id: 'bohemia%1:15:00::'
+      synset: 08776715-n
+Bohme:
+  n:
+    sense:
+    - id: 'bohme%1:18:00::'
+      synset: 10873993-n
+Bohr:
+  n:
+    sense:
+    - id: 'bohr%1:18:00::'
+      synset: 10874796-n
+Boidae:
+  n:
+    sense:
+    - id: 'boidae%1:05:00::'
+      synset: 01744385-n
+Boise:
+  n:
+    sense:
+    - id: 'boise%1:15:00::'
+      synset: 09104091-n
+Bolbitis:
+  n:
+    sense:
+    - id: 'bolbitis%1:20:00::'
+      synset: 13223831-n
+Boletaceae:
+  n:
+    sense:
+    - id: 'boletaceae%1:20:00::'
+      synset: 13074971-n
+Boletellus:
+  n:
+    sense:
+    - id: 'boletellus%1:20:00::'
+      synset: 13080612-n
+Boletus:
+  n:
+    sense:
+    - id: 'boletus%1:20:00::'
+      synset: 13075769-n
+Boleyn:
+  n:
+    sense:
+    - id: 'boleyn%1:18:00::'
+      synset: 10875027-n
+Bolingbroke:
+  n:
+    sense:
+    - id: 'bolingbroke%1:18:00::'
+      synset: 11061810-n
+Bolivar:
+  n:
+    sense:
+    - id: 'bolivar%1:18:00::'
+      synset: 10875200-n
+Bolivia:
+  n:
+    sense:
+    - derivation:
+      - 'bolivian%3:01:00::'
+      id: 'bolivia%1:15:00::'
+      synset: 08871835-n
+Bologna:
+  n:
+    sense:
+    - id: 'bologna%1:15:00::'
+      synset: 08824310-n
+Boltonia:
+  n:
+    sense:
+    - id: 'boltonia%1:20:00::'
+      synset: 11961730-n
+Boltzmann:
+  n:
+    sense:
+    - id: 'boltzmann%1:18:00::'
+      synset: 10875430-n
+Bolzano:
+  n:
+    sense:
+    - id: 'bolzano%1:15:00::'
+      synset: 08822514-n
+Bomarea:
+  n:
+    sense:
+    - id: 'bomarea%1:20:00::'
+      synset: 12440097-n
+Bombacaceae:
+  n:
+    sense:
+    - id: 'bombacaceae%1:20:00::'
+      synset: 12209502-n
+Bombax:
+  n:
+    sense:
+    - id: 'bombax%1:20:00::'
+      synset: 12209810-n
+Bombay:
+  n:
+    sense:
+    - id: 'bombay%1:15:00::'
+      synset: 08923840-n
+Bomber Harris:
+  n:
+    sense:
+    - id: 'bomber_harris%1:18:00::'
+      synset: 11050391-n
+Bombina:
+  n:
+    sense:
+    - id: 'bombina%1:05:00::'
+      synset: 01651135-n
+Bombus:
+  n:
+    sense:
+    - id: 'bombus%1:05:00::'
+      synset: 02212160-n
+Bombycidae:
+  n:
+    sense:
+    - id: 'bombycidae%1:05:00::'
+      synset: 02302670-n
+Bombycilla:
+  n:
+    sense:
+    - id: 'bombycilla%1:05:00::'
+      synset: 01606119-n
+Bombycillidae:
+  n:
+    sense:
+    - id: 'bombycillidae%1:05:00::'
+      synset: 01605957-n
+Bombyliidae:
+  n:
+    sense:
+    - id: 'bombyliidae%1:05:00::'
+      synset: 02198345-n
+Bombyx:
+  n:
+    sense:
+    - id: 'bombyx%1:05:00::'
+      synset: 02303030-n
+Bonaire:
+  n:
+    sense:
+    - id: 'bonaire%1:15:00::'
+      synset: 08766750-n
+Bonaparte:
+  n:
+    sense:
+    - id: 'bonaparte%1:18:00::'
+      synset: 11220266-n
+Bonasa:
+  n:
+    sense:
+    - id: 'bonasa%1:05:00::'
+      synset: 01800408-n
+Bond:
+  n:
+    sense:
+    - id: 'bond%1:18:00::'
+      synset: 10875583-n
+    - id: 'bond%1:18:01::'
+      synset: 09613551-n
+Bonete:
+  n:
+    sense:
+    - id: 'bonete%1:17:00::'
+      synset: 09249498-n
+Bonhoeffer:
+  n:
+    sense:
+    - id: 'bonhoeffer%1:18:00::'
+      synset: 10875811-n
+Boniface:
+  n:
+    sense:
+    - id: 'boniface%1:18:00::'
+      synset: 10876082-n
+Boniface VIII:
+  n:
+    sense:
+    - id: 'boniface_viii%1:18:00::'
+      synset: 10876395-n
+Bonn:
+  n:
+    sense:
+    - id: 'bonn%1:15:00::'
+      synset: 08789970-n
+Bonney:
+  n:
+    sense:
+    - id: 'bonney%1:18:00::'
+      synset: 10876597-n
+Bontemps:
+  n:
+    sense:
+    - id: 'bontemps%1:18:00::'
+      synset: 10876755-n
+Book of Amos:
+  n:
+    sense:
+    - id: 'book_of_amos%1:10:00::'
+      synset: 06451230-n
+Book of Baruch:
+  n:
+    sense:
+    - id: 'book_of_baruch%1:10:00::'
+      synset: 06470993-n
+Book of Common Prayer:
+  n:
+    sense:
+    - id: 'book_of_common_prayer%1:10:00::'
+      synset: 06468841-n
+Book of Daniel:
+  n:
+    sense:
+    - id: 'book_of_daniel%1:10:00::'
+      synset: 06450665-n
+Book of Deuteronomy:
+  n:
+    sense:
+    - id: 'book_of_deuteronomy%1:10:00::'
+      synset: 06445145-n
+Book of Ecclesiastes:
+  n:
+    sense:
+    - id: 'book_of_ecclesiastes%1:10:00::'
+      synset: 06449201-n
+Book of Esther:
+  n:
+    sense:
+    - id: 'book_of_esther%1:10:00::'
+      synset: 06448387-n
+Book of Exodus:
+  n:
+    sense:
+    - id: 'book_of_exodus%1:10:00::'
+      synset: 06444385-n
+Book of Ezekiel:
+  n:
+    sense:
+    - id: 'book_of_ezekiel%1:10:00::'
+      synset: 06450418-n
+Book of Ezra:
+  n:
+    sense:
+    - id: 'book_of_ezra%1:10:00::'
+      synset: 06447853-n
+Book of Genesis:
+  n:
+    sense:
+    - id: 'book_of_genesis%1:10:00::'
+      synset: 06444046-n
+Book of Habakkuk:
+  n:
+    sense:
+    - id: 'book_of_habakkuk%1:10:00::'
+      synset: 06452159-n
+Book of Haggai:
+  n:
+    sense:
+    - id: 'book_of_haggai%1:10:00::'
+      synset: 06452607-n
+Book of Hosea:
+  n:
+    sense:
+    - id: 'book_of_hosea%1:10:00::'
+      synset: 06450923-n
+Book of Isaiah:
+  n:
+    sense:
+    - id: 'book_of_isaiah%1:10:00::'
+      synset: 06449796-n
+Book of Jeremiah:
+  n:
+    sense:
+    - id: 'book_of_jeremiah%1:10:00::'
+      synset: 06449960-n
+Book of Job:
+  n:
+    sense:
+    - id: 'book_of_job%1:10:00::'
+      synset: 06448609-n
+Book of Joel:
+  n:
+    sense:
+    - id: 'book_of_joel%1:10:00::'
+      synset: 06451078-n
+Book of Jonah:
+  n:
+    sense:
+    - id: 'book_of_jonah%1:10:00::'
+      synset: 06451594-n
+Book of Joshua:
+  n:
+    sense:
+    - id: 'book_of_joshua%1:10:00::'
+      synset: 06445593-n
+Book of Judges:
+  n:
+    sense:
+    - id: 'book_of_judges%1:10:00::'
+      synset: 06445835-n
+Book of Judith:
+  n:
+    sense:
+    - id: 'book_of_judith%1:10:00::'
+      synset: 06471504-n
+Book of Lamentations:
+  n:
+    sense:
+    - id: 'book_of_lamentations%1:10:00::'
+      synset: 06450147-n
+Book of Leviticus:
+  n:
+    sense:
+    - id: 'book_of_leviticus%1:10:00::'
+      synset: 06444705-n
+Book of Malachi:
+  n:
+    sense:
+    - id: 'book_of_malachi%1:10:00::'
+      synset: 06453134-n
+Book of Micah:
+  n:
+    sense:
+    - id: 'book_of_micah%1:10:00::'
+      synset: 06451772-n
+Book of Mormon:
+  n:
+    sense:
+    - id: 'book_of_mormon%1:10:00::'
+      synset: 06467445-n
+Book of Nahum:
+  n:
+    sense:
+    - id: 'book_of_nahum%1:10:00::'
+      synset: 06451983-n
+Book of Nehemiah:
+  n:
+    sense:
+    - id: 'book_of_nehemiah%1:10:00::'
+      synset: 06448113-n
+Book of Numbers:
+  n:
+    sense:
+    - id: 'book_of_numbers%1:10:00::'
+      synset: 06444919-n
+Book of Obadiah:
+  n:
+    sense:
+    - id: 'book_of_obadiah%1:10:00::'
+      synset: 06451382-n
+Book of Proverbs:
+  n:
+    sense:
+    - id: 'book_of_proverbs%1:10:00::'
+      synset: 06448978-n
+Book of Revelation:
+  n:
+    sense:
+    - id: 'book_of_revelation%1:10:00::'
+      synset: 06459567-n
+Book of Ruth:
+  n:
+    sense:
+    - id: 'book_of_ruth%1:10:00::'
+      synset: 06446038-n
+Book of Susanna:
+  n:
+    sense:
+    - id: 'book_of_susanna%1:10:00::'
+      synset: 06470686-n
+Book of Tobit:
+  n:
+    sense:
+    - id: 'book_of_tobit%1:10:00::'
+      synset: 06471351-n
+Book of Wisdom:
+  n:
+    sense:
+    - id: 'book_of_wisdom%1:10:01::'
+      synset: 06472194-n
+Book of Zachariah:
+  n:
+    sense:
+    - id: 'book_of_zachariah%1:10:00::'
+      synset: 06452865-n
+Book of Zechariah:
+  n:
+    sense:
+    - id: 'book_of_zechariah%1:10:01::'
+      synset: 06452865-n
+Book of Zephaniah:
+  n:
+    sense:
+    - id: 'book_of_zephaniah%1:10:00::'
+      synset: 06452333-n
+Book of the Prophet Daniel:
+  n:
+    sense:
+    - id: 'book_of_the_prophet_daniel%1:10:00::'
+      synset: 06450665-n
+Booker T. Washington:
+  n:
+    sense:
+    - id: 'booker_t._washington%1:18:00::'
+      synset: 11395672-n
+Booker Taliaferro Washington:
+  n:
+    sense:
+    - id: 'booker_taliaferro_washington%1:18:00::'
+      synset: 11395672-n
+Boole:
+  n:
+    sense:
+    - derivation:
+      - 'boolean%3:01:00::'
+      id: 'boole%1:18:00::'
+      synset: 10876867-n
+Boone:
+  n:
+    pronunciation:
+    - value: bun
+      variety: US
+    sense:
+    - id: 'boone%1:18:00::'
+      synset: 10877014-n
+Bootes:
+  n:
+    sense:
+    - id: 'bootes%1:17:00::'
+      synset: 09249645-n
+Booth:
+  n:
+    pronunciation:
+    - value: buːθ
+      variety: US
+    sense:
+    - id: 'booth%1:18:00::'
+      synset: 10877136-n
+Boraginaceae:
+  n:
+    sense:
+    - id: 'boraginaceae%1:20:00::'
+      synset: 12836685-n
+Borago:
+  n:
+    sense:
+    - id: 'borago%1:20:00::'
+      synset: 12837119-n
+Borassus:
+  n:
+    sense:
+    - id: 'borassus%1:20:00::'
+      synset: 12606273-n
+Boreas:
+  n:
+    sense:
+    - id: 'boreas%1:18:00::'
+      synset: 09580044-n
+Borges:
+  n:
+    sense:
+    - id: 'borges%1:18:00::'
+      synset: 10877293-n
+Borgia:
+  n:
+    sense:
+    - id: 'borgia%1:18:00::'
+      synset: 10899776-n
+    - id: 'borgia%1:18:03::'
+      synset: 10877614-n
+    - id: 'borgia%1:18:02::'
+      synset: 10877445-n
+    - id: 'borgia%1:18:01::'
+      synset: 10832808-n
+Boris Fyodorovich Godunov:
+  n:
+    sense:
+    - id: 'boris_fyodorovich_godunov%1:18:00::'
+      synset: 11023595-n
+Boris Godunov:
+  n:
+    sense:
+    - id: 'boris_godunov%1:18:00::'
+      synset: 11023595-n
+Boris Karloff:
+  n:
+    sense:
+    - id: 'boris_karloff%1:18:00::'
+      synset: 11116791-n
+Boris Leonidovich Pasternak:
+  n:
+    sense:
+    - id: 'boris_leonidovich_pasternak%1:18:00::'
+      synset: 11244644-n
+Boris Pasternak:
+  n:
+    sense:
+    - id: 'boris_pasternak%1:18:00::'
+      synset: 11244644-n
+Boris Spassky:
+  n:
+    sense:
+    - id: 'boris_spassky%1:18:00::'
+      synset: 11329767-n
+Boris Vasilevich Spassky:
+  n:
+    sense:
+    - id: 'boris_vasilevich_spassky%1:18:00::'
+      synset: 11329767-n
+Born:
+  n:
+    sense:
+    - id: 'born%1:18:00::'
+      synset: 10877760-n
+Borneo:
+  n:
+    sense:
+    - id: 'borneo%1:15:00::'
+      synset: 08862207-n
+Borodin:
+  n:
+    sense:
+    - id: 'borodin%1:18:00::'
+      synset: 10877929-n
+Borodino:
+  n:
+    sense:
+    - id: 'borodino%1:04:00::'
+      synset: 01274627-n
+Bos:
+  n:
+    sense:
+    - id: 'bos%1:05:00::'
+      synset: 02404313-n
+Bosch:
+  n:
+    sense:
+    - id: 'bosch%1:18:00::'
+      synset: 10878064-n
+Bose:
+  n:
+    sense:
+    - id: 'bose%1:18:00::'
+      synset: 10878173-n
+Boselaphus:
+  n:
+    sense:
+    - id: 'boselaphus%1:05:00::'
+      synset: 02428039-n
+Bosna i Hercegovina:
+  n:
+    sense:
+    - id: 'bosna_i_hercegovina%1:15:00::'
+      synset: 08835482-n
+Bosnia:
+  n:
+    sense:
+    - id: 'bosnia%1:15:01::'
+      synset: 08835987-n
+    - derivation:
+      - 'bosnian%3:01:00::'
+      id: 'bosnia%1:15:00::'
+      synset: 08835482-n
+Bosnia and Herzegovina:
+  n:
+    sense:
+    - id: 'bosnia_and_herzegovina%1:15:00::'
+      synset: 08835482-n
+Bosnia-Herzegovina:
+  n:
+    sense:
+    - id: 'bosnia-herzegovina%1:15:00::'
+      synset: 08835482-n
+Bosphorus:
+  n:
+    sense:
+    - id: 'bosphorus%1:17:01::'
+      synset: 09250126-n
+Bosphorus Bridge:
+  n:
+    sense:
+    - id: 'bosphorus_bridge%1:06:01::'
+      synset: 02879435-n
+Bosporus:
+  n:
+    sense:
+    - id: 'bosporus%1:17:00::'
+      synset: 09250126-n
+Bosporus Bridge:
+  n:
+    sense:
+    - id: 'bosporus_bridge%1:06:00::'
+      synset: 02879435-n
+Boston:
+  n:
+    pronunciation:
+    - value: ˈbɔstən
+      variety: US
+    - value: ˈbɒstən
+      variety: GB
+    sense:
+    - id: 'boston%1:15:00::'
+      synset: 09118343-n
+Boston Harbor:
+  n:
+    sense:
+    - id: 'boston_harbor%1:15:00::'
+      synset: 09118681-n
+Boston Navy Yard:
+  n:
+    sense:
+    - id: 'boston_navy_yard%1:06:01::'
+      synset: 03013131-n
+Boston Tea Party:
+  n:
+    sense:
+    - id: 'boston_tea_party%1:04:00::'
+      synset: 01180905-n
+Boswellia:
+  n:
+    sense:
+    - id: 'boswellia%1:20:00::'
+      synset: 12712595-n
+Bosworth Field:
+  n:
+    sense:
+    - id: 'bosworth_field%1:04:00::'
+      synset: 01274860-n
+Botaurus:
+  n:
+    sense:
+    - id: 'botaurus%1:05:00::'
+      synset: 02014322-n
+Bothidae:
+  n:
+    sense:
+    - id: 'bothidae%1:05:00::'
+      synset: 02663399-n
+Bothrops:
+  n:
+    sense:
+    - id: 'bothrops%1:05:00::'
+      synset: 01760660-n
+Botrychium:
+  n:
+    sense:
+    - id: 'botrychium%1:20:00::'
+      synset: 12981489-n
+Botswana:
+  n:
+    sense:
+    - id: 'botswana%1:15:00::'
+      synset: 08871381-n
+Botticelli:
+  n:
+    sense:
+    - id: 'botticelli%1:18:00::'
+      synset: 10878608-n
+Bougainvillaea:
+  n:
+    sense:
+    - id: 'bougainvillaea%1:20:00::'
+      synset: 11859210-n
+Bougainville:
+  n:
+    sense:
+    - id: 'bougainville%1:18:00::'
+      synset: 10878790-n
+    - id: 'bougainville%1:15:00::'
+      synset: 08862563-n
+Bougainville Island:
+  n:
+    sense:
+    - id: 'bougainville_island%1:15:01::'
+      synset: 08862563-n
+Bougainville Trench:
+  n:
+    sense:
+    - id: 'bougainville_trench%1:17:00::'
+      synset: 09250590-n
+Boulder:
+  n:
+    pronunciation:
+    - value: ˈbəʊl.də(ɹ)
+      variety: GB
+    - value: ˈboʊldəɹ
+      variety: US
+    sense:
+    - id: 'boulder%1:15:00::'
+      synset: 09090206-n
+Boulez:
+  n:
+    sense:
+    - id: 'boulez%1:18:00::'
+      synset: 10878965-n
+Bounty:
+  n:
+    pronunciation:
+    - value: ˈbaʊnti
+      variety: GB
+    - value: ˈbaʊn(t)i
+      variety: US
+    sense:
+    - id: 'bounty%1:06:00::'
+      synset: 02882125-n
+Bourgogne:
+  n:
+    sense:
+    - id: 'bourgogne%1:15:00::'
+      synset: 08960830-n
+Bourse:
+  n:
+    pronunciation:
+    - value: bɔːs
+      variety: GB
+    sense:
+    - id: 'bourse%1:06:00::'
+      synset: 02882470-n
+Bouteloua:
+  n:
+    sense:
+    - id: 'bouteloua%1:20:00::'
+      synset: 12132399-n
+Bouvet Island:
+  n:
+    sense:
+    - id: 'bouvet_island%1:15:00::'
+      synset: 08728976-n
+Bouvines:
+  n:
+    sense:
+    - id: 'bouvines%1:04:00::'
+      synset: 01275075-n
+Bovidae:
+  n:
+    sense:
+    - id: 'bovidae%1:05:00::'
+      synset: 02402791-n
+Bovinae:
+  n:
+    sense:
+    - id: 'bovinae%1:05:00::'
+      synset: 02403957-n
+Bovini:
+  n:
+    sense:
+    - id: 'bovini%1:05:00::'
+      synset: 02404161-n
+Bowditch:
+  n:
+    sense:
+    - id: 'bowditch%1:18:00::'
+      synset: 10879081-n
+Bowdler:
+  n:
+    sense:
+    - derivation:
+      - 'bowdlerise%2:30:00::'
+      id: 'bowdler%1:18:00::'
+      synset: 10879265-n
+Bowery:
+  n:
+    sense:
+    - id: 'bowery%1:15:00::'
+      synset: 09144603-n
+Bowie:
+  n:
+    sense:
+    - id: 'bowie%1:18:00::'
+      synset: 10879453-n
+Bowiea:
+  n:
+    sense:
+    - id: 'bowiea%1:20:00::'
+      synset: 12465171-n
+Bowling Green:
+  n:
+    sense:
+    - id: 'bowling_green%1:15:01::'
+      synset: 09112089-n
+Boy Orator of the Platte:
+  n:
+    sense:
+    - id: 'boy_orator_of_the_platte%1:18:00::'
+      synset: 10888972-n
+Boykinia:
+  n:
+    sense:
+    - id: 'boykinia%1:20:00::'
+      synset: 12816952-n
+Boyle:
+  n:
+    sense:
+    - id: 'boyle%1:18:01::'
+      synset: 10879943-n
+    - id: 'boyle%1:18:00::'
+      synset: 10879704-n
+Boyne:
+  n:
+    sense:
+    - id: 'boyne%1:04:00::'
+      synset: 01275280-n
+Bozeman:
+  n:
+    sense:
+    - id: 'bozeman%1:15:00::'
+      synset: 09131216-n
+Br'er Rabbit:
+  n:
+    sense:
+    - id: 'br''er_rabbit%1:18:01::'
+      synset: 09614154-n
+Brachinus:
+  n:
+    sense:
+    - id: 'brachinus%1:05:00::'
+      synset: 02170027-n
+Brachiopoda:
+  n:
+    sense:
+    - derivation:
+      - 'brachiopodous%3:01:00::'
+      id: 'brachiopoda%1:05:00::'
+      synset: 02317961-n
+Brachychiton:
+  n:
+    sense:
+    - id: 'brachychiton%1:20:00::'
+      synset: 12216482-n
+Brachycome:
+  n:
+    sense:
+    - id: 'brachycome%1:20:00::'
+      synset: 11962188-n
+Brachystegia:
+  n:
+    sense:
+    - id: 'brachystegia%1:20:00::'
+      synset: 12511705-n
+Brachyura:
+  n:
+    sense:
+    - derivation:
+      - 'brachyurous%3:01:00::'
+      id: 'brachyura%1:05:00::'
+      synset: 01979118-n
+Bradbury:
+  n:
+    sense:
+    - id: 'bradbury%1:18:00::'
+      synset: 10880040-n
+Bradford:
+  n:
+    pronunciation:
+    - value: ˈbɹædfəɹd
+      variety: GB
+    - value: ˈbɹædfɚd
+      variety: US
+    sense:
+    - id: 'bradford%1:18:00::'
+      synset: 10880185-n
+Bradley:
+  n:
+    sense:
+    - id: 'bradley%1:18:01::'
+      synset: 10880595-n
+    - id: 'bradley%1:18:00::'
+      synset: 10880403-n
+Bradstreet:
+  n:
+    sense:
+    - id: 'bradstreet%1:18:00::'
+      synset: 10880770-n
+Brady:
+  n:
+    sense:
+    - id: 'brady%1:18:01::'
+      synset: 10881131-n
+    - id: 'brady%1:18:00::'
+      synset: 10880925-n
+Bradypodidae:
+  n:
+    sense:
+    - id: 'bradypodidae%1:05:00::'
+      synset: 02459407-n
+Bradypus:
+  n:
+    sense:
+    - id: 'bradypus%1:05:00::'
+      synset: 02459880-n
+Braga:
+  n:
+    sense:
+    - id: 'braga%1:15:00::'
+      synset: 09008328-n
+Brage:
+  n:
+    sense:
+    - id: 'brage%1:18:00::'
+      synset: 09602888-n
+Bragg:
+  n:
+    sense:
+    - id: 'bragg%1:18:00::'
+      synset: 10881337-n
+Bragi:
+  n:
+    sense:
+    - id: 'bragi%1:18:00::'
+      synset: 09602888-n
+Brahe:
+  n:
+    sense:
+    - id: 'brahe%1:18:00::'
+      synset: 10881522-n
+Brahmana:
+  n:
+    sense:
+    - id: 'brahmana%1:10:00::'
+      synset: 06477127-n
+Brahmaputra:
+  n:
+    pronunciation:
+    - value: ˈbɹɑː.məˌpuː.tɹə
+      variety: GB
+    sense:
+    - id: 'brahmaputra%1:17:00::'
+      synset: 09251051-n
+Brahmaputra River:
+  n:
+    sense:
+    - id: 'brahmaputra_river%1:17:00::'
+      synset: 09251051-n
+Braille:
+  n:
+    pronunciation:
+    - value: bɹeɪl
+    sense:
+    - derivation:
+      - 'braille%2:32:00::'
+      id: 'braille%1:18:00::'
+      synset: 10881877-n
+Bram Stoker:
+  n:
+    sense:
+    - id: 'bram_stoker%1:18:00::'
+      synset: 11338819-n
+Brama:
+  n:
+    sense:
+    - id: 'brama%1:05:00::'
+      synset: 02585222-n
+Bramante:
+  n:
+    sense:
+    - id: 'bramante%1:18:00::'
+      synset: 10882103-n
+Bramidae:
+  n:
+    sense:
+    - id: 'bramidae%1:05:00::'
+      synset: 02585068-n
+Branchiobdella:
+  n:
+    sense:
+    - id: 'branchiobdella%1:05:00::'
+      synset: 01938638-n
+Branchiobdellidae:
+  n:
+    sense:
+    - id: 'branchiobdellidae%1:05:00::'
+      synset: 01938384-n
+Branchiopoda:
+  n:
+    sense:
+    - derivation:
+      - 'branchiopodous%3:01:00::'
+      id: 'branchiopoda%1:05:00::'
+      synset: 01996830-n
+Branchiostegidae:
+  n:
+    sense:
+    - id: 'branchiostegidae%1:05:00::'
+      synset: 02585550-n
+Branchiostomidae:
+  n:
+    sense:
+    - id: 'branchiostomidae%1:05:00::'
+      synset: 01470145-n
+Branchiura:
+  n:
+    sense:
+    - id: 'branchiura%1:05:00::'
+      synset: 02000090-n
+Brancusi:
+  n:
+    sense:
+    - id: 'brancusi%1:18:00::'
+      synset: 10882272-n
+Brandenburg:
+  n:
+    sense:
+    - id: 'brandenburg%1:15:00::'
+      synset: 08793430-n
+Brandt:
+  n:
+    sense:
+    - id: 'brandt%1:18:00::'
+      synset: 10882418-n
+Branta:
+  n:
+    sense:
+    - id: 'branta%1:05:00::'
+      synset: 01859812-n
+Braque:
+  n:
+    sense:
+    - id: 'braque%1:18:00::'
+      synset: 10882595-n
+Brasenia:
+  n:
+    sense:
+    - id: 'brasenia%1:20:00::'
+      synset: 11738990-n
+Brasil:
+  n:
+    sense:
+    - id: 'brasil%1:15:00::'
+      synset: 08872733-n
+Brasilia:
+  n:
+    sense:
+    - id: 'brasilia%1:15:00::'
+      synset: 08874300-n
+Brasov:
+  n:
+    sense:
+    - id: 'brasov%1:15:00::'
+      synset: 08832185-n
+Brassia:
+  n:
+    sense:
+    - id: 'brassia%1:20:00::'
+      synset: 12068055-n
+Brassica:
+  n:
+    pronunciation:
+    - value: ˈbɹæs.ɪ.kə
+    sense:
+    - id: 'brassica%1:20:00::'
+      synset: 11895569-n
+Brassicaceae:
+  n:
+    sense:
+    - id: 'brassicaceae%1:20:00::'
+      synset: 11887994-n
+Bratislava:
+  n:
+    sense:
+    - id: 'bratislava%1:15:00::'
+      synset: 08777096-n
+Brattleboro:
+  n:
+    sense:
+    - id: 'brattleboro%1:15:00::'
+      synset: 09171278-n
+Braun:
+  n:
+    sense:
+    - id: 'braun%1:18:01::'
+      synset: 10883036-n
+    - id: 'braun%1:18:00::'
+      synset: 10882720-n
+Braunschweig:
+  n:
+    sense:
+    - id: 'braunschweig%1:15:00::'
+      synset: 08790384-n
+Braxton Bragg:
+  n:
+    sense:
+    - id: 'braxton_bragg%1:18:00::'
+      synset: 10881337-n
+Brazil:
+  n:
+    pronunciation:
+    - value: bɹə.ˈzɪl
+    sense:
+    - derivation:
+      - 'brazilian%3:01:00::'
+      id: 'brazil%1:15:00::'
+      synset: 08872733-n
+Brazilian capital:
+  n:
+    sense:
+    - id: 'brazilian_capital%1:15:00::'
+      synset: 08874300-n
+Brazos:
+  n:
+    sense:
+    - id: 'brazos%1:17:00::'
+      synset: 09251526-n
+Brazos River:
+  n:
+    sense:
+    - id: 'brazos_river%1:17:00::'
+      synset: 09251526-n
+Brazzaville:
+  n:
+    sense:
+    - id: 'brazzaville%1:15:00::'
+      synset: 08752083-n
+Brecht:
+  n:
+    sense:
+    - id: 'brecht%1:18:00::'
+      synset: 10883148-n
+Breed's Hill:
+  n:
+    sense:
+    - id: 'breed''s_hill%1:15:00::'
+      synset: 09118935-n
+Breiz:
+  n:
+    sense:
+    - id: 'breiz%1:15:00::'
+      synset: 08960981-n
+Bremen:
+  n:
+    sense:
+    - id: 'bremen%1:15:00::'
+      synset: 08787846-n
+Bremerhaven:
+  n:
+    sense:
+    - id: 'bremerhaven%1:15:00::'
+      synset: 08788107-n
+Brenner Pass:
+  n:
+    sense:
+    - id: 'brenner_pass%1:17:00::'
+      synset: 09251835-n
+Brer Rabbit:
+  n:
+    sense:
+    - id: 'brer_rabbit%1:18:00::'
+      synset: 09614154-n
+Brescia:
+  n:
+    sense:
+    - id: 'brescia%1:15:00::'
+      synset: 08822697-n
+Breslau:
+  n:
+    sense:
+    - id: 'breslau%1:15:00::'
+      synset: 09006702-n
+Brest:
+  n:
+    sense:
+    - id: 'brest%1:15:00::'
+      synset: 08954467-n
+Bret Harte:
+  n:
+    sense:
+    - id: 'bret_harte%1:18:00::'
+      synset: 11052836-n
+Bretagne:
+  n:
+    sense:
+    - id: 'bretagne%1:15:00::'
+      synset: 08960981-n
+Breuer:
+  n:
+    sense:
+    - id: 'breuer%1:18:00::'
+      synset: 10883313-n
+Breughel:
+  n:
+    sense:
+    - id: 'breughel%1:18:00::'
+      synset: 10887764-n
+Breughel the Elder:
+  n:
+    sense:
+    - id: 'breughel_the_elder%1:18:00::'
+      synset: 10887764-n
+Brevicipitidae:
+  n:
+    sense:
+    - id: 'brevicipitidae%1:05:00::'
+      synset: 01655224-n
+Brevoortia:
+  n:
+    sense:
+    - id: 'brevoortia%1:05:00::'
+      synset: 02534134-n
+Brezhnev:
+  n:
+    sense:
+    - id: 'brezhnev%1:18:00::'
+      synset: 10883492-n
+Brickellia:
+  n:
+    sense:
+    - id: 'brickellia%1:20:00::'
+      synset: 11962613-n
+Bride:
+  n:
+    sense:
+    - id: 'bride%1:18:02::'
+      synset: 10883800-n
+Bridgeport:
+  n:
+    sense:
+    - id: 'bridgeport%1:15:00::'
+      synset: 09091412-n
+Bridges:
+  n:
+    pronunciation:
+    - value: ˈbɹɪdʒɪz
+    sense:
+    - id: 'bridges%1:18:00::'
+      synset: 10883660-n
+Bridget:
+  n:
+    pronunciation:
+    - value: ˈbɹɪd͡ʒɪt
+    sense:
+    - id: 'bridget%1:18:00::'
+      synset: 10883800-n
+Bridgetown:
+  n:
+    sense:
+    - id: 'bridgetown%1:15:00::'
+      synset: 08773497-n
+Brigate Rosse:
+  n:
+    sense:
+    - id: 'brigate_rosse%1:14:00::'
+      synset: 08058236-n
+Brigham Young:
+  n:
+    sense:
+    - id: 'brigham_young%1:18:00::'
+      synset: 11423216-n
+Brighton:
+  n:
+    sense:
+    - id: 'brighton%1:15:00::'
+      synset: 08898760-n
+Brigid:
+  n:
+    sense:
+    - id: 'brigid%1:18:00::'
+      synset: 10883800-n
+    - id: 'brigid%1:18:01::'
+      synset: 09531606-n
+Brigit:
+  n:
+    sense:
+    - id: 'brigit%1:18:00::'
+      synset: 09531606-n
+Brigit Nilsson:
+  n:
+    sense:
+    - id: 'brigit_nilsson%1:18:00::'
+      synset: 11227758-n
+Brigit of Kildare:
+  n:
+    sense:
+    - id: 'brigit_of_kildare%1:18:01::'
+      synset: 10883800-n
+Brihaspati:
+  n:
+    sense:
+    - id: 'brihaspati%1:18:00::'
+      synset: 09548200-n
+Brindisi:
+  n:
+    sense:
+    - id: 'brindisi%1:15:00::'
+      synset: 08825746-n
+Brinton:
+  n:
+    sense:
+    - id: 'brinton%1:18:00::'
+      synset: 10884024-n
+Brisbane:
+  n:
+    sense:
+    - id: 'brisbane%1:15:00::'
+      synset: 08851869-n
+Bristol:
+  n:
+    pronunciation:
+    - value: ˈbɹɪstəl
+    sense:
+    - id: 'bristol%1:15:00::'
+      synset: 08898935-n
+Bristol Channel:
+  n:
+    sense:
+    - id: 'bristol_channel%1:17:00::'
+      synset: 09252156-n
+Britain:
+  n:
+    sense:
+    - derivation:
+      - 'britannic%3:01:00::'
+      id: 'britain%1:15:00::'
+      synset: 08879115-n
+British Columbia:
+  n:
+    sense:
+    - id: 'british_columbia%1:15:00::'
+      synset: 08841847-n
+British Crown:
+  n:
+    sense:
+    - id: 'british_crown%1:10:00::'
+      synset: 06897387-n
+British Empire:
+  n:
+    sense:
+    - id: 'british_empire%1:15:00::'
+      synset: 08876674-n
+British Guiana:
+  n:
+    sense:
+    - id: 'british_guiana%1:15:00::'
+      synset: 08968119-n
+British Honduras:
+  n:
+    sense:
+    - id: 'british_honduras%1:15:00::'
+      synset: 08755354-n
+British Isles:
+  n:
+    sense:
+    - id: 'british_isles%1:15:00::'
+      synset: 08877240-n
+British Virgin Islands:
+  n:
+    sense:
+    - id: 'british_virgin_islands%1:15:00::'
+      synset: 08772647-n
+British West Indies:
+  n:
+    sense:
+    - id: 'british_west_indies%1:15:00::'
+      synset: 08765327-n
+British capital:
+  n:
+    sense:
+    - id: 'british_capital%1:15:00::'
+      synset: 08893849-n
+Brittany:
+  n:
+    sense:
+    - id: 'brittany%1:15:00::'
+      synset: 08960981-n
+Britten:
+  n:
+    sense:
+    - id: 'britten%1:18:00::'
+      synset: 10884231-n
+Brno:
+  n:
+    sense:
+    - id: 'brno%1:15:00::'
+      synset: 08776167-n
+Broadway:
+  n:
+    pronunciation:
+    - value: ˈbɹɔdweɪ
+    sense:
+    - id: 'broadway%1:15:00::'
+      synset: 09144753-n
+Broca:
+  n:
+    sense:
+    - id: 'broca%1:18:00::'
+      synset: 10884454-n
+Brockhouse:
+  n:
+    sense:
+    - id: 'brockhouse%1:18:00::'
+      synset: 10884727-n
+Broglie:
+  n:
+    sense:
+    - id: 'broglie%1:18:00::'
+      synset: 10884916-n
+Bromberg:
+  n:
+    sense:
+    - id: 'bromberg%1:15:00::'
+      synset: 09005644-n
+Bromelia:
+  n:
+    sense:
+    - id: 'bromelia%1:20:00::'
+      synset: 12628478-n
+Bromeliaceae:
+  n:
+    sense:
+    - id: 'bromeliaceae%1:20:00::'
+      synset: 12627668-n
+Bromus:
+  n:
+    sense:
+    - id: 'bromus%1:20:00::'
+      synset: 12131147-n
+Bronislaw Kasper Malinowski:
+  n:
+    sense:
+    - id: 'bronislaw_kasper_malinowski%1:18:00::'
+      synset: 11171569-n
+Bronislaw Malinowski:
+  n:
+    sense:
+    - id: 'bronislaw_malinowski%1:18:00::'
+      synset: 11171569-n
+Bronte:
+  n:
+    sense:
+    - id: 'bronte%1:18:02::'
+      synset: 10885447-n
+    - id: 'bronte%1:18:01::'
+      synset: 10885287-n
+    - id: 'bronte%1:18:00::'
+      synset: 10885154-n
+Bronte sisters:
+  n:
+    sense:
+    - id: 'bronte_sisters%1:14:00::'
+      synset: 08006062-n
+Bronx:
+  n:
+    pronunciation:
+    - value: bɹɒŋks
+      variety: GB
+    - value: bɹɑŋks
+      variety: US
+    sense:
+    - id: 'bronx%1:15:00::'
+      synset: 09142656-n
+Bronx-Whitestone Bridge:
+  n:
+    sense:
+    - id: 'bronx-whitestone_bridge%1:06:00::'
+      synset: 02909352-n
+Bronze Age:
+  n:
+    sense:
+    - id: 'bronze_age%1:28:01::'
+      synset: 15256211-n
+Brooke:
+  n:
+    sense:
+    - id: 'brooke%1:18:00::'
+      synset: 10885577-n
+Brooklyn:
+  n:
+    sense:
+    - id: 'brooklyn%1:15:00::'
+      synset: 09142754-n
+Brooklyn Bridge:
+  n:
+    sense:
+    - id: 'brooklyn_bridge%1:06:00::'
+      synset: 02909903-n
+Brooks:
+  n:
+    pronunciation:
+    - value: bɹʊks
+    sense:
+    - id: 'brooks%1:18:00::'
+      synset: 10885677-n
+Brosmius:
+  n:
+    sense:
+    - id: 'brosmius%1:05:00::'
+      synset: 02527918-n
+Brotulidae:
+  n:
+    sense:
+    - id: 'brotulidae%1:05:00::'
+      synset: 02561611-n
+Broussonetia:
+  n:
+    sense:
+    - id: 'broussonetia%1:20:00::'
+      synset: 12424367-n
+Brown:
+  n:
+    pronunciation:
+    - value: bɹaʊn
+    sense:
+    - id: 'brown%1:18:01::'
+      synset: 10885972-n
+    - id: 'brown%1:18:00::'
+      synset: 10885804-n
+    - id: 'brown%1:06:00::'
+      synset: 02911310-n
+Brown University:
+  n:
+    sense:
+    - id: 'brown_university%1:06:00::'
+      synset: 02911310-n
+Browne:
+  n:
+    sense:
+    - id: 'browne%1:18:01::'
+      synset: 10886325-n
+    - id: 'browne%1:18:00::'
+      synset: 10886158-n
+Browning:
+  n:
+    pronunciation:
+    - value: ˈbɹaʊ.nɪŋ
+    sense:
+    - id: 'browning%1:18:02::'
+      synset: 10886825-n
+    - id: 'browning%1:18:01::'
+      synset: 10886651-n
+    - id: 'browning%1:18:00::'
+      synset: 10886470-n
+Brownsville:
+  n:
+    sense:
+    - id: 'brownsville%1:15:00::'
+      synset: 09166058-n
+Bruce:
+  n:
+    pronunciation:
+    - value: bɹuːs
+    sense:
+    - id: 'bruce%1:18:01::'
+      synset: 10887295-n
+    - id: 'bruce%1:18:00::'
+      synset: 10887060-n
+Bruce Lee:
+  n:
+    sense:
+    - id: 'bruce_lee%1:18:00::'
+      synset: 11144290-n
+Bruch:
+  n:
+    sense:
+    - id: 'bruch%1:18:00::'
+      synset: 10887520-n
+Bruchidae:
+  n:
+    sense:
+    - id: 'bruchidae%1:05:00::'
+      synset: 02184515-n
+Bruchus:
+  n:
+    sense:
+    - id: 'bruchus%1:05:00::'
+      synset: 02184872-n
+Bruckenthalia:
+  n:
+    sense:
+    - id: 'bruckenthalia%1:20:00::'
+      synset: 12253200-n
+Bruckner:
+  n:
+    sense:
+    - id: 'bruckner%1:18:00::'
+      synset: 10887612-n
+Bruegel:
+  n:
+    sense:
+    - id: 'bruegel%1:18:00::'
+      synset: 10887764-n
+Brueghel:
+  n:
+    sense:
+    - id: 'brueghel%1:18:00::'
+      synset: 10887764-n
+Bruges:
+  n:
+    sense:
+    - id: 'bruges%1:15:00::'
+      synset: 08870026-n
+Brugmansia:
+  n:
+    sense:
+    - id: 'brugmansia%1:20:00::'
+      synset: 12920093-n
+Brummell:
+  n:
+    sense:
+    - id: 'brummell%1:18:00::'
+      synset: 10887984-n
+Brunanburh:
+  n:
+    sense:
+    - id: 'brunanburh%1:04:00::'
+      synset: 01275574-n
+Brunei:
+  n:
+    sense:
+    - derivation:
+      - 'bruneian%3:01:00::'
+      id: 'brunei%1:15:00::'
+      synset: 08916319-n
+Brunelleschi:
+  n:
+    sense:
+    - id: 'brunelleschi%1:18:00::'
+      synset: 10888149-n
+Brunfelsia:
+  n:
+    sense:
+    - id: 'brunfelsia%1:20:00::'
+      synset: 12919719-n
+Brunhild:
+  n:
+    sense:
+    - id: 'brunhild%1:18:00::'
+      synset: 09613669-n
+Brunn:
+  n:
+    sense:
+    - id: 'brunn%1:15:00::'
+      synset: 08776167-n
+Brunnhilde:
+  n:
+    sense:
+    - id: 'brunnhilde%1:18:00::'
+      synset: 09613669-n
+Bruno:
+  n:
+    pronunciation:
+    - value: ˈbɹunoʊ
+      variety: US
+    sense:
+    - id: 'bruno%1:18:02::'
+      synset: 11147555-n
+    - id: 'bruno%1:18:01::'
+      synset: 10888567-n
+    - id: 'bruno%1:18:00::'
+      synset: 10888325-n
+Bruno Walter:
+  n:
+    sense:
+    - id: 'bruno_walter%1:18:00::'
+      synset: 11392794-n
+Bruno of Cologne:
+  n:
+    sense:
+    - id: 'bruno_of_cologne%1:18:01::'
+      synset: 10888567-n
+Bruno of Toul:
+  n:
+    sense:
+    - id: 'bruno_of_toul%1:18:00::'
+      synset: 11147555-n
+Brunswick:
+  n:
+    sense:
+    - id: 'brunswick%1:15:01::'
+      synset: 09115650-n
+    - id: 'brunswick%1:15:02::'
+      synset: 09099777-n
+    - id: 'brunswick%1:15:00::'
+      synset: 08790384-n
+Brusa:
+  n:
+    sense:
+    - id: 'brusa%1:15:00::'
+      synset: 09064688-n
+Brussels:
+  n:
+    pronunciation:
+    - value: ˈbɹʌsəlz
+    sense:
+    - id: 'brussels%1:15:00::'
+      synset: 08869442-n
+Brutus:
+  n:
+    pronunciation:
+    - value: ˈbɹutəs
+    sense:
+    - id: 'brutus%1:18:00::'
+      synset: 10888794-n
+Bruxelles:
+  n:
+    sense:
+    - id: 'bruxelles%1:15:00::'
+      synset: 08869442-n
+Brya:
+  n:
+    sense:
+    - id: 'brya%1:20:00::'
+      synset: 11769405-n
+Bryaceae:
+  n:
+    sense:
+    - id: 'bryaceae%1:20:00::'
+      synset: 11561421-n
+Bryales:
+  n:
+    sense:
+    - id: 'bryales%1:20:00::'
+      synset: 11560451-n
+Bryan:
+  n:
+    sense:
+    - id: 'bryan%1:18:00::'
+      synset: 10888972-n
+    - id: 'bryan%1:15:00::'
+      synset: 09166286-n
+Bryan Donkin:
+  n:
+    sense:
+    - id: 'bryan_donkin%1:18:00::'
+      synset: 10959622-n
+Bryce Canyon National Park:
+  n:
+    sense:
+    - id: 'bryce_canyon_national_park%1:15:00::'
+      synset: 08620714-n
+Brynhild:
+  n:
+    sense:
+    - id: 'brynhild%1:18:00::'
+      synset: 09613669-n
+Brynhildr:
+  n:
+    sense:
+    - id: 'brynhildr%1:18:01::'
+      synset: 09613669-n
+Bryophyta:
+  n:
+    sense:
+    - derivation:
+      - 'bryophytic%3:01:00::'
+      id: 'bryophyta%1:20:00::'
+      synset: 11557229-n
+Bryopsida:
+  n:
+    sense:
+    - id: 'bryopsida%1:20:00::'
+      synset: 11559386-n
+Bryozoa:
+  n:
+    sense:
+    - id: 'bryozoa%1:05:00::'
+      synset: 02316147-n
+Bryum:
+  n:
+    sense:
+    - id: 'bryum%1:20:00::'
+      synset: 11561562-n
+Bubalus:
+  n:
+    sense:
+    - id: 'bubalus%1:05:00::'
+      synset: 02410863-n
+Buber:
+  n:
+    sense:
+    - id: 'buber%1:18:00::'
+      synset: 10889270-n
+Bubo:
+  n:
+    pronunciation:
+    - value: ˈbjuː.bəʊ
+      variety: GB
+    - value: ˈbu.boʊ
+      variety: US
+    sense:
+    - id: 'bubo%1:05:00::'
+      synset: 01624871-n
+Bubulcus:
+  n:
+    sense:
+    - id: 'bubulcus%1:05:00::'
+      synset: 02012798-n
+Buccinidae:
+  n:
+    sense:
+    - id: 'buccinidae%1:05:00::'
+      synset: 01949916-n
+Bucconidae:
+  n:
+    sense:
+    - id: 'bucconidae%1:05:00::'
+      synset: 01845021-n
+Bucephala:
+  n:
+    sense:
+    - id: 'bucephala%1:05:00::'
+      synset: 01852676-n
+Buceros:
+  n:
+    sense:
+    - id: 'buceros%1:05:00::'
+      synset: 01831929-n
+Bucerotidae:
+  n:
+    sense:
+    - id: 'bucerotidae%1:05:00::'
+      synset: 01831784-n
+Buchanan:
+  n:
+    sense:
+    - id: 'buchanan%1:18:00::'
+      synset: 10889518-n
+Bucharest:
+  n:
+    sense:
+    - id: 'bucharest%1:15:00::'
+      synset: 08832326-n
+Bucharesti:
+  n:
+    sense:
+    - id: 'bucharesti%1:15:00::'
+      synset: 08832326-n
+Buchenwald:
+  n:
+    sense:
+    - id: 'buchenwald%1:06:00::'
+      synset: 02912868-n
+Buchenwald concentration camp:
+  n:
+    sense:
+    - id: 'buchenwald_concentration_camp%1:06:01::'
+      synset: 02912868-n
+Buchloe:
+  n:
+    sense:
+    - id: 'buchloe%1:20:00::'
+      synset: 12133005-n
+Buchner:
+  n:
+    sense:
+    - id: 'buchner%1:18:00::'
+      synset: 10889659-n
+Buck:
+  n:
+    pronunciation:
+    - value: bʌk
+    sense:
+    - id: 'buck%1:18:00::'
+      synset: 10889822-n
+Buckeye State:
+  n:
+    sense:
+    - id: 'buckeye_state%1:15:00::'
+      synset: 09152756-n
+Buckingham Palace:
+  n:
+    sense:
+    - id: 'buckingham_palace%1:15:00::'
+      synset: 08896070-n
+Buckminster Fuller:
+  n:
+    sense:
+    - id: 'buckminster_fuller%1:18:00::'
+      synset: 11005436-n
+Bucuresti:
+  n:
+    sense:
+    - id: 'bucuresti%1:15:00::'
+      synset: 08832326-n
+Budai:
+  n:
+    sense:
+    - id: 'budai%1:18:01::'
+      synset: 09558029-n
+Budapest:
+  n:
+    sense:
+    - id: 'budapest%1:15:00::'
+      synset: 08972196-n
+Buddy Holly:
+  n:
+    sense:
+    - id: 'buddy_holly%1:18:00::'
+      synset: 11076649-n
+Budge:
+  n:
+    sense:
+    - id: 'budge%1:18:00::'
+      synset: 10890027-n
+Budorcas:
+  n:
+    sense:
+    - id: 'budorcas%1:05:00::'
+      synset: 02422161-n
+Buena Vista:
+  n:
+    sense:
+    - id: 'buena_vista%1:04:00::'
+      synset: 01275723-n
+Buenos Aires:
+  n:
+    sense:
+    - id: 'buenos_aires%1:15:00::'
+      synset: 08730709-n
+Buffalo:
+  n:
+    pronunciation:
+    - value: ˈbʌf.əl.əʊ
+      variety: GB
+    - value: ˈbʌf.ə.loʊ
+      variety: US
+    sense:
+    - id: 'buffalo%1:15:00::'
+      synset: 09141172-n
+Buffalo Bill:
+  n:
+    sense:
+    - id: 'buffalo_bill%1:18:00::'
+      synset: 10924022-n
+Buffalo Bill Cody:
+  n:
+    sense:
+    - id: 'buffalo_bill_cody%1:18:00::'
+      synset: 10924022-n
+Bufonidae:
+  n:
+    sense:
+    - id: 'bufonidae%1:05:00::'
+      synset: 01648275-n
+Buganda:
+  n:
+    sense:
+    - id: 'buganda%1:15:00::'
+      synset: 09065886-n
+Bujumbura:
+  n:
+    sense:
+    - id: 'bujumbura%1:15:00::'
+      synset: 08734350-n
+Bukharin:
+  n:
+    sense:
+    - id: 'bukharin%1:18:00::'
+      synset: 10890278-n
+Bulawayo:
+  n:
+    sense:
+    - id: 'bulawayo%1:15:00::'
+      synset: 09190445-n
+Bulgaria:
+  n:
+    sense:
+    - derivation:
+      - 'bulgarian%3:01:00::'
+      id: 'bulgaria%1:15:00::'
+      synset: 08731965-n
+Bulgarian capital:
+  n:
+    sense:
+    - id: 'bulgarian_capital%1:15:00::'
+      synset: 08732291-n
+Bull Run:
+  n:
+    sense:
+    - id: 'bull_run%1:15:00::'
+      synset: 09174555-n
+    - id: 'bull_run%1:04:00::'
+      synset: 01275984-n
+Bullfinch:
+  n:
+    sense:
+    - id: 'bullfinch%1:18:00::'
+      synset: 10890484-n
+Bulnesia:
+  n:
+    sense:
+    - id: 'bulnesia%1:20:00::'
+      synset: 12742117-n
+Bultmann:
+  n:
+    sense:
+    - id: 'bultmann%1:18:00::'
+      synset: 10890716-n
+Bulwer-Lytton:
+  n:
+    sense:
+    - id: 'bulwer-lytton%1:18:00::'
+      synset: 11166484-n
+Bumelia:
+  n:
+    sense:
+    - id: 'bumelia%1:20:00::'
+      synset: 12793317-n
+Bunche:
+  n:
+    sense:
+    - id: 'bunche%1:18:00::'
+      synset: 10890857-n
+Bungarus:
+  n:
+    sense:
+    - id: 'bungarus%1:05:00::'
+      synset: 01753561-n
+Bunker Buster:
+  n:
+    sense:
+    - id: 'bunker_buster%1:06:00::'
+      synset: 02924169-n
+Bunker Hill:
+  n:
+    sense:
+    - id: 'bunker_hill%1:04:00::'
+      synset: 01276228-n
+Bunsen:
+  n:
+    pronunciation:
+    - value: ˈbʌnsən
+    sense:
+    - id: 'bunsen%1:18:00::'
+      synset: 10891011-n
+Bunuel:
+  n:
+    sense:
+    - id: 'bunuel%1:18:00::'
+      synset: 10891242-n
+Bunyan:
+  n:
+    sense:
+    - id: 'bunyan%1:18:01::'
+      synset: 10891343-n
+    - id: 'bunyan%1:18:00::'
+      synset: 09614329-n
+Buphthalmum:
+  n:
+    sense:
+    - id: 'buphthalmum%1:20:00::'
+      synset: 11962835-n
+Burbage:
+  n:
+    sense:
+    - id: 'burbage%1:18:00::'
+      synset: 10891513-n
+Burbank:
+  n:
+    sense:
+    - id: 'burbank%1:18:00::'
+      synset: 10891692-n
+Burger:
+  n:
+    sense:
+    - id: 'burger%1:18:00::'
+      synset: 10891874-n
+Burgess:
+  n:
+    pronunciation:
+    - value: ˈbɜːdʒɪs
+      variety: GB
+    sense:
+    - id: 'burgess%1:18:01::'
+      synset: 10892092-n
+Burgoyne:
+  n:
+    sense:
+    - id: 'burgoyne%1:18:00::'
+      synset: 10892211-n
+Burhinidae:
+  n:
+    sense:
+    - id: 'burhinidae%1:05:00::'
+      synset: 02042596-n
+Burhinus:
+  n:
+    sense:
+    - id: 'burhinus%1:05:00::'
+      synset: 02042767-n
+Burk:
+  n:
+    sense:
+    - id: 'burk%1:18:00::'
+      synset: 10892426-n
+Burke:
+  n:
+    pronunciation:
+    - value: bɜː(ɹ)k
+    sense:
+    - id: 'burke%1:18:00::'
+      synset: 10892646-n
+    - id: 'burke%1:18:01::'
+      synset: 10892426-n
+Burkina Faso:
+  n:
+    sense:
+    - id: 'burkina_faso%1:15:00::'
+      synset: 08916686-n
+Burlington:
+  n:
+    sense:
+    - id: 'burlington%1:15:00::'
+      synset: 09171411-n
+Burma:
+  n:
+    sense:
+    - id: 'burma%1:15:00::'
+      synset: 08733223-n
+Burmannia:
+  n:
+    sense:
+    - id: 'burmannia%1:20:00::'
+      synset: 12107925-n
+Burmanniaceae:
+  n:
+    sense:
+    - id: 'burmanniaceae%1:20:00::'
+      synset: 12107724-n
+Burmeisteria:
+  n:
+    sense:
+    - id: 'burmeisteria%1:05:00::'
+      synset: 02459136-n
+Burnett:
+  n:
+    sense:
+    - id: 'burnett%1:18:00::'
+      synset: 10892890-n
+Burnham:
+  n:
+    sense:
+    - id: 'burnham%1:18:00::'
+      synset: 10893092-n
+Burns:
+  n:
+    pronunciation:
+    - value: bɝnz
+      variety: US
+    - value: bɜːnz
+      variety: GB
+    sense:
+    - id: 'burns%1:18:01::'
+      synset: 10893370-n
+    - id: 'burns%1:18:00::'
+      synset: 10893266-n
+Burnside:
+  n:
+    sense:
+    - id: 'burnside%1:18:00::'
+      synset: 10893524-n
+Burr:
+  n:
+    pronunciation:
+    - value: bɝ
+      variety: US
+    sense:
+    - id: 'burr%1:18:00::'
+      synset: 10893749-n
+Burrhus Frederic Skinner:
+  n:
+    sense:
+    - id: 'burrhus_frederic_skinner%1:18:00::'
+      synset: 11324456-n
+Burrill Bernard Crohn:
+  n:
+    sense:
+    - id: 'burrill_bernard_crohn%1:18:00::'
+      synset: 10935614-n
+Burroughs:
+  n:
+    sense:
+    - id: 'burroughs%1:18:02::'
+      synset: 10894293-n
+    - id: 'burroughs%1:18:01::'
+      synset: 10894127-n
+    - id: 'burroughs%1:18:00::'
+      synset: 10893980-n
+Bursa:
+  n:
+    sense:
+    - id: 'bursa%1:15:00::'
+      synset: 09064688-n
+Bursera:
+  n:
+    sense:
+    - id: 'bursera%1:20:00::'
+      synset: 12711950-n
+Burseraceae:
+  n:
+    sense:
+    - id: 'burseraceae%1:20:00::'
+      synset: 12711149-n
+Burt:
+  n:
+    sense:
+    - id: 'burt%1:18:00::'
+      synset: 10894508-n
+Busan:
+  n:
+    sense:
+    - id: 'busan%1:15:01::'
+      synset: 08976347-n
+Bush:
+  n:
+    sense:
+    - id: 'bush%1:18:02::'
+      synset: 10895517-n
+    - id: 'bush%1:18:01::'
+      synset: 10895288-n
+    - id: 'bush%1:18:00::'
+      synset: 10895055-n
+Bushnell:
+  n:
+    sense:
+    - id: 'bushnell%1:18:00::'
+      synset: 10895912-n
+Buster Keaton:
+  n:
+    sense:
+    - id: 'buster_keaton%1:18:00::'
+      synset: 11118370-n
+Butcher Cumberland:
+  n:
+    sense:
+    - id: 'butcher_cumberland%1:18:00::'
+      synset: 10936916-n
+Butea:
+  n:
+    sense:
+    - id: 'butea%1:20:00::'
+      synset: 12530702-n
+Buteo:
+  n:
+    sense:
+    - id: 'buteo%1:05:00::'
+      synset: 01609744-n
+Butler:
+  n:
+    pronunciation:
+    - value: ˈbʌt.lə(ɹ)
+      variety: GB
+    - value: ˈbʌt.lɚ
+      variety: US
+    sense:
+    - id: 'butler%1:18:02::'
+      synset: 10896265-n
+    - id: 'butler%1:18:01::'
+      synset: 10896171-n
+Butte:
+  n:
+    pronunciation:
+    - value: ˈbjuːt
+    sense:
+    - id: 'butte%1:15:00::'
+      synset: 09131514-n
+Butterfield:
+  n:
+    sense:
+    - id: 'butterfield%1:18:00::'
+      synset: 10896413-n
+Buxaceae:
+  n:
+    sense:
+    - id: 'buxaceae%1:20:00::'
+      synset: 12766548-n
+Buxus:
+  n:
+    sense:
+    - id: 'buxus%1:20:00::'
+      synset: 12766736-n
+Buzzards Bay:
+  n:
+    sense:
+    - id: 'buzzards_bay%1:17:00::'
+      synset: 09253268-n
+Byblos:
+  n:
+    sense:
+    - id: 'byblos%1:15:00::'
+      synset: 08978308-n
+Bydgoszcz:
+  n:
+    sense:
+    - id: 'bydgoszcz%1:15:00::'
+      synset: 09005644-n
+Byelarus:
+  n:
+    sense:
+    - id: 'byelarus%1:15:00::'
+      synset: 09033521-n
+Byelorussia:
+  n:
+    sense:
+    - id: 'byelorussia%1:15:00::'
+      synset: 09033521-n
+Byrd:
+  n:
+    sense:
+    - id: 'byrd%1:18:01::'
+      synset: 10896767-n
+    - id: 'byrd%1:18:00::'
+      synset: 10896550-n
+Byron:
+  n:
+    sense:
+    - id: 'byron%1:18:00::'
+      synset: 10897005-n
+Byzantine Empire:
+  n:
+    sense:
+    - id: 'byzantine_empire%1:15:00::'
+      synset: 08818528-n
+Byzantium:
+  n:
+    pronunciation:
+    - value: bɪˈzænti.əm
+    sense:
+    - id: 'byzantium%1:15:00::'
+      synset: 08818951-n
+    - id: 'byzantium%1:15:01::'
+      synset: 08818528-n
+balsam family:
+  n:
+    sense:
+    - id: 'balsam_family%1:20:00::'
+      synset: 12704711-n
+banana family:
+  n:
+    sense:
+    - id: 'banana_family%1:20:00::'
+      synset: 12372492-n
+barberry family:
+  n:
+    sense:
+    - id: 'barberry_family%1:20:00::'
+      synset: 11717627-n
+baron d'Holbach:
+  n:
+    sense:
+    - id: 'baron_d''holbach%1:18:00::'
+      synset: 10955318-n
+barramundi:
+  n:
+    form:
+    - barramundies
+    pronunciation:
+    - value: ˌbæɹəˈmʌndi
+    sense:
+    - id: 'barramundi%1:05:00::'
+      synset: 02563177-n
+battle of Atlanta:
+  n:
+    sense:
+    - id: 'battle_of_atlanta%1:04:00::'
+      synset: 01272126-n
+battle of Austerlitz:
+  n:
+    sense:
+    - id: 'battle_of_austerlitz%1:04:00::'
+      synset: 01272350-n
+battle of Boyne:
+  n:
+    sense:
+    - id: 'battle_of_boyne%1:04:00::'
+      synset: 01275280-n
+battle of Brunanburh:
+  n:
+    sense:
+    - id: 'battle_of_brunanburh%1:04:00::'
+      synset: 01275574-n
+battle of Bunker Hill:
+  n:
+    sense:
+    - id: 'battle_of_bunker_hill%1:04:00::'
+      synset: 01276228-n
+battle of Caporetto:
+  n:
+    sense:
+    - id: 'battle_of_caporetto%1:04:00::'
+      synset: 01276664-n
+battle of Chattanooga:
+  n:
+    sense:
+    - id: 'battle_of_chattanooga%1:04:00::'
+      synset: 01277882-n
+battle of Chickamauga:
+  n:
+    sense:
+    - id: 'battle_of_chickamauga%1:04:00::'
+      synset: 01278190-n
+battle of Cowpens:
+  n:
+    sense:
+    - id: 'battle_of_cowpens%1:04:00::'
+      synset: 01278929-n
+battle of Crecy:
+  n:
+    sense:
+    - id: 'battle_of_crecy%1:04:00::'
+      synset: 01279127-n
+battle of Cunaxa:
+  n:
+    sense:
+    - id: 'battle_of_cunaxa%1:04:00::'
+      synset: 01279368-n
+battle of Cynoscephalae:
+  n:
+    sense:
+    - id: 'battle_of_cynoscephalae%1:04:00::'
+      synset: 01279558-n
+battle of Hastings:
+  n:
+    sense:
+    - id: 'battle_of_hastings%1:04:00::'
+      synset: 01283007-n
+battle of Hohenlinden:
+  n:
+    sense:
+    - id: 'battle_of_hohenlinden%1:04:00::'
+      synset: 01283285-n
+battle of Ipsus:
+  n:
+    sense:
+    - id: 'battle_of_ipsus%1:04:00::'
+      synset: 01283920-n
+battle of Issus:
+  n:
+    sense:
+    - id: 'battle_of_issus%1:04:00::'
+      synset: 01284131-n
+battle of Ivry:
+  n:
+    sense:
+    - id: 'battle_of_ivry%1:04:00::'
+      synset: 01284306-n
+battle of Jutland:
+  n:
+    sense:
+    - id: 'battle_of_jutland%1:04:00::'
+      synset: 01284959-n
+battle of Langside:
+  n:
+    sense:
+    - id: 'battle_of_langside%1:04:00::'
+      synset: 01285882-n
+battle of Leuctra:
+  n:
+    sense:
+    - id: 'battle_of_leuctra%1:04:00::'
+      synset: 01286246-n
+battle of Lule Burgas:
+  n:
+    sense:
+    - id: 'battle_of_lule_burgas%1:04:00::'
+      synset: 01287594-n
+battle of Lutzen:
+  n:
+    sense:
+    - id: 'battle_of_lutzen%1:04:00::'
+      synset: 01287798-n
+battle of Marathon:
+  n:
+    sense:
+    - id: 'battle_of_marathon%1:04:00::'
+      synset: 01289062-n
+battle of Marston Moor:
+  n:
+    sense:
+    - id: 'battle_of_marston_moor%1:04:00::'
+      synset: 01289431-n
+battle of Minden:
+  n:
+    sense:
+    - id: 'battle_of_minden%1:04:00::'
+      synset: 01290550-n
+battle of Navarino:
+  n:
+    sense:
+    - id: 'battle_of_navarino%1:04:00::'
+      synset: 01291288-n
+battle of Omdurman:
+  n:
+    sense:
+    - id: 'battle_of_omdurman%1:04:00::'
+      synset: 01291937-n
+battle of Panipat:
+  n:
+    sense:
+    - id: 'battle_of_panipat%1:04:00::'
+      synset: 01292490-n
+battle of Passchendaele:
+  n:
+    sense:
+    - id: 'battle_of_passchendaele%1:04:01::'
+      synset: 01303571-n
+battle of Pharsalus:
+  n:
+    sense:
+    - id: 'battle_of_pharsalus%1:04:00::'
+      synset: 01293204-n
+battle of Philippi:
+  n:
+    sense:
+    - id: 'battle_of_philippi%1:04:00::'
+      synset: 01293333-n
+battle of Pittsburgh Landing:
+  n:
+    sense:
+    - id: 'battle_of_pittsburgh_landing%1:04:00::'
+      synset: 01296993-n
+battle of Plassey:
+  n:
+    sense:
+    - id: 'battle_of_plassey%1:04:00::'
+      synset: 01293803-n
+battle of Plataea:
+  n:
+    sense:
+    - id: 'battle_of_plataea%1:04:00::'
+      synset: 01294010-n
+battle of Poitiers:
+  n:
+    sense:
+    - id: 'battle_of_poitiers%1:04:00::'
+      synset: 01294332-n
+battle of Rossbach:
+  n:
+    sense:
+    - id: 'battle_of_rossbach%1:04:00::'
+      synset: 01295421-n
+battle of Saratoga:
+  n:
+    sense:
+    - id: 'battle_of_saratoga%1:04:00::'
+      synset: 01296620-n
+battle of Sempach:
+  n:
+    sense:
+    - id: 'battle_of_sempach%1:04:00::'
+      synset: 01296823-n
+battle of Shiloh:
+  n:
+    sense:
+    - id: 'battle_of_shiloh%1:04:00::'
+      synset: 01296993-n
+battle of Soissons-Reims:
+  n:
+    sense:
+    - id: 'battle_of_soissons-reims%1:04:00::'
+      synset: 01297282-n
+battle of Solferino:
+  n:
+    sense:
+    - id: 'battle_of_solferino%1:04:00::'
+      synset: 01297644-n
+battle of Spotsylvania Courthouse:
+  n:
+    sense:
+    - id: 'battle_of_spotsylvania_courthouse%1:04:00::'
+      synset: 01298409-n
+battle of St Mihiel:
+  n:
+    sense:
+    - id: 'battle_of_st_mihiel%1:04:00::'
+      synset: 01295660-n
+battle of Tannenberg:
+  n:
+    sense:
+    - id: 'battle_of_tannenberg%1:04:00::'
+      synset: 01298996-n
+battle of Tertry:
+  n:
+    sense:
+    - id: 'battle_of_tertry%1:04:00::'
+      synset: 01299437-n
+battle of Teutoburger Wald:
+  n:
+    sense:
+    - id: 'battle_of_teutoburger_wald%1:04:00::'
+      synset: 01299586-n
+battle of Tewkesbury:
+  n:
+    sense:
+    - id: 'battle_of_tewkesbury%1:04:00::'
+      synset: 01299782-n
+battle of Thermopylae:
+  n:
+    sense:
+    - id: 'battle_of_thermopylae%1:04:00::'
+      synset: 01299975-n
+battle of Trafalgar:
+  n:
+    sense:
+    - id: 'battle_of_trafalgar%1:04:00::'
+      synset: 01300197-n
+battle of Trasimeno:
+  n:
+    sense:
+    - id: 'battle_of_trasimeno%1:04:00::'
+      synset: 01285678-n
+battle of Valmy:
+  n:
+    sense:
+    - id: 'battle_of_valmy%1:04:00::'
+      synset: 01300862-n
+battle of Verdun:
+  n:
+    sense:
+    - id: 'battle_of_verdun%1:04:00::'
+      synset: 01301064-n
+battle of Wagram:
+  n:
+    sense:
+    - id: 'battle_of_wagram%1:04:00::'
+      synset: 01301528-n
+battle of Ypres:
+  n:
+    sense:
+    - id: 'battle_of_ypres%1:04:03::'
+      synset: 01303571-n
+    - id: 'battle_of_ypres%1:04:02::'
+      synset: 01303273-n
+    - id: 'battle_of_ypres%1:04:01::'
+      synset: 01302999-n
+battle of Zama:
+  n:
+    sense:
+    - id: 'battle_of_zama%1:04:00::'
+      synset: 01303914-n
+battle of the Aisne:
+  n:
+    sense:
+    - id: 'battle_of_the_aisne%1:04:00::'
+      synset: 01297282-n
+battle of the Bismarck Sea:
+  n:
+    sense:
+    - id: 'battle_of_the_bismarck_sea%1:04:00::'
+      synset: 01274162-n
+battle of the Chemin-des-Dames:
+  n:
+    sense:
+    - id: 'battle_of_the_chemin-des-dames%1:04:00::'
+      synset: 01297282-n
+battle of the Coral Sea:
+  n:
+    sense:
+    - id: 'battle_of_the_coral_sea%1:04:00::'
+      synset: 01278687-n
+battle of the Philippine Sea:
+  n:
+    sense:
+    - id: 'battle_of_the_philippine_sea%1:04:00::'
+      synset: 01293490-n
+battle of the Teutoburg Forest:
+  n:
+    sense:
+    - id: 'battle_of_the_teutoburg_forest%1:04:01::'
+      synset: 01299586-n
+bean-caper family:
+  n:
+    sense:
+    - id: 'bean-caper_family%1:20:00::'
+      synset: 12741292-n
+beech family:
+  n:
+    sense:
+    - id: 'beech_family%1:20:00::'
+      synset: 12280725-n
+begonia family:
+  n:
+    sense:
+    - id: 'begonia_family%1:20:00::'
+      synset: 12380251-n
+bellflower family:
+  n:
+    sense:
+    - id: 'bellflower_family%1:20:00::'
+      synset: 12057002-n
+bin Laden:
+  n:
+    sense:
+    - id: 'bin_laden%1:18:00::'
+      synset: 10871048-n
+birch family:
+  n:
+    sense:
+    - id: 'birch_family%1:20:00::'
+      synset: 12301004-n
+birthwort family:
+  n:
+    sense:
+    - id: 'birthwort_family%1:20:00::'
+      synset: 11821507-n
+bladdernut family:
+  n:
+    sense:
+    - id: 'bladdernut_family%1:20:00::'
+      synset: 12790190-n
+bladderwort family:
+  n:
+    sense:
+    - id: 'bladderwort_family%1:20:00::'
+      synset: 12892752-n
+bloodwort family:
+  n:
+    sense:
+    - id: 'bloodwort_family%1:20:00::'
+      synset: 12332411-n
+borage family:
+  n:
+    sense:
+    - id: 'borage_family%1:20:00::'
+      synset: 12836685-n
+box family:
+  n:
+    sense:
+    - id: 'box_family%1:20:00::'
+      synset: 12766548-n
+broomrape family:
+  n:
+    sense:
+    - id: 'broomrape_family%1:20:00::'
+      synset: 12894991-n
+buckbean family:
+  n:
+    sense:
+    - id: 'buckbean_family%1:20:00::'
+      synset: 12504918-n
+buckthorn family:
+  n:
+    sense:
+    - id: 'buckthorn_family%1:20:00::'
+      synset: 13161476-n
+buckwheat family:
+  n:
+    sense:
+    - id: 'buckwheat_family%1:20:00::'
+      synset: 12621335-n
+bur-reed family:
+  n:
+    sense:
+    - id: 'bur-reed_family%1:20:00::'
+      synset: 12176825-n
+buttercup family:
+  n:
+    sense:
+    - id: 'buttercup_family%1:20:00::'
+      synset: 11739937-n

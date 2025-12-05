@@ -1,0 +1,30 @@
+Yeatsian:
+  a:
+    sense:
+    - derivation:
+      - 'yeats%1:18:00::'
+      id: 'yeatsian%3:01:00::'
+    - id: 'yeatsian%3:01:00::'
+      pertainym:
+      - 'yeats%1:18:00::'
+Yemeni:
+  a:
+    sense:
+    - id: 'yemeni%3:01:00::'
+      pertainym:
+      - 'yemen%1:15:00::'
+Yugoslav:
+  a:
+    sense:
+    - id: 'yugoslav%3:01:00::'
+      pertainym:
+      - 'yugoslavia%1:15:00::'
+Yugoslavian:
+  a:
+    sense:
+    - derivation:
+      - 'yugoslavia%1:15:00::'
+      id: 'yugoslavian%3:01:00::'
+    - id: 'yugoslavian%3:01:00::'
+      pertainym:
+      - 'yugoslavia%1:15:00::'

@@ -1,0 +1,213 @@
+Namibian:
+  a:
+    sense:
+    - derivation:
+      - 'namibia%1:15:00::'
+      id: 'namibian%3:01:00::'
+    - id: 'namibian%3:01:00::'
+      pertainym:
+      - 'namibia%1:15:00::'
+Napoleonic:
+  a:
+    sense:
+    - derivation:
+      - 'napoleon%1:18:00::'
+      id: 'napoleonic%3:01:00::'
+    - id: 'napoleonic%3:01:00::'
+      pertainym:
+      - 'napoleon%1:18:00::'
+Nauruan:
+  a:
+    sense:
+    - derivation:
+      - 'nauru%1:15:01::'
+      id: 'nauruan%3:01:00::'
+    - id: 'nauruan%3:01:00::'
+      pertainym:
+      - 'nauru%1:15:00::'
+Nazarene:
+  a:
+    sense:
+    - id: 'nazarene%3:01:00::'
+      pertainym:
+      - 'nazareth%1:15:00::'
+Neapolitan:
+  a:
+    sense:
+    - derivation:
+      - 'naples%1:15:00::'
+      id: 'neapolitan%3:01:00::'
+    - id: 'neapolitan%3:01:00::'
+      pertainym:
+      - 'naples%1:15:00::'
+Nepalese:
+  a:
+    sense:
+    - id: 'nepalese%3:01:00::'
+      pertainym:
+      - 'nepal%1:15:00::'
+Nepali:
+  a:
+    sense:
+    - id: 'nepali%3:01:00::'
+      pertainym:
+      - 'nepal%1:15:00::'
+Nestorian:
+  a:
+    sense:
+    - derivation:
+      - 'nestorius%1:18:00::'
+      id: 'nestorian%3:01:00::'
+    - id: 'nestorian%3:01:00::'
+      pertainym:
+      - 'nestorius%1:18:00::'
+New Caledonian:
+  a:
+    sense:
+    - derivation:
+      - 'new_caledonia%1:15:00::'
+      id: 'new_caledonian%3:01:00::'
+    - id: 'new_caledonian%3:01:00::'
+      pertainym:
+      - 'new_caledonia%1:15:00::'
+New Zealander:
+  a:
+    sense:
+    - id: 'new_zealander%3:01:00::'
+      pertainym:
+      - 'new_zealand%1:15:01::'
+Newtonian:
+  a:
+    sense:
+    - derivation:
+      - 'newton%1:18:00::'
+      id: 'newtonian%3:01:00::'
+    - id: 'newtonian%3:01:00::'
+      pertainym:
+      - 'newton%1:18:00::'
+Nicaean:
+  a:
+    sense:
+    - derivation:
+      - 'nicaea%1:15:00::'
+      id: 'nicaean%3:01:00::'
+    - id: 'nicaean%3:01:00::'
+      pertainym:
+      - 'nicaea%1:15:00::'
+Nicaraguan:
+  a:
+    sense:
+    - derivation:
+      - 'nicaragua%1:15:00::'
+      id: 'nicaraguan%3:01:00::'
+    - id: 'nicaraguan%3:01:00::'
+      pertainym:
+      - 'nicaragua%1:15:00::'
+Nicene:
+  a:
+    sense:
+    - id: 'nicene%3:01:00::'
+      pertainym:
+      - 'nicaea%1:15:00::'
+Nigerian:
+  a:
+    sense:
+    - derivation:
+      - 'niger%1:15:00::'
+      id: 'nigerian%3:01:01::'
+    - id: 'nigerian%3:01:01::'
+      pertainym:
+      - 'nigeria%1:15:00::'
+    - derivation:
+      - 'niger%1:15:00::'
+      id: 'nigerian%3:01:00::'
+Nilotic:
+  a:
+    sense:
+    - derivation:
+      - 'nile%1:17:00::'
+      id: 'nilotic%3:01:01::'
+    - id: 'nilotic%3:01:01::'
+      pertainym:
+      - 'nile%1:17:00::'
+Noachian:
+  a:
+    sense:
+    - id: 'noachian%3:01:00::'
+      pertainym:
+      - 'noah%1:18:00::'
+Norman:
+  a:
+    sense:
+    - id: 'norman%3:01:01::'
+      pertainym:
+      - 'normandy%1:15:00::'
+Norse:
+  a:
+    sense:
+    - id: 'norse%3:01:00::'
+      pertainym:
+      - 'norway%1:15:00::'
+North African:
+  a:
+    sense:
+    - id: 'north_african%3:01:00::'
+      pertainym:
+      - 'north_africa%1:15:00::'
+North American:
+  a:
+    sense:
+    - id: 'north_american%3:01:00::'
+      pertainym:
+      - 'north_america%1:17:00::'
+North Korean:
+  a:
+    sense:
+    - derivation:
+      - 'north_korea%1:15:00::'
+      id: 'north_korean%3:01:00::'
+    - id: 'north_korean%3:01:00::'
+      pertainym:
+      - 'north_korea%1:15:00::'
+North Vietnamese:
+  a:
+    sense:
+    - id: 'north_vietnamese%3:01:00::'
+      pertainym:
+      - 'north_vietnam%1:15:00::'
+Norwegian:
+  a:
+    sense:
+    - derivation:
+      - 'norway%1:15:00::'
+      id: 'norwegian%3:01:00::'
+    - id: 'norwegian%3:01:00::'
+      pertainym:
+      - 'norway%1:15:00::'
+Numidian:
+  a:
+    sense:
+    - derivation:
+      - 'numidia%1:15:00::'
+      id: 'numidian%3:01:00::'
+    - id: 'numidian%3:01:00::'
+      pertainym:
+      - 'numidia%1:15:00::'
+neolithic:
+  a:
+    sense:
+    - id: 'neolithic%3:01:00::'
+      pertainym:
+      - 'neolithic_age%1:28:00::'
+nonruminant:
+  a:
+    sense:
+    - id: 'nonruminant%3:01:00::'
+      pertainym:
+      - 'ruminantia%1:05:00::'
+north-polar:
+  a:
+    sense:
+    - derivation:
+      - 'north_pole%1:15:00::'
+      id: north-polar%5:00:00:polar:00

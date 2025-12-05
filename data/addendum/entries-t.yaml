@@ -1,0 +1,238 @@
+Tahitian:
+  a:
+    sense:
+    - derivation:
+      - 'tahiti%1:15:00::'
+      id: 'tahitian%3:01:00::'
+    - id: 'tahitian%3:01:00::'
+      pertainym:
+      - 'tahiti%1:15:00::'
+Tai:
+  a:
+    sense:
+    - id: 'tai%3:01:00::'
+      pertainym:
+      - 'thailand%1:15:00::'
+Taiwanese:
+  a:
+    sense:
+    - id: 'taiwanese%3:01:00::'
+      pertainym:
+      - 'taiwan%1:15:00::'
+Tajikistani:
+  a:
+    sense:
+    - id: 'tajikistani%3:01:00::'
+      pertainym:
+      - 'tajikistan%1:15:00::'
+Tanzanian:
+  a:
+    sense:
+    - derivation:
+      - 'tanzania%1:15:00::'
+      id: 'tanzanian%3:01:00::'
+    - id: 'tanzanian%3:01:00::'
+      pertainym:
+      - 'tanzania%1:15:00::'
+Tasmanian:
+  a:
+    sense:
+    - derivation:
+      - 'tasmania%1:15:01::'
+      - 'tasmania%1:15:00::'
+      id: 'tasmanian%3:01:00::'
+    - id: 'tasmanian%3:01:00::'
+      pertainym:
+      - 'tasmania%1:15:01::'
+Texan:
+  a:
+    sense:
+    - derivation:
+      - 'texas%1:15:00::'
+      id: 'texan%3:01:00::'
+    - id: 'texan%3:01:00::'
+      pertainym:
+      - 'texas%1:15:00::'
+Thai:
+  a:
+    sense:
+    - id: 'thai%3:01:00::'
+      pertainym:
+      - 'thailand%1:15:00::'
+Theban:
+  a:
+    sense:
+    - id: 'theban%3:01:01::'
+      pertainym:
+      - 'thebes%1:15:01::'
+    - id: 'theban%3:01:00::'
+      pertainym:
+      - 'thebes%1:15:00::'
+Thoreauvian:
+  a:
+    sense:
+    - derivation:
+      - 'thoreau%1:18:00::'
+      id: 'thoreauvian%3:01:00::'
+    - id: 'thoreauvian%3:01:00::'
+      pertainym:
+      - 'thoreau%1:18:00::'
+Thracian:
+  a:
+    sense:
+    - id: 'thracian%3:01:00::'
+      pertainym:
+      - 'thrace%1:15:00::'
+Tibetan:
+  a:
+    sense:
+    - derivation:
+      - 'tibet%1:15:00::'
+      id: 'tibetan%3:01:00::'
+    - id: 'tibetan%3:01:00::'
+      pertainym:
+      - 'tibet%1:15:00::'
+Timorese:
+  a:
+    sense:
+    - id: 'timorese%3:01:00::'
+      pertainym:
+      - 'timor%1:15:00::'
+Tobagonian:
+  a:
+    sense:
+    - derivation:
+      - 'tobago%1:15:00::'
+      id: 'tobagonian%3:01:00::'
+    - id: 'tobagonian%3:01:00::'
+      pertainym:
+      - 'tobago%1:15:00::'
+Togolese:
+  a:
+    sense:
+    - id: 'togolese%3:01:00::'
+      pertainym:
+      - 'togo%1:15:00::'
+Tongan:
+  a:
+    sense:
+    - derivation:
+      - 'tonga%1:15:00::'
+      id: 'tongan%3:01:01::'
+    - id: 'tongan%3:01:01::'
+      pertainym:
+      - 'tonga%1:15:00::'
+Triassic:
+  a:
+    sense:
+    - id: 'triassic%3:01:00::'
+      pertainym:
+      - 'triassic%1:28:00::'
+Trinidadian:
+  a:
+    sense:
+    - derivation:
+      - 'trinidad%1:15:00::'
+      id: 'trinidadian%3:01:00::'
+    - id: 'trinidadian%3:01:00::'
+      pertainym:
+      - 'trinidad%1:15:00::'
+Trojan:
+  a:
+    sense:
+    - derivation:
+      - 'troy%1:15:00::'
+      id: 'trojan%3:01:00::'
+    - id: 'trojan%3:01:00::'
+      pertainym:
+      - 'troy%1:15:00::'
+Trotskyist:
+  n:
+    sense:
+    - derivation:
+      - 'trotsky%1:18:00::'
+      id: 'trotskyist%1:18:00::'
+Tunisian:
+  a:
+    sense:
+    - id: 'tunisian%3:01:02::'
+      pertainym:
+      - 'tunis%1:15:00::'
+    - derivation:
+      - 'tunisia%1:15:00::'
+      id: 'tunisian%3:01:01::'
+    - id: 'tunisian%3:01:01::'
+      pertainym:
+      - 'tunisia%1:15:00::'
+Turkish:
+  a:
+    sense:
+    - id: 'turkish%3:01:00::'
+      pertainym:
+      - 'turkey%1:15:00::'
+Turkmen:
+  a:
+    sense:
+    - id: 'turkmen%3:01:00::'
+      pertainym:
+      - 'turkmenistan%1:15:00::'
+Tuscan:
+  a:
+    sense:
+    - derivation:
+      - 'tuscany%1:15:00::'
+      id: 'tuscan%3:01:00::'
+    - id: 'tuscan%3:01:00::'
+      pertainym:
+      - 'tuscany%1:15:00::'
+Tyrolean:
+  a:
+    sense:
+    - derivation:
+      - 'tyrol%1:15:00::'
+      id: 'tyrolean%3:01:00::'
+    - id: 'tyrolean%3:01:00::'
+      pertainym:
+      - 'tyrol%1:15:00::'
+Tyrolese:
+  a:
+    sense:
+    - id: 'tyrolese%3:01:00::'
+      pertainym:
+      - 'tyrol%1:15:00::'
+tantalise:
+  v:
+    sense:
+    - derivation:
+      - 'tantalus%1:18:00::'
+      id: 'tantalise%2:32:00::'
+tantalize:
+  v:
+    sense:
+    - derivation:
+      - 'tantalus%1:18:00::'
+      id: 'tantalize%2:32:00::'
+terrestrial:
+  a:
+    sense:
+    - id: 'terrestrial%3:01:02::'
+      pertainym:
+      - 'earth%1:17:00::'
+translunar:
+  a:
+    sense:
+    - id: 'translunar%3:01:00::'
+      pertainym:
+      - 'moon%1:17:01::'
+translunary:
+  a:
+    sense:
+    - id: 'translunary%3:01:00::'
+      pertainym:
+      - 'moon%1:17:01::'
+tropic:
+  a:
+    sense:
+    - derivation:
+      - 'tropics%1:15:00::'
+      id: tropic%5:00:00:equatorial:00

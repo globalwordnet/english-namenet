@@ -1,0 +1,134 @@
+Iberian:
+  a:
+    sense:
+    - derivation:
+      - 'iberia%1:15:00::'
+      id: 'iberian%3:01:00::'
+    - id: 'iberian%3:01:00::'
+      pertainym:
+      - 'iberia%1:15:00::'
+Ibsenian:
+  a:
+    sense:
+    - derivation:
+      - 'ibsen%1:18:00::'
+      id: 'ibsenian%3:01:00::'
+    - id: 'ibsenian%3:01:00::'
+      pertainym:
+      - 'ibsen%1:18:00::'
+Icelander:
+  n:
+    sense:
+    - derivation:
+      - 'iceland%1:15:01::'
+      - 'iceland%1:15:00::'
+      id: 'icelander%1:18:00::'
+Icelandic:
+  a:
+    sense:
+    - id: 'icelandic%3:01:00::'
+      pertainym:
+      - 'iceland%1:15:00::'
+Incan:
+  a:
+    sense:
+    - id: 'incan%3:01:00::'
+      pertainym:
+      - 'inca%1:14:00::'
+Indian:
+  a:
+    sense:
+    - derivation:
+      - 'india%1:15:00::'
+      id: 'indian%3:01:00::'
+    - id: 'indian%3:01:00::'
+      pertainym:
+      - 'india%1:15:00::'
+Indonesian:
+  a:
+    sense:
+    - derivation:
+      - 'indonesia%1:15:00::'
+      id: 'indonesian%3:01:00::'
+    - id: 'indonesian%3:01:00::'
+      pertainym:
+      - 'indonesia%1:15:00::'
+Ionian:
+  a:
+    sense:
+    - id: 'ionian%3:01:00::'
+      pertainym:
+      - 'attica%1:15:00::'
+Ionic:
+  a:
+    sense:
+    - id: 'ionic%3:01:01::'
+      pertainym:
+      - 'ionia%1:15:00::'
+Iraki:
+  a:
+    sense:
+    - id: 'iraki%3:01:00::'
+      pertainym:
+      - 'iraq%1:15:00::'
+Iranian:
+  a:
+    sense:
+    - derivation:
+      - 'iran%1:15:00::'
+      id: 'iranian%3:01:00::'
+    - id: 'iranian%3:01:00::'
+      pertainym:
+      - 'iran%1:15:00::'
+Iraqi:
+  a:
+    sense:
+    - id: 'iraqi%3:01:00::'
+      pertainym:
+      - 'iraq%1:15:00::'
+Irelander:
+  n:
+    sense:
+    - derivation:
+      - 'ireland%1:15:01::'
+      - 'ireland%1:15:00::'
+      id: 'irelander%1:18:00::'
+Irish:
+  a:
+    sense:
+    - derivation:
+      - 'ireland%1:15:00::'
+      id: 'irish%3:01:00::'
+    - id: 'irish%3:01:00::'
+      pertainym:
+      - 'ireland%1:15:00::'
+Israeli:
+  a:
+    sense:
+    - id: 'israeli%3:01:00::'
+      pertainym:
+      - 'israel%1:15:00::'
+Italian:
+  a:
+    sense:
+    - derivation:
+      - 'italy%1:15:00::'
+      id: 'italian%3:01:00::'
+    - id: 'italian%3:01:00::'
+      pertainym:
+      - 'italy%1:15:00::'
+iridaceous:
+  a:
+    sense:
+    - derivation:
+      - 'iridaceae%1:20:00::'
+      id: 'iridaceous%3:01:00::'
+    - id: 'iridaceous%3:01:00::'
+      pertainym:
+      - 'iridaceae%1:20:00::'
+isopteran:
+  a:
+    sense:
+    - id: 'isopteran%3:01:00::'
+      pertainym:
+      - 'isoptera%1:05:00::'

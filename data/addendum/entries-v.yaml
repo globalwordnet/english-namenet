@@ -1,0 +1,73 @@
+Venetian:
+  a:
+    sense:
+    - derivation:
+      - 'venice%1:15:00::'
+      id: 'venetian%3:01:00::'
+    - id: 'venetian%3:01:00::'
+      pertainym:
+      - 'venice%1:15:00::'
+Venezuelan:
+  a:
+    sense:
+    - derivation:
+      - 'venezuela%1:15:00::'
+      id: 'venezuelan%3:01:00::'
+    - id: 'venezuelan%3:01:00::'
+      pertainym:
+      - 'venezuela%1:15:00::'
+Victorian:
+  a:
+    sense:
+    - derivation:
+      - 'victoria%1:18:00::'
+      id: 'victorian%3:01:00::'
+    - id: 'victorian%3:01:00::'
+      pertainym:
+      - 'victoria%1:18:00::'
+      - 'victorian_age%1:28:00::'
+Viennese:
+  a:
+    sense:
+    - id: 'viennese%3:01:00::'
+      pertainym:
+      - 'vienna%1:15:00::'
+Vietnamese:
+  a:
+    sense:
+    - id: 'vietnamese%3:01:00::'
+      pertainym:
+      - 'vietnam%1:15:00::'
+Voltarean:
+  a:
+    sense:
+    - derivation:
+      - 'voltaire%1:18:00::'
+      id: 'voltarean%3:01:00::'
+    - id: 'voltarean%3:01:00::'
+      pertainym:
+      - 'voltaire%1:18:00::'
+Voltarian:
+  a:
+    sense:
+    - derivation:
+      - 'voltaire%1:18:00::'
+      id: 'voltarian%3:01:00::'
+    - id: 'voltarian%3:01:00::'
+      pertainym:
+      - 'voltaire%1:18:00::'
+vestal:
+  a:
+    sense:
+    - derivation:
+      - 'vesta%1:17:00::'
+      id: 'vestal%3:01:00::'
+    - id: 'vestal%3:01:00::'
+      pertainym:
+      - 'vesta%1:18:00::'
+vibrionic:
+  a:
+    sense:
+    - id: 'vibrionic%3:01:00::'
+      pertainym:
+      - 'genus_vibrio%1:05:00::'

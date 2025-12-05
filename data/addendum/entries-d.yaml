@@ -1,0 +1,225 @@
+Dalmatian:
+  a:
+    sense:
+    - derivation:
+      - 'dalmatia%1:15:00::'
+      id: 'dalmatian%3:01:00::'
+    - id: 'dalmatian%3:01:00::'
+      pertainym:
+      - 'dalmatia%1:15:00::'
+Danish:
+  a:
+    sense:
+    - id: 'danish%3:01:00::'
+      pertainym:
+      - 'denmark%1:15:00::'
+Dantean:
+  a:
+    sense:
+    - derivation:
+      - 'dante%1:18:00::'
+      id: 'dantean%3:01:00::'
+    - id: 'dantean%3:01:00::'
+      pertainym:
+      - 'dante%1:18:00::'
+Dantesque:
+  a:
+    sense:
+    - id: 'dantesque%3:01:00::'
+      pertainym:
+      - 'dante%1:18:00::'
+Darwinian:
+  a:
+    sense:
+    - derivation:
+      - 'darwin%1:18:00::'
+      id: 'darwinian%3:01:00::'
+Delphian:
+  a:
+    sense:
+    - derivation:
+      - 'delphi%1:15:00::'
+      id: 'delphian%3:01:00::'
+    - id: 'delphian%3:01:00::'
+      pertainym:
+      - 'delphi%1:15:00::'
+Delphic:
+  a:
+    sense:
+    - id: 'delphic%3:01:00::'
+      pertainym:
+      - 'delphi%1:15:00::'
+Demosthenic:
+  a:
+    sense:
+    - derivation:
+      - 'demosthenes%1:18:00::'
+      id: 'demosthenic%3:01:00::'
+    - id: 'demosthenic%3:01:00::'
+      pertainym:
+      - 'demosthenes%1:18:00::'
+Deweyan:
+  a:
+    sense:
+    - derivation:
+      - 'dewey%1:18:00::'
+      id: 'deweyan%3:01:00::'
+    - id: 'deweyan%3:01:00::'
+      pertainym:
+      - 'dewey%1:18:00::'
+Dickensian:
+  a:
+    sense:
+    - derivation:
+      - 'dickens%1:18:00::'
+      id: 'dickensian%3:01:00::'
+    - id: 'dickensian%3:01:00::'
+      pertainym:
+      - 'dickens%1:18:00::'
+Dionysian:
+  a:
+    sense:
+    - derivation:
+      - 'dionysus%1:18:00::'
+      id: 'dionysian%3:01:00::'
+    - id: 'dionysian%3:01:00::'
+      pertainym:
+      - 'dionysus%1:18:00::'
+Dipylon:
+  a:
+    sense:
+    - derivation:
+      - 'dipylon%1:15:00::'
+      id: 'dipylon%3:01:00::'
+    - id: 'dipylon%3:01:00::'
+      pertainym:
+      - 'dipylon_gate%1:15:00::'
+Djiboutian:
+  a:
+    sense:
+    - derivation:
+      - 'djibouti%1:15:00::'
+      id: 'djiboutian%3:01:00::'
+    - id: 'djiboutian%3:01:00::'
+      pertainym:
+      - 'djibouti%1:15:00::'
+Dominican:
+  a:
+    sense:
+    - id: 'dominican%3:01:01::'
+      pertainym:
+      - 'dominican_republic%1:15:00::'
+Donnean:
+  a:
+    sense:
+    - derivation:
+      - 'donne%1:18:00::'
+      id: 'donnean%3:01:00::'
+    - id: 'donnean%3:01:00::'
+      pertainym:
+      - 'donne%1:18:00::'
+Donnian:
+  a:
+    sense:
+    - derivation:
+      - 'donne%1:18:00::'
+      id: 'donnian%3:01:00::'
+    - id: 'donnian%3:01:00::'
+      pertainym:
+      - 'donne%1:18:00::'
+Dorian:
+  a:
+    sense:
+    - id: 'dorian%3:01:00::'
+      pertainym:
+      - 'doris%1:15:00::'
+Dostoevskian:
+  a:
+    sense:
+    - derivation:
+      - 'dostoevski%1:18:00::'
+      id: 'dostoevskian%3:01:00::'
+    - id: 'dostoevskian%3:01:00::'
+      pertainym:
+      - 'dostoevski%1:18:00::'
+Dostoyevskian:
+  a:
+    sense:
+    - derivation:
+      - 'dostoyevsky%1:18:00::'
+      id: 'dostoyevskian%3:01:00::'
+    - id: 'dostoyevskian%3:01:00::'
+      pertainym:
+      - 'dostoevski%1:18:00::'
+Draconian:
+  a:
+    sense:
+    - derivation:
+      - 'draco%1:18:00::'
+      id: 'draconian%3:01:00::'
+    - id: 'draconian%3:01:00::'
+      pertainym:
+      - 'draco%1:18:00::'
+Dutch:
+  a:
+    sense:
+    - id: 'dutch%3:01:00::'
+      pertainym:
+      - 'netherlands%1:15:00::'
+damascene:
+  a:
+    sense:
+    - id: 'damascene%3:01:00::'
+      pertainym:
+      - 'damascus%1:15:00::'
+deliver:
+  v:
+    sense:
+    - agent:
+      - 'deliverer%1:18:03::'
+      id: 'deliver%2:41:03::'
+    - derivation:
+      - 'deliverer%1:18:03::'
+      id: 'deliver%2:41:03::'
+devilize:
+  v:
+    sense:
+    - derivation:
+      - 'devil%1:18:02::'
+      id: 'devilize%2:30:00::'
+dictyopteran:
+  a:
+    sense:
+    - id: 'dictyopteran%3:01:00::'
+      pertainym:
+      - 'dictyoptera%1:05:00::'
+die:
+  v:
+    sense:
+    - derivation:
+      - 'death%1:18:00::'
+      id: 'die%2:30:00::'
+    - derivation:
+      - 'death%1:18:00::'
+      id: 'die%2:39:00::'
+dipterous:
+  a:
+    sense:
+    - derivation:
+      - 'diptera%1:05:00::'
+      id: 'dipterous%3:01:00::'
+    - id: 'dipterous%3:01:00::'
+      pertainym:
+      - 'diptera%1:05:00::'
+discomycetous:
+  a:
+    sense:
+    - derivation:
+      - 'discomycetes%1:20:00::'
+      id: 'discomycetous%3:01:00::'
+dominical:
+  a:
+    sense:
+    - id: 'dominical%3:01:01::'
+      pertainym:
+      - 'jesus%1:18:00::'

@@ -1,0 +1,48 @@
+Zairean:
+  a:
+    sense:
+    - derivation:
+      - 'zaire%1:15:00::'
+      id: 'zairean%3:01:00::'
+    - id: 'zairean%3:01:00::'
+      pertainym:
+      - 'zaire%1:15:00::'
+Zairese:
+  a:
+    sense:
+    - id: 'zairese%3:01:00::'
+      pertainym:
+      - 'zaire%1:15:00::'
+Zambian:
+  a:
+    sense:
+    - derivation:
+      - 'zambia%1:15:00::'
+      id: 'zambian%3:01:00::'
+    - id: 'zambian%3:01:00::'
+      pertainym:
+      - 'zambia%1:15:00::'
+Zimbabwean:
+  a:
+    sense:
+    - derivation:
+      - 'zimbabwe%1:15:00::'
+      id: 'zimbabwean%3:01:00::'
+    - id: 'zimbabwean%3:01:00::'
+      pertainym:
+      - 'zimbabwe%1:15:00::'
+Zolaesque:
+  a:
+    sense:
+    - id: 'zolaesque%3:01:00::'
+      pertainym:
+      - 'zola%1:18:00::'
+Zoroastrian:
+  a:
+    sense:
+    - derivation:
+      - 'zoroaster%1:18:00::'
+      id: 'zoroastrian%3:01:00::'
+    - id: 'zoroastrian%3:01:00::'
+      pertainym:
+      - 'zoroaster%1:18:00::'

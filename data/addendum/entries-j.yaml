@@ -1,0 +1,112 @@
+Jacksonian:
+  a:
+    sense:
+    - derivation:
+      - 'jackson%1:18:00::'
+      id: 'jacksonian%3:01:00::'
+    - id: 'jacksonian%3:01:00::'
+      pertainym:
+      - 'andrew_jackson%1:18:00::'
+Jacobean:
+  a:
+    sense:
+    - id: 'jacobean%3:01:00::'
+      pertainym:
+      - 'james_i%1:18:00::'
+Jamaican:
+  a:
+    sense:
+    - derivation:
+      - 'jamaica%1:15:01::'
+      - 'jamaica%1:15:00::'
+      id: 'jamaican%3:01:00::'
+    - id: 'jamaican%3:01:00::'
+      pertainym:
+      - 'jamaica%1:15:00::'
+Jamesian:
+  a:
+    sense:
+    - id: 'jamesian%3:01:01::'
+      pertainym:
+      - 'james%1:18:02::'
+    - id: 'jamesian%3:01:00::'
+      pertainym:
+      - 'james%1:18:01::'
+Japanese:
+  a:
+    sense:
+    - id: 'japanese%3:01:00::'
+      pertainym:
+      - 'japan%1:15:00::'
+Javan:
+  a:
+    sense:
+    - derivation:
+      - 'java%1:15:00::'
+      id: 'javan%3:01:00::'
+    - id: 'javan%3:01:00::'
+      pertainym:
+      - 'java%1:15:00::'
+Javanese:
+  a:
+    sense:
+    - id: 'javanese%3:01:00::'
+      pertainym:
+      - 'java%1:15:00::'
+Jeffersonian:
+  a:
+    sense:
+    - derivation:
+      - 'jefferson%1:18:00::'
+      id: 'jeffersonian%3:01:00::'
+    - id: 'jeffersonian%3:01:00::'
+      pertainym:
+      - 'jefferson%1:18:00::'
+Jordanian:
+  a:
+    sense:
+    - derivation:
+      - 'jordan%1:15:00::'
+      id: 'jordanian%3:01:00::'
+    - id: 'jordanian%3:01:00::'
+      pertainym:
+      - 'jordan%1:15:00::'
+Jovian:
+  a:
+    sense:
+    - derivation:
+      - 'jupiter%1:17:00::'
+      id: 'jovian%3:01:02::'
+    - id: 'jovian%3:01:02::'
+      pertainym:
+      - 'jupiter%1:17:00::'
+    - derivation:
+      - 'jupiter%1:18:00::'
+      id: 'jovian%3:01:01::'
+    - id: 'jovian%3:01:01::'
+      pertainym:
+      - 'jupiter%1:18:00::'
+Julian:
+  a:
+    sense:
+    - derivation:
+      - 'julius_caesar%1:18:00::'
+      id: 'julian%3:01:00::'
+    - id: 'julian%3:01:00::'
+      pertainym:
+      - 'julius_caesar%1:18:00::'
+Jungian:
+  a:
+    sense:
+    - derivation:
+      - 'jung%1:18:00::'
+      id: 'jungian%3:01:00::'
+    - id: 'jungian%3:01:00::'
+      pertainym:
+      - 'jung%1:18:00::'
+Jurassic:
+  a:
+    sense:
+    - id: 'jurassic%3:01:00::'
+      pertainym:
+      - 'jurassic%1:28:00::'

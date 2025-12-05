@@ -1,0 +1,286 @@
+Gabonese:
+  a:
+    sense:
+    - id: 'gabonese%3:01:00::'
+      pertainym:
+      - 'gabon%1:15:00::'
+Galilaean:
+  a:
+    sense:
+    - derivation:
+      - 'galilee%1:15:00::'
+      id: 'galilaean%3:01:00::'
+    - id: 'galilaean%3:01:00::'
+      pertainym:
+      - 'galilee%1:15:00::'
+Galilean:
+  a:
+    sense:
+    - derivation:
+      - 'galileo%1:18:00::'
+      - 'galilee%1:15:00::'
+      id: 'galilean%3:01:01::'
+    - id: 'galilean%3:01:01::'
+      pertainym:
+      - 'galileo%1:18:00::'
+    - derivation:
+      - 'galilee%1:15:00::'
+      id: 'galilean%3:01:00::'
+    - id: 'galilean%3:01:00::'
+      pertainym:
+      - 'galilee%1:15:00::'
+Gallic:
+  a:
+    sense:
+    - id: 'gallic%3:01:00::'
+      pertainym:
+      - 'gaul%1:15:00::'
+    - id: 'gallic%3:01:01::'
+      pertainym:
+      - 'france%1:15:00::'
+Galwegian:
+  a:
+    sense:
+    - derivation:
+      - 'galloway%1:15:00::'
+      id: 'galwegian%3:01:00::'
+    - id: 'galwegian%3:01:00::'
+      pertainym:
+      - 'galloway%1:15:00::'
+Gambian:
+  a:
+    sense:
+    - derivation:
+      - 'gambia%1:15:00::'
+      id: 'gambian%3:01:00::'
+    - id: 'gambian%3:01:00::'
+      pertainym:
+      - 'gambia%1:15:00::'
+Gandhian:
+  a:
+    sense:
+    - derivation:
+      - 'gandhi%1:18:00::'
+      id: 'gandhian%3:01:00::'
+    - id: 'gandhian%3:01:00::'
+      pertainym:
+      - 'gandhi%1:18:00::'
+Gauguinesque:
+  a:
+    sense:
+    - id: 'gauguinesque%3:01:00::'
+      pertainym:
+      - 'gauguin%1:18:00::'
+Gaussian:
+  a:
+    sense:
+    - derivation:
+      - 'gauss%1:18:00::'
+      id: 'gaussian%3:01:00::'
+    - id: 'gaussian%3:01:00::'
+      pertainym:
+      - 'gauss%1:18:00::'
+Genoese:
+  a:
+    sense:
+    - id: 'genoese%3:01:00::'
+      pertainym:
+      - 'genoa%1:15:00::'
+Genovese:
+  a:
+    sense:
+    - id: 'genovese%3:01:00::'
+      pertainym:
+      - 'genoa%1:15:00::'
+Georgian:
+  a:
+    sense:
+    - id: 'georgian%3:01:06::'
+      pertainym:
+      - 'georgia%1:15:02::'
+    - derivation:
+      - 'georgia%1:15:01::'
+      id: 'georgian%3:01:05::'
+    - id: 'georgian%3:01:05::'
+      pertainym:
+      - 'georgia%1:15:01::'
+    - derivation:
+      - 'georgia%1:15:00::'
+      id: 'georgian%3:01:04::'
+    - id: 'georgian%3:01:04::'
+      pertainym:
+      - 'georgia%1:15:00::'
+    - derivation:
+      - 'george%1:18:04::'
+      - 'george%1:18:03::'
+      - 'george%1:18:02::'
+      - 'george%1:18:01::'
+      id: 'georgian%3:01:00::'
+    - id: 'georgian%3:01:00::'
+      pertainym:
+      - 'george%1:18:00::'
+German:
+  a:
+    sense:
+    - id: 'german%3:01:00::'
+      pertainym:
+      - 'germany%1:15:00::'
+Ghanaian:
+  a:
+    sense:
+    - derivation:
+      - 'ghana%1:15:00::'
+      id: 'ghanaian%3:01:00::'
+    - id: 'ghanaian%3:01:00::'
+      pertainym:
+      - 'ghana%1:15:00::'
+Ghanese:
+  a:
+    sense:
+    - id: 'ghanese%3:01:00::'
+      pertainym:
+      - 'ghana%1:15:00::'
+Ghanian:
+  a:
+    sense:
+    - derivation:
+      - 'ghana%1:15:00::'
+      id: 'ghanian%3:01:00::'
+    - id: 'ghanian%3:01:00::'
+      pertainym:
+      - 'ghana%1:15:00::'
+Gibraltarian:
+  a:
+    sense:
+    - derivation:
+      - 'gibraltar%1:15:00::'
+      id: 'gibraltarian%3:01:00::'
+    - id: 'gibraltarian%3:01:00::'
+      pertainym:
+      - 'gibraltar%1:15:00::'
+Gilbertian:
+  a:
+    sense:
+    - derivation:
+      - 'gilbert%1:18:03::'
+      id: 'gilbertian%3:01:00::'
+    - id: 'gilbertian%3:01:00::'
+      pertainym:
+      - 'gilbert%1:18:00::'
+Glaswegian:
+  a:
+    sense:
+    - derivation:
+      - 'glasgow%1:15:00::'
+      id: 'glaswegian%3:01:00::'
+    - id: 'glaswegian%3:01:00::'
+      pertainym:
+      - 'glasgow%1:15:00::'
+Goethean:
+  a:
+    sense:
+    - derivation:
+      - 'goethe%1:18:00::'
+      id: 'goethean%3:01:00::'
+    - id: 'goethean%3:01:00::'
+      pertainym:
+      - 'goethe%1:18:00::'
+Goethian:
+  a:
+    sense:
+    - derivation:
+      - 'goethe%1:18:00::'
+      id: 'goethian%3:01:00::'
+    - id: 'goethian%3:01:00::'
+      pertainym:
+      - 'goethe%1:18:00::'
+Grecian:
+  a:
+    sense:
+    - id: 'grecian%3:01:00::'
+      pertainym:
+      - 'greece%1:15:00::'
+Greek:
+  a:
+    sense:
+    - id: 'greek%3:01:01::'
+      pertainym:
+      - 'greece%1:15:00::'
+Gregorian:
+  a:
+    sense:
+    - derivation:
+      - 'gregory%1:18:00::'
+      id: 'gregorian%3:01:01::'
+    - id: 'gregorian%3:01:01::'
+      pertainym:
+      - 'gregory_i%1:18:00::'
+    - derivation:
+      - 'gregory%1:18:03::'
+      id: 'gregorian%3:01:02::'
+    - id: 'gregorian%3:01:02::'
+      pertainym:
+      - 'gregory_xiii%1:18:00::'
+Grenadian:
+  a:
+    sense:
+    - derivation:
+      - 'grenada%1:15:00::'
+      id: 'grenadian%3:01:00::'
+    - id: 'grenadian%3:01:00::'
+      pertainym:
+      - 'grenada%1:15:00::'
+Guatemalan:
+  a:
+    sense:
+    - derivation:
+      - 'guatemala%1:15:00::'
+      id: 'guatemalan%3:01:00::'
+    - id: 'guatemalan%3:01:00::'
+      pertainym:
+      - 'guatemala%1:15:00::'
+Guinean:
+  a:
+    sense:
+    - derivation:
+      - 'guinea%1:15:00::'
+      id: 'guinean%3:01:00::'
+    - id: 'guinean%3:01:00::'
+      pertainym:
+      - 'guinea%1:15:00::'
+Guyanese:
+  a:
+    sense:
+    - id: 'guyanese%3:01:00::'
+      pertainym:
+      - 'guyana%1:15:00::'
+gargantuan:
+  a:
+    sense:
+    - derivation:
+      - 'gargantua%1:18:00::'
+      id: gargantuan%5:00:00:large:00
+global:
+  a:
+    sense:
+    - derivation:
+      - 'globe%1:17:00::'
+      id: global%5:00:00:international:00
+godly:
+  a:
+    sense:
+    - derivation:
+      - 'god%1:18:00::'
+      id: godly%5:00:00:heavenly:00
+google:
+  v:
+    sense:
+    - derivation:
+      - 'google%1:10:00::'
+      id: 'google%2:31:00::'
+gymnospermous:
+  a:
+    sense:
+    - id: 'gymnospermous%3:01:00::'
+      pertainym:
+      - 'gymnospermae%1:20:00::'

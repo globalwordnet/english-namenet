@@ -10,9 +10,7 @@ if [ ! -f "properties.csv" ]; then
     cargo run --release -- -l en
 fi
 
-# Load into SQLite
-if [ ! -f "../wikidata.db" ]; then
-    sqlite3 ../wikidata.db << END_SCRIPT
+sqlite3 ../wikidata.db << END_SCRIPT
 .import properties.csv properties --csv
 create index properties_index on properties(qid);
 .import data_properties.csv data_properties --csv
@@ -25,4 +23,5 @@ create index descriptions_en_index on descriptions_en(qid);
 create index wiki_en_index on wiki_en(qid);
 create index wiki_en_wiki on wiki_en(wiki);
 END_SCRIPT
-fi
+
+#rm *.csv

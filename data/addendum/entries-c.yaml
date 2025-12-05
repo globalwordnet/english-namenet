@@ -1,0 +1,652 @@
+Caesarean:
+  a:
+    sense:
+    - derivation:
+      - 'caesar%1:18:00::'
+      id: 'caesarean%3:01:01::'
+    - id: 'caesarean%3:01:01::'
+      pertainym:
+      - 'caesar%1:18:00::'
+Caesarian:
+  a:
+    sense:
+    - derivation:
+      - 'caesar%1:18:00::'
+      id: 'caesarian%3:01:01::'
+    - id: 'caesarian%3:01:01::'
+      pertainym:
+      - 'caesar%1:18:00::'
+Calcuttan:
+  a:
+    sense:
+    - derivation:
+      - 'calcutta%1:15:00::'
+      id: 'calcuttan%3:01:00::'
+    - id: 'calcuttan%3:01:00::'
+      pertainym:
+      - 'calcutta%1:15:00::'
+Californian:
+  a:
+    sense:
+    - derivation:
+      - 'california%1:15:00::'
+      id: 'californian%3:01:00::'
+    - id: 'californian%3:01:00::'
+      pertainym:
+      - 'california%1:15:00::'
+Cambodian:
+  a:
+    sense:
+    - derivation:
+      - 'cambodia%1:15:00::'
+      id: 'cambodian%3:01:00::'
+    - id: 'cambodian%3:01:00::'
+      pertainym:
+      - 'cambodia%1:15:00::'
+Cambrian:
+  a:
+    sense:
+    - derivation:
+      - 'cambria%1:15:00::'
+      id: 'cambrian%3:01:00::'
+    - id: 'cambrian%3:01:00::'
+      pertainym:
+      - 'cambria%1:15:00::'
+Cameroonian:
+  a:
+    sense:
+    - derivation:
+      - 'cameroon%1:15:00::'
+      id: 'cameroonian%3:01:00::'
+    - id: 'cameroonian%3:01:00::'
+      pertainym:
+      - 'cameroon%1:15:00::'
+Canadian:
+  a:
+    sense:
+    - derivation:
+      - 'canada%1:15:00::'
+      id: 'canadian%3:01:00::'
+    - id: 'canadian%3:01:00::'
+      pertainym:
+      - 'canada%1:15:00::'
+Cantabrigian:
+  a:
+    sense:
+    - id: 'cantabrigian%3:01:01::'
+      pertainym:
+      - 'cambridge%1:06:00::'
+      - 'cambridge%1:15:00::'
+Capetian:
+  a:
+    sense:
+    - derivation:
+      - 'capet%1:18:00::'
+      id: 'capetian%3:01:00::'
+Cappadocian:
+  a:
+    sense:
+    - derivation:
+      - 'cappadocia%1:15:00::'
+      id: 'cappadocian%3:01:00::'
+    - id: 'cappadocian%3:01:00::'
+      pertainym:
+      - 'cappadocia%1:15:00::'
+Carolean:
+  a:
+    sense:
+    - derivation:
+      - 'charles%1:18:04::'
+      - 'charles%1:18:03::'
+      id: 'carolean%3:01:00::'
+    - id: 'carolean%3:01:00::'
+      pertainym:
+      - 'charles_i%1:18:00::'
+      - 'charles_ii%1:18:00::'
+Caroline:
+  a:
+    sense:
+    - id: 'caroline%3:01:00::'
+      pertainym:
+      - 'charles_i%1:18:00::'
+      - 'charles_ii%1:18:00::'
+      - 'charlemagne%1:18:00::'
+Carolingian:
+  a:
+    sense:
+    - derivation:
+      - 'charles%1:18:02::'
+      id: 'carolingian%3:01:00::'
+Cartesian:
+  a:
+    sense:
+    - derivation:
+      - 'descartes%1:18:00::'
+      id: 'cartesian%3:01:00::'
+    - id: 'cartesian%3:01:00::'
+      pertainym:
+      - 'descartes%1:18:00::'
+Carthaginian:
+  a:
+    sense:
+    - derivation:
+      - 'carthage%1:15:00::'
+      id: 'carthaginian%3:01:00::'
+    - id: 'carthaginian%3:01:00::'
+      pertainym:
+      - 'carthage%1:15:00::'
+Catalan:
+  a:
+    sense:
+    - derivation:
+      - 'catalonia%1:15:00::'
+      id: 'catalan%3:01:01::'
+    - id: 'catalan%3:01:01::'
+      pertainym:
+      - 'catalonia%1:15:00::'
+    - derivation:
+      - 'catalonia%1:15:00::'
+      id: 'catalan%3:01:00::'
+Caucasian:
+  a:
+    sense:
+    - derivation:
+      - 'caucasia%1:15:00::'
+      id: 'caucasian%3:01:00::'
+    - id: 'caucasian%3:01:00::'
+      pertainym:
+      - 'caucasus%1:15:00::'
+Caucasic:
+  a:
+    sense:
+    - derivation:
+      - 'caucasus%1:17:00::'
+      - 'caucasus%1:15:00::'
+      id: 'caucasic%3:01:00::'
+    - id: 'caucasic%3:01:00::'
+      pertainym:
+      - 'caucasus%1:15:00::'
+Cenozoic:
+  a:
+    sense:
+    - id: 'cenozoic%3:01:00::'
+      pertainym:
+      - 'cenozoic%1:28:00::'
+Central American:
+  a:
+    sense:
+    - id: 'central_american%3:01:00::'
+      pertainym:
+      - 'central_america%1:15:00::'
+Ceylonese:
+  a:
+    sense:
+    - id: 'ceylonese%3:01:00::'
+      pertainym:
+      - 'ceylon%1:15:00::'
+Chadian:
+  a:
+    sense:
+    - derivation:
+      - 'chad%1:15:00::'
+      id: 'chadian%3:01:00::'
+    - id: 'chadian%3:01:00::'
+      pertainym:
+      - 'chad%1:15:00::'
+Chaldaean:
+  a:
+    sense:
+    - derivation:
+      - 'chaldea%1:15:01::'
+      - 'chaldea%1:15:00::'
+      id: 'chaldaean%3:01:00::'
+    - id: 'chaldaean%3:01:00::'
+      pertainym:
+      - 'chaldea%1:15:00::'
+Chaldean:
+  a:
+    sense:
+    - derivation:
+      - 'chaldea%1:15:01::'
+      - 'chaldea%1:15:00::'
+      id: 'chaldean%3:01:00::'
+    - id: 'chaldean%3:01:00::'
+      pertainym:
+      - 'chaldea%1:15:00::'
+Chaldee:
+  a:
+    sense:
+    - id: 'chaldee%3:01:00::'
+      pertainym:
+      - 'chaldea%1:15:00::'
+Chechen:
+  a:
+    sense:
+    - id: 'chechen%3:01:00::'
+      pertainym:
+      - 'chechnya%1:15:00::'
+Chian:
+  a:
+    sense:
+    - derivation:
+      - 'chios%1:15:00::'
+      id: 'chian%3:01:00::'
+    - id: 'chian%3:01:00::'
+      pertainym:
+      - 'chios%1:15:00::'
+Chilean:
+  a:
+    sense:
+    - derivation:
+      - 'chile%1:15:00::'
+      id: 'chilean%3:01:00::'
+    - id: 'chilean%3:01:00::'
+      pertainym:
+      - 'chile%1:15:00::'
+Chinese:
+  a:
+    sense:
+    - id: 'chinese%3:01:00::'
+      pertainym:
+      - 'china%1:15:01::'
+Chippendale:
+  a:
+    sense:
+    - id: 'chippendale%3:01:00::'
+      pertainym:
+      - 'chippendale%1:18:00::'
+Christian:
+  a:
+    sense:
+    - derivation:
+      - 'christ%1:18:00::'
+      id: 'christian%3:01:00::'
+Churchillian:
+  a:
+    sense:
+    - derivation:
+      - 'churchill%1:18:00::'
+      id: 'churchillian%3:01:00::'
+    - id: 'churchillian%3:01:00::'
+      pertainym:
+      - 'churchill%1:18:00::'
+Coleridgean:
+  a:
+    sense:
+    - derivation:
+      - 'coleridge%1:18:00::'
+      id: 'coleridgean%3:01:00::'
+    - id: 'coleridgean%3:01:00::'
+      pertainym:
+      - 'coleridge%1:18:00::'
+Coleridgian:
+  a:
+    sense:
+    - derivation:
+      - 'coleridge%1:18:00::'
+      id: 'coleridgian%3:01:00::'
+    - id: 'coleridgian%3:01:00::'
+      pertainym:
+      - 'coleridge%1:18:00::'
+Colombian:
+  a:
+    sense:
+    - derivation:
+      - 'colombia%1:15:00::'
+      id: 'colombian%3:01:00::'
+    - id: 'colombian%3:01:00::'
+      pertainym:
+      - 'colombia%1:15:00::'
+Columbian:
+  a:
+    sense:
+    - derivation:
+      - 'columbus%1:18:00::'
+      id: 'columbian%3:01:00::'
+    - id: 'columbian%3:01:00::'
+      pertainym:
+      - 'columbus%1:18:00::'
+Confucian:
+  a:
+    sense:
+    - derivation:
+      - 'confucius%1:18:00::'
+      id: 'confucian%3:01:00::'
+Congolese:
+  a:
+    sense:
+    - id: 'congolese%3:01:00::'
+      pertainym:
+      - 'congo%1:15:00::'
+Continental:
+  a:
+    sense:
+    - derivation:
+      - 'continent%1:15:00::'
+      id: 'continental%3:01:01::'
+    - id: 'continental%3:01:01::'
+      pertainym:
+      - 'continent%1:15:00::'
+Cornish:
+  a:
+    sense:
+    - id: 'cornish%3:01:00::'
+      pertainym:
+      - 'cornwall%1:15:00::'
+Corsican:
+  a:
+    sense:
+    - derivation:
+      - 'corsica%1:15:01::'
+      - 'corsica%1:15:00::'
+      id: 'corsican%3:01:00::'
+    - id: 'corsican%3:01:00::'
+      pertainym:
+      - 'corsica%1:15:00::'
+Costa Rican:
+  a:
+    sense:
+    - derivation:
+      - 'costa_rica%1:15:00::'
+      id: 'costa_rican%3:01:00::'
+    - id: 'costa_rican%3:01:00::'
+      pertainym:
+      - 'costa_rica%1:15:00::'
+Cretaceous:
+  a:
+    sense:
+    - derivation:
+      - 'cretaceous%1:28:00::'
+      id: 'cretaceous%3:01:00::'
+    - id: 'cretaceous%3:01:00::'
+      pertainym:
+      - 'cretaceous%1:28:00::'
+Croatian:
+  a:
+    sense:
+    - derivation:
+      - 'croatia%1:15:00::'
+      id: 'croatian%3:01:00::'
+    - id: 'croatian%3:01:00::'
+      pertainym:
+      - 'croatia%1:15:00::'
+Cromwellian:
+  a:
+    sense:
+    - derivation:
+      - 'cromwell%1:18:00::'
+      id: 'cromwellian%3:01:00::'
+    - id: 'cromwellian%3:01:00::'
+      pertainym:
+      - 'cromwell%1:18:00::'
+Cuban:
+  a:
+    sense:
+    - derivation:
+      - 'cuba%1:15:01::'
+      - 'cuba%1:15:00::'
+      id: 'cuban%3:01:00::'
+    - id: 'cuban%3:01:00::'
+      pertainym:
+      - 'cuba%1:15:00::'
+Cyprian:
+  a:
+    sense:
+    - derivation:
+      - 'cyprus%1:15:00::'
+      id: 'cyprian%3:01:00::'
+    - id: 'cyprian%3:01:00::'
+      pertainym:
+      - 'cyprus%1:15:01::'
+Cypriot:
+  a:
+    sense:
+    - id: 'cypriot%3:01:00::'
+      pertainym:
+      - 'cyprus%1:15:01::'
+Cypriote:
+  a:
+    sense:
+    - id: 'cypriote%3:01:00::'
+      pertainym:
+      - 'cyprus%1:15:01::'
+Czech:
+  a:
+    sense:
+    - id: 'czech%3:01:00::'
+      pertainym:
+      - 'czechoslovakia%1:15:00::'
+Czechoslovakian:
+  a:
+    sense:
+    - derivation:
+      - 'czechoslovakia%1:15:00::'
+      id: 'czechoslovakian%3:01:00::'
+    - id: 'czechoslovakian%3:01:00::'
+      pertainym:
+      - 'czechoslovakia%1:15:00::'
+caecilian:
+  a:
+    sense:
+    - derivation:
+      - 'caeciliidae%1:05:00::'
+      id: 'caecilian%3:01:00::'
+    - id: 'caecilian%3:01:00::'
+      pertainym:
+      - 'family_caeciliidae%1:05:00::'
+canicular:
+  a:
+    sense:
+    - derivation:
+      - 'canicula%1:17:00::'
+      id: 'canicular%3:01:00::'
+    - id: 'canicular%3:01:00::'
+      pertainym:
+      - 'canicula%1:17:00::'
+canine:
+  a:
+    sense:
+    - id: 'canine%3:01:00::'
+      pertainym:
+      - 'canidae%1:05:00::'
+cantonal:
+  a:
+    sense:
+    - id: 'cantonal%3:01:00::'
+      pertainym:
+      - 'canton%1:15:00::'
+carangid:
+  a:
+    sense:
+    - id: 'carangid%3:01:00::'
+      pertainym:
+      - 'carangidae%1:05:00::'
+carboniferous:
+  a:
+    sense:
+    - derivation:
+      - 'carboniferous%1:28:00::'
+      id: 'carboniferous%3:01:02::'
+    - id: 'carboniferous%3:01:02::'
+      pertainym:
+      - 'carboniferous%1:28:00::'
+caryophyllaceous:
+  a:
+    sense:
+    - derivation:
+      - 'caryophyllaceae%1:20:00::'
+      id: 'caryophyllaceous%3:01:00::'
+    - id: 'caryophyllaceous%3:01:00::'
+      pertainym:
+      - 'caryophyllaceae%1:20:00::'
+cephalopod:
+  a:
+    sense:
+    - id: 'cephalopod%3:01:00::'
+      pertainym:
+      - 'cephalopoda%1:05:00::'
+cephalopodan:
+  a:
+    sense:
+    - id: 'cephalopodan%3:01:00::'
+      pertainym:
+      - 'cephalopoda%1:05:00::'
+cetacean:
+  a:
+    sense:
+    - derivation:
+      - 'cetacea%1:05:00::'
+      id: 'cetacean%3:01:00::'
+    - id: 'cetacean%3:01:00::'
+      pertainym:
+      - 'cetacea%1:05:00::'
+cetaceous:
+  a:
+    sense:
+    - derivation:
+      - 'cetacea%1:05:00::'
+      id: 'cetaceous%3:01:00::'
+    - id: 'cetaceous%3:01:00::'
+      pertainym:
+      - 'cetacea%1:05:00::'
+chaetognathan:
+  a:
+    sense:
+    - derivation:
+      - 'chaetognatha%1:05:00::'
+      id: 'chaetognathan%3:01:00::'
+    - id: 'chaetognathan%3:01:00::'
+      pertainym:
+      - 'chaetognatha%1:05:00::'
+chaetognathous:
+  a:
+    sense:
+    - derivation:
+      - 'chaetognatha%1:05:00::'
+      id: 'chaetognathous%3:01:00::'
+    - id: 'chaetognathous%3:01:00::'
+      pertainym:
+      - 'chaetognatha%1:05:00::'
+chelonian:
+  a:
+    sense:
+    - derivation:
+      - 'chelonia%1:05:01::'
+      id: 'chelonian%3:01:00::'
+    - id: 'chelonian%3:01:00::'
+      pertainym:
+      - 'chelonia%1:05:01::'
+chordate:
+  a:
+    sense:
+    - id: 'chordate%3:01:00::'
+      pertainym:
+      - 'chordata%1:05:00::'
+christian:
+  a:
+    sense:
+    - derivation:
+      - 'christ%1:18:00::'
+      id: 'christian%3:00:00::'
+christly:
+  a:
+    sense:
+    - derivation:
+      - 'christ%1:18:00::'
+      id: christly%5:00:00:christian:00
+cislunar:
+  a:
+    sense:
+    - id: 'cislunar%3:01:00::'
+      pertainym:
+      - 'moon%1:17:01::'
+clamatorial:
+  a:
+    sense:
+    - derivation:
+      - 'clamatores%1:05:00::'
+      id: 'clamatorial%3:01:00::'
+    - id: 'clamatorial%3:01:00::'
+      pertainym:
+      - 'clamatores%1:05:00::'
+composite:
+  a:
+    sense:
+    - id: 'composite%3:01:00::'
+      pertainym:
+      - 'family_compositae%1:20:00::'
+corinthian:
+  a:
+    sense:
+    - derivation:
+      - 'corinth%1:15:00::'
+      id: 'corinthian%3:01:00::'
+    - id: 'corinthian%3:01:00::'
+      pertainym:
+      - 'corinth%1:15:00::'
+create:
+  v:
+    sense:
+    - derivation:
+      - 'creation%1:04:02::'
+      id: 'create%2:36:02::'
+    - event:
+      - 'creation%1:04:02::'
+      id: 'create%2:36:02::'
+crinoid:
+  a:
+    sense:
+    - id: 'crinoid%3:01:00::'
+      pertainym:
+      - 'crinoidea%1:05:00::'
+cruciferous:
+  a:
+    sense:
+    - derivation:
+      - 'cruciferae%1:20:00::'
+      id: 'cruciferous%3:01:00::'
+    - id: 'cruciferous%3:01:00::'
+      pertainym:
+      - 'cruciferae%1:20:00::'
+crustacean:
+  a:
+    sense:
+    - id: 'crustacean%3:01:00::'
+      pertainym:
+      - 'crustacea%1:05:00::'
+crustaceous:
+  a:
+    sense:
+    - derivation:
+      - 'crustacea%1:05:00::'
+      id: 'crustaceous%3:01:01::'
+    - id: 'crustaceous%3:01:01::'
+      pertainym:
+      - 'crustacea%1:05:00::'
+cucurbitaceous:
+  a:
+    sense:
+    - derivation:
+      - 'cucurbitaceae%1:20:00::'
+      id: 'cucurbitaceous%3:01:00::'
+    - id: 'cucurbitaceous%3:01:00::'
+      pertainym:
+      - 'cucurbitaceae%1:20:00::'
+cyanobacterial:
+  a:
+    sense:
+    - id: 'cyanobacterial%3:01:00::'
+      pertainym:
+      - 'cyanophyceae%1:05:00::'
+cyprinid:
+  a:
+    sense:
+    - id: 'cyprinid%3:01:00::'
+      pertainym:
+      - 'cyprinidae%1:05:00::'
+cyprinoid:
+  a:
+    sense:
+    - id: 'cyprinoid%3:01:00::'
+      pertainym:
+      - 'cyprinidae%1:05:00::'
