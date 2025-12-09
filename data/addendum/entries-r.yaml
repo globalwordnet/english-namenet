@@ -1,3 +1,13 @@
+RAF:
+  n:
+    sense:
+    - id: 'raf%1:14:01::'
+      synset: 08057858-n
+Ra:
+  n:
+    sense:
+    - id: 'ra%1:18:00::'
+      synset: 09536351-n
 Rabelaisian:
   a:
     sense:
@@ -7,12 +17,54 @@ Rabelaisian:
     - id: 'rabelaisian%3:01:00::'
       pertainym:
       - 'rabelais%1:18:00::'
+Ram:
+  n:
+    sense:
+    - id: 'ram%1:15:00::'
+      synset: 08703867-n
+Raphael:
+  n:
+    sense:
+    - id: 'raphael%1:18:00::'
+      synset: 11274018-n
+Re:
+  n-2:
+    sense:
+    - id: 're%1:18:00::'
+      synset: 09536351-n
+Reich:
+  n:
+    sense:
+    - id: 'reich%1:18:01::'
+      synset: 11277149-n
+    - id: 'reich%1:18:00::'
+      synset: 11277021-n
 Rembrandtesque:
   a:
     sense:
     - id: 'rembrandtesque%3:01:00::'
       pertainym:
       - 'rembrandt%1:18:00::'
+Renaissance:
+  n:
+    sense:
+    - id: 'renaissance%1:28:00::'
+      synset: 15284623-n
+Renascence:
+  n:
+    sense:
+    - id: 'renascence%1:28:00::'
+      synset: 15284623-n
+Republican:
+  n:
+    sense:
+    - id: 'republican%1:17:00::'
+      synset: 09430510-n
+Reuben:
+  n:
+    sense:
+    - id: 'reuben%1:18:00::'
+      synset: 11278343-n
 Rhenish:
   a:
     sense:
@@ -37,12 +89,37 @@ Riemannian:
     - id: 'riemannian%3:01:00::'
       pertainym:
       - 'riemann%1:18:00::'
+Rip van Winkle:
+  n:
+    sense:
+    - id: 'rip_van_winkle%1:18:02::'
+      synset: 09626645-n
+Ritz:
+  n:
+    sense:
+    - id: 'ritz%1:18:00::'
+      synset: 11283548-n
+Rob Roy:
+  n:
+    sense:
+    - id: 'rob_roy%1:18:00::'
+      synset: 11167338-n
+Roma:
+  n:
+    sense:
+    - id: 'roma%1:15:00::'
+      synset: 08824749-n
 Roman:
   a:
     sense:
     - id: 'roman%3:01:01::'
       pertainym:
       - 'rome%1:15:00::'
+Roman wormwood:
+  n:
+    sense:
+    - id: 'roman_wormwood%1:20:01::'
+      synset: 11924946-n
 Romanian:
   a:
     sense:
@@ -52,6 +129,11 @@ Romanian:
     - id: 'romanian%3:01:00::'
       pertainym:
       - 'romania%1:15:00::'
+Rome:
+  n:
+    sense:
+    - id: 'rome%1:15:00::'
+      synset: 08824749-n
 Rooseveltian:
   a:
     sense:
@@ -85,6 +167,11 @@ Ruandan:
     - id: 'ruandan%3:01:00::'
       pertainym:
       - 'rwanda%1:15:00::'
+Rubicon:
+  n:
+    sense:
+    - id: 'rubicon%1:15:00::'
+      synset: 08662127-n
 Rumanian:
   a:
     sense:
@@ -94,6 +181,11 @@ Rumanian:
     - id: 'rumanian%3:01:00::'
       pertainym:
       - 'romania%1:15:00::'
+Ruritanian:
+  n:
+    sense:
+    - id: 'ruritanian%1:18:00::'
+      synset: 09626841-n
 Russian:
   a:
     sense:

@@ -1,3 +1,18 @@
+GA:
+  n:
+    sense:
+    - id: 'ga%1:15:00::'
+      synset: 09098347-n
+GB:
+  n:
+    sense:
+    - id: 'gb%1:15:00::'
+      synset: 08877934-n
+GU:
+  n:
+    sense:
+    - id: 'gu%1:15:00::'
+      synset: 08857311-n
 Gabonese:
   a:
     sense:
@@ -38,6 +53,13 @@ Gallic:
     - id: 'gallic%3:01:01::'
       pertainym:
       - 'france%1:15:00::'
+Galloway:
+  n:
+    sense:
+    - derivation:
+      - 'galwegian%3:01:00::'
+      id: 'galloway%1:15:00::'
+      synset: 08912285-n
 Galwegian:
   a:
     sense:
@@ -71,6 +93,11 @@ Gauguinesque:
     - id: 'gauguinesque%3:01:00::'
       pertainym:
       - 'gauguin%1:18:00::'
+Gaul:
+  n:
+    sense:
+    - id: 'gaul%1:15:00::'
+      synset: 08949495-n
 Gaussian:
   a:
     sense:
@@ -80,6 +107,18 @@ Gaussian:
     - id: 'gaussian%3:01:00::'
       pertainym:
       - 'gauss%1:18:00::'
+Ge:
+  n:
+    sense:
+    - id: 'ge%1:18:00::'
+      synset: 09583891-n
+Gemini:
+  n:
+    sense:
+    - id: 'gemini%1:17:00::'
+      synset: 09310519-n
+    - id: 'gemini%1:15:00::'
+      synset: 08704233-n
 Genoese:
   a:
     sense:
@@ -167,6 +206,11 @@ Gilbertian:
     - id: 'gilbertian%3:01:00::'
       pertainym:
       - 'gilbert%1:18:00::'
+Gladstone:
+  n:
+    sense:
+    - id: 'gladstone%1:18:00::'
+      synset: 11021664-n
 Glaswegian:
   a:
     sense:
@@ -176,6 +220,11 @@ Glaswegian:
     - id: 'glaswegian%3:01:00::'
       pertainym:
       - 'glasgow%1:15:00::'
+Goat:
+  n:
+    sense:
+    - id: 'goat%1:15:00::'
+      synset: 08705447-n
 Goethean:
   a:
     sense:
@@ -194,12 +243,26 @@ Goethian:
     - id: 'goethian%3:01:00::'
       pertainym:
       - 'goethe%1:18:00::'
+Gray:
+  n:
+    sense:
+    - id: 'gray%1:18:02::'
+      synset: 11032842-n
+    - id: 'gray%1:18:01::'
+      synset: 11032672-n
+    - id: 'gray%1:18:00::'
+      synset: 11032470-n
 Grecian:
   a:
     sense:
     - id: 'grecian%3:01:00::'
       pertainym:
       - 'greece%1:15:00::'
+Greece:
+  n:
+    sense:
+    - id: 'greece%1:15:00::'
+      synset: 08798733-n
 Greek:
   a:
     sense:
@@ -230,6 +293,13 @@ Grenadian:
     - id: 'grenadian%3:01:00::'
       pertainym:
       - 'grenada%1:15:00::'
+Guarnerius:
+  n:
+    sense:
+    - id: 'guarnerius%1:18:01::'
+      synset: 11037983-n
+    - id: 'guarnerius%1:18:00::'
+      synset: 11037827-n
 Guatemalan:
   a:
     sense:
@@ -239,6 +309,18 @@ Guatemalan:
     - id: 'guatemalan%3:01:00::'
       pertainym:
       - 'guatemala%1:15:00::'
+Guernsey:
+  n:
+    sense:
+    - id: 'guernsey%1:15:00::'
+      synset: 08907571-n
+Guinea:
+  n:
+    sense:
+    - derivation:
+      - 'guinean%3:01:00::'
+      id: 'guinea%1:15:00::'
+      synset: 08967092-n
 Guinean:
   a:
     sense:
@@ -248,6 +330,11 @@ Guinean:
     - id: 'guinean%3:01:00::'
       pertainym:
       - 'guinea%1:15:00::'
+Guinness:
+  n:
+    sense:
+    - id: 'guinness%1:18:00::'
+      synset: 11039265-n
 Guyanese:
   a:
     sense:
@@ -266,6 +353,13 @@ global:
     - derivation:
       - 'globe%1:17:00::'
       id: global%5:00:00:international:00
+globe:
+  n:
+    sense:
+    - derivation:
+      - global%5:00:00:international:00
+      id: 'globe%1:17:00::'
+      synset: 09293800-n
 godly:
   a:
     sense:
@@ -278,6 +372,11 @@ google:
     - derivation:
       - 'google%1:10:00::'
       id: 'google%2:31:00::'
+grail:
+  n:
+    sense:
+    - id: 'grail%1:06:00::'
+      synset: 03456853-n
 gymnospermous:
   a:
     sense:

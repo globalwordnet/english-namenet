@@ -1,3 +1,8 @@
+SC:
+  n:
+    sense:
+    - id: 'sc%1:15:00::'
+      synset: 09160577-n
 Sabahan:
   a:
     sense:
@@ -7,12 +12,31 @@ Sabahan:
     - id: 'sabahan%3:01:00::'
       pertainym:
       - 'sabah%1:15:00::'
+Sabine:
+  n:
+    sense:
+    - id: 'sabine%1:17:00::'
+      synset: 09441209-n
+Sagittarius:
+  n:
+    sense:
+    - id: 'sagittarius%1:17:00::'
+      synset: 09441990-n
+    - id: 'sagittarius%1:15:00::'
+      synset: 08705263-n
+    - id: 'sagittarius%1:05:00::'
+      synset: 01620997-n
 Saharan:
   a:
     sense:
     - id: 'saharan%3:01:00::'
       pertainym:
       - 'sahara%1:15:00::'
+Saint Joseph:
+  n:
+    sense:
+    - id: 'saint_joseph%1:15:00::'
+      synset: 09130034-n
 Salvadoran:
   a:
     sense:
@@ -37,12 +61,26 @@ Samoan:
     - id: 'samoan%3:01:00::'
       pertainym:
       - 'samoa%1:15:00::'
+Samson:
+  n:
+    sense:
+    - id: 'samson%1:18:00::'
+      synset: 11299638-n
 San Marinese:
   a:
     sense:
     - id: 'san_marinese%3:01:00::'
       pertainym:
       - 'san_marino%1:15:00::'
+Santa Ana:
+  n:
+    sense:
+    - id: 'santa_ana%1:18:00::'
+      synset: 11300895-n
+    - id: 'santa_ana%1:15:00::'
+      synset: 09089011-n
+    - id: 'santa_ana%1:15:01::'
+      synset: 08756548-n
 Sapphic:
   a:
     sense:
@@ -101,6 +139,18 @@ Scandinavian:
     - id: 'scandinavian%3:01:02::'
       pertainym:
       - 'scandinavia%1:15:00::'
+Scorpio:
+  n:
+    sense:
+    - id: 'scorpio%1:17:00::'
+      synset: 09449021-n
+    - id: 'scorpio%1:15:00::'
+      synset: 08705083-n
+Scorpion:
+  n:
+    sense:
+    - id: 'scorpion%1:15:00::'
+      synset: 08705083-n
 Scotch:
   a:
     sense:
@@ -125,6 +175,18 @@ Scythian:
     - derivation:
       - 'scythia%1:15:00::'
       id: 'scythian%3:01:00::'
+Sealyham:
+  n:
+    sense:
+    - id: 'sealyham%1:15:00::'
+      synset: 08915850-n
+Seneca:
+  n:
+    sense:
+    - derivation:
+      - 'senecan%3:01:00::'
+      id: 'seneca%1:18:00::'
+      synset: 11312381-n
 Senecan:
   a:
     sense:
@@ -173,6 +235,11 @@ Shakespearian:
     - id: 'shakespearian%3:01:00::'
       pertainym:
       - 'shakespeare%1:18:00::'
+Shasta:
+  n:
+    sense:
+    - id: 'shasta%1:17:00::'
+      synset: 09454473-n
 Shavian:
   a:
     sense:
@@ -182,6 +249,11 @@ Shavian:
     - id: 'shavian%3:01:00::'
       pertainym:
       - 'shaw%1:18:00::'
+Shetland:
+  n:
+    sense:
+    - id: 'shetland%1:15:00::'
+      synset: 08973830-n
 Shivaist:
   n:
     sense:
@@ -221,6 +293,11 @@ Sierra Leonean:
     - id: 'sierra_leonean%3:01:00::'
       pertainym:
       - 'sierra_leone%1:15:00::'
+Simon Legree:
+  n:
+    sense:
+    - id: 'simon_legree%1:18:00::'
+      synset: 09627748-n
 Singaporean:
   a:
     sense:
@@ -238,6 +315,13 @@ Singaporean:
     - id: 'singaporean%3:01:01::'
       pertainym:
       - 'singapore%1:15:00::'
+Sion:
+  n:
+    sense:
+    - id: 'sion%1:15:02::'
+      synset: 08814203-n
+    - id: 'sion%1:15:00::'
+      synset: 08810400-n
 Sisyphean:
   a:
     sense:
@@ -319,6 +403,13 @@ South African:
     - id: 'south_african%3:01:00::'
       pertainym:
       - 'south_africa%1:15:00::'
+South America:
+  n:
+    sense:
+    - derivation:
+      - 'south_american%3:01:00::'
+      id: 'south_america%1:17:00::'
+      synset: 09463304-n
 South American:
   a:
     sense:
@@ -358,6 +449,11 @@ Spartan:
     - id: 'spartan%3:01:00::'
       pertainym:
       - 'sparta%1:15:00::'
+Spode:
+  n:
+    sense:
+    - id: 'spode%1:18:00::'
+      synset: 11331812-n
 Sri Lankan:
   a:
     sense:
@@ -367,12 +463,22 @@ Sri Lankan:
     - id: 'sri_lankan%3:01:00::'
       pertainym:
       - 'ceylon%1:15:00::'
+St. Joseph:
+  n:
+    sense:
+    - id: 'st._joseph%1:15:00::'
+      synset: 09130034-n
 Stalinist:
   a:
     sense:
     - id: 'stalinist%3:01:00::'
       pertainym:
       - 'stalin%1:18:00::'
+Sterope:
+  n:
+    sense:
+    - id: 'sterope%1:17:00::'
+      synset: 09468684-n
 Stravinskian:
   a:
     sense:
@@ -382,6 +488,14 @@ Stravinskian:
     - id: 'stravinskian%3:01:00::'
       pertainym:
       - 'stravinsky%1:18:00::'
+Stravinsky:
+  n:
+    sense:
+    - derivation:
+      - 'stravinskian%3:01:00::'
+      - 'stravinskyan%3:01:00::'
+      id: 'stravinsky%1:18:00::'
+      synset: 11341836-n
 Stravinskyan:
   a:
     sense:
@@ -391,6 +505,11 @@ Stravinskyan:
     - id: 'stravinskyan%3:01:00::'
       pertainym:
       - 'stravinsky%1:18:00::'
+Stuart:
+  n:
+    sense:
+    - id: 'stuart%1:18:00::'
+      synset: 11342753-n
 Sudanese:
   a:
     sense:
@@ -412,6 +531,26 @@ Sumerian:
     - id: 'sumerian%3:01:00::'
       pertainym:
       - 'sumer%1:15:00::'
+Sun:
+  n:
+    sense:
+    - id: 'sun%1:17:00::'
+      synset: 09473312-n
+Sunday:
+  n:
+    sense:
+    - id: 'sunday%1:18:00::'
+      synset: 11345529-n
+Suomi:
+  n:
+    sense:
+    - id: 'suomi%1:15:00::'
+      synset: 08797356-n
+Svengali:
+  n:
+    sense:
+    - id: 'svengali%1:18:00::'
+      synset: 10701195-n
 Swazi:
   a:
     sense:
@@ -499,6 +638,11 @@ sublunary:
     - id: 'sublunary%3:01:00::'
       pertainym:
       - 'moon%1:17:01::'
+sun:
+  n:
+    sense:
+    - id: 'sun%1:17:02::'
+      synset: 09473312-n
 superlunar:
   a:
     sense:

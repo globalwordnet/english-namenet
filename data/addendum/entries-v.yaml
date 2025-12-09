@@ -1,3 +1,18 @@
+VA:
+  n:
+    sense:
+    - id: 'va%1:15:00::'
+      synset: 09171719-n
+VI:
+  n:
+    sense:
+    - id: 'vi%1:15:00::'
+      synset: 08772836-n
+Valenciennes:
+  n:
+    sense:
+    - id: 'valenciennes%1:15:00::'
+      synset: 08958251-n
 Venetian:
   a:
     sense:
@@ -26,6 +41,11 @@ Victorian:
       pertainym:
       - 'victoria%1:18:00::'
       - 'victorian_age%1:28:00::'
+Vienne:
+  n:
+    sense:
+    - id: 'vienne%1:15:00::'
+      synset: 08958801-n
 Viennese:
   a:
     sense:
@@ -38,6 +58,23 @@ Vietnamese:
     - id: 'vietnamese%3:01:00::'
       pertainym:
       - 'vietnam%1:15:00::'
+Virgin:
+  n:
+    sense:
+    - id: 'virgin%1:15:00::'
+      synset: 08704717-n
+Virgin Mary:
+  n:
+    sense:
+    - id: 'virgin_mary%1:18:00::'
+      synset: 11181402-n
+Virgo:
+  n:
+    sense:
+    - id: 'virgo%1:17:00::'
+      synset: 09495106-n
+    - id: 'virgo%1:15:00::'
+      synset: 08704717-n
 Voltarean:
   a:
     sense:

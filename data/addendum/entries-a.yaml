@@ -1,3 +1,8 @@
+AZ:
+  n:
+    sense:
+    - id: 'az%1:15:00::'
+      synset: 09079774-n
 Aberdonian:
   a:
     sense:
@@ -10,12 +15,23 @@ Aberdonian:
     - id: 'aberdonian%3:01:00::'
       pertainym:
       - 'aberdeen%1:15:00::'
+Abkhas:
+  n:
+    sense:
+    - id: 'abkhas%1:14:00::'
+      synset: 08504963-n
 Abkhaz:
   a:
     sense:
     - id: 'abkhaz%3:01:00::'
       pertainym:
       - 'abkhaz%1:15:00::'
+  n:
+    sense:
+    - id: 'abkhaz%1:15:00::'
+      synset: 09041725-n
+    - id: 'abkhaz%1:14:00::'
+      synset: 08504963-n
 Abkhazian:
   a:
     sense:
@@ -34,6 +50,28 @@ Acheronian:
     - derivation:
       - 'acheron%1:17:00::'
       id: acheronian%5:00:00:dark:01
+Achomawi:
+  n:
+    sense:
+    - id: 'achomawi%1:14:00::'
+      synset: 08505091-n
+Adam:
+  n:
+    sense:
+    - id: 'adam%1:18:00::'
+      synset: 09609728-n
+    - id: 'adam%1:18:01::'
+      synset: 10827649-n
+Adonis:
+  n:
+    sense:
+    - id: 'adonis%1:20:00::'
+      synset: 11744998-n
+Advent:
+  n:
+    sense:
+    - id: 'advent%1:11:00::'
+      synset: 07337150-n
 Aegean:
   a:
     sense:
@@ -43,6 +81,17 @@ Aegean:
     - id: 'aegean%3:01:00::'
       pertainym:
       - 'aegean%1:17:00::'
+  n:
+    sense:
+    - derivation:
+      - 'aegean%3:01:00::'
+      id: 'aegean%1:17:00::'
+      synset: 09211506-n
+Aegina:
+  n:
+    sense:
+    - id: 'aegina%1:15:00::'
+      synset: 08800699-n
 Aeolian:
   a:
     sense:
@@ -112,6 +161,18 @@ Afro-Asian:
     - id: 'afro-asian%3:01:00::'
       pertainym:
       - 'asia%1:17:00::'
+Akwa'ala:
+  n:
+    sense:
+    - id: 'akwa''ala%1:14:00::'
+      synset: 08505260-n
+Alabama:
+  n:
+    sense:
+    - id: 'alabama%1:15:00::'
+      synset: 09075641-n
+    - id: 'alabama%1:17:00::'
+      synset: 09214753-n
 Alaskan:
   a:
     sense:
@@ -163,6 +224,16 @@ Alsatian:
     - id: 'alsatian%3:01:00::'
       pertainym:
       - 'alsace%1:15:00::'
+Amati:
+  n:
+    sense:
+    - id: 'amati%1:18:00::'
+      synset: 10835081-n
+Amazon:
+  n:
+    sense:
+    - id: 'amazon%1:17:00::'
+      synset: 09218250-n
 Ambrosian:
   a:
     sense:
@@ -226,6 +297,11 @@ Angolan:
     - id: 'angolan%3:01:00::'
       pertainym:
       - 'angola%1:15:00::'
+Angora:
+  n:
+    sense:
+    - id: 'angora%1:15:00::'
+      synset: 09063076-n
 Anguillan:
   a:
     sense:
@@ -235,12 +311,28 @@ Anguillan:
     - id: 'anguillan%3:01:01::'
       pertainym:
       - 'anguilla%1:15:00::'
+Angus:
+  n:
+    sense:
+    - id: 'angus%1:18:00::'
+      synset: 09531041-n
+Annunciation:
+  n:
+    sense:
+    - id: 'annunciation%1:10:00::'
+      synset: 06759903-n
 Antarctic:
   a:
     sense:
     - derivation:
       - 'antarctic%1:15:00::'
       id: antarctic%5:00:00:polar:00
+  n:
+    sense:
+    - derivation:
+      - antarctic%5:00:00:polar:00
+      id: 'antarctic%1:15:00::'
+      synset: 08511469-n
 Antiguan:
   a:
     sense:
@@ -264,6 +356,13 @@ Appalachian:
     - derivation:
       - 'appalachia%1:15:00::'
       id: 'appalachian%1:18:00::'
+Aquarius:
+  n:
+    sense:
+    - id: 'aquarius%1:17:00::'
+      synset: 09224718-n
+    - id: 'aquarius%1:15:00::'
+      synset: 08705622-n
 Arabian:
   a:
     sense:
@@ -291,12 +390,28 @@ Aramean:
     - id: 'aramean%3:01:00::'
       pertainym:
       - 'aram%1:15:00::'
+Archer:
+  n:
+    sense:
+    - id: 'archer%1:15:00::'
+      synset: 08705263-n
 Arctic:
   a:
     sense:
     - derivation:
       - 'arctic%1:15:00::'
       id: arctic%5:00:00:polar:00
+  n:
+    sense:
+    - derivation:
+      - arctic%5:00:00:polar:00
+      id: 'arctic%1:15:00::'
+      synset: 08513487-n
+Areopagus:
+  n:
+    sense:
+    - id: 'areopagus%1:15:00::'
+      synset: 08803595-n
 Argentine:
   a:
     sense:
@@ -326,6 +441,13 @@ Argive:
     - derivation:
       - 'argos%1:15:00::'
       id: 'argive%1:18:00::'
+Aries:
+  n:
+    sense:
+    - id: 'aries%1:17:00::'
+      synset: 09229021-n
+    - id: 'aries%1:15:00::'
+      synset: 08703867-n
 Aristotelean:
   a:
     sense:
@@ -368,6 +490,19 @@ Arthurian:
     - id: 'arthurian%3:01:00::'
       pertainym:
       - 'arthur%1:18:00::'
+Ascension:
+  n:
+    sense:
+    - id: 'ascension%1:11:02::'
+      synset: 07326440-n
+Asia:
+  n:
+    sense:
+    - derivation:
+      - 'asiatic%3:01:00::'
+      - 'asian%3:01:00::'
+      id: 'asia%1:17:00::'
+      synset: 09230176-n
 Asian:
   a:
     sense:
@@ -392,6 +527,11 @@ Assamese:
     - id: 'assamese%3:01:00::'
       pertainym:
       - 'assam%1:15:00::'
+Asterope:
+  n:
+    sense:
+    - id: 'asterope%1:17:00::'
+      synset: 09468684-n
 Athenian:
   a:
     sense:
@@ -412,6 +552,12 @@ Atlantic:
     - id: 'atlantic%3:01:00::'
       pertainym:
       - 'atlantic%1:17:00::'
+  n:
+    sense:
+    - derivation:
+      - 'atlantic%3:01:00::'
+      id: 'atlantic%1:17:00::'
+      synset: 09232170-n
 Attic:
   a:
     sense:

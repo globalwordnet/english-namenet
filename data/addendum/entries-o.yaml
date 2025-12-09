@@ -1,3 +1,13 @@
+OK:
+  n:
+    sense:
+    - id: 'ok%1:15:00::'
+      synset: 09154334-n
+OR:
+  n:
+    sense:
+    - id: 'or%1:15:00::'
+      synset: 09155698-n
 Olympian:
   a:
     sense:
@@ -11,6 +21,12 @@ Olympian:
     - id: 'olympian%3:01:00::'
       pertainym:
       - 'mount_olympus%1:17:00::'
+  n:
+    sense:
+    - derivation:
+      - 'olympian%3:01:00::'
+      id: 'olympian%1:18:01::'
+      synset: 09576476-n
 Olympic:
   a:
     sense:
@@ -20,6 +36,13 @@ Olympic:
     - id: 'olympic%3:01:01::'
       pertainym:
       - 'olympia%1:15:01::'
+Omaha:
+  n:
+    sense:
+    - id: 'omaha%1:15:00::'
+      synset: 09132866-n
+    - id: 'omaha%1:05:00::'
+      synset: 02386465-n
 Omani:
   a:
     sense:
@@ -44,6 +67,18 @@ Orwellian:
     - id: 'orwellian%3:01:00::'
       pertainym:
       - 'orwell%1:18:00::'
+Osage:
+  n:
+    sense:
+    - id: 'osage%1:17:00::'
+      synset: 09403211-n
+Ottawa:
+  n:
+    sense:
+    - id: 'ottawa%1:17:00::'
+      synset: 09403500-n
+    - id: 'ottawa%1:15:00::'
+      synset: 08846478-n
 Ottoman:
   a:
     sense:

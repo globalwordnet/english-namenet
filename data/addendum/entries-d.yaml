@@ -1,3 +1,13 @@
+DC:
+  n:
+    sense:
+    - id: 'dc%1:15:00::'
+      synset: 09092985-n
+Dakota:
+  n:
+    sense:
+    - id: 'dakota%1:15:00::'
+      synset: 09075475-n
 Dalmatian:
   a:
     sense:
@@ -7,6 +17,13 @@ Dalmatian:
     - id: 'dalmatian%3:01:00::'
       pertainym:
       - 'dalmatia%1:15:00::'
+Daniel:
+  n:
+    sense:
+    - id: 'daniel%1:18:01::'
+      synset: 10941771-n
+    - id: 'daniel%1:10:00::'
+      synset: 06450665-n
 Danish:
   a:
     sense:
@@ -34,6 +51,20 @@ Darwinian:
     - derivation:
       - 'darwin%1:18:00::'
       id: 'darwinian%3:01:00::'
+Delaware:
+  n:
+    sense:
+    - id: 'delaware%1:17:00::'
+      synset: 09287022-n
+    - id: 'delaware%1:15:01::'
+      synset: 09092618-n
+    - id: 'delaware%1:15:00::'
+      synset: 09092353-n
+Delilah:
+  n:
+    sense:
+    - id: 'delilah%1:18:00::'
+      synset: 10948867-n
 Delphian:
   a:
     sense:
@@ -58,6 +89,16 @@ Demosthenic:
     - id: 'demosthenic%3:01:00::'
       pertainym:
       - 'demosthenes%1:18:00::'
+Devon:
+  n:
+    sense:
+    - id: 'devon%1:15:00::'
+      synset: 08902171-n
+Dewar:
+  n:
+    sense:
+    - id: 'dewar%1:18:00::'
+      synset: 10952447-n
 Deweyan:
   a:
     sense:
@@ -94,6 +135,12 @@ Dipylon:
     - id: 'dipylon%3:01:00::'
       pertainym:
       - 'dipylon_gate%1:15:00::'
+  n:
+    sense:
+    - derivation:
+      - 'dipylon%3:01:00::'
+      id: 'dipylon%1:15:00::'
+      synset: 08803810-n
 Djiboutian:
   a:
     sense:
@@ -109,6 +156,23 @@ Dominican:
     - id: 'dominican%3:01:01::'
       pertainym:
       - 'dominican_republic%1:15:00::'
+Don:
+  n:
+    sense:
+    - id: 'don%1:18:00::'
+      synset: 09532107-n
+    - id: 'don%1:17:00::'
+      synset: 09291684-n
+Don Juan:
+  n:
+    sense:
+    - id: 'don_juan%1:18:00::'
+      synset: 10959467-n
+Don Quixote:
+  n:
+    sense:
+    - id: 'don_quixote%1:18:01::'
+      synset: 09621544-n
 Donnean:
   a:
     sense:
@@ -151,6 +215,11 @@ Dostoyevskian:
     - id: 'dostoyevskian%3:01:00::'
       pertainym:
       - 'dostoevski%1:18:00::'
+Downing Street:
+  n:
+    sense:
+    - id: 'downing_street%1:15:00::'
+      synset: 08896199-n
 Draconian:
   a:
     sense:
@@ -160,6 +229,18 @@ Draconian:
     - id: 'draconian%3:01:00::'
       pertainym:
       - 'draco%1:18:00::'
+Dunkirk:
+  n:
+    sense:
+    - id: 'dunkirk%1:15:00::'
+      synset: 08955751-n
+    - id: 'dunkirk%1:04:00::'
+      synset: 01280431-n
+Durham:
+  n:
+    sense:
+    - id: 'durham%1:15:00::'
+      synset: 09151209-n
 Dutch:
   a:
     sense:
@@ -172,6 +253,11 @@ damascene:
     - id: 'damascene%3:01:00::'
       pertainym:
       - 'damascus%1:15:00::'
+dateline:
+  n:
+    sense:
+    - id: 'dateline%1:15:00::'
+      synset: 08617348-n
 deliver:
   v:
     sense:
@@ -223,3 +309,8 @@ dominical:
     - id: 'dominical%3:01:01::'
       pertainym:
       - 'jesus%1:18:00::'
+doubting Thomas:
+  n:
+    sense:
+    - id: 'doubting_thomas%1:18:00::'
+      synset: 11358791-n

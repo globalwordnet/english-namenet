@@ -9,15 +9,23 @@ import os
 import pickle
 import argparse
 from open_english_namenet import WIKIDATA_DB, WORDNET_SOURCE, load_wordnet_data, fetch_in_chunks, read_wikidata_with_prop_vals, get_labels_and_defn, oewn_extract, wikidata_extract
+from glob import glob
 
 
-def make_entry(qid, cursor, hyps, wd2entry, lemmas=[], inst=True, mero=[]):
+def process_entry(qid, cursor, hyps, wd2entry, f, lexfiles, addendum, lemmas=[], inst=True, mero=[]):
     label, definition = get_labels_and_defn(qid, cursor)
     if label == [] or definition == "":
         return (None, None)
     if qid in wd2entry:
-        ssid, data = wd2entry[qid]
-        data["definition"].append(definition)
+        ssid, _ = wd2entry[qid]
+        lexfile = lexfiles[ssid]
+        if lexfile not in addendum:
+            print(f"Creating addendum for {lexfile}")
+            addendum[lexfile] = {}
+        if ssid not in addendum[lexfile]:
+            addendum[lexfile][ssid] = {}
+        data = addendum[lexfile][ssid]
+        data.setdefault("definition", []).append(definition)
         if inst:
             if "instance_hypernym" not in data:
                 data["instance_hypernym"] = []
@@ -30,11 +38,11 @@ def make_entry(qid, cursor, hyps, wd2entry, lemmas=[], inst=True, mero=[]):
             data["hypernym"] = list(set(data["hypernym"]))
         if not lemmas:
             for l in label:
-                if l not in data["members"]:
-                    data["members"].append(l)
+                if l not in data.get("members", []):
+                    data.setdefault("members", []).append(l)
         for l in lemmas:
-            if l not in data["members"]:
-                data["members"].append(l)
+            if l not in data.get("members", []):
+                data.setdefault("members",[]).append(l)
         if "mero_member" in data:
             data["mero_member"].extend(mero)
             data["mero_member"] = list(set(data["mero_member"]))
@@ -43,26 +51,27 @@ def make_entry(qid, cursor, hyps, wd2entry, lemmas=[], inst=True, mero=[]):
                 data["mero_member"] = list(set(mero))
         return (ssid, data)
     else:
+        new_id = qid + "-n"
         if inst:
-            entry = (qid + "-n" , {
+            entry = {
                 "definition": [definition],
                 "instance_hypernym": hyps,
                 "members": lemmas if lemmas else label,
                 "partOfSpeech": "n",
                 "wikidata": qid
-            })
+            }
         else:
-            entry = (qid + "-n" , {
+            entry = {
                 "definition": [definition],
                 "hypernym": hyps,
                 "members": lemmas if lemmas else label,
                 "partOfSpeech": "n",
                 "wikidata": qid
-            })
+            }
         if mero:
             entry[1]["mero_member"] = list(set(mero))
-        return entry
-
+        yaml.dump({new_id: entry}, f, sort_keys=False)
+        return new_id, entry
 
 def is_hyp(ssid1, ssid2, hyps):
     if ssid1 not in hyps:
@@ -76,14 +85,6 @@ def dedupe_hyps(wn_hyps, hyps):
     wn_hyps = [wh for wh in wn_hyps
                if not any(is_hyp(wh2, wh, hyps) for wh2 in wn_hyps if wh2 != wh)]
     return wn_hyps
-
-def write_entry(f, new_id, entry, curated):
-    if entry is None:
-        return
-    if new_id.startswith("Q") and not curated:
-        yaml.dump({new_id: entry}, f, sort_keys=False)
-    elif not new_id.startswith("Q") and curated:
-        yaml.dump({new_id: entry}, f, sort_keys=False)
 
 def find_taxon_hyps(qid, cursor, wd2hypernym, rank, seen=set()):
     if qid in seen:
@@ -117,12 +118,15 @@ if __name__ == "__main__":
     parser.add_argument("--skip_overlaps", action="store_true", help="Skip processing overlaps")
     parser.add_argument("--skip_humans", action="store_true", help="Skip processing humans")
     parser.add_argument("--skip_taxons", action="store_true", help="Skip processing taxons")
-    parser.add_argument("--curated", action="store_true", help="Generate curated data from OEWN")
+    parser.add_argument("--update_addendums", action="store_true", help="Update addendums")
     args = parser.parse_args()
 
-    wikidata_links, hyps, wn_lemmas, wd2entry = load_wordnet_data(with_wd2data=True)
+    # Load WordNet data
+    wikidata_links, hyps, wn_lemmas, wd2entry, lexfiles = load_wordnet_data(with_wd2data=True, with_lexfiles=True)
 
+    wn_lemmas['09596003-n'] = "Titaness"
 
+    # Invert wd2entry to entry2wd
     entry2wd = {}
     for wd, (ssid, data) in wd2entry.items():
         entry2wd[ssid] = wd
@@ -130,13 +134,22 @@ if __name__ == "__main__":
     db = sqlite3.connect(args.wd)
     cursor = db.cursor()
 
-    output_folder = f"{args.output_folder}/curated" if args.curated else f"{args.output_folder}/automatic"
+    output_folder = f"{args.output_folder}/automatic"
+    addendum_folder = f"{args.output_folder}/addendum"
+
+    # Load addendums
+    addendums = {}
+    for file in tqdm(glob(f"{addendum_folder}/*.yaml"), desc="Loading addendums"):
+        filename = file.split("/")[-1]
+        with open(file, "r", encoding="utf-8") as f:
+            data = yaml.load(f, Loader=yaml.CLoader)
+            addendums[filename] = data
 
     if not args.skip_overlaps:
         overlaps_by_wikidata = defaultdict(list)
         overlaps_by_oewn = defaultdict(list)
 
-
+        # Read overlaps which states which Wikidata parents map to which OEWN synsets
         with open(args.overlaps, "r") as f:
             reader = csv.DictReader(f)
             for row in reader:
@@ -149,13 +162,14 @@ if __name__ == "__main__":
 
         print(len(overlaps_by_wikidata), "Wikidata items with overlaps")
 
+        # Read Wikidata P31 (instance of) property values for all Wikidata items which have overlaps
         wikidata_props = read_wikidata_with_prop_vals(cursor, "P31", overlaps_by_wikidata.keys(), "overlap_instances")
 
         seen = set()
 
         print("Human in set", "Q5" in overlaps_by_wikidata)
 
-
+        # For each OEWN synset with overlaps, create entries for all Wikidata items which map to it
         for wn_hyp, wds in tqdm(overlaps_by_oewn.items(), desc="Processing OEWN synsets", position=0):
             lemma = wn_lemmas[wn_hyp].replace(' ', '_').lower()
             if "," in lemma:
@@ -170,8 +184,9 @@ if __name__ == "__main__":
                             continue
                         wn_hyps = [wh for superclazz in superclazzes for wh in overlaps_by_wikidata.get(superclazz, [])]
                         wn_hyps = dedupe_hyps(wn_hyps, hyps)
-                        new_id, entry = make_entry(entity, cursor, wn_hyps, wd2entry)
-                        write_entry(f1, new_id, entry, args.curated)
+                        process_entry(entity, cursor, wn_hyps, wd2entry, f1, lexfiles, addendums)
+                        #new_id, entry = make_entry(entity, cursor, wn_hyps, wd2entry)
+                        #write_entry(f1, new_id, entry, args.curated)
 
 
     if not args.skip_humans:
@@ -208,8 +223,7 @@ if __name__ == "__main__":
 
                 wn_hyps = dedupe_hyps(wn_hyps, hyps)
 
-                new_id, entry = make_entry(entity, cursor, wn_hyps, wd2entry)
-                write_entry(f, new_id, entry, args.curated)
+                process_entry(entity, cursor, wn_hyps, wd2entry, f, lexfiles, addendums)
 
     if not args.skip_taxons:
         wikidata_props = read_wikidata_with_prop_vals(cursor, "P31", ["Q16521"], "taxon_instances")
@@ -314,9 +328,11 @@ if __name__ == "__main__":
                         rank = row[2]
                         wn_hyps = json.loads(row[3])
                         if " " in sci_name:
-                            new_id, entry = make_entry(entity, cursor, wn_hyps, wd2entry,
-                                                       inst=False)
-                            write_entry(f_species, new_id, entry, args.curated)
+                            process_entry(entity, cursor, wn_hyps, wd2entry, f, lexfiles, addendums,
+                                          inst=False)
+                            #new_id, entry = make_entry(entity, cursor, wn_hyps, wd2entry,
+                            #                           inst=False)
+                            #write_entry(f_species, new_id, entry, args.curated)
 
                         else:
                             childs = []
@@ -326,11 +342,22 @@ if __name__ == "__main__":
                                 else:
                                     childs.append(c + "-n")
 
-                            new_id, entry = make_entry(entity, cursor, wn_hyps, wd2entry,
-                                                       lemmas=[f"{rank} {sci_name}", f"{sci_name}"],
-                                                       inst=False,
-                                                       mero=childs)
-                            write_entry(f, new_id, entry, args.curated)
+                            process_entry(entity, cursor, wn_hyps, wd2entry, f, lexfiles, addendums,
+                                          lemmas=[f"{rank} {sci_name}", f"{sci_name}"],
+                                          inst=False,
+                                          mero=childs)
+                            #new_id, entry = make_entry(entity, cursor, wn_hyps, wd2entry,
+                            #                           lemmas=[f"{rank} {sci_name}", f"{sci_name}"],
+                            #                           inst=False,
+                            #                           mero=childs)
+                            #write_entry(f, new_id, entry, args.curated)
 
         os.remove(f"{output_folder}/noun.taxon_working.csv")
+
+    if args.update_addendums:
+        for filename, data in addendums.items():
+            with open(f"{addendum_folder}/{filename}", "w", encoding="utf-8") as f:
+                yaml.dump(data, f, sort_keys=True)
+                    
+
 

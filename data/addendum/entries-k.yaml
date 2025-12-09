@@ -13,6 +13,13 @@ Kampuchean:
     - id: 'kampuchean%3:01:00::'
       pertainym:
       - 'cambodia%1:15:00::'
+Kansas:
+  n:
+    sense:
+    - id: 'kansas%1:15:00::'
+      synset: 09110150-n
+    - id: 'kansas%1:17:00::'
+      synset: 09346376-n
 Kantian:
   a:
     sense:
@@ -34,12 +41,27 @@ Katari:
     - id: 'katari%3:01:00::'
       pertainym:
       - 'qatar%1:15:00::'
+Kazak:
+  n:
+    sense:
+    - id: 'kazak%1:15:00::'
+      synset: 09042096-n
+Kazakh:
+  n:
+    sense:
+    - id: 'kazakh%1:15:00::'
+      synset: 09042096-n
 Kazakhstani:
   a:
     sense:
     - id: 'kazakhstani%3:01:00::'
       pertainym:
       - 'kazakhstan%1:15:00::'
+Kechua:
+  n:
+    sense:
+    - id: 'kechua%1:14:00::'
+      synset: 08506131-n
 Kenyan:
   a:
     sense:
@@ -64,6 +86,21 @@ Kiplingesque:
     - id: 'kiplingesque%3:01:00::'
       pertainym:
       - 'kipling%1:18:00::'
+Kirghiz:
+  n:
+    sense:
+    - id: 'kirghiz%1:15:00::'
+      synset: 09042810-n
+Kirgiz:
+  n:
+    sense:
+    - id: 'kirgiz%1:15:00::'
+      synset: 09042810-n
+Kodiak:
+  n:
+    sense:
+    - id: 'kodiak%1:17:00::'
+      synset: 09349750-n
 Koranic:
   a:
     sense:
@@ -88,6 +125,11 @@ Kurdish:
     - id: 'kurdish%3:01:00::'
       pertainym:
       - 'kurdistan%1:15:00::'
+Kurdistan:
+  n:
+    sense:
+    - id: 'kurdistan%1:15:00::'
+      synset: 09061465-n
 Kuwaiti:
   a:
     sense:

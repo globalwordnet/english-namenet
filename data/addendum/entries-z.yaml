@@ -31,6 +31,13 @@ Zimbabwean:
     - id: 'zimbabwean%3:01:00::'
       pertainym:
       - 'zimbabwe%1:15:00::'
+Zion:
+  n:
+    sense:
+    - id: 'zion%1:15:02::'
+      synset: 08814203-n
+    - id: 'zion%1:15:00::'
+      synset: 08810400-n
 Zolaesque:
   a:
     sense:
@@ -46,3 +53,8 @@ Zoroastrian:
     - id: 'zoroastrian%3:01:00::'
       pertainym:
       - 'zoroaster%1:18:00::'
+Zulu:
+  n:
+    sense:
+    - id: 'zulu%1:14:00::'
+      synset: 08506402-n

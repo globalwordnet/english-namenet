@@ -7,6 +7,11 @@ Babylonian:
     - id: 'babylonian%3:01:00::'
       pertainym:
       - 'babylon%1:15:00::'
+Bach:
+  n:
+    sense:
+    - id: 'bach%1:18:00::'
+      synset: 10849825-n
 Bahamian:
   a:
     sense:
@@ -22,12 +27,28 @@ Bahraini:
     - id: 'bahraini%3:01:00::'
       pertainym:
       - 'bahrain%1:15:01::'
+Balance:
+  n:
+    sense:
+    - id: 'balance%1:15:00::'
+      synset: 08704888-n
+Baldwin:
+  n:
+    sense:
+    - id: 'baldwin%1:18:01::'
+      synset: 10851847-n
+    - id: 'baldwin%1:18:00::'
+      synset: 10851681-n
 Baltic:
   a:
     sense:
     - id: 'baltic%3:01:00::'
       pertainym:
       - 'baltic_sea%1:17:00::'
+  n:
+    sense:
+    - id: 'baltic%1:17:00::'
+      synset: 09236161-n
 Balzacian:
   a:
     sense:
@@ -53,12 +74,23 @@ Barbadian:
     - id: 'barbadian%3:01:00::'
       pertainym:
       - 'barbados%1:15:00::'
+Barbary Coast:
+  n:
+    sense:
+    - id: 'barbary_coast%1:15:00::'
+      synset: 08520498-n
+    - id: 'barbary_coast%1:15:02::'
+      synset: 08520259-n
 Baroque:
   a:
     sense:
     - id: 'baroque%3:01:00::'
       pertainym:
       - 'baroque%1:28:00::'
+  n:
+    sense:
+    - id: 'baroque%1:28:00::'
+      synset: 15283887-n
 Bavarian:
   a:
     sense:
@@ -73,6 +105,13 @@ Bavarian:
     - derivation:
       - 'bavaria%1:15:00::'
       id: 'bavarian%1:18:00::'
+Beethoven:
+  n:
+    sense:
+    - derivation:
+      - 'beethovenian%3:01:00::'
+      id: 'beethoven%1:18:00::'
+      synset: 10861001-n
 Beethovenian:
   a:
     sense:
@@ -82,6 +121,11 @@ Beethovenian:
     - id: 'beethovenian%3:01:00::'
       pertainym:
       - 'beethoven%1:18:00::'
+Bel:
+  n:
+    sense:
+    - id: 'bel%1:18:00::'
+      synset: 09540016-n
 Belarusian:
   a:
     sense:
@@ -136,6 +180,11 @@ Bhutanese:
     - id: 'bhutanese%3:01:00::'
       pertainym:
       - 'bhutan%1:15:00::'
+Biloxi:
+  n:
+    sense:
+    - id: 'biloxi%1:15:00::'
+      synset: 09127090-n
 Bismarckian:
   a:
     sense:
@@ -145,6 +194,23 @@ Bismarckian:
     - id: 'bismarckian%3:01:00::'
       pertainym:
       - 'bismarck%1:18:00::'
+Black:
+  n:
+    sense:
+    - id: 'black%1:18:02::'
+      synset: 10871726-n
+    - id: 'black%1:18:01::'
+      synset: 10871583-n
+Bloody Mary:
+  n:
+    sense:
+    - id: 'bloody_mary%1:18:00::'
+      synset: 11181654-n
+Bodoni:
+  n:
+    sense:
+    - id: 'bodoni%1:18:00::'
+      synset: 10873861-n
 Boeotian:
   a:
     sense:
@@ -181,6 +247,16 @@ Bolivian:
     - id: 'bolivian%3:01:00::'
       pertainym:
       - 'bolivia%1:15:00::'
+Book:
+  n:
+    sense:
+    - id: 'book%1:10:05::'
+      synset: 06473279-n
+Book of Psalms:
+  n:
+    sense:
+    - id: 'book_of_psalms%1:10:00::'
+      synset: 06448807-n
 Boolean:
   a:
     sense:
@@ -190,6 +266,11 @@ Boolean:
     - id: 'boolean%3:01:00::'
       pertainym:
       - 'boole%1:18:00::'
+Bordeaux:
+  n:
+    sense:
+    - id: 'bordeaux%1:15:00::'
+      synset: 08954305-n
 Bosnian:
   a:
     sense:
@@ -199,12 +280,27 @@ Bosnian:
     - id: 'bosnian%3:01:00::'
       pertainym:
       - 'bosnia-herzegovina%1:15:00::'
+Boswell:
+  n:
+    sense:
+    - id: 'boswell%1:18:00::'
+      synset: 10878468-n
 Botswanan:
   a:
     sense:
     - id: 'botswanan%3:01:00::'
       pertainym:
       - 'botswana%1:15:00::'
+Brahma:
+  n:
+    sense:
+    - id: 'brahma%1:18:00::'
+      synset: 09548056-n
+Brahms:
+  n:
+    sense:
+    - id: 'brahms%1:18:00::'
+      synset: 10881709-n
 Brazilian:
   a:
     sense:
@@ -226,6 +322,11 @@ British:
     - id: 'british%3:01:00::'
       pertainym:
       - 'great_britain%1:15:00::'
+Brummagem:
+  n:
+    sense:
+    - id: 'brummagem%1:15:00::'
+      synset: 08897840-n
 Bruneian:
   a:
     sense:
@@ -235,6 +336,11 @@ Bruneian:
     - id: 'bruneian%3:01:00::'
       pertainym:
       - 'brunei%1:15:00::'
+Buddha:
+  n:
+    sense:
+    - id: 'buddha%1:18:00::'
+      synset: 09555346-n
 Bulgarian:
   a:
     sense:
@@ -244,18 +350,41 @@ Bulgarian:
     - id: 'bulgarian%3:01:00::'
       pertainym:
       - 'bulgaria%1:15:00::'
+Bull:
+  n:
+    sense:
+    - id: 'bull%1:15:01::'
+      synset: 08704070-n
+Burgundy:
+  n:
+    sense:
+    - id: 'burgundy%1:15:00::'
+      synset: 08960830-n
 Burmese:
   a:
     sense:
     - id: 'burmese%3:01:00::'
       pertainym:
       - 'myanmar%1:15:00::'
+Burton:
+  n:
+    sense:
+    - id: 'burton%1:18:01::'
+      synset: 10894836-n
+    - id: 'burton%1:18:00::'
+      synset: 10894694-n
 Burundi:
   a:
     sense:
     - id: 'burundi%3:01:00::'
       pertainym:
       - 'burundi%1:15:00::'
+  n:
+    sense:
+    - derivation:
+      - 'burundian%3:01:00::'
+      id: 'burundi%1:15:00::'
+      synset: 08734052-n
 Burundian:
   a:
     sense:
@@ -292,6 +421,11 @@ betulaceous:
     - id: 'betulaceous%3:01:00::'
       pertainym:
       - 'betulaceae%1:20:00::'
+big board:
+  n:
+    sense:
+    - id: 'big_board%1:06:01::'
+      synset: 03828491-n
 bignoniaceous:
   a:
     sense:

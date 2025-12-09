@@ -13,6 +13,11 @@ Yemeni:
     - id: 'yemeni%3:01:00::'
       pertainym:
       - 'yemen%1:15:00::'
+Yenisei:
+  n:
+    sense:
+    - id: 'yenisei%1:17:00::'
+      synset: 09505460-n
 Yugoslav:
   a:
     sense:
@@ -28,3 +33,8 @@ Yugoslavian:
     - id: 'yugoslavian%3:01:00::'
       pertainym:
       - 'yugoslavia%1:15:00::'
+Yuma:
+  n:
+    sense:
+    - id: 'yuma%1:15:00::'
+      synset: 09081588-n

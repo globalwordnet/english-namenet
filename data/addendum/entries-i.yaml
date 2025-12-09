@@ -1,3 +1,18 @@
+IAA:
+  n:
+    sense:
+    - id: 'iaa%1:14:00::'
+      synset: 08041865-n
+ID:
+  n:
+    sense:
+    - id: 'id%1:15:00::'
+      synset: 09103738-n
+IRA:
+  n:
+    sense:
+    - id: 'ira%1:14:00::'
+      synset: 08041485-n
 Iberian:
   a:
     sense:
@@ -29,6 +44,16 @@ Icelandic:
     - id: 'icelandic%3:01:00::'
       pertainym:
       - 'iceland%1:15:00::'
+Illinois:
+  n:
+    sense:
+    - id: 'illinois%1:15:00::'
+      synset: 09105071-n
+Inca:
+  n:
+    sense:
+    - id: 'inca%1:14:00::'
+      synset: 08505843-n
 Incan:
   a:
     sense:
@@ -44,6 +69,11 @@ Indian:
     - id: 'indian%3:01:00::'
       pertainym:
       - 'india%1:15:00::'
+Indiana:
+  n:
+    sense:
+    - id: 'indiana%1:15:00::'
+      synset: 09107288-n
 Indonesian:
   a:
     sense:
@@ -53,6 +83,11 @@ Indonesian:
     - id: 'indonesian%3:01:00::'
       pertainym:
       - 'indonesia%1:15:00::'
+Inka:
+  n:
+    sense:
+    - id: 'inka%1:14:00::'
+      synset: 08505843-n
 Ionian:
   a:
     sense:
@@ -65,6 +100,11 @@ Ionic:
     - id: 'ionic%3:01:01::'
       pertainym:
       - 'ionia%1:15:00::'
+Iowa:
+  n:
+    sense:
+    - id: 'iowa%1:15:00::'
+      synset: 09108718-n
 Iraki:
   a:
     sense:
@@ -102,6 +142,11 @@ Irish:
     - id: 'irish%3:01:00::'
       pertainym:
       - 'ireland%1:15:00::'
+Ishmael:
+  n:
+    sense:
+    - id: 'ishmael%1:18:00::'
+      synset: 11094563-n
 Israeli:
   a:
     sense:

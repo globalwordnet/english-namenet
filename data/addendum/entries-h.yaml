@@ -4,6 +4,17 @@ Hadean:
     - derivation:
       - 'hades%1:18:00::'
       id: hadean%5:00:00:infernal:00
+  n:
+    sense:
+    - id: 'hadean%1:28:00::'
+      synset: 15154524-n
+Hades:
+  n:
+    sense:
+    - derivation:
+      - hadean%5:00:00:infernal:00
+      id: 'hades%1:18:00::'
+      synset: 09593427-n
 Haitian:
   a:
     sense:
@@ -13,6 +24,18 @@ Haitian:
     - id: 'haitian%3:01:00::'
       pertainym:
       - 'haiti%1:15:00::'
+Hampshire:
+  n:
+    sense:
+    - id: 'hampshire%1:15:00::'
+      synset: 08902592-n
+Handel:
+  n:
+    sense:
+    - derivation:
+      - 'handelian%3:01:00::'
+      id: 'handel%1:18:00::'
+      synset: 11047627-n
 Handelian:
   a:
     sense:
@@ -22,6 +45,23 @@ Handelian:
     - id: 'handelian%3:01:00::'
       pertainym:
       - 'handel%1:18:00::'
+Hanover:
+  n:
+    sense:
+    - id: 'hanover%1:15:00::'
+      synset: 08791512-n
+Hare Krishna:
+  n:
+    sense:
+    - id: 'hare_krishna%1:10:00::'
+      synset: 07048566-n
+Hart:
+  n:
+    sense:
+    - id: 'hart%1:18:01::'
+      synset: 11052696-n
+    - id: 'hart%1:18:00::'
+      synset: 11052537-n
 Hawaiian:
   a:
     sense:
@@ -33,6 +73,16 @@ Hawaiian:
       pertainym:
       - 'hawaii%1:15:00::'
       - 'hawaii%1:15:01::'
+Haydn:
+  n:
+    sense:
+    - id: 'haydn%1:18:00::'
+      synset: 11055776-n
+Hebrews:
+  n:
+    sense:
+    - id: 'hebrews%1:10:00::'
+      synset: 06458146-n
 Hebridean:
   a:
     sense:
@@ -129,6 +179,11 @@ Hollander:
     - derivation:
       - 'holland%1:15:00::'
       id: 'hollander%1:18:00::'
+Hollywood:
+  n:
+    sense:
+    - id: 'hollywood%1:15:00::'
+      synset: 09086427-n
 Homeric:
   a:
     sense:
@@ -144,6 +199,17 @@ Honduran:
     - id: 'honduran%3:01:00::'
       pertainym:
       - 'honduras%1:15:00::'
+Hoover:
+  n:
+    sense:
+    - derivation:
+      - 'hoover%2:35:00::'
+      id: 'hoover%1:18:02::'
+      synset: 11079074-n
+    - id: 'hoover%1:18:01::'
+      synset: 11078909-n
+    - id: 'hoover%1:18:00::'
+      synset: 11078628-n
 Hugoesque:
   a:
     sense:
@@ -177,6 +243,11 @@ Huxleyan:
     - id: 'huxleyan%3:01:00::'
       pertainym:
       - 'huxley%1:18:00::'
+Hydra:
+  n:
+    sense:
+    - id: 'hydra%1:17:00::'
+      synset: 09330458-n
 heliac:
   a:
     sense:
@@ -213,3 +284,8 @@ hymenopterous:
     - id: 'hymenopterous%3:01:00::'
       pertainym:
       - 'hymenoptera%1:05:00::'
+hypostasis:
+  n:
+    sense:
+    - id: 'hypostasis%1:18:00::'
+      synset: 09561132-n

@@ -161,6 +161,8 @@ if __name__ == "__main__":
                                     del sense[rel]
                                 if sense["synset"] not in instance_entries:
                                     new_senses.append(sense)
+                                else:
+                                    addendum_entries[filename][key].setdefault(pos, {}).setdefault("sense", []).append(sense)
                             by_pos["sense"] = new_senses
                             if not by_pos["sense"]:
                                 pos_to_del.append(pos)

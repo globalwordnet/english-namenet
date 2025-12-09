@@ -1,3 +1,18 @@
+U.S.:
+  n:
+    sense:
+    - id: 'u.s.%1:15:00::'
+      synset: 09067337-n
+USA:
+  n:
+    sense:
+    - id: 'usa%1:15:00::'
+      synset: 09067337-n
+UT:
+  n:
+    sense:
+    - id: 'ut%1:15:00::'
+      synset: 09169783-n
 Ugandan:
   a:
     sense:
@@ -13,6 +28,21 @@ Ukrainian:
     - id: 'ukrainian%3:01:00::'
       pertainym:
       - 'ukraine%1:15:00::'
+Uncle Tom:
+  n:
+    sense:
+    - id: 'uncle_tom%1:18:01::'
+      synset: 09627401-n
+Union:
+  n:
+    sense:
+    - id: 'union%1:15:00::'
+      synset: 09074770-n
+United States:
+  n:
+    sense:
+    - id: 'united_states%1:15:00::'
+      synset: 09067337-n
 Uruguayan:
   a:
     sense:
@@ -22,6 +52,13 @@ Uruguayan:
     - id: 'uruguayan%3:01:00::'
       pertainym:
       - 'uruguay%1:15:00::'
+Utopia:
+  n:
+    sense:
+    - derivation:
+      - 'utopian%3:01:00::'
+      id: 'utopia%1:10:00::'
+      synset: 07297903-n
 Utopian:
   a:
     sense:
@@ -31,6 +68,11 @@ Utopian:
     - id: 'utopian%3:01:00::'
       pertainym:
       - 'utopia%1:10:00::'
+Uzbek:
+  n:
+    sense:
+    - id: 'uzbek%1:15:00::'
+      synset: 09044635-n
 Uzbekistani:
   a:
     sense:

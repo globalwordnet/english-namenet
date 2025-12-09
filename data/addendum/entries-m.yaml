@@ -1,3 +1,28 @@
+MA:
+  n:
+    sense:
+    - id: 'ma%1:15:00::'
+      synset: 09117607-n
+MD:
+  n:
+    sense:
+    - id: 'md%1:15:00::'
+      synset: 09116186-n
+MI:
+  n:
+    sense:
+    - id: 'mi%1:15:00::'
+      synset: 09122118-n
+MS:
+  n:
+    sense:
+    - id: 'ms%1:15:00::'
+      synset: 09126551-n
+MT:
+  n:
+    sense:
+    - id: 'mt%1:15:00::'
+      synset: 09130786-n
 Macedonian:
   a:
     sense:
@@ -26,6 +51,23 @@ Madagascan:
     - id: 'madagascan%3:01:00::'
       pertainym:
       - 'madagascar%1:15:00::'
+Madeira:
+  n:
+    sense:
+    - id: 'madeira%1:17:00::'
+      synset: 09368024-n
+    - id: 'madeira%1:15:00::'
+      synset: 09007929-n
+Mae West:
+  n:
+    sense:
+    - id: 'mae_west%1:18:00::'
+      synset: 11402273-n
+Mahabharata:
+  n:
+    sense:
+    - id: 'mahabharata%1:10:00::'
+      synset: 06443166-n
 Mahdism:
   n:
     sense:
@@ -117,6 +159,11 @@ Mancunian:
     - id: 'mancunian%3:01:00::'
       pertainym:
       - 'manchester%1:15:00::'
+Manhattan Project:
+  n:
+    sense:
+    - id: 'manhattan_project%1:04:00::'
+      synset: 00821893-n
 Manx:
   a:
     sense:
@@ -144,6 +191,10 @@ Maroc:
     - id: 'maroc%3:01:00::'
       pertainym:
       - 'morocco%1:15:00::'
+  n:
+    sense:
+    - id: 'maroc%1:15:00::'
+      synset: 08991642-n
 Martian:
   a:
     sense:
@@ -153,6 +204,22 @@ Martian:
     - id: 'martian%3:01:00::'
       pertainym:
       - 'mars%1:17:00::'
+Mason:
+  n:
+    sense:
+    - id: 'mason%1:18:04::'
+      synset: 11183150-n
+    - id: 'mason%1:18:03::'
+      synset: 11183031-n
+    - id: 'mason%1:18:02::'
+      synset: 11182905-n
+Massachusetts:
+  n:
+    sense:
+    - id: 'massachusetts%1:15:00::'
+      synset: 09117607-n
+    - id: 'massachusetts%1:15:01::'
+      synset: 09118198-n
 Mauritanian:
   a:
     sense:
@@ -174,6 +241,11 @@ Mauritian:
       pertainym:
       - 'mauritius%1:15:01::'
       - 'mauritius%1:15:00::'
+Mauser:
+  n:
+    sense:
+    - id: 'mauser%1:18:00::'
+      synset: 11185844-n
 Mediterranean:
   a:
     sense:
@@ -183,6 +255,12 @@ Mediterranean:
     - id: 'mediterranean%3:01:00::'
       pertainym:
       - 'mediterranean%1:17:00::'
+  n:
+    sense:
+    - derivation:
+      - 'mediterranean%3:01:00::'
+      id: 'mediterranean%1:17:00::'
+      synset: 09372942-n
 Melanesian:
   a:
     sense:
@@ -222,6 +300,15 @@ Mesozoic:
     - id: 'mesozoic%3:01:00::'
       pertainym:
       - 'mesozoic%1:28:00::'
+  n:
+    sense:
+    - id: 'mesozoic%1:28:00::'
+      synset: 15151127-n
+Methuselah:
+  n:
+    sense:
+    - id: 'methuselah%1:18:00::'
+      synset: 11197360-n
 Mexican:
   a:
     sense:
@@ -231,12 +318,24 @@ Mexican:
     - id: 'mexican%3:01:00::'
       pertainym:
       - 'mexico%1:15:00::'
+Miami:
+  n:
+    sense:
+    - id: 'miami%1:15:00::'
+      synset: 09096202-n
 Michelangelesque:
   a:
     sense:
     - id: 'michelangelesque%3:01:00::'
       pertainym:
       - 'michelangelo%1:18:00::'
+Michigan:
+  n:
+    sense:
+    - id: 'michigan%1:15:00::'
+      synset: 09122118-n
+    - id: 'michigan%1:17:00::'
+      synset: 09354956-n
 Middle Eastern:
   a:
     sense:
@@ -249,6 +348,11 @@ Milanese:
     - id: 'milanese%3:01:00::'
       pertainym:
       - 'milan%1:15:00::'
+Min:
+  n:
+    sense:
+    - id: 'min%1:18:00::'
+      synset: 09535746-n
 Minoan:
   a:
     sense:
@@ -261,12 +365,34 @@ Mishnaic:
     - id: 'mishnaic%3:01:00::'
       pertainym:
       - 'mishna%1:10:00::'
+Mississippian:
+  n:
+    sense:
+    - id: 'mississippian%1:28:00::'
+      synset: 15152681-n
+Missouri:
+  n:
+    sense:
+    - id: 'missouri%1:15:00::'
+      synset: 09128437-n
+    - id: 'missouri%1:17:00::'
+      synset: 09379217-n
 Mohammedan:
   a:
     sense:
     - id: 'mohammedan%3:01:00::'
       pertainym:
       - 'mohammed%1:18:00::'
+Mohave:
+  n:
+    sense:
+    - id: 'mohave%1:15:00::'
+      synset: 09193893-n
+Mojave:
+  n:
+    sense:
+    - id: 'mojave%1:15:00::'
+      synset: 09193893-n
 Moldovan:
   a:
     sense:
@@ -276,6 +402,11 @@ Moldovan:
     - id: 'moldovan%3:01:00::'
       pertainym:
       - 'moldova%1:15:00::'
+Moloch:
+  n:
+    sense:
+    - id: 'moloch%1:18:01::'
+      synset: 09542589-n
 Monacan:
   a:
     sense:
@@ -318,18 +449,48 @@ Mongoloid:
     - id: 'mongoloid%3:01:01::'
       pertainym:
       - 'mongolia%1:15:01::'
+Montenegro:
+  n:
+    sense:
+    - id: 'montenegro%1:15:00::'
+      synset: 08835087-n
 Montserratian:
   a:
     sense:
     - derivation:
       - 'montserrat%1:15:00::'
       id: 'montserratian%3:01:00::'
+Moon:
+  n:
+    sense:
+    - id: 'moon%1:17:01::'
+      synset: 09381255-n
+    - id: 'moon%1:18:00::'
+      synset: 11209044-n
 Moravian:
   a:
     sense:
     - id: 'moravian%3:01:00::'
       pertainym:
       - 'moravia%1:15:00::'
+Morgan:
+  n:
+    sense:
+    - id: 'morgan%1:18:04::'
+      synset: 11211103-n
+    - id: 'morgan%1:18:03::'
+      synset: 11210944-n
+    - id: 'morgan%1:18:02::'
+      synset: 11210764-n
+    - id: 'morgan%1:18:01::'
+      synset: 11210582-n
+    - id: 'morgan%1:18:00::'
+      synset: 11210436-n
+Mormon:
+  n:
+    sense:
+    - id: 'mormon%1:18:00::'
+      synset: 11211465-n
 Moroccan:
   a:
     sense:
@@ -339,12 +500,21 @@ Moroccan:
     - id: 'moroccan%3:01:00::'
       pertainym:
       - 'morocco%1:15:00::'
+Morse:
+  n:
+    sense:
+    - id: 'morse%1:18:00::'
+      synset: 11212656-n
 Mosaic:
   a:
     sense:
     - id: 'mosaic%3:01:00::'
       pertainym:
       - 'moses%1:18:00::'
+  n:
+    sense:
+    - id: 'mosaic%1:10:00::'
+      synset: 06583966-n
 Mozambican:
   a:
     sense:
@@ -357,6 +527,14 @@ Mozambican:
     - derivation:
       - 'mozambique%1:15:00::'
       id: 'mozambican%3:01:00::'
+Mozart:
+  n:
+    sense:
+    - derivation:
+      - 'mozartian%3:01:00::'
+      - 'mozartean%3:01:00::'
+      id: 'mozart%1:18:00::'
+      synset: 11214345-n
 Mozartean:
   a:
     sense:
@@ -381,6 +559,11 @@ Muhammadan:
     - id: 'muhammadan%3:01:00::'
       pertainym:
       - 'muhammad%1:18:00::'
+Muskogee:
+  n:
+    sense:
+    - id: 'muskogee%1:15:00::'
+      synset: 09155162-n
 Mycenaean:
   a:
     sense:
@@ -482,6 +665,11 @@ moneran:
     - id: 'moneran%3:01:00::'
       pertainym:
       - 'monera%1:05:00::'
+moon:
+  n:
+    sense:
+    - id: 'moon%1:17:03::'
+      synset: 09381255-n
 moraceous:
   a:
     sense:

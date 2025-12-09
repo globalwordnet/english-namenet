@@ -1,3 +1,13 @@
+CO:
+  n:
+    sense:
+    - id: 'co%1:15:00::'
+      synset: 09089754-n
+CT:
+  n:
+    sense:
+    - id: 'ct%1:15:00::'
+      synset: 09090929-n
 Caesarean:
   a:
     sense:
@@ -52,6 +62,10 @@ Cambrian:
     - id: 'cambrian%3:01:00::'
       pertainym:
       - 'cambria%1:15:00::'
+  n:
+    sense:
+    - id: 'cambrian%1:28:00::'
+      synset: 15153501-n
 Cameroonian:
   a:
     sense:
@@ -70,6 +84,19 @@ Canadian:
     - id: 'canadian%3:01:00::'
       pertainym:
       - 'canada%1:15:00::'
+  n:
+    sense:
+    - id: 'canadian%1:17:00::'
+      synset: 09254797-n
+Cancer:
+  n:
+    sense:
+    - id: 'cancer%1:17:00::'
+      synset: 09255594-n
+    - id: 'cancer%1:15:00::'
+      synset: 08704396-n
+    - id: 'cancer%1:05:00::'
+      synset: 01980473-n
 Cantabrigian:
   a:
     sense:
@@ -92,6 +119,13 @@ Cappadocian:
     - id: 'cappadocian%3:01:00::'
       pertainym:
       - 'cappadocia%1:15:00::'
+Capricorn:
+  n:
+    sense:
+    - id: 'capricorn%1:17:00::'
+      synset: 09258620-n
+    - id: 'capricorn%1:15:00::'
+      synset: 08705447-n
 Carolean:
   a:
     sense:
@@ -135,6 +169,11 @@ Carthaginian:
     - id: 'carthaginian%3:01:00::'
       pertainym:
       - 'carthage%1:15:00::'
+Casanova:
+  n:
+    sense:
+    - id: 'casanova%1:18:00::'
+      synset: 10905746-n
 Catalan:
   a:
     sense:
@@ -172,6 +211,15 @@ Cenozoic:
     - id: 'cenozoic%3:01:00::'
       pertainym:
       - 'cenozoic%1:28:00::'
+  n:
+    sense:
+    - id: 'cenozoic%1:28:00::'
+      synset: 15149313-n
+Central America:
+  n:
+    sense:
+    - id: 'central_america%1:15:00::'
+      synset: 08753538-n
 Central American:
   a:
     sense:
@@ -184,6 +232,20 @@ Ceylonese:
     - id: 'ceylonese%3:01:00::'
       pertainym:
       - 'ceylon%1:15:00::'
+Chablis:
+  n:
+    sense:
+    - id: 'chablis%1:15:00::'
+      synset: 08955154-n
+Chad:
+  n:
+    sense:
+    - id: 'chad%1:17:00::'
+      synset: 09353373-n
+    - derivation:
+      - 'chadian%3:01:00::'
+      id: 'chad%1:15:00::'
+      synset: 08737870-n
 Chadian:
   a:
     sense:
@@ -193,6 +255,11 @@ Chadian:
     - id: 'chadian%3:01:00::'
       pertainym:
       - 'chad%1:15:00::'
+Chalcedon:
+  n:
+    sense:
+    - id: 'chalcedon%1:15:00::'
+      synset: 09063674-n
 Chaldaean:
   a:
     sense:
@@ -219,12 +286,29 @@ Chaldee:
     - id: 'chaldee%3:01:00::'
       pertainym:
       - 'chaldea%1:15:00::'
+Charleston:
+  n:
+    sense:
+    - id: 'charleston%1:15:01::'
+      synset: 09178569-n
+    - id: 'charleston%1:15:00::'
+      synset: 09161253-n
+Chateaubriand:
+  n:
+    sense:
+    - id: 'chateaubriand%1:18:00::'
+      synset: 10913582-n
 Chechen:
   a:
     sense:
     - id: 'chechen%3:01:00::'
       pertainym:
       - 'chechnya%1:15:00::'
+Cheyenne:
+  n:
+    sense:
+    - id: 'cheyenne%1:15:00::'
+      synset: 09182468-n
 Chian:
   a:
     sense:
@@ -234,6 +318,18 @@ Chian:
     - id: 'chian%3:01:00::'
       pertainym:
       - 'chios%1:15:00::'
+Chicago:
+  n:
+    sense:
+    - id: 'chicago%1:15:00::'
+      synset: 09105928-n
+Chihuahua:
+  n:
+    sense:
+    - id: 'chihuahua%1:15:01::'
+      synset: 08760411-n
+    - id: 'chihuahua%1:15:00::'
+      synset: 08760288-n
 Chilean:
   a:
     sense:
@@ -255,6 +351,17 @@ Chippendale:
     - id: 'chippendale%3:01:00::'
       pertainym:
       - 'chippendale%1:18:00::'
+  n:
+    sense:
+    - id: 'chippendale%1:18:00::'
+      synset: 10915798-n
+Chopin:
+  n:
+    sense:
+    - id: 'chopin%1:18:01::'
+      synset: 10916575-n
+    - id: 'chopin%1:18:00::'
+      synset: 10916396-n
 Christian:
   a:
     sense:
@@ -270,6 +377,16 @@ Churchillian:
     - id: 'churchillian%3:01:00::'
       pertainym:
       - 'churchill%1:18:00::'
+Cinderella:
+  n:
+    sense:
+    - id: 'cinderella%1:18:01::'
+      synset: 09615147-n
+Coeur d'Alene:
+  n:
+    sense:
+    - id: 'coeur_d''alene%1:15:00::'
+      synset: 09104219-n
 Coleridgean:
   a:
     sense:
@@ -297,6 +414,11 @@ Colombian:
     - id: 'colombian%3:01:00::'
       pertainym:
       - 'colombia%1:15:00::'
+Colonel Blimp:
+  n:
+    sense:
+    - id: 'colonel_blimp%1:18:01::'
+      synset: 09615321-n
 Columbian:
   a:
     sense:
@@ -318,6 +440,16 @@ Congolese:
     - id: 'congolese%3:01:00::'
       pertainym:
       - 'congo%1:15:00::'
+Constance:
+  n:
+    sense:
+    - id: 'constance%1:17:00::'
+      synset: 09275672-n
+Constantinople:
+  n:
+    sense:
+    - id: 'constantinople%1:15:00::'
+      synset: 09064260-n
 Continental:
   a:
     sense:
@@ -333,6 +465,11 @@ Cornish:
     - id: 'cornish%3:01:00::'
       pertainym:
       - 'cornwall%1:15:00::'
+Corpus Christi:
+  n:
+    sense:
+    - id: 'corpus_christi%1:15:00::'
+      synset: 09166386-n
 Corsican:
   a:
     sense:
@@ -352,6 +489,16 @@ Costa Rican:
     - id: 'costa_rican%3:01:00::'
       pertainym:
       - 'costa_rica%1:15:00::'
+Coventry:
+  n:
+    sense:
+    - id: 'coventry%1:15:00::'
+      synset: 08900094-n
+Crab:
+  n:
+    sense:
+    - id: 'crab%1:15:00::'
+      synset: 08704396-n
 Cretaceous:
   a:
     sense:
@@ -361,6 +508,17 @@ Cretaceous:
     - id: 'cretaceous%3:01:00::'
       pertainym:
       - 'cretaceous%1:28:00::'
+  n:
+    sense:
+    - derivation:
+      - 'cretaceous%3:01:00::'
+      id: 'cretaceous%1:28:00::'
+      synset: 15151313-n
+Crna Gora:
+  n:
+    sense:
+    - id: 'crna_gora%1:15:00::'
+      synset: 08835087-n
 Croatian:
   a:
     sense:
@@ -370,6 +528,11 @@ Croatian:
     - id: 'croatian%3:01:00::'
       pertainym:
       - 'croatia%1:15:00::'
+Croesus:
+  n:
+    sense:
+    - id: 'croesus%1:18:00::'
+      synset: 10935524-n
 Cromwellian:
   a:
     sense:
@@ -379,6 +542,11 @@ Cromwellian:
     - id: 'cromwellian%3:01:00::'
       pertainym:
       - 'cromwell%1:18:00::'
+Crow:
+  n:
+    sense:
+    - id: 'crow%1:17:00::'
+      synset: 09280335-n
 Cuban:
   a:
     sense:
@@ -389,6 +557,11 @@ Cuban:
     - id: 'cuban%3:01:00::'
       pertainym:
       - 'cuba%1:15:00::'
+Cyclades:
+  n:
+    sense:
+    - id: 'cyclades%1:15:00::'
+      synset: 08801001-n
 Cyprian:
   a:
     sense:

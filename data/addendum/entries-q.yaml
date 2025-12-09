@@ -4,9 +4,19 @@ Qatari:
     - id: 'qatari%3:01:00::'
       pertainym:
       - 'qatar%1:15:00::'
+Quai d'Orsay:
+  n:
+    sense:
+    - id: 'quai_d''orsay%1:15:00::'
+      synset: 08953543-n
 Quebecois:
   a:
     sense:
     - id: 'quebecois%3:01:00::'
       pertainym:
       - 'quebec%1:15:00::'
+Quechua:
+  n:
+    sense:
+    - id: 'quechua%1:14:00::'
+      synset: 08506131-n

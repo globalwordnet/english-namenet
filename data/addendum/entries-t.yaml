@@ -1,3 +1,23 @@
+TT:
+  n:
+    sense:
+    - id: 'tt%1:15:00::'
+      synset: 08856040-n
+Tabasco:
+  n:
+    sense:
+    - id: 'tabasco%1:15:00::'
+      synset: 08763520-n
+Tabernacle:
+  n:
+    sense:
+    - id: 'tabernacle%1:06:02::'
+      synset: 04385929-n
+Tadzhik:
+  n:
+    sense:
+    - id: 'tadzhik%1:15:00::'
+      synset: 09043331-n
 Tahitian:
   a:
     sense:
@@ -19,12 +39,22 @@ Taiwanese:
     - id: 'taiwanese%3:01:00::'
       pertainym:
       - 'taiwan%1:15:00::'
+Tajik:
+  n:
+    sense:
+    - id: 'tajik%1:15:00::'
+      synset: 09043331-n
 Tajikistani:
   a:
     sense:
     - id: 'tajikistani%3:01:00::'
       pertainym:
       - 'tajikistan%1:15:00::'
+Tammuz:
+  n:
+    sense:
+    - id: 'tammuz%1:18:00::'
+      synset: 09540627-n
 Tanzanian:
   a:
     sense:
@@ -34,6 +64,16 @@ Tanzanian:
     - id: 'tanzanian%3:01:00::'
       pertainym:
       - 'tanzania%1:15:00::'
+Taos:
+  n:
+    sense:
+    - id: 'taos%1:15:00::'
+      synset: 09139259-n
+Tarzan:
+  n:
+    sense:
+    - id: 'tarzan%1:18:00::'
+      synset: 09626935-n
 Tasmanian:
   a:
     sense:
@@ -44,6 +84,15 @@ Tasmanian:
     - id: 'tasmanian%3:01:00::'
       pertainym:
       - 'tasmania%1:15:01::'
+Taurus:
+  n:
+    sense:
+    - id: 'taurus%1:18:01::'
+      synset: 11221376-n
+    - id: 'taurus%1:17:00::'
+      synset: 09478436-n
+    - id: 'taurus%1:15:00::'
+      synset: 08704070-n
 Texan:
   a:
     sense:
@@ -59,6 +108,16 @@ Thai:
     - id: 'thai%3:01:00::'
       pertainym:
       - 'thailand%1:15:00::'
+Thalia:
+  n:
+    sense:
+    - id: 'thalia%1:18:00::'
+      synset: 09590309-n
+Thanatos:
+  n:
+    sense:
+    - id: 'thanatos%1:18:00::'
+      synset: 09578643-n
 Theban:
   a:
     sense:
@@ -98,6 +157,11 @@ Timorese:
     - id: 'timorese%3:01:00::'
       pertainym:
       - 'timor%1:15:00::'
+Titan:
+  n:
+    sense:
+    - id: 'titan%1:17:00::'
+      synset: 09482399-n
 Tobagonian:
   a:
     sense:
@@ -113,6 +177,18 @@ Togolese:
     - id: 'togolese%3:01:00::'
       pertainym:
       - 'togo%1:15:00::'
+Tom Thumb:
+  n:
+    sense:
+    - id: 'tom_thumb%1:18:01::'
+      synset: 10734860-n
+Tonga:
+  n:
+    sense:
+    - derivation:
+      - 'tongan%3:01:01::'
+      id: 'tonga%1:15:00::'
+      synset: 09059608-n
 Tongan:
   a:
     sense:
@@ -122,12 +198,23 @@ Tongan:
     - id: 'tongan%3:01:01::'
       pertainym:
       - 'tonga%1:15:00::'
+Torah:
+  n:
+    sense:
+    - id: 'torah%1:10:01::'
+      synset: 06463893-n
+    - id: 'torah%1:10:00::'
+      synset: 06463561-n
 Triassic:
   a:
     sense:
     - id: 'triassic%3:01:00::'
       pertainym:
       - 'triassic%1:28:00::'
+  n:
+    sense:
+    - id: 'triassic%1:28:00::'
+      synset: 15151702-n
 Trinidadian:
   a:
     sense:
@@ -152,6 +239,11 @@ Trotskyist:
     - derivation:
       - 'trotsky%1:18:00::'
       id: 'trotskyist%1:18:00::'
+Tudor:
+  n:
+    sense:
+    - id: 'tudor%1:18:00::'
+      synset: 11371672-n
 Tunisian:
   a:
     sense:
@@ -176,6 +268,10 @@ Turkmen:
     - id: 'turkmen%3:01:00::'
       pertainym:
       - 'turkmenistan%1:15:00::'
+  n:
+    sense:
+    - id: 'turkmen%1:15:00::'
+      synset: 09043873-n
 Tuscan:
   a:
     sense:
@@ -185,6 +281,11 @@ Tuscan:
     - id: 'tuscan%3:01:00::'
       pertainym:
       - 'tuscany%1:15:00::'
+Twin:
+  n:
+    sense:
+    - id: 'twin%1:17:00::'
+      synset: 09487465-n
 Tyrolean:
   a:
     sense:
@@ -218,6 +319,11 @@ terrestrial:
     - id: 'terrestrial%3:01:02::'
       pertainym:
       - 'earth%1:17:00::'
+the City:
+  n:
+    sense:
+    - id: 'the_city%1:15:00::'
+      synset: 08894500-n
 translunar:
   a:
     sense:
@@ -236,3 +342,8 @@ tropic:
     - derivation:
       - 'tropics%1:15:00::'
       id: tropic%5:00:00:equatorial:00
+trumpet vine:
+  n:
+    sense:
+    - id: 'trumpet_vine%1:20:01::'
+      synset: 12834995-n

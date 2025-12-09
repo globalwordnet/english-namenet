@@ -1,3 +1,13 @@
+PA:
+  n:
+    sense:
+    - id: 'pa%1:15:00::'
+      synset: 09157081-n
+PR:
+  n:
+    sense:
+    - id: 'pr%1:15:00::'
+      synset: 08770807-n
 Pacific:
   a:
     sense:
@@ -7,6 +17,22 @@ Pacific:
     - id: 'pacific%3:01:00::'
       pertainym:
       - 'pacific%1:17:00::'
+  n:
+    sense:
+    - derivation:
+      - 'pacific%3:01:00::'
+      id: 'pacific%1:17:00::'
+      synset: 09405883-n
+Pahlavi:
+  n:
+    sense:
+    - id: 'pahlavi%1:18:00::'
+      synset: 11240451-n
+Paipai:
+  n:
+    sense:
+    - id: 'paipai%1:14:01::'
+      synset: 08505260-n
 Pakistani:
   a:
     sense:
@@ -19,6 +45,10 @@ Paleozoic:
     - id: 'paleozoic%3:01:00::'
       pertainym:
       - 'paleozoic%1:28:00::'
+  n:
+    sense:
+    - id: 'paleozoic%1:28:00::'
+      synset: 15151883-n
 Palestinian:
   a:
     sense:
@@ -38,6 +68,13 @@ Palladian:
     - id: 'palladian%3:01:00::'
       pertainym:
       - 'palladio%1:18:00::'
+Panama:
+  n:
+    sense:
+    - derivation:
+      - 'panamanian%3:01:00::'
+      id: 'panama%1:15:00::'
+      synset: 08757039-n
 Panamanian:
   a:
     sense:
@@ -74,6 +111,11 @@ Parthian:
     - id: 'parthian%3:01:00::'
       pertainym:
       - 'parthia%1:15:00::'
+Pascal:
+  n:
+    sense:
+    - id: 'pascal%1:18:00::'
+      synset: 11244409-n
 Pasteurian:
   a:
     sense:
@@ -107,6 +149,21 @@ Peloponnesian:
     - id: 'peloponnesian%3:01:00::'
       pertainym:
       - 'peloponnesus%1:15:00::'
+Pennsylvanian:
+  n:
+    sense:
+    - id: 'pennsylvanian%1:28:00::'
+      synset: 15152459-n
+Penobscot:
+  n:
+    sense:
+    - id: 'penobscot%1:17:00::'
+      synset: 09412494-n
+Pentagon:
+  n:
+    sense:
+    - id: 'pentagon%1:06:00::'
+      synset: 03918615-n
 Persian:
   a:
     sense:
@@ -122,6 +179,11 @@ Peruvian:
     - id: 'peruvian%3:01:00::'
       pertainym:
       - 'peru%1:15:00::'
+Peter Pan:
+  n:
+    sense:
+    - id: 'peter_pan%1:18:00::'
+      synset: 09626002-n
 Philippine:
   a:
     sense:
@@ -134,6 +196,11 @@ Philistine:
     - id: 'philistine%3:01:00::'
       pertainym:
       - 'philistia%1:15:00::'
+Phoebe:
+  n:
+    sense:
+    - id: 'phoebe%1:18:00::'
+      synset: 09600486-n
 Phoenician:
   a:
     sense:
@@ -149,6 +216,18 @@ Piagetian:
     - id: 'piagetian%3:01:00::'
       pertainym:
       - 'piaget%1:18:00::'
+Pisces:
+  n:
+    sense:
+    - id: 'pisces%1:15:00::'
+      synset: 08705814-n
+    - id: 'pisces%1:17:00::'
+      synset: 09415717-n
+Pitot:
+  n:
+    sense:
+    - id: 'pitot%1:18:00::'
+      synset: 11256178-n
 Platonic:
   a:
     sense:
@@ -158,6 +237,21 @@ Platonic:
     - id: 'platonic%3:01:00::'
       pertainym:
       - 'plato%1:18:00::'
+Pleiades:
+  n:
+    sense:
+    - id: 'pleiades%1:17:00::'
+      synset: 09418656-n
+Plymouth Rock:
+  n:
+    sense:
+    - id: 'plymouth_rock%1:15:00::'
+      synset: 09121690-n
+Po:
+  n:
+    sense:
+    - id: 'po%1:17:00::'
+      synset: 09419025-n
 Polish:
   a:
     sense:
@@ -170,18 +264,38 @@ Polynesian:
     - id: 'polynesian%3:01:00::'
       pertainym:
       - 'polynesia%1:15:00::'
+Pontus:
+  n:
+    sense:
+    - id: 'pontus%1:15:00::'
+      synset: 08719533-n
 Portuguese:
   a:
     sense:
     - id: 'portuguese%3:01:00::'
       pertainym:
       - 'portugal%1:15:00::'
+Powhatan:
+  n:
+    sense:
+    - id: 'powhatan%1:18:01::'
+      synset: 11265372-n
+Prince Albert:
+  n:
+    sense:
+    - id: 'prince_albert%1:18:00::'
+      synset: 10831144-n
 Procrustean:
   a:
     sense:
     - id: 'procrustean%3:01:00::'
       pertainym:
       - 'procrustes%1:18:00::'
+Promised Land:
+  n:
+    sense:
+    - id: 'promised_land%1:15:02::'
+      synset: 08816234-n
 Proustian:
   a:
     sense:
@@ -209,6 +323,18 @@ Ptolemaic:
     - id: 'ptolemaic%3:01:00::'
       pertainym:
       - 'ptolemy%1:18:00::'
+Ptolemy:
+  n:
+    sense:
+    - derivation:
+      - 'ptolemaic%3:01:00::'
+      id: 'ptolemy%1:18:00::'
+      synset: 11267403-n
+Pueblo:
+  n:
+    sense:
+    - id: 'pueblo%1:15:01::'
+      synset: 09090805-n
 Pythagorean:
   a:
     sense:
@@ -218,6 +344,11 @@ Pythagorean:
     - id: 'pythagorean%3:01:00::'
       pertainym:
       - 'pythagoras%1:18:00::'
+Python:
+  n:
+    sense:
+    - id: 'python%1:18:00::'
+      synset: 09524330-n
 palaeolithic:
   a:
     sense:
@@ -251,12 +382,24 @@ perch:
     - derivation:
       - 'percher%1:05:00::'
       id: 'perch%2:35:00::'
+percher:
+  n:
+    sense:
+    - derivation:
+      - 'perch%2:35:00::'
+      id: 'percher%1:05:00::'
+      synset: 01526297-n
 peripatetic:
   a:
     sense:
     - id: 'peripatetic%3:01:00::'
       pertainym:
       - 'aristotle%1:18:00::'
+phoenix:
+  n:
+    sense:
+    - id: 'phoenix%1:20:00::'
+      synset: 12614587-n
 planetary:
   a:
     sense:
@@ -281,6 +424,11 @@ polemoniaceous:
     - id: 'polemoniaceous%3:01:00::'
       pertainym:
       - 'family_polemoniaceae%1:20:00::'
+pondweed:
+  n:
+    sense:
+    - id: 'pondweed%1:20:02::'
+      synset: 12635078-n
 postexilic:
   a:
     sense:

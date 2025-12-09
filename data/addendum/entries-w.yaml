@@ -1,3 +1,12 @@
+Wagner:
+  n:
+    sense:
+    - id: 'wagner%1:18:01::'
+      synset: 11390063-n
+    - derivation:
+      - 'wagnerian%3:01:00::'
+      id: 'wagner%1:18:00::'
+      synset: 11389829-n
 Wagnerian:
   a:
     sense:
@@ -7,6 +16,11 @@ Wagnerian:
     - id: 'wagnerian%3:01:00::'
       pertainym:
       - 'wagner%1:18:00::'
+Wall Street:
+  n:
+    sense:
+    - id: 'wall_street%1:15:00::'
+      synset: 09145446-n
 Washingtonian:
   a:
     sense:
@@ -34,6 +48,28 @@ Washingtonian:
     - id: 'washingtonian%3:01:00::'
       pertainym:
       - 'washington%1:15:00::'
+Wassermann:
+  n:
+    sense:
+    - id: 'wassermann%1:18:00::'
+      synset: 11395904-n
+Water Bearer:
+  n:
+    sense:
+    - id: 'water_bearer%1:15:00::'
+      synset: 08705622-n
+Wedgwood:
+  n:
+    sense:
+    - id: 'wedgwood%1:18:00::'
+      synset: 11399431-n
+Wellington:
+  n:
+    sense:
+    - id: 'wellington%1:18:00::'
+      synset: 11400918-n
+    - id: 'wellington%1:15:00::'
+      synset: 08995553-n
 Welsh:
   a:
     sense:
@@ -52,6 +88,38 @@ West African:
     - id: 'west_african%3:01:00::'
       pertainym:
       - 'west_africa%1:15:00::'
+White:
+  n:
+    sense:
+    - id: 'white%1:18:06::'
+      synset: 11404286-n
+    - id: 'white%1:18:05::'
+      synset: 11404154-n
+    - id: 'white%1:18:04::'
+      synset: 11404017-n
+    - id: 'white%1:18:03::'
+      synset: 11403912-n
+    - id: 'white%1:18:02::'
+      synset: 11403762-n
+    - id: 'white%1:18:01::'
+      synset: 11403541-n
+    - id: 'white%1:17:00::'
+      synset: 09501485-n
+White House:
+  n:
+    sense:
+    - id: 'white_house%1:06:00::'
+      synset: 04588063-n
+Whitehall:
+  n:
+    sense:
+    - id: 'whitehall%1:15:00::'
+      synset: 08614386-n
+Wichita:
+  n:
+    sense:
+    - id: 'wichita%1:15:00::'
+      synset: 09111547-n
 Wilsonian:
   a:
     sense:
@@ -61,12 +129,27 @@ Wilsonian:
     - id: 'wilsonian%3:01:00::'
       pertainym:
       - 'wilson%1:18:00::'
+Winchester:
+  n:
+    sense:
+    - id: 'winchester%1:15:00::'
+      synset: 08901086-n
+Windsor:
+  n:
+    sense:
+    - id: 'windsor%1:15:00::'
+      synset: 08847619-n
 Wittgensteinian:
   a:
     sense:
     - id: 'wittgensteinian%3:01:00::'
       pertainym:
       - 'wittgenstein%1:18:00::'
+Word:
+  n:
+    sense:
+    - id: 'word%1:18:00::'
+      synset: 09560255-n
 Wordsworthian:
   a:
     sense:
@@ -82,3 +165,8 @@ wade:
     - derivation:
       - 'wade%1:18:00::'
       id: 'wade%2:38:00::'
+world:
+  n:
+    sense:
+    - id: 'world%1:17:00::'
+      synset: 09293800-n

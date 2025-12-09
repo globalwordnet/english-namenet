@@ -4,6 +4,13 @@ Lamarckian:
     - derivation:
       - 'lamarck%1:18:00::'
       id: 'lamarckian%3:01:00::'
+Lancaster:
+  n:
+    sense:
+    - derivation:
+      - 'lancastrian%3:01:02::'
+      id: 'lancaster%1:15:00::'
+      synset: 08893496-n
 Lancastrian:
   a:
     sense:
@@ -76,12 +83,24 @@ Leibnizian:
     - id: 'leibnizian%3:01:00::'
       pertainym:
       - 'leibniz%1:18:00::'
+Leo:
+  n:
+    sense:
+    - id: 'leo%1:17:00::'
+      synset: 09360739-n
+    - id: 'leo%1:15:00::'
+      synset: 08704559-n
 Leonardesque:
   a:
     sense:
     - id: 'leonardesque%3:01:00::'
       pertainym:
       - 'leonardo%1:18:00::'
+Levant:
+  n:
+    sense:
+    - id: 'levant%1:15:00::'
+      synset: 08934932-n
 Levantine:
   a:
     sense:
@@ -97,6 +116,11 @@ Levitical:
     - id: 'levitical%3:01:00::'
       pertainym:
       - 'leviticus%1:10:00::'
+Lhasa:
+  n:
+    sense:
+    - id: 'lhasa%1:15:00::'
+      synset: 08927150-n
 Liberian:
   a:
     sense:
@@ -106,6 +130,13 @@ Liberian:
     - id: 'liberian%3:01:00::'
       pertainym:
       - 'liberia%1:15:00::'
+Libra:
+  n:
+    sense:
+    - id: 'libra%1:17:00::'
+      synset: 09362015-n
+    - id: 'libra%1:15:00::'
+      synset: 08704888-n
 Libyan:
   a:
     sense:
@@ -132,6 +163,21 @@ Lilliputian:
     - derivation:
       - 'lilliputian%1:18:00::'
       id: 'lilliputian%3:01:00::'
+  n:
+    sense:
+    - derivation:
+      - 'lilliputian%3:01:00::'
+      id: 'lilliputian%1:18:00::'
+      synset: 09624603-n
+Lincoln:
+  n:
+    sense:
+    - derivation:
+      - 'lincolnian%3:01:00::'
+      id: 'lincoln%1:18:00::'
+      synset: 11152452-n
+    - id: 'lincoln%1:15:00::'
+      synset: 09132519-n
 Lincolnesque:
   a:
     sense:
@@ -165,6 +211,11 @@ Linnean:
     - id: 'linnean%3:01:00::'
       pertainym:
       - 'linnaeus%1:18:00::'
+Lion:
+  n:
+    sense:
+    - id: 'lion%1:15:00::'
+      synset: 08704559-n
 Lithuanian:
   a:
     sense:
@@ -195,6 +246,16 @@ Lowlander:
     - derivation:
       - 'lowlands%1:15:00::'
       id: 'lowlander%1:18:00::'
+Lubavitch:
+  n:
+    sense:
+    - id: 'lubavitch%1:15:00::'
+      synset: 09034292-n
+Lucifer:
+  n:
+    sense:
+    - id: 'lucifer%1:18:00::'
+      synset: 09566482-n
 Lusitanian:
   a:
     sense:
@@ -241,6 +302,11 @@ Luxemburger:
       - 'luxemburg%1:15:01::'
       - 'luxemburg%1:15:00::'
       id: 'luxemburger%1:18:00::'
+Lyons:
+  n:
+    sense:
+    - id: 'lyons%1:15:00::'
+      synset: 08956420-n
 lacertilian:
   a:
     sense:
@@ -284,3 +350,8 @@ lunisolar:
       pertainym:
       - 'moon%1:17:01::'
       - 'sun%1:17:02::'
+lynx:
+  n:
+    sense:
+    - id: 'lynx%1:10:00::'
+      synset: 06583900-n

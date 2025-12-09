@@ -1,3 +1,8 @@
+NE:
+  n:
+    sense:
+    - id: 'ne%1:15:00::'
+      synset: 09132074-n
 Namibian:
   a:
     sense:
@@ -7,6 +12,18 @@ Namibian:
     - id: 'namibian%3:01:00::'
       pertainym:
       - 'namibia%1:15:00::'
+Nanna:
+  n:
+    sense:
+    - id: 'nanna%1:18:02::'
+      synset: 09543238-n
+Napoleon:
+  n:
+    sense:
+    - derivation:
+      - 'napoleonic%3:01:00::'
+      id: 'napoleon%1:18:00::'
+      synset: 11220266-n
 Napoleonic:
   a:
     sense:
@@ -70,12 +87,22 @@ New Caledonian:
     - id: 'new_caledonian%3:01:00::'
       pertainym:
       - 'new_caledonia%1:15:00::'
+New Deal:
+  n:
+    sense:
+    - id: 'new_deal%1:28:00::'
+      synset: 15286282-n
 New Zealander:
   a:
     sense:
     - id: 'new_zealander%3:01:00::'
       pertainym:
       - 'new_zealand%1:15:01::'
+Newfoundland:
+  n:
+    sense:
+    - id: 'newfoundland%1:15:01::'
+      synset: 08844203-n
 Newtonian:
   a:
     sense:
@@ -85,6 +112,18 @@ Newtonian:
     - id: 'newtonian%3:01:00::'
       pertainym:
       - 'newton%1:18:00::'
+Nibelung:
+  n:
+    sense:
+    - id: 'nibelung%1:18:01::'
+      synset: 09522986-n
+Nicaea:
+  n:
+    sense:
+    - derivation:
+      - 'nicaean%3:01:00::'
+      id: 'nicaea%1:15:00::'
+      synset: 08521172-n
 Nicaean:
   a:
     sense:
@@ -142,6 +181,12 @@ Norman:
     - id: 'norman%3:01:01::'
       pertainym:
       - 'normandy%1:15:00::'
+  n:
+    sense:
+    - id: 'norman%1:18:02::'
+      synset: 11229418-n
+    - id: 'norman%1:18:01::'
+      synset: 11229296-n
 Norse:
   a:
     sense:
@@ -154,6 +199,11 @@ North African:
     - id: 'north_african%3:01:00::'
       pertainym:
       - 'north_africa%1:15:00::'
+North America:
+  n:
+    sense:
+    - id: 'north_america%1:17:00::'
+      synset: 09395415-n
 North American:
   a:
     sense:

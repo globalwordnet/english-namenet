@@ -1,3 +1,8 @@
+Fahrenheit:
+  n:
+    sense:
+    - id: 'fahrenheit%1:18:00::'
+      synset: 10985143-n
 Falstaffian:
   a:
     sense:
@@ -7,6 +12,11 @@ Falstaffian:
     - id: 'falstaffian%3:01:00::'
       pertainym:
       - 'falstaff%1:18:00::'
+Father:
+  n:
+    sense:
+    - id: 'father%1:18:02::'
+      synset: 09560084-n
 Faustian:
   a:
     sense:
@@ -37,6 +47,23 @@ Finnish:
     - id: 'finnish%3:01:00::'
       pertainym:
       - 'finland%1:15:00::'
+Fish:
+  n:
+    sense:
+    - id: 'fish%1:15:00::'
+      synset: 08705814-n
+Fleet Street:
+  n:
+    sense:
+    - id: 'fleet_street%1:15:00::'
+      synset: 08589567-n
+Fleming:
+  n:
+    sense:
+    - id: 'fleming%1:18:02::'
+      synset: 10992977-n
+    - id: 'fleming%1:18:01::'
+      synset: 10992817-n
 Flemish:
   a:
     sense:
@@ -49,12 +76,24 @@ Florentine:
     - id: 'florentine%3:01:00::'
       pertainym:
       - 'florence%1:15:00::'
+Formica:
+  n:
+    sense:
+    - id: 'formica%1:05:00::'
+      synset: 02223892-n
 Formosan:
   a:
     sense:
     - derivation:
       - 'formosa%1:15:00::'
       id: 'formosan%3:01:00::'
+Fox:
+  n:
+    sense:
+    - id: 'fox%1:18:03::'
+      synset: 10996993-n
+    - id: 'fox%1:18:02::'
+      synset: 10996858-n
 Franciscan:
   a:
     sense:
@@ -64,12 +103,23 @@ Franciscan:
     - id: 'franciscan%3:01:00::'
       pertainym:
       - 'francis_of_assisi%1:18:00::'
+Frankenstein:
+  n:
+    sense:
+    - id: 'frankenstein%1:18:01::'
+      synset: 09622575-n
+    - id: 'frankenstein%1:18:00::'
+      synset: 09622369-n
 French:
   a:
     sense:
     - id: 'french%3:01:00::'
       pertainym:
       - 'france%1:15:00::'
+  n:
+    sense:
+    - id: 'french%1:18:01::'
+      synset: 11001746-n
 Freudian:
   a:
     sense:
@@ -110,3 +160,13 @@ filariid:
     - id: 'filariid%3:01:00::'
       pertainym:
       - 'family_filariidae%1:05:00::'
+fumeroot:
+  n:
+    sense:
+    - id: 'fumeroot%1:20:02::'
+      synset: 11925212-n
+fumewort:
+  n:
+    sense:
+    - id: 'fumewort%1:20:02::'
+      synset: 11925212-n

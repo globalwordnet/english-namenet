@@ -1,3 +1,10 @@
+Earth:
+  n:
+    sense:
+    - derivation:
+      - 'earthling%1:18:00::'
+      id: 'earth%1:17:00::'
+      synset: 09293800-n
 East African:
   a:
     sense:
@@ -37,6 +44,11 @@ Ecuadorian:
     - id: 'ecuadorian%3:01:00::'
       pertainym:
       - 'ecuador%1:15:00::'
+Edo:
+  n:
+    sense:
+    - id: 'edo%1:15:00::'
+      synset: 08943121-n
 Edwardian:
   a:
     sense:
@@ -56,6 +68,13 @@ Egyptian:
     - id: 'egyptian%3:01:00::'
       pertainym:
       - 'egypt%1:15:00::'
+Einstein:
+  n:
+    sense:
+    - derivation:
+      - 'einsteinian%3:01:00::'
+      id: 'einstein%1:18:00::'
+      synset: 10974490-n
 Einsteinian:
   a:
     sense:
@@ -65,6 +84,11 @@ Einsteinian:
     - id: 'einsteinian%3:01:00::'
       pertainym:
       - 'einstein%1:18:00::'
+El Nino:
+  n:
+    sense:
+    - id: 'el_nino%1:18:00::'
+      synset: 11104100-n
 Elizabethan:
   a:
     sense:
@@ -90,6 +114,11 @@ Ephesian:
     - id: 'ephesian%3:01:00::'
       pertainym:
       - 'ephesus%1:15:00::'
+Ephesus:
+  n:
+    sense:
+    - id: 'ephesus%1:15:00::'
+      synset: 08806178-n
 Epicurean:
   a:
     sense:
@@ -105,6 +134,13 @@ Erasmian:
     - id: 'erasmian%3:01:00::'
       pertainym:
       - 'erasmus%1:18:00::'
+Erie:
+  n:
+    sense:
+    - id: 'erie%1:17:00::'
+      synset: 09353972-n
+    - id: 'erie%1:15:00::'
+      synset: 09158148-n
 Eritrean:
   a:
     sense:
@@ -157,6 +193,18 @@ Eurasiatic:
     - id: 'eurasiatic%3:01:00::'
       pertainym:
       - 'eurasia%1:17:00::'
+Eureka:
+  n:
+    sense:
+    - id: 'eureka%1:15:00::'
+      synset: 09085595-n
+Europe:
+  n:
+    sense:
+    - derivation:
+      - 'european%3:01:00::'
+      id: 'europe%1:17:00::'
+      synset: 09298379-n
 European:
   a:
     sense:
@@ -166,6 +214,18 @@ European:
     - id: 'european%3:01:00::'
       pertainym:
       - 'europe%1:17:00::'
+Euryale:
+  n:
+    sense:
+    - id: 'euryale%1:05:00::'
+      synset: 02321089-n
+earth:
+  n:
+    sense:
+    - derivation:
+      - 'earthling%1:18:00::'
+      id: 'earth%1:17:02::'
+      synset: 09293800-n
 earthling:
   n:
     sense:
@@ -224,6 +284,11 @@ even-toed:
     - id: 'even-toed%3:01:00::'
       pertainym:
       - 'order_artiodactyla%1:05:00::'
+evensong:
+  n:
+    sense:
+    - id: 'evensong%1:10:00::'
+      synset: 06468429-n
 evert:
   v:
     sense:

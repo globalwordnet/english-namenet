@@ -25,15 +25,19 @@ def calculate_transitive_hyps(hyps):
                         changes += 1
     return hyps
 
-def load_wordnet_data(with_wd2data=False):
+def load_wordnet_data(with_wd2data=False, with_lexfiles=False):
     """
     Load WordNet data from YAML files and extract relevant information.
     """
     if os.path.exists("wordnet_data.pickle"):
         with open("wordnet_data.pickle", "rb") as f:
-            wikidata_links, hyps, wn_lemmas, wd2data = pickle.load(f)
-        if with_wd2data:
+            wikidata_links, hyps, wn_lemmas, wd2data, lexfiles = pickle.load(f)
+        if with_wd2data and with_lexfiles:
+            return wikidata_links, hyps, wn_lemmas, wd2data, lexfiles
+        elif with_wd2data:
             return wikidata_links, hyps, wn_lemmas, wd2data
+        elif with_lexfiles:
+            return wikidata_links, hyps, wn_lemmas, lexfiles
         else:
             return wikidata_links, hyps, wn_lemmas
     else:
@@ -41,12 +45,15 @@ def load_wordnet_data(with_wd2data=False):
         hyps = {}
         wn_lemmas = {}
         wd2data = {}
+        lexfiles = {}
 
         for file in tqdm(glob(f"{WORDNET_SOURCE}/src/yaml/[nva]*.yaml"), desc="Loading WordNet data"):
+            lexfile = file.split("/")[-1]
             data = yaml.safe_load(open(file, "r"))
             for ssid, entry in data.items():
                 wn_lemmas[ssid] = ", ".join(entry["members"])
                 hyps[ssid] = []
+                lexfiles[ssid] = lexfile
                 if "hypernym" in entry:
                     hyps[ssid] = entry["hypernym"]
                 if "instance_hypernym" in entry:
@@ -62,10 +69,14 @@ def load_wordnet_data(with_wd2data=False):
         hyps = calculate_transitive_hyps(hyps)
 
         with open("wordnet_data.pickle", "wb") as f:
-            pickle.dump((wikidata_links, hyps, wn_lemmas, wd2data), f)
+            pickle.dump((wikidata_links, hyps, wn_lemmas, wd2data, lexfiles), f)
 
-        if with_wd2data:
+        if with_wd2data and with_lexfiles:
+            return wikidata_links, hyps, wn_lemmas, wd2data, lexfiles
+        elif with_wd2data:
             return wikidata_links, hyps, wn_lemmas, wd2data
+        elif with_lexfiles:
+            return wikidata_links, hyps, wn_lemmas, lexfiles
         else:
             return wikidata_links, hyps, wn_lemmas
 

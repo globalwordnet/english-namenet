@@ -7,12 +7,22 @@ Jacksonian:
     - id: 'jacksonian%3:01:00::'
       pertainym:
       - 'andrew_jackson%1:18:00::'
+Jacob:
+  n:
+    sense:
+    - id: 'jacob%1:18:01::'
+      synset: 11097474-n
 Jacobean:
   a:
     sense:
     - id: 'jacobean%3:01:00::'
       pertainym:
       - 'james_i%1:18:00::'
+Jacquard:
+  n:
+    sense:
+    - id: 'jacquard%1:18:00::'
+      synset: 11098193-n
 Jamaican:
   a:
     sense:
@@ -38,6 +48,13 @@ Japanese:
     - id: 'japanese%3:01:00::'
       pertainym:
       - 'japan%1:15:00::'
+Java:
+  n:
+    sense:
+    - derivation:
+      - 'javan%3:01:00::'
+      id: 'java%1:15:00::'
+      synset: 08928021-n
 Javan:
   a:
     sense:
@@ -62,6 +79,25 @@ Jeffersonian:
     - id: 'jeffersonian%3:01:00::'
       pertainym:
       - 'jefferson%1:18:00::'
+Jersey:
+  n:
+    sense:
+    - id: 'jersey%1:15:00::'
+      synset: 09134928-n
+    - id: 'jersey%1:15:01::'
+      synset: 08907465-n
+Job:
+  n:
+    sense:
+    - id: 'job%1:18:00::'
+      synset: 11105392-n
+    - id: 'job%1:10:00::'
+      synset: 06448609-n
+John Hancock:
+  n:
+    sense:
+    - id: 'john_hancock%1:18:00::'
+      synset: 11047412-n
 Jordanian:
   a:
     sense:
@@ -86,6 +122,18 @@ Jovian:
     - id: 'jovian%3:01:01::'
       pertainym:
       - 'jupiter%1:18:00::'
+Judas:
+  n:
+    sense:
+    - id: 'judas%1:18:02::'
+      synset: 11114045-n
+    - id: 'judas%1:18:00::'
+      synset: 11113664-n
+Juggernaut:
+  n:
+    sense:
+    - id: 'juggernaut%1:18:00::'
+      synset: 09553647-n
 Julian:
   a:
     sense:
@@ -95,6 +143,10 @@ Julian:
     - id: 'julian%3:01:00::'
       pertainym:
       - 'julius_caesar%1:18:00::'
+  n:
+    sense:
+    - id: 'julian%1:18:00::'
+      synset: 11114302-n
 Jungian:
   a:
     sense:
@@ -110,3 +162,7 @@ Jurassic:
     - id: 'jurassic%3:01:00::'
       pertainym:
       - 'jurassic%1:28:00::'
+  n:
+    sense:
+    - id: 'jurassic%1:28:00::'
+      synset: 15151547-n
