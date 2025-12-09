@@ -1,5 +1,10 @@
 Earth:
   n:
+    pronunciation:
+    - value: ɜːθ
+      variety: GB
+    - value: ɝθ
+      variety: US
     sense:
     - derivation:
       - 'earthling%1:18:00::'
@@ -70,6 +75,8 @@ Egyptian:
       - 'egypt%1:15:00::'
 Einstein:
   n:
+    pronunciation:
+    - value: ˈaɪnstaɪn
     sense:
     - derivation:
       - 'einsteinian%3:01:00::'
@@ -136,6 +143,11 @@ Erasmian:
       - 'erasmus%1:18:00::'
 Erie:
   n:
+    pronunciation:
+    - value: ˈɪɹi
+      variety: US
+    - value: ˈɪəɹi
+      variety: GB
     sense:
     - id: 'erie%1:17:00::'
       synset: 09353972-n
@@ -195,6 +207,9 @@ Eurasiatic:
       - 'eurasia%1:17:00::'
 Eureka:
   n:
+    pronunciation:
+    - value: juˈɹikə
+      variety: US
     sense:
     - id: 'eureka%1:15:00::'
       synset: 09085595-n
@@ -221,6 +236,11 @@ Euryale:
       synset: 02321089-n
 earth:
   n:
+    pronunciation:
+    - value: ɜːθ
+      variety: GB
+    - value: ɝθ
+      variety: US
     sense:
     - derivation:
       - 'earthling%1:18:00::'

@@ -9,6 +9,8 @@ Jacksonian:
       - 'andrew_jackson%1:18:00::'
 Jacob:
   n:
+    pronunciation:
+    - value: ˈd͡ʒeɪkəb
     sense:
     - id: 'jacob%1:18:01::'
       synset: 11097474-n
@@ -50,6 +52,8 @@ Japanese:
       - 'japan%1:15:00::'
 Java:
   n:
+    pronunciation:
+    - value: ˈdʒɑːvə
     sense:
     - derivation:
       - 'javan%3:01:00::'
@@ -81,6 +85,11 @@ Jeffersonian:
       - 'jefferson%1:18:00::'
 Jersey:
   n:
+    pronunciation:
+    - value: ˈdʒɜːzi
+      variety: GB
+    - value: ˈdʒɝzi
+      variety: US
     sense:
     - id: 'jersey%1:15:00::'
       synset: 09134928-n
@@ -88,6 +97,12 @@ Jersey:
       synset: 08907465-n
 Job:
   n:
+    pronunciation:
+    - value: d͡ʒɒb
+      variety: GB
+    - value: d͡ʒɑb
+      variety: US
+    - value: dʒəʊb
     sense:
     - id: 'job%1:18:00::'
       synset: 11105392-n
@@ -95,6 +110,11 @@ Job:
       synset: 06448609-n
 John Hancock:
   n:
+    pronunciation:
+    - value: dʒɒn ˈhænkɒk
+      variety: GB
+    - value: dʒɑn ˈhænkɑk
+      variety: US
     sense:
     - id: 'john_hancock%1:18:00::'
       synset: 11047412-n
@@ -124,6 +144,8 @@ Jovian:
       - 'jupiter%1:18:00::'
 Judas:
   n:
+    pronunciation:
+    - value: ˈdʒuːdəs
     sense:
     - id: 'judas%1:18:02::'
       synset: 11114045-n
@@ -131,6 +153,11 @@ Judas:
       synset: 11113664-n
 Juggernaut:
   n:
+    pronunciation:
+    - value: ˈdʒʌ.ɡə.nɔːt
+      variety: GB
+    - value: ˈdʒʌ.ɡɚ.nɔt
+      variety: US
     sense:
     - id: 'juggernaut%1:18:00::'
       synset: 09553647-n

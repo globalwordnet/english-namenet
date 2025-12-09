@@ -201,6 +201,11 @@ Honduran:
       - 'honduras%1:15:00::'
 Hoover:
   n:
+    pronunciation:
+    - value: ˈhuːvə(ɹ)
+      variety: GB
+    - value: ˈhuvɚ
+      variety: US
     sense:
     - derivation:
       - 'hoover%2:35:00::'
@@ -245,6 +250,8 @@ Huxleyan:
       - 'huxley%1:18:00::'
 Hydra:
   n:
+    pronunciation:
+    - value: ˈhaɪdɹə
     sense:
     - id: 'hydra%1:17:00::'
       synset: 09330458-n
@@ -286,6 +293,11 @@ hymenopterous:
       - 'hymenoptera%1:05:00::'
 hypostasis:
   n:
+    pronunciation:
+    - value: haɪˈpɒstəsɪs
+      variety: GB
+    - value: haɪˈpɑstəsɪs
+      variety: US
     sense:
     - id: 'hypostasis%1:18:00::'
       synset: 09561132-n

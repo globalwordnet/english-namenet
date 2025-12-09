@@ -9,6 +9,13 @@ Babylonian:
       - 'babylon%1:15:00::'
 Bach:
   n:
+    pronunciation:
+    - value: bætʃ
+      variety: US
+    - value: batʃ
+      variety: GB
+    - value: bɛtʃ
+      variety: NZ
     sense:
     - id: 'bach%1:18:00::'
       synset: 10849825-n
@@ -29,11 +36,15 @@ Bahraini:
       - 'bahrain%1:15:01::'
 Balance:
   n:
+    pronunciation:
+    - value: ˈbæləns
     sense:
     - id: 'balance%1:15:00::'
       synset: 08704888-n
 Baldwin:
   n:
+    pronunciation:
+    - value: ˈbɔːldwɪn
     sense:
     - id: 'baldwin%1:18:01::'
       synset: 10851847-n
@@ -196,6 +207,8 @@ Bismarckian:
       - 'bismarck%1:18:00::'
 Black:
   n:
+    pronunciation:
+    - value: blæk
     sense:
     - id: 'black%1:18:02::'
       synset: 10871726-n
@@ -268,6 +281,11 @@ Boolean:
       - 'boole%1:18:00::'
 Bordeaux:
   n:
+    pronunciation:
+    - value: bɔɹˈdoʊ
+      variety: US
+    - value: bɔːˈdəʊ
+      variety: GB
     sense:
     - id: 'bordeaux%1:15:00::'
       synset: 08954305-n
@@ -293,6 +311,9 @@ Botswanan:
       - 'botswana%1:15:00::'
 Brahma:
   n:
+    pronunciation:
+    - value: ˈbɹɑmə
+      variety: US
     sense:
     - id: 'brahma%1:18:00::'
       synset: 09548056-n
@@ -338,6 +359,12 @@ Bruneian:
       - 'brunei%1:15:00::'
 Buddha:
   n:
+    pronunciation:
+    - value: ˈbʊdə
+      variety: GB
+    - value: ˈbudə
+      variety: US
+    - value: bʊdːʰə
     sense:
     - id: 'buddha%1:18:00::'
       synset: 09555346-n
@@ -357,6 +384,11 @@ Bull:
       synset: 08704070-n
 Burgundy:
   n:
+    pronunciation:
+    - value: ˈbɜ.ɡən.di
+      variety: GB
+    - value: ˈbɝ.ɡən.di
+      variety: US
     sense:
     - id: 'burgundy%1:15:00::'
       synset: 08960830-n
@@ -380,6 +412,8 @@ Burundi:
       pertainym:
       - 'burundi%1:15:00::'
   n:
+    pronunciation:
+    - value: bʊˈɹʊndi
     sense:
     - derivation:
       - 'burundian%3:01:00::'

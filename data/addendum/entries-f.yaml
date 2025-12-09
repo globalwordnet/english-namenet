@@ -1,5 +1,7 @@
 Fahrenheit:
   n:
+    pronunciation:
+    - value: fɑːɹənˈhaɪt
     sense:
     - id: 'fahrenheit%1:18:00::'
       synset: 10985143-n
@@ -14,6 +16,14 @@ Falstaffian:
       - 'falstaff%1:18:00::'
 Father:
   n:
+    pronunciation:
+    - value: ˈfɑːðə(ɹ)
+      variety: GB
+    - value: ˈfɑðɚ
+      variety: US
+    - value: ˈfaːðə
+      variety: AU
+    - value: ˈfæðəɹ
     sense:
     - id: 'father%1:18:02::'
       synset: 09560084-n
@@ -59,6 +69,8 @@ Fleet Street:
       synset: 08589567-n
 Fleming:
   n:
+    pronunciation:
+    - value: ˈflɛmɪŋ
     sense:
     - id: 'fleming%1:18:02::'
       synset: 10992977-n
@@ -89,6 +101,11 @@ Formosan:
       id: 'formosan%3:01:00::'
 Fox:
   n:
+    pronunciation:
+    - value: fɒks
+      variety: GB
+    - value: fɑks
+      variety: US
     sense:
     - id: 'fox%1:18:03::'
       synset: 10996993-n
@@ -117,6 +134,8 @@ French:
       pertainym:
       - 'france%1:15:00::'
   n:
+    pronunciation:
+    - value: fɹɛnt͡ʃ
     sense:
     - id: 'french%1:18:01::'
       synset: 11001746-n

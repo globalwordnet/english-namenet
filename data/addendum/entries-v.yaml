@@ -60,6 +60,11 @@ Vietnamese:
       - 'vietnam%1:15:00::'
 Virgin:
   n:
+    pronunciation:
+    - value: ˈvɝdʒɪn
+      variety: US
+    - value: ˈvɜːdʒɪn
+      variety: GB
     sense:
     - id: 'virgin%1:15:00::'
       synset: 08704717-n
@@ -70,6 +75,11 @@ Virgin Mary:
       synset: 11181402-n
 Virgo:
   n:
+    pronunciation:
+    - value: ˈvɜːɡəʊ
+      variety: GB
+    - value: ˈvɝɡoʊ
+      variety: US
     sense:
     - id: 'virgo%1:17:00::'
       synset: 09495106-n

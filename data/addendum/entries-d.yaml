@@ -5,6 +5,9 @@ DC:
       synset: 09092985-n
 Dakota:
   n:
+    pronunciation:
+    - value: dəˈkəʊtə
+      variety: GB
     sense:
     - id: 'dakota%1:15:00::'
       synset: 09075475-n
@@ -19,6 +22,8 @@ Dalmatian:
       - 'dalmatia%1:15:00::'
 Daniel:
   n:
+    pronunciation:
+    - value: ˈdænjəl
     sense:
     - id: 'daniel%1:18:01::'
       synset: 10941771-n
@@ -53,6 +58,11 @@ Darwinian:
       id: 'darwinian%3:01:00::'
 Delaware:
   n:
+    pronunciation:
+    - value: ˈdɛləweə(ɹ)
+      variety: GB
+    - value: ˈdɛləwɛɹ
+      variety: US
     sense:
     - id: 'delaware%1:17:00::'
       synset: 09287022-n
@@ -62,6 +72,9 @@ Delaware:
       synset: 09092353-n
 Delilah:
   n:
+    pronunciation:
+    - value: dɪˈlaɪlə
+      variety: GB
     sense:
     - id: 'delilah%1:18:00::'
       synset: 10948867-n
@@ -91,11 +104,18 @@ Demosthenic:
       - 'demosthenes%1:18:00::'
 Devon:
   n:
+    pronunciation:
+    - value: ˈdɛv.ən
     sense:
     - id: 'devon%1:15:00::'
       synset: 08902171-n
 Dewar:
   n:
+    pronunciation:
+    - value: ˈdjuːwə(ɹ)
+      variety: GB
+    - value: ˈduː.ɚ
+      variety: US
     sense:
     - id: 'dewar%1:18:00::'
       synset: 10952447-n
@@ -170,6 +190,11 @@ Don Juan:
       synset: 10959467-n
 Don Quixote:
   n:
+    pronunciation:
+    - value: ˌdɒn kiːˈhəʊtɪ
+      variety: GB
+    - value: ˌdɑn kiˈhoʊti
+      variety: US
     sense:
     - id: 'don_quixote%1:18:01::'
       synset: 09621544-n
@@ -238,6 +263,9 @@ Dunkirk:
       synset: 01280431-n
 Durham:
   n:
+    pronunciation:
+    - value: ˈdʌ.ɹəm
+      variety: GB
     sense:
     - id: 'durham%1:15:00::'
       synset: 09151209-n

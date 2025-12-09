@@ -5,11 +5,18 @@ U.S.:
       synset: 09067337-n
 USA:
   n:
+    pronunciation:
+    - value: juː ɛs ˈeɪ
+      variety: GB
+    - value: ˌju ˌɛs ˈeɪ
+      variety: US
     sense:
     - id: 'usa%1:15:00::'
       synset: 09067337-n
 UT:
   n:
+    pronunciation:
+    - value: ʌt
     sense:
     - id: 'ut%1:15:00::'
       synset: 09169783-n
@@ -35,6 +42,8 @@ Uncle Tom:
       synset: 09627401-n
 Union:
   n:
+    pronunciation:
+    - value: ˈjuːn.jən
     sense:
     - id: 'union%1:15:00::'
       synset: 09074770-n
@@ -54,6 +63,11 @@ Uruguayan:
       - 'uruguay%1:15:00::'
 Utopia:
   n:
+    pronunciation:
+    - value: juːˈtəʊ.pi.ə
+      variety: GB
+    - value: juˈtoʊ.pi.ə
+      variety: US
     sense:
     - derivation:
       - 'utopian%3:01:00::'

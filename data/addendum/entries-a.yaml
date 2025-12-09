@@ -17,6 +17,9 @@ Aberdonian:
       - 'aberdeen%1:15:00::'
 Abkhas:
   n:
+    pronunciation:
+    - value: æbˈkɑs
+      variety: US
     sense:
     - id: 'abkhas%1:14:00::'
       synset: 08504963-n
@@ -27,6 +30,9 @@ Abkhaz:
       pertainym:
       - 'abkhaz%1:15:00::'
   n:
+    pronunciation:
+    - value: ɑbˈkɑz
+      variety: US
     sense:
     - id: 'abkhaz%1:15:00::'
       synset: 09041725-n
@@ -57,6 +63,8 @@ Achomawi:
       synset: 08505091-n
 Adam:
   n:
+    pronunciation:
+    - value: ˈæ.dəm
     sense:
     - id: 'adam%1:18:00::'
       synset: 09609728-n
@@ -64,11 +72,15 @@ Adam:
       synset: 10827649-n
 Adonis:
   n:
+    pronunciation:
+    - value: əˈdoʊnɪs
     sense:
     - id: 'adonis%1:20:00::'
       synset: 11744998-n
 Advent:
   n:
+    pronunciation:
+    - value: ˈæd.vɛnt
     sense:
     - id: 'advent%1:11:00::'
       synset: 07337150-n
@@ -226,11 +238,19 @@ Alsatian:
       - 'alsace%1:15:00::'
 Amati:
   n:
+    pronunciation:
+    - value: ɑ.mɑ.ti
+      variety: US
     sense:
     - id: 'amati%1:18:00::'
       synset: 10835081-n
 Amazon:
   n:
+    pronunciation:
+    - value: ˈæ.mə.zən
+      variety: GB
+    - value: ˈæ.məˌzɑ.ːn
+      variety: US
     sense:
     - id: 'amazon%1:17:00::'
       synset: 09218250-n
@@ -299,6 +319,8 @@ Angolan:
       - 'angola%1:15:00::'
 Angora:
   n:
+    pronunciation:
+    - value: æŋˈɡɔːɹə
     sense:
     - id: 'angora%1:15:00::'
       synset: 09063076-n
@@ -358,6 +380,11 @@ Appalachian:
       id: 'appalachian%1:18:00::'
 Aquarius:
   n:
+    pronunciation:
+    - value: əˈkwɛəɹɪəs
+      variety: GB
+    - value: əˈkwɛɹɪəs
+      variety: US
     sense:
     - id: 'aquarius%1:17:00::'
       synset: 09224718-n
@@ -402,6 +429,11 @@ Arctic:
       - 'arctic%1:15:00::'
       id: arctic%5:00:00:polar:00
   n:
+    pronunciation:
+    - value: ˈɑː(k)tɪk
+      variety: GB
+    - value: ˈɑɹ(k)tɪk
+      variety: US
     sense:
     - derivation:
       - arctic%5:00:00:polar:00
@@ -443,6 +475,11 @@ Argive:
       id: 'argive%1:18:00::'
 Aries:
   n:
+    pronunciation:
+    - value: ˈɛəɹiːz
+      variety: GB
+    - value: ˈɛɹiz
+      variety: US
     sense:
     - id: 'aries%1:17:00::'
       synset: 09229021-n
@@ -553,6 +590,11 @@ Atlantic:
       pertainym:
       - 'atlantic%1:17:00::'
   n:
+    pronunciation:
+    - value: ətˈlæn.tɪk
+      variety: GB
+    - value: ætˈlæn.tɪk
+      variety: US
     sense:
     - derivation:
       - 'atlantic%3:01:00::'

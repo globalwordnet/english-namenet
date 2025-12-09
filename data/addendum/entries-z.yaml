@@ -55,6 +55,8 @@ Zoroastrian:
       - 'zoroaster%1:18:00::'
 Zulu:
   n:
+    pronunciation:
+    - value: ˈzuːluː
     sense:
     - id: 'zulu%1:14:00::'
       synset: 08506402-n

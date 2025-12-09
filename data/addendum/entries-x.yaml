@@ -1,5 +1,10 @@
 Xhosa:
   n:
+    pronunciation:
+    - value: ˈkoʊ.sə
+      variety: US
+    - value: ˈkəʊ.sə
+      variety: GB
     sense:
     - id: 'xhosa%1:14:00::'
       synset: 08506295-n

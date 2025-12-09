@@ -55,6 +55,8 @@ Gallic:
       - 'france%1:15:00::'
 Galloway:
   n:
+    pronunciation:
+    - value: ˈɡæləweɪ
     sense:
     - derivation:
       - 'galwegian%3:01:00::'
@@ -95,6 +97,8 @@ Gauguinesque:
       - 'gauguin%1:18:00::'
 Gaul:
   n:
+    pronunciation:
+    - value: ɡɔːl
     sense:
     - id: 'gaul%1:15:00::'
       synset: 08949495-n
@@ -114,6 +118,8 @@ Ge:
       synset: 09583891-n
 Gemini:
   n:
+    pronunciation:
+    - value: ˈdʒɛmɪnaɪ
     sense:
     - id: 'gemini%1:17:00::'
       synset: 09310519-n
@@ -208,6 +214,8 @@ Gilbertian:
       - 'gilbert%1:18:00::'
 Gladstone:
   n:
+    pronunciation:
+    - value: ˈɡlædstən
     sense:
     - id: 'gladstone%1:18:00::'
       synset: 11021664-n
@@ -222,6 +230,13 @@ Glaswegian:
       - 'glasgow%1:15:00::'
 Goat:
   n:
+    pronunciation:
+    - value: ɡəʊt
+      variety: GB
+    - value: ɡoʊt
+      variety: US
+    - value: ɡɐ̟ʉt
+      variety: AU
     sense:
     - id: 'goat%1:15:00::'
       synset: 08705447-n
@@ -245,6 +260,8 @@ Goethian:
       - 'goethe%1:18:00::'
 Gray:
   n:
+    pronunciation:
+    - value: ɡɹeɪ
     sense:
     - id: 'gray%1:18:02::'
       synset: 11032842-n
@@ -311,11 +328,18 @@ Guatemalan:
       - 'guatemala%1:15:00::'
 Guernsey:
   n:
+    pronunciation:
+    - value: ˈɡɜːnzi
+      variety: GB
+    - value: ˈɡɝnzi
+      variety: US
     sense:
     - id: 'guernsey%1:15:00::'
       synset: 08907571-n
 Guinea:
   n:
+    pronunciation:
+    - value: ˈɡɪni
     sense:
     - derivation:
       - 'guinean%3:01:00::'
@@ -332,6 +356,8 @@ Guinean:
       - 'guinea%1:15:00::'
 Guinness:
   n:
+    pronunciation:
+    - value: ˈɡɪnɪs
     sense:
     - id: 'guinness%1:18:00::'
       synset: 11039265-n
@@ -355,6 +381,11 @@ global:
       id: global%5:00:00:international:00
 globe:
   n:
+    pronunciation:
+    - value: ɡləʊb
+      variety: GB
+    - value: ɡloʊb
+      variety: US
     sense:
     - derivation:
       - global%5:00:00:international:00

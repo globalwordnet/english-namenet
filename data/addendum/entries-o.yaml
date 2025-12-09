@@ -69,11 +69,18 @@ Orwellian:
       - 'orwell%1:18:00::'
 Osage:
   n:
+    pronunciation:
+    - value: ˈoʊseɪdʒ
     sense:
     - id: 'osage%1:17:00::'
       synset: 09403211-n
 Ottawa:
   n:
+    pronunciation:
+    - value: ˈɒtəwə
+      variety: GB
+    - value: ˈɑtəwə
+      variety: US
     sense:
     - id: 'ottawa%1:17:00::'
       synset: 09403500-n

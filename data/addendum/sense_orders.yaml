@@ -1,0 +1,1514 @@
+AZ:
+  n:
+  - 'az%1:25:00::'
+  - 'az%1:15:00::'
+Abkhas:
+  n:
+  - 'abkhas%1:18:00::'
+  - 'abkhas%1:14:00::'
+Abkhaz:
+  n:
+  - 'abkhaz%1:18:00::'
+  - 'abkhaz%1:15:00::'
+  - 'abkhaz%1:14:00::'
+Achomawi:
+  n:
+  - 'achomawi%1:18:00::'
+  - 'achomawi%1:14:00::'
+  - 'achomawi%1:10:00::'
+Adam:
+  n:
+  - 'adam%1:18:00::'
+  - 'adam%1:18:01::'
+  - 'adam%1:06:00::'
+Adonis:
+  n:
+  - 'adonis%1:20:00::'
+  - 'adonis%1:18:00::'
+Advent:
+  n:
+  - 'advent%1:28:01::'
+  - 'advent%1:11:00::'
+Aegina:
+  n:
+  - 'aegina%1:15:00::'
+  - 'aegina%1:05:00::'
+Akwa'ala:
+  n:
+  - 'akwa''ala%1:18:00::'
+  - 'akwa''ala%1:14:00::'
+  - 'akwa''ala%1:10:00::'
+Alabama:
+  n:
+  - 'alabama%1:15:00::'
+  - 'alabama%1:18:00::'
+  - 'alabama%1:17:00::'
+  - 'alabama%1:10:00::'
+Amati:
+  n:
+  - 'amati%1:18:00::'
+  - 'amati%1:06:00::'
+Amazon:
+  n:
+  - 'amazon%1:18:01::'
+  - 'amazon%1:17:00::'
+Angora:
+  n:
+  - 'angora%1:15:00::'
+  - 'angora%1:05:01::'
+  - 'angora%1:05:02::'
+  - 'angora%1:05:03::'
+Angus:
+  n:
+  - 'angus%1:18:00::'
+  - 'angus%1:05:00::'
+Annunciation:
+  n:
+  - 'annunciation%1:28:00::'
+  - 'annunciation%1:10:00::'
+Aquarius:
+  n:
+  - 'aquarius%1:18:00::'
+  - 'aquarius%1:17:00::'
+  - 'aquarius%1:15:00::'
+Archer:
+  n:
+  - 'archer%1:18:01::'
+  - 'archer%1:15:00::'
+Areopagus:
+  n:
+  - 'areopagus%1:15:00::'
+  - 'areopagus%1:14:00::'
+Aries:
+  n:
+  - 'aries%1:18:00::'
+  - 'aries%1:17:00::'
+  - 'aries%1:15:00::'
+Ascension:
+  n:
+  - 'ascension%1:28:00::'
+  - 'ascension%1:11:02::'
+Asia:
+  n:
+  - 'asia%1:17:00::'
+  - 'asia%1:14:00::'
+Asterope:
+  n:
+  - 'asterope%1:18:00::'
+  - 'asterope%1:17:00::'
+Bach:
+  n:
+  - 'bach%1:18:00::'
+  - 'bach%1:10:00::'
+Balance:
+  n:
+  - 'balance%1:18:00::'
+  - 'balance%1:15:00::'
+Baldwin:
+  n:
+  - 'baldwin%1:18:01::'
+  - 'baldwin%1:18:00::'
+  - 'baldwin%1:13:00::'
+Baltic:
+  n:
+  - 'baltic%1:17:00::'
+  - 'baltic%1:10:00::'
+Barbary Coast:
+  n:
+  - 'barbary_coast%1:15:01::'
+  - 'barbary_coast%1:15:00::'
+  - 'barbary_coast%1:15:02::'
+Beethoven:
+  n:
+  - 'beethoven%1:18:00::'
+  - 'beethoven%1:10:00::'
+Bel:
+  n:
+  - 'bel%1:23:00::'
+  - 'bel%1:18:00::'
+Biloxi:
+  n:
+  - 'biloxi%1:18:00::'
+  - 'biloxi%1:15:00::'
+  - 'biloxi%1:10:00::'
+Black:
+  n:
+  - 'black%1:18:02::'
+  - 'black%1:18:01::'
+  - 'black%1:18:00::'
+Bloody Mary:
+  n:
+  - 'bloody_mary%1:18:00::'
+  - 'bloody_mary%1:13:00::'
+Bodoni:
+  n:
+  - 'bodoni%1:18:00::'
+  - 'bodoni%1:10:00::'
+Book:
+  n:
+  - 'book%1:10:05::'
+  - 'book%1:10:04::'
+Book of Psalms:
+  n:
+  - 'book_of_psalms%1:10:00::'
+  - 'book_of_psalms%1:10:01::'
+Bordeaux:
+  n:
+  - 'bordeaux%1:15:00::'
+  - 'bordeaux%1:13:00::'
+Boswell:
+  n:
+  - 'boswell%1:18:00::'
+  - 'boswell%1:18:01::'
+Brahma:
+  n:
+  - 'brahma%1:18:00::'
+  - 'brahma%1:05:00::'
+Brahms:
+  n:
+  - 'brahms%1:18:00::'
+  - 'brahms%1:10:00::'
+Buddha:
+  n:
+  - 'buddha%1:18:00::'
+  - 'buddha%1:18:02::'
+Bull:
+  n:
+  - 'bull%1:18:03::'
+  - 'bull%1:15:01::'
+Burgundy:
+  n:
+  - 'burgundy%1:15:00::'
+  - 'burgundy%1:13:00::'
+Burton:
+  n:
+  - 'burton%1:18:01::'
+  - 'burton%1:18:00::'
+  - 'burton%1:13:00::'
+CO:
+  n:
+  - 'co%1:27:00::'
+  - 'co%1:18:00::'
+  - 'co%1:15:00::'
+CT:
+  n:
+  - 'ct%1:15:00::'
+  - 'ct%1:04:00::'
+Cambrian:
+  n:
+  - 'cambrian%1:28:00::'
+  - 'cambrian%1:18:00::'
+Canadian:
+  n:
+  - 'canadian%1:18:00::'
+  - 'canadian%1:17:00::'
+Cancer:
+  n:
+  - 'cancer%1:18:00::'
+  - 'cancer%1:17:00::'
+  - 'cancer%1:15:00::'
+  - 'cancer%1:05:00::'
+Capricorn:
+  n:
+  - 'capricorn%1:18:00::'
+  - 'capricorn%1:17:00::'
+  - 'capricorn%1:15:00::'
+Casanova:
+  n:
+  - 'casanova%1:18:00::'
+  - 'casanova%1:18:01::'
+Central America:
+  n:
+  - 'central_america%1:15:00::'
+  - 'central_america%1:14:00::'
+Chablis:
+  n:
+  - 'chablis%1:15:00::'
+  - 'chablis%1:13:00::'
+Chad:
+  n:
+  - 'chad%1:17:00::'
+  - 'chad%1:15:00::'
+  - 'chad%1:10:00::'
+Chalcedon:
+  n:
+  - 'chalcedon%1:15:00::'
+  - 'chalcedon%1:14:00::'
+Charleston:
+  n:
+  - 'charleston%1:15:01::'
+  - 'charleston%1:15:00::'
+  - 'charleston%1:04:00::'
+Chateaubriand:
+  n:
+  - 'chateaubriand%1:18:00::'
+  - 'chateaubriand%1:13:00::'
+Cheyenne:
+  n:
+  - 'cheyenne%1:15:00::'
+  - 'cheyenne%1:10:00::'
+  - 'cheyenne%1:18:00::'
+Chicago:
+  n:
+  - 'chicago%1:15:00::'
+  - 'chicago%1:04:00::'
+Chihuahua:
+  n:
+  - 'chihuahua%1:15:01::'
+  - 'chihuahua%1:15:00::'
+  - 'chihuahua%1:05:00::'
+Chopin:
+  n:
+  - 'chopin%1:10:00::'
+  - 'chopin%1:18:01::'
+  - 'chopin%1:18:00::'
+Cinderella:
+  n:
+  - 'cinderella%1:18:00::'
+  - 'cinderella%1:18:01::'
+Coeur d'Alene:
+  n:
+  - 'coeur_d''alene%1:18:00::'
+  - 'coeur_d''alene%1:15:00::'
+Colonel Blimp:
+  n:
+  - 'colonel_blimp%1:18:00::'
+  - 'colonel_blimp%1:18:01::'
+Constance:
+  n:
+  - 'constance%1:17:00::'
+  - 'constance%1:14:00::'
+Constantinople:
+  n:
+  - 'constantinople%1:15:00::'
+  - 'constantinople%1:14:03::'
+  - 'constantinople%1:14:02::'
+  - 'constantinople%1:14:01::'
+  - 'constantinople%1:14:00::'
+Corpus Christi:
+  n:
+  - 'corpus_christi%1:28:00::'
+  - 'corpus_christi%1:15:00::'
+Coventry:
+  n:
+  - 'coventry%1:26:00::'
+  - 'coventry%1:15:00::'
+Crab:
+  n:
+  - 'crab%1:18:01::'
+  - 'crab%1:15:00::'
+Crna Gora:
+  n:
+  - 'crna_gora%1:15:00::'
+  - 'crna_gora%1:15:01::'
+Croesus:
+  n:
+  - 'croesus%1:18:00::'
+  - 'croesus%1:18:01::'
+Crow:
+  n:
+  - 'crow%1:18:00::'
+  - 'crow%1:17:00::'
+  - 'crow%1:10:01::'
+Cyclades:
+  n:
+  - 'cyclades%1:14:00::'
+  - 'cyclades%1:15:00::'
+DC:
+  n:
+  - 'dc%1:15:00::'
+  - 'dc%1:19:00::'
+Dakota:
+  n:
+  - 'dakota%1:18:00::'
+  - 'dakota%1:15:00::'
+  - 'dakota%1:10:00::'
+Daniel:
+  n:
+  - 'daniel%1:18:01::'
+  - 'daniel%1:18:00::'
+  - 'daniel%1:10:00::'
+Delaware:
+  n:
+  - 'delaware%1:17:00::'
+  - 'delaware%1:18:00::'
+  - 'delaware%1:15:01::'
+  - 'delaware%1:15:00::'
+  - 'delaware%1:10:00::'
+Delilah:
+  n:
+  - 'delilah%1:18:00::'
+  - 'delilah%1:18:01::'
+Devon:
+  n:
+  - 'devon%1:15:00::'
+  - 'devon%1:05:00::'
+Dewar:
+  n:
+  - 'dewar%1:06:00::'
+  - 'dewar%1:18:00::'
+Don:
+  n:
+  - 'don%1:18:01::'
+  - 'don%1:18:00::'
+  - 'don%1:17:00::'
+  - 'don%1:10:00::'
+Don Juan:
+  n:
+  - 'don_juan%1:18:00::'
+  - 'don_juan%1:18:01::'
+Don Quixote:
+  n:
+  - 'don_quixote%1:18:01::'
+  - 'don_quixote%1:18:00::'
+Downing Street:
+  n:
+  - 'downing_street%1:15:00::'
+  - 'downing_street%1:14:00::'
+Dunkirk:
+  n:
+  - 'dunkirk%1:26:00::'
+  - 'dunkirk%1:15:00::'
+  - 'dunkirk%1:04:00::'
+Durham:
+  n:
+  - 'durham%1:15:00::'
+  - 'durham%1:05:00::'
+Earth:
+  n:
+  - 'earth%1:17:00::'
+  - 'earth%1:15:00::'
+Edo:
+  n:
+  - 'edo%1:18:00::'
+  - 'edo%1:15:00::'
+Einstein:
+  n:
+  - 'einstein%1:18:00::'
+  - 'einstein%1:18:01::'
+El Nino:
+  n:
+  - 'el_nino%1:19:00::'
+  - 'el_nino%1:18:00::'
+Ephesus:
+  n:
+  - 'ephesus%1:15:00::'
+  - 'ephesus%1:14:00::'
+Erie:
+  n:
+  - 'erie%1:18:00::'
+  - 'erie%1:17:00::'
+  - 'erie%1:15:00::'
+Eureka:
+  n:
+  - 'eureka%1:27:00::'
+  - 'eureka%1:15:00::'
+Europe:
+  n:
+  - 'europe%1:17:00::'
+  - 'europe%1:14:00::'
+  - 'europe%1:14:01::'
+Euryale:
+  n:
+  - 'euryale%1:18:00::'
+  - 'euryale%1:05:00::'
+Father:
+  n:
+  - 'father%1:18:01::'
+  - 'father%1:18:04::'
+  - 'father%1:18:02::'
+Fish:
+  n:
+  - 'fish%1:18:00::'
+  - 'fish%1:15:00::'
+Fleet Street:
+  n:
+  - 'fleet_street%1:15:00::'
+  - 'fleet_street%1:10:00::'
+Fleming:
+  n:
+  - 'fleming%1:18:02::'
+  - 'fleming%1:18:01::'
+  - 'fleming%1:18:00::'
+Formica:
+  n:
+  - 'formica%1:06:00::'
+  - 'formica%1:05:00::'
+Fox:
+  n:
+  - 'fox%1:18:03::'
+  - 'fox%1:18:02::'
+  - 'fox%1:18:01::'
+  - 'fox%1:10:00::'
+Frankenstein:
+  n:
+  - 'frankenstein%1:26:00::'
+  - 'frankenstein%1:18:01::'
+  - 'frankenstein%1:18:00::'
+French:
+  n:
+  - 'french%1:10:00::'
+  - 'french%1:18:00::'
+  - 'french%1:18:01::'
+GA:
+  n:
+  - 'ga%1:27:01::'
+  - 'ga%1:15:00::'
+GB:
+  n:
+  - 'gb%1:27:00::'
+  - 'gb%1:23:03::'
+  - 'gb%1:23:02::'
+  - 'gb%1:15:00::'
+Galloway:
+  n:
+  - 'galloway%1:15:00::'
+  - 'galloway%1:05:00::'
+Gaul:
+  n:
+  - 'gaul%1:18:01::'
+  - 'gaul%1:18:00::'
+  - 'gaul%1:15:00::'
+Ge:
+  n:
+  - 'ge%1:27:00::'
+  - 'ge%1:18:00::'
+Gemini:
+  n:
+  - 'gemini%1:18:00::'
+  - 'gemini%1:17:00::'
+  - 'gemini%1:15:00::'
+Gladstone:
+  n:
+  - 'gladstone%1:18:00::'
+  - 'gladstone%1:06:00::'
+Goat:
+  n:
+  - 'goat%1:18:01::'
+  - 'goat%1:15:00::'
+Gray:
+  n:
+  - 'gray%1:18:03::'
+  - 'gray%1:18:02::'
+  - 'gray%1:18:01::'
+  - 'gray%1:18:00::'
+Greece:
+  n:
+  - 'greece%1:15:00::'
+  - 'greece%1:15:01::'
+Guarnerius:
+  n:
+  - 'guarnerius%1:18:01::'
+  - 'guarnerius%1:18:00::'
+  - 'guarnerius%1:06:00::'
+Guernsey:
+  n:
+  - 'guernsey%1:15:00::'
+  - 'guernsey%1:05:00::'
+Guinea:
+  n:
+  - 'guinea%1:18:00::'
+  - 'guinea%1:15:00::'
+Guinness:
+  n:
+  - 'guinness%1:18:00::'
+  - 'guinness%1:13:00::'
+Hades:
+  n:
+  - 'hades%1:18:00::'
+  - 'hades%1:09:00::'
+Hampshire:
+  n:
+  - 'hampshire%1:15:00::'
+  - 'hampshire%1:05:00::'
+Handel:
+  n:
+  - 'handel%1:18:00::'
+  - 'handel%1:10:00::'
+Hanover:
+  n:
+  - 'hanover%1:15:00::'
+  - 'hanover%1:14:00::'
+Hare Krishna:
+  n:
+  - 'hare_krishna%1:18:00::'
+  - 'hare_krishna%1:14:00::'
+  - 'hare_krishna%1:10:00::'
+Hart:
+  n:
+  - 'hart%1:18:01::'
+  - 'hart%1:18:00::'
+  - 'hart%1:23:01::'
+Haydn:
+  n:
+  - 'haydn%1:18:00::'
+  - 'haydn%1:10:00::'
+Hebrews:
+  n:
+  - 'hebrews%1:14:00::'
+  - 'hebrews%1:10:00::'
+Hollywood:
+  n:
+  - 'hollywood%1:14:00::'
+  - 'hollywood%1:26:00::'
+  - 'hollywood%1:15:00::'
+Hoover:
+  n:
+  - 'hoover%1:18:02::'
+  - 'hoover%1:18:01::'
+  - 'hoover%1:18:00::'
+  - 'hoover%1:06:00::'
+Hydra:
+  n:
+  - 'hydra%1:18:00::'
+  - 'hydra%1:17:00::'
+IAA:
+  n:
+  - 'iaa%1:27:00::'
+  - 'iaa%1:14:00::'
+ID:
+  n:
+  - 'id%1:15:00::'
+  - 'id%1:10:00::'
+IRA:
+  n:
+  - 'ira%1:14:00::'
+  - 'ira%1:09:00::'
+Illinois:
+  n:
+  - 'illinois%1:15:00::'
+  - 'illinois%1:18:00::'
+  - 'illinois%1:10:00::'
+Inca:
+  n:
+  - 'inca%1:18:01::'
+  - 'inca%1:18:00::'
+  - 'inca%1:14:00::'
+Indiana:
+  n:
+  - 'indiana%1:15:00::'
+  - 'indiana%1:18:00::'
+Inka:
+  n:
+  - 'inka%1:18:00::'
+  - 'inka%1:14:00::'
+Iowa:
+  n:
+  - 'iowa%1:18:00::'
+  - 'iowa%1:15:00::'
+  - 'iowa%1:10:00::'
+Ishmael:
+  n:
+  - 'ishmael%1:18:00::'
+  - 'ishmael%1:18:01::'
+Jacob:
+  n:
+  - 'jacob%1:18:01::'
+  - 'jacob%1:18:00::'
+Jacquard:
+  n:
+  - 'jacquard%1:18:00::'
+  - 'jacquard%1:06:00::'
+Java:
+  n:
+  - 'java%1:15:00::'
+  - 'java%1:10:00::'
+Jersey:
+  n:
+  - 'jersey%1:15:00::'
+  - 'jersey%1:15:01::'
+  - 'jersey%1:05:00::'
+Job:
+  n:
+  - 'job%1:18:00::'
+  - 'job%1:18:01::'
+  - 'job%1:10:00::'
+John Hancock:
+  n:
+  - 'john_hancock%1:18:00::'
+  - 'john_hancock%1:10:00::'
+Judas:
+  n:
+  - 'judas%1:18:02::'
+  - 'judas%1:18:00::'
+  - 'judas%1:18:01::'
+Juggernaut:
+  n:
+  - 'juggernaut%1:18:00::'
+  - 'juggernaut%1:06:00::'
+Kansas:
+  n:
+  - 'kansas%1:15:00::'
+  - 'kansas%1:18:00::'
+  - 'kansas%1:17:00::'
+  - 'kansas%1:10:00::'
+Kazak:
+  n:
+  - 'kazak%1:18:00::'
+  - 'kazak%1:15:00::'
+  - 'kazak%1:10:00::'
+Kazakh:
+  n:
+  - 'kazakh%1:18:00::'
+  - 'kazakh%1:15:00::'
+  - 'kazakh%1:10:00::'
+Kechua:
+  n:
+  - 'kechua%1:18:00::'
+  - 'kechua%1:14:00::'
+  - 'kechua%1:10:00::'
+Kirghiz:
+  n:
+  - 'kirghiz%1:18:00::'
+  - 'kirghiz%1:15:00::'
+  - 'kirghiz%1:10:00::'
+Kirgiz:
+  n:
+  - 'kirgiz%1:18:00::'
+  - 'kirgiz%1:15:00::'
+  - 'kirgiz%1:10:00::'
+Kodiak:
+  n:
+  - 'kodiak%1:17:00::'
+  - 'kodiak%1:05:00::'
+Kurdistan:
+  n:
+  - 'kurdistan%1:15:00::'
+  - 'kurdistan%1:06:00::'
+Lancaster:
+  n:
+  - 'lancaster%1:15:00::'
+  - 'lancaster%1:14:00::'
+Leo:
+  n:
+  - 'leo%1:18:00::'
+  - 'leo%1:17:00::'
+  - 'leo%1:15:00::'
+Levant:
+  n:
+  - 'levant%1:27:00::'
+  - 'levant%1:15:00::'
+Lhasa:
+  n:
+  - 'lhasa%1:15:00::'
+  - 'lhasa%1:05:00::'
+Libra:
+  n:
+  - 'libra%1:18:00::'
+  - 'libra%1:17:00::'
+  - 'libra%1:15:00::'
+Lincoln:
+  n:
+  - 'lincoln%1:18:00::'
+  - 'lincoln%1:15:00::'
+  - 'lincoln%1:05:00::'
+Lion:
+  n:
+  - 'lion%1:18:01::'
+  - 'lion%1:15:00::'
+Lubavitch:
+  n:
+  - 'lubavitch%1:15:00::'
+  - 'lubavitch%1:14:00::'
+Lucifer:
+  n:
+  - 'lucifer%1:18:00::'
+  - 'lucifer%1:17:00::'
+Lyons:
+  n:
+  - 'lyons%1:15:00::'
+  - 'lyons%1:14:01::'
+  - 'lyons%1:14:00::'
+MA:
+  n:
+  - 'ma%1:10:00::'
+  - 'ma%1:15:00::'
+MD:
+  n:
+  - 'md%1:18:00::'
+  - 'md%1:15:00::'
+  - 'md%1:10:00::'
+MI:
+  n:
+  - 'mi%1:26:00::'
+  - 'mi%1:15:00::'
+  - 'mi%1:14:05::'
+  - 'mi%1:14:06::'
+MS:
+  n:
+  - 'ms%1:26:00::'
+  - 'ms%1:15:00::'
+  - 'ms%1:10:00::'
+MT:
+  n:
+  - 'mt%1:23:00::'
+  - 'mt%1:15:00::'
+  - 'mt%1:09:00::'
+Madeira:
+  n:
+  - 'madeira%1:17:00::'
+  - 'madeira%1:15:00::'
+  - 'madeira%1:13:00::'
+Mae West:
+  n:
+  - 'mae_west%1:18:00::'
+  - 'mae_west%1:06:00::'
+Mahabharata:
+  n:
+  - 'mahabharata%1:10:00::'
+  - 'mahabharata%1:10:01::'
+Manhattan Project:
+  n:
+  - 'manhattan_project%1:14:00::'
+  - 'manhattan_project%1:04:00::'
+Mason:
+  n:
+  - 'mason%1:18:04::'
+  - 'mason%1:18:03::'
+  - 'mason%1:18:02::'
+  - 'mason%1:18:01::'
+Massachusetts:
+  n:
+  - 'massachusetts%1:15:00::'
+  - 'massachusetts%1:18:00::'
+  - 'massachusetts%1:15:01::'
+  - 'massachusetts%1:10:00::'
+Mauser:
+  n:
+  - 'mauser%1:18:00::'
+  - 'mauser%1:06:00::'
+Methuselah:
+  n:
+  - 'methuselah%1:18:00::'
+  - 'methuselah%1:18:01::'
+Miami:
+  n:
+  - 'miami%1:18:00::'
+  - 'miami%1:15:00::'
+Michigan:
+  n:
+  - 'michigan%1:15:00::'
+  - 'michigan%1:17:00::'
+  - 'michigan%1:04:00::'
+Min:
+  n:
+  - 'min%1:10:00::'
+  - 'min%1:18:00::'
+Mississippian:
+  n:
+  - 'mississippian%1:28:00::'
+  - 'mississippian%1:18:00::'
+Missouri:
+  n:
+  - 'missouri%1:15:00::'
+  - 'missouri%1:17:00::'
+  - 'missouri%1:18:00::'
+  - 'missouri%1:10:00::'
+Mohave:
+  n:
+  - 'mohave%1:18:00::'
+  - 'mohave%1:15:00::'
+  - 'mohave%1:10:00::'
+Mojave:
+  n:
+  - 'mojave%1:18:00::'
+  - 'mojave%1:15:00::'
+  - 'mojave%1:10:00::'
+Moloch:
+  n:
+  - 'moloch%1:18:02::'
+  - 'moloch%1:18:01::'
+Montenegro:
+  n:
+  - 'montenegro%1:15:00::'
+  - 'montenegro%1:15:01::'
+Moon:
+  n:
+  - 'moon%1:17:01::'
+  - 'moon%1:19:00::'
+  - 'moon%1:18:00::'
+Morgan:
+  n:
+  - 'morgan%1:18:04::'
+  - 'morgan%1:18:03::'
+  - 'morgan%1:18:02::'
+  - 'morgan%1:18:01::'
+  - 'morgan%1:18:00::'
+  - 'morgan%1:05:00::'
+Mormon:
+  n:
+  - 'mormon%1:18:00::'
+  - 'mormon%1:18:02::'
+Morse:
+  n:
+  - 'morse%1:10:00::'
+  - 'morse%1:18:00::'
+Mozart:
+  n:
+  - 'mozart%1:18:00::'
+  - 'mozart%1:10:00::'
+Muskogee:
+  n:
+  - 'muskogee%1:18:00::'
+  - 'muskogee%1:15:00::'
+  - 'muskogee%1:10:00::'
+NE:
+  n:
+  - 'ne%1:24:00::'
+  - 'ne%1:15:00::'
+Nanna:
+  n:
+  - 'nanna%1:18:00::'
+  - 'nanna%1:18:02::'
+Napoleon:
+  n:
+  - 'napoleon%1:18:00::'
+  - 'napoleon%1:04:00::'
+New Deal:
+  n:
+  - 'new_deal%1:10:00::'
+  - 'new_deal%1:28:00::'
+Newfoundland:
+  n:
+  - 'newfoundland%1:05:00::'
+  - 'newfoundland%1:15:01::'
+Nibelung:
+  n:
+  - 'nibelung%1:18:01::'
+  - 'nibelung%1:18:00::'
+Nicaea:
+  n:
+  - 'nicaea%1:15:00::'
+  - 'nicaea%1:14:01::'
+  - 'nicaea%1:14:00::'
+Norman:
+  n:
+  - 'norman%1:18:02::'
+  - 'norman%1:18:01::'
+  - 'norman%1:18:00::'
+North America:
+  n:
+  - 'north_america%1:17:00::'
+  - 'north_america%1:14:00::'
+OK:
+  n:
+  - 'ok%1:15:00::'
+  - 'ok%1:10:00::'
+OR:
+  n:
+  - 'or%1:15:00::'
+  - 'or%1:06:00::'
+Olympian:
+  n:
+  - 'olympian%1:18:00::'
+  - 'olympian%1:18:01::'
+Omaha:
+  n:
+  - 'omaha%1:18:00::'
+  - 'omaha%1:15:00::'
+  - 'omaha%1:10:00::'
+  - 'omaha%1:05:00::'
+Osage:
+  n:
+  - 'osage%1:18:00::'
+  - 'osage%1:17:00::'
+  - 'osage%1:10:00::'
+Ottawa:
+  n:
+  - 'ottawa%1:18:00::'
+  - 'ottawa%1:17:00::'
+  - 'ottawa%1:15:00::'
+PA:
+  n:
+  - 'pa%1:15:00::'
+  - 'pa%1:06:00::'
+PR:
+  n:
+  - 'pr%1:15:00::'
+  - 'pr%1:10:00::'
+Pahlavi:
+  n:
+  - 'pahlavi%1:18:00::'
+  - 'pahlavi%1:10:00::'
+  - 'pahlavi%1:10:01::'
+Paipai:
+  n:
+  - 'paipai%1:14:01::'
+  - 'paipai%1:18:01::'
+Panama:
+  n:
+  - 'panama%1:15:00::'
+  - 'panama%1:06:00::'
+Pascal:
+  n:
+  - 'pascal%1:18:00::'
+  - 'pascal%1:10:00::'
+Pennsylvanian:
+  n:
+  - 'pennsylvanian%1:28:00::'
+  - 'pennsylvanian%1:18:00::'
+Penobscot:
+  n:
+  - 'penobscot%1:18:00::'
+  - 'penobscot%1:17:00::'
+Pentagon:
+  n:
+  - 'pentagon%1:06:00::'
+  - 'pentagon%1:14:00::'
+Peter Pan:
+  n:
+  - 'peter_pan%1:18:01::'
+  - 'peter_pan%1:18:00::'
+Phoebe:
+  n:
+  - 'phoebe%1:23:00::'
+  - 'phoebe%1:18:00::'
+Pisces:
+  n:
+  - 'pisces%1:15:00::'
+  - 'pisces%1:18:00::'
+  - 'pisces%1:17:00::'
+  - 'pisces%1:05:00::'
+Pitot:
+  n:
+  - 'pitot%1:18:00::'
+  - 'pitot%1:06:00::'
+Pleiades:
+  n:
+  - 'pleiades%1:18:00::'
+  - 'pleiades%1:17:00::'
+Plymouth Rock:
+  n:
+  - 'plymouth_rock%1:15:00::'
+  - 'plymouth_rock%1:05:00::'
+Po:
+  n:
+  - 'po%1:27:00::'
+  - 'po%1:17:00::'
+Pontus:
+  n:
+  - 'pontus%1:18:00::'
+  - 'pontus%1:15:00::'
+Powhatan:
+  n:
+  - 'powhatan%1:18:01::'
+  - 'powhatan%1:18:00::'
+  - 'powhatan%1:10:00::'
+Prince Albert:
+  n:
+  - 'prince_albert%1:18:00::'
+  - 'prince_albert%1:06:00::'
+Promised Land:
+  n:
+  - 'promised_land%1:15:02::'
+  - 'promised_land%1:09:00::'
+Ptolemy:
+  n:
+  - 'ptolemy%1:18:00::'
+  - 'ptolemy%1:14:00::'
+Pueblo:
+  n:
+  - 'pueblo%1:18:00::'
+  - 'pueblo%1:15:01::'
+Python:
+  n:
+  - 'python%1:18:00::'
+  - 'python%1:10:01::'
+Quai d'Orsay:
+  n:
+  - 'quai_d''orsay%1:15:00::'
+  - 'quai_d''orsay%1:14:00::'
+Quechua:
+  n:
+  - 'quechua%1:18:00::'
+  - 'quechua%1:14:00::'
+  - 'quechua%1:10:00::'
+RAF:
+  n:
+  - 'raf%1:14:00::'
+  - 'raf%1:14:01::'
+Ra:
+  n:
+  - 'ra%1:27:00::'
+  - 'ra%1:18:00::'
+Ram:
+  n:
+  - 'ram%1:18:00::'
+  - 'ram%1:15:00::'
+Raphael:
+  n:
+  - 'raphael%1:18:00::'
+  - 'raphael%1:18:01::'
+Reich:
+  n:
+  - 'reich%1:14:00::'
+  - 'reich%1:18:01::'
+  - 'reich%1:18:00::'
+Renaissance:
+  n:
+  - 'renaissance%1:28:00::'
+  - 'renaissance%1:04:00::'
+Renascence:
+  n:
+  - 'renascence%1:28:00::'
+  - 'renascence%1:04:00::'
+Republican:
+  n:
+  - 'republican%1:18:01::'
+  - 'republican%1:17:00::'
+Reuben:
+  n:
+  - 'reuben%1:18:00::'
+  - 'reuben%1:13:00::'
+Rip van Winkle:
+  n:
+  - 'rip_van_winkle%1:18:01::'
+  - 'rip_van_winkle%1:18:00::'
+  - 'rip_van_winkle%1:18:02::'
+Ritz:
+  n:
+  - 'ritz%1:18:00::'
+  - 'ritz%1:06:00::'
+Rob Roy:
+  n:
+  - 'rob_roy%1:18:00::'
+  - 'rob_roy%1:13:00::'
+Roma:
+  n:
+  - 'roma%1:18:00::'
+  - 'roma%1:15:00::'
+Roman wormwood:
+  n:
+  - 'roman_wormwood%1:20:02::'
+  - 'roman_wormwood%1:20:01::'
+Rome:
+  n:
+  - 'rome%1:15:00::'
+  - 'rome%1:14:00::'
+Rubicon:
+  n:
+  - 'rubicon%1:15:00::'
+  - 'rubicon%1:09:00::'
+SC:
+  n:
+  - 'sc%1:15:00::'
+  - 'sc%1:14:00::'
+Sabine:
+  n:
+  - 'sabine%1:17:00::'
+  - 'sabine%1:18:00::'
+Sagittarius:
+  n:
+  - 'sagittarius%1:18:00::'
+  - 'sagittarius%1:17:00::'
+  - 'sagittarius%1:15:00::'
+  - 'sagittarius%1:05:00::'
+Saint Joseph:
+  n:
+  - 'saint_joseph%1:28:00::'
+  - 'saint_joseph%1:15:00::'
+Samson:
+  n:
+  - 'samson%1:18:00::'
+  - 'samson%1:18:01::'
+Santa Ana:
+  n:
+  - 'santa_ana%1:19:00::'
+  - 'santa_ana%1:18:00::'
+  - 'santa_ana%1:15:00::'
+  - 'santa_ana%1:15:01::'
+Scorpio:
+  n:
+  - 'scorpio%1:18:00::'
+  - 'scorpio%1:17:00::'
+  - 'scorpio%1:15:00::'
+Scorpion:
+  n:
+  - 'scorpion%1:18:00::'
+  - 'scorpion%1:15:00::'
+Sealyham:
+  n:
+  - 'sealyham%1:15:00::'
+  - 'sealyham%1:05:00::'
+Seneca:
+  n:
+  - 'seneca%1:18:00::'
+  - 'seneca%1:18:01::'
+  - 'seneca%1:10:00::'
+Shasta:
+  n:
+  - 'shasta%1:18:00::'
+  - 'shasta%1:17:00::'
+  - 'shasta%1:10:00::'
+Shetland:
+  n:
+  - 'shetland%1:15:00::'
+  - 'shetland%1:05:00::'
+Simon Legree:
+  n:
+  - 'simon_legree%1:18:01::'
+  - 'simon_legree%1:18:00::'
+Sion:
+  n:
+  - 'sion%1:15:02::'
+  - 'sion%1:15:00::'
+  - 'sion%1:09:01::'
+South America:
+  n:
+  - 'south_america%1:17:00::'
+  - 'south_america%1:14:00::'
+Spode:
+  n:
+  - 'spode%1:18:00::'
+  - 'spode%1:06:00::'
+St. Joseph:
+  n:
+  - 'st._joseph%1:15:00::'
+  - 'st._joseph%1:06:00::'
+Sterope:
+  n:
+  - 'sterope%1:18:00::'
+  - 'sterope%1:17:00::'
+Stravinsky:
+  n:
+  - 'stravinsky%1:18:00::'
+  - 'stravinsky%1:10:00::'
+Stuart:
+  n:
+  - 'stuart%1:18:00::'
+  - 'stuart%1:18:01::'
+  - 'stuart%1:14:00::'
+Sun:
+  n:
+  - 'sun%1:17:00::'
+  - 'sun%1:28:00::'
+Sunday:
+  n:
+  - 'sunday%1:28:00::'
+  - 'sunday%1:18:00::'
+Suomi:
+  n:
+  - 'suomi%1:15:00::'
+  - 'suomi%1:10:00::'
+Svengali:
+  n:
+  - 'svengali%1:18:01::'
+  - 'svengali%1:18:00::'
+TT:
+  n:
+  - 'tt%1:28:00::'
+  - 'tt%1:15:00::'
+Tabasco:
+  n:
+  - 'tabasco%1:15:00::'
+  - 'tabasco%1:13:01::'
+Tabernacle:
+  n:
+  - 'tabernacle%1:06:02::'
+  - 'tabernacle%1:06:00::'
+Tadzhik:
+  n:
+  - 'tadzhik%1:18:00::'
+  - 'tadzhik%1:15:00::'
+  - 'tadzhik%1:14:00::'
+  - 'tadzhik%1:10:00::'
+Tajik:
+  n:
+  - 'tajik%1:18:00::'
+  - 'tajik%1:15:00::'
+  - 'tajik%1:14:00::'
+  - 'tajik%1:10:00::'
+Tammuz:
+  n:
+  - 'tammuz%1:28:00::'
+  - 'tammuz%1:18:00::'
+Taos:
+  n:
+  - 'taos%1:18:00::'
+  - 'taos%1:15:00::'
+Tarzan:
+  n:
+  - 'tarzan%1:18:01::'
+  - 'tarzan%1:18:00::'
+Taurus:
+  n:
+  - 'taurus%1:18:01::'
+  - 'taurus%1:18:00::'
+  - 'taurus%1:17:00::'
+  - 'taurus%1:15:00::'
+Thalia:
+  n:
+  - 'thalia%1:18:00::'
+  - 'thalia%1:18:01::'
+Thanatos:
+  n:
+  - 'thanatos%1:18:00::'
+  - 'thanatos%1:16:00::'
+Titan:
+  n:
+  - 'titan%1:18:00::'
+  - 'titan%1:17:00::'
+Tom Thumb:
+  n:
+  - 'tom_thumb%1:18:01::'
+  - 'tom_thumb%1:18:00::'
+Tonga:
+  n:
+  - 'tonga%1:15:00::'
+  - 'tonga%1:10:00::'
+Torah:
+  n:
+  - 'torah%1:10:01::'
+  - 'torah%1:10:00::'
+  - 'torah%1:10:02::'
+Tudor:
+  n:
+  - 'tudor%1:14:00::'
+  - 'tudor%1:18:00::'
+  - 'tudor%1:18:01::'
+Turkmen:
+  n:
+  - 'turkmen%1:18:00::'
+  - 'turkmen%1:15:00::'
+  - 'turkmen%1:10:00::'
+Twin:
+  n:
+  - 'twin%1:18:01::'
+  - 'twin%1:17:00::'
+U.S.:
+  n:
+  - 'u.s.%1:14:00::'
+  - 'u.s.%1:15:00::'
+USA:
+  n:
+  - 'usa%1:15:00::'
+  - 'usa%1:14:00::'
+UT:
+  n:
+  - 'ut%1:28:00::'
+  - 'ut%1:15:00::'
+Uncle Tom:
+  n:
+  - 'uncle_tom%1:18:01::'
+  - 'uncle_tom%1:18:02::'
+United States:
+  n:
+  - 'united_states%1:15:00::'
+  - 'united_states%1:14:00::'
+Utopia:
+  n:
+  - 'utopia%1:10:00::'
+  - 'utopia%1:09:00::'
+Uzbek:
+  n:
+  - 'uzbek%1:18:00::'
+  - 'uzbek%1:15:00::'
+  - 'uzbek%1:10:00::'
+VA:
+  n:
+  - 'va%1:15:00::'
+  - 'va%1:14:00::'
+VI:
+  n:
+  - 'vi%1:23:00::'
+  - 'vi%1:15:00::'
+Valenciennes:
+  n:
+  - 'valenciennes%1:15:00::'
+  - 'valenciennes%1:06:00::'
+Vienne:
+  n:
+  - 'vienne%1:15:00::'
+  - 'vienne%1:14:00::'
+Virgin:
+  n:
+  - 'virgin%1:18:01::'
+  - 'virgin%1:15:00::'
+Virgin Mary:
+  n:
+  - 'virgin_mary%1:18:00::'
+  - 'virgin_mary%1:13:00::'
+Virgo:
+  n:
+  - 'virgo%1:18:00::'
+  - 'virgo%1:17:00::'
+  - 'virgo%1:15:00::'
+Wagner:
+  n:
+  - 'wagner%1:18:01::'
+  - 'wagner%1:18:00::'
+  - 'wagner%1:10:00::'
+Wall Street:
+  n:
+  - 'wall_street%1:15:00::'
+  - 'wall_street%1:14:00::'
+Wassermann:
+  n:
+  - 'wassermann%1:18:00::'
+  - 'wassermann%1:09:00::'
+Water Bearer:
+  n:
+  - 'water_bearer%1:18:00::'
+  - 'water_bearer%1:15:00::'
+Wedgwood:
+  n:
+  - 'wedgwood%1:18:00::'
+  - 'wedgwood%1:06:00::'
+Wellington:
+  n:
+  - 'wellington%1:18:00::'
+  - 'wellington%1:15:00::'
+  - 'wellington%1:06:00::'
+White:
+  n:
+  - 'white%1:18:00::'
+  - 'white%1:18:06::'
+  - 'white%1:18:05::'
+  - 'white%1:18:04::'
+  - 'white%1:18:03::'
+  - 'white%1:18:02::'
+  - 'white%1:18:01::'
+  - 'white%1:17:00::'
+White House:
+  n:
+  - 'white_house%1:14:00::'
+  - 'white_house%1:06:00::'
+Whitehall:
+  n:
+  - 'whitehall%1:15:00::'
+  - 'whitehall%1:14:00::'
+Wichita:
+  n:
+  - 'wichita%1:18:00::'
+  - 'wichita%1:15:00::'
+  - 'wichita%1:10:00::'
+Winchester:
+  n:
+  - 'winchester%1:15:00::'
+  - 'winchester%1:06:00::'
+Windsor:
+  n:
+  - 'windsor%1:15:00::'
+  - 'windsor%1:14:00::'
+Word:
+  n:
+  - 'word%1:18:00::'
+  - 'word%1:10:07::'
+Xhosa:
+  n:
+  - 'xhosa%1:18:00::'
+  - 'xhosa%1:14:00::'
+  - 'xhosa%1:10:00::'
+Yenisei:
+  n:
+  - 'yenisei%1:17:00::'
+  - 'yenisei%1:10:00::'
+Yuma:
+  n:
+  - 'yuma%1:18:00::'
+  - 'yuma%1:15:00::'
+  - 'yuma%1:10:00::'
+Zion:
+  n:
+  - 'zion%1:15:02::'
+  - 'zion%1:15:00::'
+  - 'zion%1:09:01::'
+Zulu:
+  n:
+  - 'zulu%1:18:00::'
+  - 'zulu%1:14:00::'
+  - 'zulu%1:10:00::'
+big board:
+  n:
+  - 'big_board%1:06:01::'
+  - 'big_board%1:06:00::'
+dateline:
+  n:
+  - 'dateline%1:15:00::'
+  - 'dateline%1:10:00::'
+doubting Thomas:
+  n:
+  - 'doubting_thomas%1:18:00::'
+  - 'doubting_thomas%1:18:01::'
+earth:
+  n:
+  - 'earth%1:17:02::'
+  - 'earth%1:27:00::'
+  - 'earth%1:17:01::'
+  - 'earth%1:15:01::'
+  - 'earth%1:27:01::'
+  - 'earth%1:09:00::'
+  - 'earth%1:06:00::'
+evensong:
+  n:
+  - 'evensong%1:28:00::'
+  - 'evensong%1:10:00::'
+fumeroot:
+  n:
+  - 'fumeroot%1:20:01::'
+  - 'fumeroot%1:20:02::'
+fumewort:
+  n:
+  - 'fumewort%1:20:01::'
+  - 'fumewort%1:20:02::'
+globe:
+  n:
+  - 'globe%1:17:00::'
+  - 'globe%1:25:00::'
+  - 'globe%1:06:00::'
+grail:
+  n:
+  - 'grail%1:09:00::'
+  - 'grail%1:06:00::'
+hypostasis:
+  n:
+  - 'hypostasis%1:22:01::'
+  - 'hypostasis%1:22:00::'
+  - 'hypostasis%1:18:00::'
+  - 'hypostasis%1:09:00::'
+lynx:
+  n:
+  - 'lynx%1:10:00::'
+  - 'lynx%1:05:00::'
+moon:
+  n:
+  - 'moon%1:17:03::'
+  - 'moon%1:17:02::'
+  - 'moon%1:28:00::'
+  - 'moon%1:17:00::'
+percher:
+  n:
+  - 'percher%1:18:00::'
+  - 'percher%1:05:00::'
+phoenix:
+  n:
+  - 'phoenix%1:20:00::'
+  - 'phoenix%1:18:00::'
+pondweed:
+  n:
+  - 'pondweed%1:20:01::'
+  - 'pondweed%1:20:02::'
+sun:
+  n:
+  - 'sun%1:17:02::'
+  - 'sun%1:19:00::'
+  - 'sun%1:18:00::'
+  - 'sun%1:17:01::'
+the City:
+  n:
+  - 'the_city%1:15:00::'
+  - 'the_city%1:14:00::'
+trumpet vine:
+  n:
+  - 'trumpet_vine%1:20:01::'
+  - 'trumpet_vine%1:20:02::'
+world:
+  n:
+  - 'world%1:17:01::'
+  - 'world%1:14:01::'
+  - 'world%1:09:00::'
+  - 'world%1:17:00::'
+  - 'world%1:14:02::'
+  - 'world%1:17:02::'
+  - 'world%1:09:01::'
+  - 'world%1:05:00::'

@@ -97,6 +97,8 @@ if __name__ == "__main__":
 
     addendum_entries = defaultdict(lambda: defaultdict(dict))
 
+    sense_orders = defaultdict(dict)
+
     for file in tqdm(glob(oewn_path + "src/yaml/*.yaml"), desc="Processing OEWN YAML files"):
         filename = file.split("/")[-1]
         if "noun" in file or "verb" in file or "adj" in file or "adv" in file:
@@ -162,7 +164,11 @@ if __name__ == "__main__":
                                 if sense["synset"] not in instance_entries:
                                     new_senses.append(sense)
                                 else:
+                                    if "pronunciation" in by_pos:
+                                        addendum_entries[filename][key].setdefault(pos, {})["pronunciation"] = by_pos["pronunciation"]
                                     addendum_entries[filename][key].setdefault(pos, {}).setdefault("sense", []).append(sense)
+                            if len(new_senses) < len(by_pos.get("sense", [])) and len(new_senses) > 0:
+                                sense_orders[key][pos] = [sense["id"] for sense in by_pos.get("sense", [])]
                             by_pos["sense"] = new_senses
                             if not by_pos["sense"]:
                                 pos_to_del.append(pos)
@@ -183,6 +189,8 @@ if __name__ == "__main__":
     for filename, entries in addendum_entries.items():
         with open(addenum_path + filename, "w", encoding="utf-8") as f:
             yaml.dump(dict(entries), f, Dumper=yaml.CDumper, allow_unicode=True)
+    with open(addenum_path + "sense_orders.yaml", "w", encoding="utf-8") as f:
+        yaml.dump(dict(sense_orders), f, Dumper=yaml.CDumper, allow_unicode=True)
             
 
 

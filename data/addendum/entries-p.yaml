@@ -1,5 +1,7 @@
 PA:
   n:
+    pronunciation:
+    - value: pɑː
     sense:
     - id: 'pa%1:15:00::'
       synset: 09157081-n
@@ -70,6 +72,8 @@ Palladian:
       - 'palladio%1:18:00::'
 Panama:
   n:
+    pronunciation:
+    - value: ˈpæn.ə.mɑː
     sense:
     - derivation:
       - 'panamanian%3:01:00::'
@@ -113,6 +117,11 @@ Parthian:
       - 'parthia%1:15:00::'
 Pascal:
   n:
+    pronunciation:
+    - value: ˈpæskəl
+      variety: GB
+    - value: pæˈskæl
+      variety: US
     sense:
     - id: 'pascal%1:18:00::'
       synset: 11244409-n
@@ -151,6 +160,9 @@ Peloponnesian:
       - 'peloponnesus%1:15:00::'
 Pennsylvanian:
   n:
+    pronunciation:
+    - value: pɛnsʊlˈveɪ̯njɪn
+      variety: US
     sense:
     - id: 'pennsylvanian%1:28:00::'
       synset: 15152459-n
@@ -161,6 +173,11 @@ Penobscot:
       synset: 09412494-n
 Pentagon:
   n:
+    pronunciation:
+    - value: ˈpɛn.tə.ɡɑn
+      variety: US
+    - value: ˈpɛn.tə.ɡən
+      variety: GB
     sense:
     - id: 'pentagon%1:06:00::'
       synset: 03918615-n
@@ -198,6 +215,8 @@ Philistine:
       - 'philistia%1:15:00::'
 Phoebe:
   n:
+    pronunciation:
+    - value: ˈfiːbi
     sense:
     - id: 'phoebe%1:18:00::'
       synset: 09600486-n
@@ -218,6 +237,8 @@ Piagetian:
       - 'piaget%1:18:00::'
 Pisces:
   n:
+    pronunciation:
+    - value: ˈpaɪsiːz
     sense:
     - id: 'pisces%1:15:00::'
       synset: 08705814-n
@@ -277,6 +298,8 @@ Portuguese:
       - 'portugal%1:15:00::'
 Powhatan:
   n:
+    pronunciation:
+    - value: paʊəˈtæn
     sense:
     - id: 'powhatan%1:18:01::'
       synset: 11265372-n
@@ -332,6 +355,9 @@ Ptolemy:
       synset: 11267403-n
 Pueblo:
   n:
+    pronunciation:
+    - value: ˈpwɛbləʊ
+      variety: GB
     sense:
     - id: 'pueblo%1:15:01::'
       synset: 09090805-n
@@ -346,6 +372,11 @@ Pythagorean:
       - 'pythagoras%1:18:00::'
 Python:
   n:
+    pronunciation:
+    - value: ˈpaɪθən
+      variety: GB
+    - value: ˈpaɪθɑːn
+      variety: US
     sense:
     - id: 'python%1:18:00::'
       synset: 09524330-n
@@ -397,6 +428,8 @@ peripatetic:
       - 'aristotle%1:18:00::'
 phoenix:
   n:
+    pronunciation:
+    - value: ˈfiːnɪks
     sense:
     - id: 'phoenix%1:20:00::'
       synset: 12614587-n

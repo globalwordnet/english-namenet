@@ -19,6 +19,11 @@ Sabine:
       synset: 09441209-n
 Sagittarius:
   n:
+    pronunciation:
+    - value: sædʒɪˈtɛəɹɪəs
+      variety: GB
+    - value: sædʒɪˈtɛɹɪəs
+      variety: US
     sense:
     - id: 'sagittarius%1:17:00::'
       synset: 09441990-n
@@ -141,6 +146,11 @@ Scandinavian:
       - 'scandinavia%1:15:00::'
 Scorpio:
   n:
+    pronunciation:
+    - value: ˈskɔːpɪəʊ
+      variety: GB
+    - value: ˈskɔːɹpɪoʊ
+      variety: US
     sense:
     - id: 'scorpio%1:17:00::'
       synset: 09449021-n
@@ -148,6 +158,11 @@ Scorpio:
       synset: 08705083-n
 Scorpion:
   n:
+    pronunciation:
+    - value: ˈskɔː.pi.ən
+      variety: GB
+    - value: ˈskɔɹ.pi.ən
+      variety: US
     sense:
     - id: 'scorpion%1:15:00::'
       synset: 08705083-n
@@ -251,6 +266,8 @@ Shavian:
       - 'shaw%1:18:00::'
 Shetland:
   n:
+    pronunciation:
+    - value: ˈʃɛtlənd
     sense:
     - id: 'shetland%1:15:00::'
       synset: 08973830-n
@@ -538,6 +555,8 @@ Sun:
       synset: 09473312-n
 Sunday:
   n:
+    pronunciation:
+    - value: ˈsʌndeɪ
     sense:
     - id: 'sunday%1:18:00::'
       synset: 11345529-n
@@ -548,6 +567,8 @@ Suomi:
       synset: 08797356-n
 Svengali:
   n:
+    pronunciation:
+    - value: svɛŋˈɡɑːli
     sense:
     - id: 'svengali%1:18:00::'
       synset: 10701195-n

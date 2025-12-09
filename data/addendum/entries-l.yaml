@@ -85,6 +85,11 @@ Leibnizian:
       - 'leibniz%1:18:00::'
 Leo:
   n:
+    pronunciation:
+    - value: ˈliːəʊ
+      variety: GB
+    - value: ˈliːoʊ
+      variety: US
     sense:
     - id: 'leo%1:17:00::'
       synset: 09360739-n
@@ -98,6 +103,8 @@ Leonardesque:
       - 'leonardo%1:18:00::'
 Levant:
   n:
+    pronunciation:
+    - value: ˈlɛvənt
     sense:
     - id: 'levant%1:15:00::'
       synset: 08934932-n
@@ -118,6 +125,8 @@ Levitical:
       - 'leviticus%1:10:00::'
 Lhasa:
   n:
+    pronunciation:
+    - value: ˈlɑːsə
     sense:
     - id: 'lhasa%1:15:00::'
       synset: 08927150-n
@@ -132,6 +141,8 @@ Liberian:
       - 'liberia%1:15:00::'
 Libra:
   n:
+    pronunciation:
+    - value: ˈlaibrə
     sense:
     - id: 'libra%1:17:00::'
       synset: 09362015-n
@@ -164,6 +175,9 @@ Lilliputian:
       - 'lilliputian%1:18:00::'
       id: 'lilliputian%3:01:00::'
   n:
+    pronunciation:
+    - value: ˌlɪlɪˈpjuʃən
+      variety: US
     sense:
     - derivation:
       - 'lilliputian%3:01:00::'
@@ -171,6 +185,8 @@ Lilliputian:
       synset: 09624603-n
 Lincoln:
   n:
+    pronunciation:
+    - value: ˈlɪŋkən
     sense:
     - derivation:
       - 'lincolnian%3:01:00::'
@@ -213,6 +229,8 @@ Linnean:
       - 'linnaeus%1:18:00::'
 Lion:
   n:
+    pronunciation:
+    - value: ˈlaɪən
     sense:
     - id: 'lion%1:15:00::'
       synset: 08704559-n
@@ -352,6 +370,8 @@ lunisolar:
       - 'sun%1:17:02::'
 lynx:
   n:
+    pronunciation:
+    - value: lɪŋks
     sense:
     - id: 'lynx%1:10:00::'
       synset: 06583900-n

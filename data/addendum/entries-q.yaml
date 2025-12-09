@@ -17,6 +17,8 @@ Quebecois:
       - 'quebec%1:15:00::'
 Quechua:
   n:
+    pronunciation:
+    - value: ˈkɛtʃwə
     sense:
     - id: 'quechua%1:14:00::'
       synset: 08506131-n

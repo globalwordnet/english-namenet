@@ -1,5 +1,7 @@
 NE:
   n:
+    pronunciation:
+    - value: nə
     sense:
     - id: 'ne%1:15:00::'
       synset: 09132074-n
@@ -19,6 +21,11 @@ Nanna:
       synset: 09543238-n
 Napoleon:
   n:
+    pronunciation:
+    - value: nəˈpəʊlɪən
+      variety: GB
+    - value: nəˈpoʊli.ən
+      variety: US
     sense:
     - derivation:
       - 'napoleonic%3:01:00::'
@@ -100,6 +107,13 @@ New Zealander:
       - 'new_zealand%1:15:01::'
 Newfoundland:
   n:
+    pronunciation:
+    - value: ˈnjuːˌfaʊnd.lənd
+      variety: GB
+    - value: ˈn(j)uˌfaʊnd.lənd
+      variety: US
+    - value: ˈnu.fənˌlænd
+      variety: CA
     sense:
     - id: 'newfoundland%1:15:01::'
       synset: 08844203-n
@@ -182,6 +196,11 @@ Norman:
       pertainym:
       - 'normandy%1:15:00::'
   n:
+    pronunciation:
+    - value: ˈnɔɹmən
+      variety: US
+    - value: ˈnɔːmən
+      variety: GB
     sense:
     - id: 'norman%1:18:02::'
       synset: 11229418-n

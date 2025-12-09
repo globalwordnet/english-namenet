@@ -1,5 +1,8 @@
 CO:
   n:
+    pronunciation:
+    - value: koʊ
+      variety: US
     sense:
     - id: 'co%1:15:00::'
       synset: 09089754-n
@@ -63,6 +66,13 @@ Cambrian:
       pertainym:
       - 'cambria%1:15:00::'
   n:
+    pronunciation:
+    - value: ˈkam.bɹɪ.ən
+      variety: GB
+    - value: ˈkæm.bɹi.ən
+      variety: US
+    - value: ˈkeɪm.bɹi.ən
+      variety: CA
     sense:
     - id: 'cambrian%1:28:00::'
       synset: 15153501-n
@@ -90,6 +100,13 @@ Canadian:
       synset: 09254797-n
 Cancer:
   n:
+    pronunciation:
+    - value: ˈkænsə
+      variety: GB
+    - value: ˈkæːnsə
+      variety: AU
+    - value: ˈkænsɚ
+      variety: US
     sense:
     - id: 'cancer%1:17:00::'
       synset: 09255594-n
@@ -121,6 +138,11 @@ Cappadocian:
       - 'cappadocia%1:15:00::'
 Capricorn:
   n:
+    pronunciation:
+    - value: ˈkæpɹɪkɔːn
+      variety: GB
+    - value: ˈkæpɹɪkɔːɹn
+      variety: US
     sense:
     - id: 'capricorn%1:17:00::'
       synset: 09258620-n
@@ -171,6 +193,8 @@ Carthaginian:
       - 'carthage%1:15:00::'
 Casanova:
   n:
+    pronunciation:
+    - value: kæsəˈnoʊvə
     sense:
     - id: 'casanova%1:18:00::'
       synset: 10905746-n
@@ -239,6 +263,8 @@ Chablis:
       synset: 08955154-n
 Chad:
   n:
+    pronunciation:
+    - value: tʃæd
     sense:
     - id: 'chad%1:17:00::'
       synset: 09353373-n
@@ -257,6 +283,11 @@ Chadian:
       - 'chad%1:15:00::'
 Chalcedon:
   n:
+    pronunciation:
+    - value: ˈkælsɪdɑːn
+      variety: US
+    - value: ˈkælsɪdɒn
+      variety: GB
     sense:
     - id: 'chalcedon%1:15:00::'
       synset: 09063674-n
@@ -295,6 +326,11 @@ Charleston:
       synset: 09161253-n
 Chateaubriand:
   n:
+    pronunciation:
+    - value: ˌʃatəʊˈbɹiːɒ̃
+      variety: GB
+    - value: ʃæˌtoʊbɹiˈɑ̃
+      variety: US
     sense:
     - id: 'chateaubriand%1:18:00::'
       synset: 10913582-n
@@ -306,6 +342,8 @@ Chechen:
       - 'chechnya%1:15:00::'
 Cheyenne:
   n:
+    pronunciation:
+    - value: ʃaɪˈæn
     sense:
     - id: 'cheyenne%1:15:00::'
       synset: 09182468-n
@@ -325,6 +363,11 @@ Chicago:
       synset: 09105928-n
 Chihuahua:
   n:
+    pronunciation:
+    - value: tʃɪ.waʊ(w).ə
+      variety: GB
+    - value: tʃɪˈwɑːwɑː
+      variety: US
     sense:
     - id: 'chihuahua%1:15:01::'
       synset: 08760411-n
@@ -384,6 +427,9 @@ Cinderella:
       synset: 09615147-n
 Coeur d'Alene:
   n:
+    pronunciation:
+    - value: kɜɹdəˈleɪn
+      variety: US
     sense:
     - id: 'coeur_d''alene%1:15:00::'
       synset: 09104219-n
@@ -530,6 +576,8 @@ Croatian:
       - 'croatia%1:15:00::'
 Croesus:
   n:
+    pronunciation:
+    - value: ˈkɹiːsəs
     sense:
     - id: 'croesus%1:18:00::'
       synset: 10935524-n
@@ -544,6 +592,8 @@ Cromwellian:
       - 'cromwell%1:18:00::'
 Crow:
   n:
+    pronunciation:
+    - value: kɹoʊ
     sense:
     - id: 'crow%1:17:00::'
       synset: 09280335-n

@@ -5,6 +5,8 @@ IAA:
       synset: 08041865-n
 ID:
   n:
+    pronunciation:
+    - value: aɪˈdiː
     sense:
     - id: 'id%1:15:00::'
       synset: 09103738-n
@@ -46,11 +48,15 @@ Icelandic:
       - 'iceland%1:15:00::'
 Illinois:
   n:
+    pronunciation:
+    - value: ˌɪləˈnɔɪ
     sense:
     - id: 'illinois%1:15:00::'
       synset: 09105071-n
 Inca:
   n:
+    pronunciation:
+    - value: ˈɪŋkə
     sense:
     - id: 'inca%1:14:00::'
       synset: 08505843-n
@@ -102,6 +108,9 @@ Ionic:
       - 'ionia%1:15:00::'
 Iowa:
   n:
+    pronunciation:
+    - value: ˈaɪəwə
+      variety: US
     sense:
     - id: 'iowa%1:15:00::'
       synset: 09108718-n
