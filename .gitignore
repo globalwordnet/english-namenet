@@ -8,3 +8,5 @@ data/automatic
 open_english_namenet/__pycache__
 wikidata_db/target
 wikidata_db/Cargo.lock
+wikidata.db
+oenn.xml.gz
