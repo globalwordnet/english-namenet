@@ -108,6 +108,7 @@ if __name__ == "__main__":
                     if key in instance_entries:
                         to_del.append(key)
                     else:
+                        rel_to_del = []
                         for rel, vs in value.items():
                             if any(isinstance(v, str) and v in instance_entries for v in vs):
                                 addendum_entries[filename][key][rel] = [
@@ -116,6 +117,10 @@ if __name__ == "__main__":
                                 value[rel] = [
                                     v for v in vs if not (isinstance(v, str) and v in instance_entries)
                                 ]
+                                if not value[rel]:
+                                    rel_to_del.append(rel)
+                        for rel in rel_to_del:
+                            del value[rel]
                 for key in to_del:
                     curated[key] = data[key]
                     del data[key]
@@ -134,9 +139,11 @@ if __name__ == "__main__":
                     if all(synset in instance_entries for synset in target_synsets):
                         to_del.append(key)
                     else:
+                        pos_to_del = []
                         for pos, by_pos in value.items():
                             new_senses = []
                             for sense in by_pos.get("sense", []):
+                                rel_to_del = []
                                 for rel, vs in sense.items():
                                     if any(isinstance(v, str) and v in instance_senses for v in vs):
                                         addendum_entries[filename][key].setdefault(pos, {}).setdefault("sense", []).append(
@@ -148,9 +155,17 @@ if __name__ == "__main__":
                                         sense[rel] = [
                                             v for v in vs if not (isinstance(v, str) and v in instance_senses)
                                         ]
+                                        if not sense[rel]:
+                                            rel_to_del.append(rel)
+                                for rel in rel_to_del:
+                                    del sense[rel]
                                 if sense["synset"] not in instance_entries:
                                     new_senses.append(sense)
                             by_pos["sense"] = new_senses
+                            if not by_pos["sense"]:
+                                pos_to_del.append(pos)
+                        for pos in pos_to_del:
+                            del value[pos]
 
                 for key in to_del:
                     curated[key] = data[key]
