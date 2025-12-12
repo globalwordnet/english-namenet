@@ -20,7 +20,7 @@ Rabelaisian:
 Ram:
   n:
     pronunciation:
-    - value: ɹæm
+    - value: "\u0279\xE6m"
     sense:
     - id: 'ram%1:15:00::'
       synset: 08703867-n
@@ -32,14 +32,14 @@ Raphael:
 Re:
   n-2:
     pronunciation:
-    - value: ɹiː
+    - value: "\u0279i\u02D0"
     sense:
     - id: 're%1:18:00::'
       synset: 09536351-n
 Reich:
   n:
     pronunciation:
-    - value: ɹaɪx
+    - value: "\u0279a\u026Ax"
     sense:
     - id: 'reich%1:18:01::'
       synset: 11277149-n
@@ -54,11 +54,11 @@ Rembrandtesque:
 Renaissance:
   n:
     pronunciation:
-    - value: ɹəˈneɪs(ə)ns
+    - value: "\u0279\u0259\u02C8ne\u026As(\u0259)ns"
       variety: GB
-    - value: ˈɹɛnəˌsɑns
+    - value: "\u02C8\u0279\u025Bn\u0259\u02CCs\u0251ns"
       variety: US
-    - value: ˈɹenɘˌsɔns
+    - value: "\u02C8\u0279en\u0258\u02CCs\u0254ns"
       variety: NZ
     sense:
     - id: 'renaissance%1:28:00::'
@@ -66,7 +66,7 @@ Renaissance:
 Renascence:
   n:
     pronunciation:
-    - value: ɹɪˈneɪs(ə)ns
+    - value: "\u0279\u026A\u02C8ne\u026As(\u0259)ns"
       variety: GB
     sense:
     - id: 'renascence%1:28:00::'
@@ -74,7 +74,7 @@ Renascence:
 Republican:
   n:
     pronunciation:
-    - value: ɹɪˈpʌblɪkən
+    - value: "\u0279\u026A\u02C8p\u028Cbl\u026Ak\u0259n"
       variety: GB
     sense:
     - id: 'republican%1:17:00::'
@@ -189,9 +189,9 @@ Ruandan:
 Rubicon:
   n:
     pronunciation:
-    - value: ˈɹuːbɪkɒn
+    - value: "\u02C8\u0279u\u02D0b\u026Ak\u0252n"
       variety: GB
-    - value: ˈɹubəˌkɑn
+    - value: "\u02C8\u0279ub\u0259\u02CCk\u0251n"
       variety: US
     sense:
     - id: 'rubicon%1:15:00::'
@@ -208,9 +208,9 @@ Rumanian:
 Ruritanian:
   n:
     pronunciation:
-    - value: ˌɹʊə.ɹɪˈteɪ.ni.ən
+    - value: "\u02CC\u0279\u028A\u0259.\u0279\u026A\u02C8te\u026A.ni.\u0259n"
       variety: GB
-    - value: ˌɹʊɹ.ɪˈteɪ.ni.ən
+    - value: "\u02CC\u0279\u028A\u0279.\u026A\u02C8te\u026A.ni.\u0259n"
       variety: US
     sense:
     - id: 'ruritanian%1:18:00::'

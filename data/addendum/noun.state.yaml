@@ -10,30 +10,1915 @@
 14019696-n:
   domain_region:
   - 09025654-n
+14045670-n:
+  definition:
+  - Human disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - Agalactia
+  - agalactorrhea
+  - Failure of lactation - delivered
+  - Failure of lactation - delivered (disorder)
+  - Failure of lactation, with delivery, with or without mention of antepartum condition
+  - agalactia
+  - obsolete agalactia
+14046320-n:
+  definition:
+  - condition where one is born without testes
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - anorchia
+  - testicular agenesis
+  - bilateral anorchia
+  - anorchidism
+  - anorchism
+14047275-n:
+  definition:
+  - human disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - anhidrosis
+  - absence of sweating (finding)
+  - absence of sweating
+  - ANHIDROSIS, FAMILIAL GENERALIZED, WITH ABNORMAL OR ABSENT SWEAT GLANDS
+  - adiaphoresis
+  - anhidrosis (disorder)
+14048052-n:
+  definition:
+  - sudden stop in effective blood flow due to the failure of the heart to contract
+    effectively
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - cardiac arrest
+  - circulatory arrest
+  - sudden cardiac arrest
+  - SCA
+  - heart arrest
+  - cardiopulmonary arrest
+  - cardiac conduction defect
+14049648-n:
+  definition:
+  - absence of willpower or decisiveness, especially as a symptom of mental disorder
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - aboulia
+  - abulia
+14064448-n:
+  definition:
+  - excessive thirst
+  instance_hypernym:
+  - 14323139-n
+  members:
+  - polydipsia
+  - excessive thirst
+14065422-n:
+  definition:
+  - abnormally high tissue carbon dioxide levels
+  instance_hypernym:
+  - 13943868-n
+  members:
+  - hypercapnia
+14067656-n:
+  definition:
+  - elevated body temperature due to failed thermoregulation that occurs when a body
+    produces or absorbs more heat than it dissipates
+  instance_hypernym:
+  - 14323139-n
+  members:
+  - hyperthermia
+  - overheating
+  - heat stroke
 14074041-n:
   domain_region:
   - 08740839-n
+14077947-n:
+  definition:
+  - Human disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - cholestasis
+  - bile occlusion
+  - obstruction of bile duct
+14078124-n:
+  definition:
+  - lack of hydrochloric acid in the gastric juice and digestive enzymes
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - achylia
+  - achylia  gastrica
+14078534-n:
+  definition:
+  - human disease
+  instance_hypernym:
+  - 14093842-n
+  - 14323139-n
+  members:
+  - acute respiratory distress syndrome
+  - ARDS
+  - Non-cardiogenic pulmonary edema (disorder)
+  - Shock lung
+  - adult RDS
+  - Non-cardiogenic pulmonary edema
+  - Acute respiratory distress syndrome
+  - Adult Respiratory Distress Syndrome, ARDS
+  - Respiratory Distress Syndrome, Adult
+  - adult respiratory distress syndrome
+  - Respiratory Distress Syndrome
+14082503-n:
+  definition:
+  - qualitative alteration or distortion of the perception of smell
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - dysosmia
+14095378-n:
+  definition:
+  - acute, severe lowered white blood cell count
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - agranulocytosis
+  - Agranulocytosis (disorder)
+  - Agranulocytosis (finding)
+  - Agranulocytosis NOS (disorder)
+  - Granulocytopenia (disorder)
+  - Granulocytopenic disorder
+  - Granulopenia
+  - granulocytopenia
+14101602-n:
+  definition:
+  - Human disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - boutonneuse fever
+  - African tick typhus (disorder)
+  - Rickettsia conorii spotted fever
+  - South African tick-bite fever (disorder)
+  - african tick typhus
+  - kenya tick typhus
+  - marseilles fever
+  - Kenya fever
+  - Kenyan tick typhus
+  - Boutonneuse disease
+  - Mediterranean tick fever
+  - Mediterranean spotted fever
+  - Conor and Bruch's disease
+  - South African tick-bite fever
+  - fievre Boutonneuse
+  - tick typhus due to rickettsia conorii
+14104104-n:
+  definition:
+  - human disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - periodontal disease
+  - disease of supporting structures of teeth, NOS
+  - periodontium disorder
+  - periodontal disorder
+  - Periodontal disease
+  - disease of supporting structures of teeth
+  - periodontium disease
+  - disease of periodontium
+  - disorder of periodontium
+14105785-n:
+  definition:
+  - death of a region of brain cells due to poor blood flow
+  instance_hypernym:
+  - 14323139-n
+  members:
+  - stroke
+  - CVA
+  - CVI
+  - brain attack
+  - embolic stroke
+  - cerebrovascular insult
+  - cerebrovascular disorder
+  - cerebrovascular accident
+  - cerebral vascular accident
+  - cerebro-vascular accident
+  - ictus
+  - Ictal
+14107272-n:
+  definition:
+  - distressing thought or behavior pattern
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - mental disorder
+  - mental illness
+  - psychiatric disorder
+  - disease of mental health
+  - mental or behavioural disorder
+  - disorder of mental process
+  - psychiatric disease
+  - mental dysfunction
+  - psychiatric condition
+  - mental disorders
+  - obsolete mental disorder
+  - psychiatric morbidity
+  - mental morbidity
+  - mental health morbidity
+  - psychological disorder
+  - psychiatric illness
+  - mental illnesses
+  - psychiatric disorders
+  - psychiatric disability
+14113727-n:
+  definition:
+  - Human disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - reflex epilepsy
+  - epilepsy, sensory-induced
+14116946-n:
+  definition:
+  - deficiency or absence of one or more central digits of the hand or foot
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - ectrodactyly
+  - SHFM
+  - split hand-foot malformation
+  - SHFM6
+  - split hand-foot malformation 6
+14122145-n:
+  definition:
+  - type of aphasia
+  instance_hypernym:
+  - 14093842-n
+  - 14323139-n
+  members:
+  - anomic aphasia
+  - anomia
+  - nominal aphasia
+  - dysnomia
+  - amnesic aphasia
+14122921-n:
+  definition:
+  - neurological condition, developmental or acquired
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - dyscalculia
+  - disorder of arithmetical skills
+  - mathematics disorder
+14125936-n:
+  definition:
+  - partial or complete obstruction of blood flow in a coronary artery
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - coronary occlusion
+14126313-n:
+  definition:
+  - 'disease: formation of a blood clot inside a blood vessel of the heart, which
+    clot may then restrict blood flow within the heart, leading to heart tissue damage,
+    or a myocardial infarction, also known as a heart attack'
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - coronary thrombosis
+  - Coronary artery thrombosis (disorder)
+  - Coronary artery thrombosis
+14128004-n:
+  definition:
+  - abnormally low blood pressure
+  instance_hypernym:
+  - 14323139-n
+  members:
+  - hypotension
+  - low blood pressure
+14130567-n:
+  definition:
+  - congenital disorder of digestive system
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - pyloric stenosis
+  - Pyloric stenosis
+14131232-n:
+  definition:
+  - cerebrovascular disorder
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - intracranial aneurysm
+  - brain aneurysm
+  - Intracranial aneurysm
+  - cerebral aneurysm
+  - IA
+14131806-n:
+  definition:
+  - thickening, hardening and loss of elasticity of the walls of arteries
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - arteriosclerosis
+  - arteriosclerotic vascular disease
+  - vascular sclerosis
+  - arteriosclerotic vascular disease NOS
+  - arteriosclerotic vascular disease (disorder)
+  - arterial sclerosis
+  - arteriosclerosis (morphologic abnormality)
+  - arteriosclerosis NOS
+14137847-n:
+  definition:
+  - excessive or abnormally large production or passage of urine
+  instance_hypernym:
+  - 14323139-n
+  members:
+  - polyuria
+  - increased urination
+14139281-n:
+  definition:
+  - Human disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - lipomatosis
+  - Lipomatosis (disorder)
+  - Lipomatosis (morphologic abnormality)
+  - Launois-Bensaude Syndrome
+  - Lipomatosis
+  - Madelung Disease
+  - Madelung's Disease
+14139803-n:
+  definition:
+  - disorder of the human liver
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - liver disease
+  - hepatic disease
+  - disease of liver
+  - disorder of liver
+  - liver disorder
+  - disorder of liver (disorder)
+  - hepatic disorder
+  - liver diseases
+  - disease of the liver
+14144982-n:
+  definition:
+  - human disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - myxedema
+  - myxoedema
+14147241-n:
+  definition:
+  - Human disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - exanthema subitum
+  - Roseola Infantum
+  - Sixth Disease
+  - Exanthem Subitum
+  - pseudorubella
+  - Roseola
+14148641-n:
+  definition:
+  - primary systemic mycosis that results in a systemic fungal infection, and has
+    material basis in Blastomyces dermatitidis
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - blastomycosis
+  - Blastomyces Dermatitidis Infection
+  - Blastomycosis (& [Chicago disease] or [Gilchrists disease] or [North American])
+  - Blastomycosis NOS (disorder)
+  - Blastomycosis, unspecified (disorder)
+  - Blastomycotic infection
+  - Chicago disease
+  - Chicago disease (disorder)
+  - Gilchrist's disease (disorder)
+  - Infection by Blastomyces dermatitidis (disorder)
+  - North American blastomycosis
+  - Gilchrist's disease
+  - Infection by Blastomyces dermatitidis
+14149560-n:
+  definition:
+  - foot disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - tinea pedis
+  - Dermatophytosis of foot
+  - Dermatophytosis of foot (& tinea pedis)
+  - Dermatophytosis of foot (disorder)
+  - Tinea pedis
+  - Tinea pedis (disorder)
+  - ringworm of foot
+  - athlete's foot
+  - pes dermatophytosis
+14150001-n:
+  definition:
+  - type of fungal infection of the groin region in either sex, though more often
+    seen in males
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - tinea cruris
+  - (Dermatophytosis of groin & perianal area) or (Dhobie itch) or (tinea cruris)
+  - Dermatophytosis of Groin and Perianal Area
+  - Dermatophytosis of groin and perianal area (disorder)
+  - Dermatophytosis of groin and perianal area NOS (disorder)
+  - Dhobie itch
+  - Dermatophytosis of groin & perianal area
+  - jock rot
+  - crotch itch
+14153266-n:
+  definition:
+  - tropical disease caused by the dengue virus, transmitted by mosquito
+  instance_hypernym:
+  - 14093842-n
+  - 14323139-n
+  members:
+  - dengue fever
+  - dengue disease
+  - classic dengue
+  - classical dengue
+  - breakbone fever
+  - dengue
+  - break-bone fever
+  - classical dengue fever
+14158301-n:
+  definition:
+  - slow degeneration (specifically, demyelination) of the neural tracts primarily
+    in the dorsal columns (posterior columns) of the spinal cord (the portion closest
+    to the back of the body) and dorsal roots
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - tabes dorsalis
+  - Posterior spinal sclerosis
+  - Tabes dorsalis - neurosyphilis
+14160156-n:
+  definition:
+  - Human disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - lepromatous leprosy
+  - Lepromatous leprosy (disorder)
+  - Lepromatous leprosy [type L]
+  - type L leprosy
+  - Lepromatous leprosy
+14161846-n:
+  definition:
+  - medical condition
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - brain fever
+14164720-n:
+  definition:
+  - typhus transmitted by fleas (Xenopsylla cheopis), usually on rats
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - endemic typhus
+  - Rat-Flea Typhus
+  - Rickettsia felis spotted fever
+  - Urban Typhus of Malaya
+  - cat flea rickettsiosis
+  - fleaborne typhus
+  - toulon typhus
+  - urban typhus
+  - murine typhus
+  - Shop typhus
+  - endemic flea-borne typhus
+  - Typhus, Endemic Flea-Borne
+14164972-n:
+  definition:
+  - Human disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - spotted fever
+  - Spotted fever group rickettsial disease (disorder)
+  - Spotted fever group rickettsial disease
+  - Spotted fever rickettsiae disease
+  - spotted fever rickettsiosis
+  - Spotted fever rickettsiosis
+14169610-n:
+  definition:
+  - type of asthma
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - status asthmaticus
+  - Asthma with status asthmaticus (disorder)
+  - Severe asthma attack
+  - Asthma with status asthmaticus
+14171446-n:
+  definition:
+  - type of pneumonia not caused by one of the pathogens most commonly associated
+    with the disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - atypical pneumonia
+  - walking pneumonia
+14172649-n:
+  definition:
+  - human disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - pneumococcal pneumonia
+  - Chest infection - pneumococcal pneumonia
+  - Lobar -pneumococcal -pneumonia
+  - Lobar pneumonia (disorder)
+  - Pneumococcal lobar pneumonia (disorder)
+  - Pneumococcal pneumonia (disorder)
+  - Pneumococcal pneumonia (disorder) [Ambiguous]
+  - Pneumococcal pneumonia [Streptococcus pneumoniae pneumonia]
+  - Streptococcus pneumoniae pneumonia
+  - Streptococcus pneumonia
+  - obsolete pneumococcal pneumonia
+  - Pneumonia, Pneumococcal
+14173445-n:
+  definition:
+  - interstitial lung disease that is caused by the inhalation of dust
+  instance_hypernym:
+  - 14093842-n
+  - 14323139-n
+  members:
+  - pneumoconiosis
+14173692-n:
+  definition:
+  - human disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - anthracosis
+  - Coal Miner's Pneumoconiosis
+  - Coal workers' lung
+  - Coal workers' pneumoconiosis
+  - Melanoedema
+  - black lung
+  - Black lung disease
+  - Coal miner's disease
+  - BLD
+  - coal workers' pneumoconiosis
+  - coal mine dust lung disease
+14176099-n:
+  definition:
+  - absence of a major portion of the brain, skull, and scalp that occurs during embryonic
+    development
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - anencephaly
+  - Anencephalus
+  - isolated anencephaly/exencephaly
+  - ANENCEPHALY
+14176767-n:
+  definition:
+  - human disease
+  instance_hypernym:
+  - 14323139-n
+  members:
+  - diplopia
+  - double vision
+  - diplopia (disorder)
+14179616-n:
+  definition:
+  - carbohydrate metabolic disorder that involves a defect in galactose metabolism
+    resulting in toxic levels of galactose 1-phosphate in various tissues
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - galactosemia
+  - galactosemias
+  - galactosaemia
+  - galactose intolerance
+14180222-n:
+  definition:
+  - disease characterized by miosis (a constricted pupil), partial ptosis (a weak,
+    droopy eyelid), apparent anhydrosis (decreased sweating), with apparent enophthalmos
+    (inset eyeball)
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - Horner's syndrome
+  - Bernard Horner syndrome
+  - Horner syndrome
+  - cervical sympathetic paralysis
+  - Oculosympathetic Palsy
+  - Bernard-Horner Syndrome
+14182941-n:
+  definition:
+  - enlargement of the tongue
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - macroglossia
+14183369-n:
+  definition:
+  - human disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - maple syrup urine disease
+  - branched chain ketoaciduria
+  - dihydrolipoamide dehydrogenase deficiency
+  - Maple Syrup Urine Disease; MSUD
+  - MSUD
+  - ketoacidaemia
+14184557-n:
+  definition:
+  - X-linked recessive inherited disorder characterized by slowly progressive muscle
+    weakness of the legs and pelvis
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - Becker muscular dystrophy
+  - Benign pseudohypertrophic muscular dystrophy
+  - benign congenital myopathy
+  - Becker's muscular dystrophy
+  - BMD
+14187158-n:
+  definition:
+  - Oculopharyngeal muscular dystrophy (OPMD) is an adult-onset progressive myopathy
+    characterized by progressive eyelid ptosis, dysphagia, dysarthria and proximal
+    limb weakness
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - oculopharyngeal muscular dystrophy
+  - Muscular dystrophy, oculopharyngeal
+  - Oculopharyngeal muscular dystrophy (disorder)
+  - OPMD
+  - Oculopharyngeal muscular dystrophy
+  - OCULOPHARYNGEAL MUSCULAR DYSTROPHY; OPMD
+14187489-n:
+  definition:
+  - severe metabolic disorders in which sphingomyelin accumulates in lysosomes in
+    cells
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - Niemann-Pick disease
+  - NIEMANN-PICK DISEASE WITH CHOLESTEROL ESTERIFICATION BLOCK
+  - NIEMANN-PICK DISEASE, SUBACUTE JUVENILE FORM
+  - Niemann-Pick disease type A
+  - Niemann-Pick disease type B
+  - Niemann-Pick disease type C
+  - SPHINGOMYELIN LIPIDOSIS
+  - Sphingomyelinase Deficiency Disease
+  - Type A Niemann-Pick Disease
+  - lipoid histiocytosis (classical phosphatide)
+  - lipoid histiocytosis
+  - Niemann-Pick diseases
+  - acid sphingomyelinase deficiency
+  - ASMD
+14189026-n:
+  definition:
+  - generic term for any type of anemia in which the red blood cells (erythrocytes)
+    are paler than normal
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - hypochromic anemia
+  - anemia hypochromic
+  - chlorosis
+  - green sickness
+  - Hypochromic Anemia
+14190450-n:
+  definition:
+  - Human disease
+  instance_hypernym:
+  - 14093842-n
+  - 14323139-n
+  members:
+  - macrocytic anemia
+  - ANEMIA MACROCYTIC
+  - Macrocytic Anemia
+  - Macrocytic anaemia of unspecified cause
+  - Macrocytic anemia (disorder)
+  - Macrocytic anemia of unspecified cause (disorder)
+  - Macrocytic anaemia
+14190605-n:
+  definition:
+  - human disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - microcytic anemia
+  - Iron-Refractory Iron Deficiency Anemia
+14190908-n:
+  definition:
+  - human disease
+  instance_hypernym:
+  - 14093842-n
+  - 14323139-n
+  members:
+  - pernicious anemia
+  - Addison's anaemia
+  - Biermer's anemia
+  - anemia, pernicious
+14192846-n:
+  definition:
+  - Human medical condition
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - Tay-Sachs disease
+  - hexosaminidase A deficiency
+  - Tay-Sachs disease (disorder)
+  - disease, Tay-Sachs
+  - GM2 gangliosidosis, type 1
+  - Hexosaminidase a Deficiency, Adult Type
+  - Hexosaminidase alpha-subunit deficiency (variant B)
+  - Gm2-Gangliosidosis, Variant B1
+  - Gm2-Gangliosidosis, Adult Chronic Type
+  - B variant GM2 gangliosidosis
+  - Gm2-Gangliosidosis, Type 1
+  - Hexa Deficiency
+  - GM2 gangliosidosis, B, B1 variant
+  - Sphingolipidosis, Tay-Sachs
+  - TAY-SACHS DISEASE; TSD
+  - TSD
+  - Tay-Sachs Disease, Variant B1
+  - Tay-Sachs Disease, Juvenile
+  - Tay-Sachs Disease, Pseudo-Ab Variant
+  - B Variant Gm2-Gangliosidosis
+  - TAY-SACHS DISEASE
+  - Gangliosidosis GM2 , type 1
+14194254-n:
+  definition:
+  - X-linked disease that has material basis in Factor VIII deficiency, which results
+    in the formation of fibrin deficient clots which makes coagulation much more prolonged
+  instance_hypernym:
+  - 14093842-n
+  - 14323139-n
+  members:
+  - hemophilia A
+  - haemophilia A
+  - Congenital factor VIII disorder
+  - Hemophilia A (disorder)
+  - Subhemophilia
+  - factor VIII deficiency
+  - Hemophilia A
+14199209-n:
+  definition:
+  - parasitic worm infection caused by the common liver fluke Fasciola hepatica as
+    well as by Fasciola gigantica
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - fasciolosis
+  - fasciola hepatica infection
+  - Infection by Fasciola
+  - liver flukes NOS
+  - sheep liver fluke infection
+  - fasciola gigantica infection
+  - fascioliasis
+  - fasciolasis
+  - distomatosis
+  - liver rot
+  - Liver flukes NOS (disorder)
+  - Infection by Fasciola (disorder)
+  - Fasciola hepatica infection (disorder)
+  - Liver flukes
+  - Fasciolosis
+14205430-n:
+  definition:
+  - fungal infection of the skin
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - dermatophytosis
+  - ringworm
+  - fungal skin diseases
+  - fungal skin disease
+  - dermatomycosis
+14208283-n:
+  definition:
+  - human disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - staphylococcal infection
+  - staphylococcal infectious disease
+  - Staphylococcal Infection
+  - staphylococcal infections
+  - staph infection
+14211949-n:
+  definition:
+  - bone remodeling disease that results in abnormal elevated bone density or mass
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - osteosclerosis
+14215516-n:
+  definition:
+  - genetic defect causing abnormal hemoglobin structure
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - hemoglobinopathy
+  - hemoglobinopathies
+  - Hemoglobinopathies / Iron Metabolism
+14216154-n:
+  definition:
+  - Human disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - Haverhill fever
+  - Streptobacillary fever
+  - Streptobacillary rat-bite fever
+  - Streptobacillosis
+14217053-n:
+  definition:
+  - human disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - hydrocele
+  - hydrocoele
+  - testicular hydrocele
+14218424-n:
+  definition:
+  - increase in the volume of circulating blood, that is, an excess of fluid in the
+    bloodstream
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - hypervolemia
+14220305-n:
+  definition:
+  - leukopenia that is the condition of having an abnormally low level of lymphocytes
+    in the blood
+  instance_hypernym:
+  - 14093842-n
+  - 14323139-n
+  members:
+  - lymphopenia
+  - Lymphocytopenia
+14222746-n:
+  definition:
+  - nutritional thiamine deficiency disease in humans
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - beriberi
+  - beri-beri
+14230411-n:
+  definition:
+  - human disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - iron overload
+  - hereditary haemochromatosis
+  - iron overload (disorder)
+  - obsolete iron overload
+14233318-n:
+  definition:
+  - inflammatory muscle disease in older adults
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - inclusion body myositis
+  - Distal Myopathy with Rimmed Vacuoles (DMRV)
+  - Distal myopathy, Nonaka type
+  - IBM-3
+  - IBM2
+  - Nonaka Myopathy
+  - inclusion body myopathy 2
+  - inclusion body myopathy 3
+  - hIBM
+  - hereditary Inclusion Body Myopathy
+  - sporadic Inclusion Body Myositis
+  - sIBM
+  - IBM
+  - Distal Myopathy with Rimmed Vacuoles
+  - Inclusion body myositis
+14237968-n:
+  definition:
+  - orofacial cleft characterized by a fissure of the soft and/or hard palate, due
+    to faulty fusion of the two plates of the skull that form the hard palate
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - cleft palate
+  - Palatoschisis
+  - Uranostaphyloschisis (disorder)
+  - cleft velum
+  - Uranostaphyloschisis
+14243143-n:
+  definition:
+  - class of disorder that affects skin, hair or nails
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - skin disease
+  - Genodermatosis
+  - Rare genodermatosis
+  - Disorder of Skin
+  - skin and subcutaneous tissue disease
+  - skin disorder
+  - Skin Diseases and Manifestations
+  - Cutaneous Disorder
+  - dermatosis
+  - disorder of zone of skin
+  - disease of zone of skin
+  - zone of skin disease
+  - skin diseases
+14248945-n:
+  definition:
+  - Human disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - eczema herpeticum
+  - Eczema herpeticum (disorder)
+  - Eczema herpeticum (disorder) [Ambiguous]
+  - Herpes simplex dermatitis of eyelid (disorder)
+  - Herpes simplex eyelid dermatitis (disorder)
+  - Herpes simplex virus dermatitis
+  - herpes simplex dermatitis
+  - herpes simplex virus eyelid dermatitis
+  - Herpes simplex eyelid dermatitis
+  - Eczema herpeticum
+  - Herpes simplex dermatitis of eyelid
+  - Kaposi-Juliusberg dermatitis
+  - Kaposi-Juliusberg syndrome
+14250700-n:
+  definition:
+  - skin disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - erythroderma
+  - exfoliative dermatitis
+  - dermatitis exfoliativa
+14250970-n:
+  definition:
+  - recurring boil
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - furunculosis
+14254070-n:
+  definition:
+  - human disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - necrobiosis lipoidica
+  - Necrobiosis lipoidica (disorder)
+  - Oppenheim-Urbach disease
+  - Necrobiosis lipoidica
+  - Necrobiosis lipoidica diabeticorum (formerly)
+14256749-n:
+  definition:
+  - deposition of yellowish cholesterol-rich material that can appear anywhere in
+    the body in various disease states
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - xanthoma
+14259149-n:
+  definition:
+  - Human disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - acanthoma
+14260514-n:
+  definition:
+  - type of tumor that starts in the brain or spine
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - glioma
+  - glial cell tumor
+  - glioma, malignant
+  - glioma, malignant, no ICD-O subtype
+  - malignant glioma (morphologic abnormality)
+  - malignant glioma - category
+  - neuroglial tumor
+  - malignant neuroglial tumor
+  - malignant glioma
+  - gliomas
+14267359-n:
+  definition:
+  - broad type of leukemia; disjoint with acute leukemia
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - chronic leukemia
+  - adult chronic leukemia
+  - leukemia (disease), chronic
+  - chronic Leukemia
+14269579-n:
+  definition:
+  - rare disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - nephroblastoma
+  - Wilms tumor
+  - adult nephroblastoma
+  - adult renal Wilms' tumor
+  - childhood renal Wilms' cancer
+  - renal Wilms tumor
+  - Wilms' tumor
+  - childhood renal Wilms tumor
+  - "Wilms\u2019 tumour"
+  - Wilm's tumour
+  - Wilm's tumor
+  - Wilms tumour
+14272023-n:
+  definition:
+  - human disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - myoma
+  - benign neoplasm of the Muscle
+14272620-n:
+  definition:
+  - Human disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - neurofibroma
+14273996-n:
+  definition:
+  - plasma cell dyscrasia in which a plasma cell tumour grows within soft tissue or
+    within the axial skeleton
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - plasmacytoma
+  - Myeloma - solitary
+  - Myeloma, solitary
+  - Solitary myeloma
+  - Solitary plasmacytoma
+  - Plasmacytoma
+14276346-n:
+  definition:
+  - health condition negatively affecting the eye
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - eye disease
+  - disease of the eye
+  - eye disorder
+  - Eye Disease
+  - disease of eye
+  - disorder of eye
+  - eye diseases
+14284746-n:
+  definition:
+  - eyelid disease that is characterized by often chronic inflammation of the eyelid,
+    generally the part where eyelashes grow
+  instance_hypernym:
+  - 14093842-n
+  - 14323139-n
+  members:
+  - blepharitis
+  - Infective dermatitis of eyelid of types resulting in deformity
+  - Infective eyelid dermatitis of types resulting in deformity (disorder)
+  - eyelid inflammation
+  - eyeliditis
+14286782-n:
+  definition:
+  - animal disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - pasteurellosis
+  - Pasteurella infection
+  - Pasteurella infectious disease
+  - Pasteurella infections
+14293058-n:
+  definition:
+  - elevated level of potassium (K+) in the blood serum.
+  instance_hypernym:
+  - 14323139-n
+  - 13943868-n
+  members:
+  - hyperkalemia
+  - Blood potassium increased
+14293274-n:
+  definition:
+  - a condition where the potassium levels in the blood are lower than normal
+  instance_hypernym:
+  - 14093842-n
+  - 14323139-n
+  members:
+  - hypokalemia
+  - hypokalaemia
+14294116-n:
+  definition:
+  - Human disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - hypolipoproteinemia
+  - Hypolipoproteinaemia (disorder)
+  - Lipoprotein deficiencies
+  - Hypolipoproteinaemia
+  - hypolipoproteinemias
+14294982-n:
+  definition:
+  - medical condition in which ketone bodies are present in the urine
+  instance_hypernym:
+  - 14323139-n
+  members:
+  - ketonuria
+  - Acetonuria
+  - urine ketones
+14297570-n:
+  definition:
+  - animal disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - louping ill
+  - Louping ill
+14320991-n:
+  definition:
+  - intestinal disease characterized by the protrusion by part of the intestine though
+    an opening in the abdominal muscles
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - umbilical hernia
+  - Hernia, Umbilical
+14326676-n:
+  definition:
+  - increase in urine production
+  instance_hypernym:
+  - 14323139-n
+  - 13943868-n
+  members:
+  - diuresis
+  - urine output
+14336444-n:
+  definition:
+  - human disease
+  instance_hypernym:
+  - 14093842-n
+  - 14323139-n
+  members:
+  - exophthalmos
+  - proptosis
+  - Eye proptosis
+14337370-n:
+  definition:
+  - human disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - gas gangrene
+  - (Gas gangrene) or (Clostridium infection)
+  - Gas bacillus infection or gangrene
+  - Gas gangrene (disorder)
+  - Myonecrosis
+  - Gas gangrene
+  - Gas bac
+  - Gas bacillus infection
+14340491-n:
+  definition:
+  - human disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - cerebral edema
+  - intracranial swelling
+  - wet brain
+  - brain edema
+  - cerebral oedema
+  - brain oedema
+14347981-n:
+  definition:
+  - non-inflammatory joint pain
+  instance_hypernym:
+  - 14323139-n
+  members:
+  - arthralgia
+  - joint pain
+14349311-n:
+  definition:
+  - discomfort or pain felt anywhere along the front of the body between the neck
+    and upper abdomen
+  instance_hypernym:
+  - 14323139-n
+  members:
+  - chest pain
+  - Chest Pains
+14358036-n:
+  definition:
+  - medical condition in which the heart is enlarged
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - cardiomegaly
+  - enlarged heart
+14359574-n:
+  definition:
+  - sudden flushing, usually in menopausal women, due to reduced levels of estrogen
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - hot flash
+  - hot flush
+  - hot flashes
+  - hot flushes
+14362624-n:
+  definition:
+  - Human disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - subacute bacterial endocarditis
+  - Endocarditis lenta
+  - SBE - Subacute bacterial endocarditis
+  - Subacute bacterial endocarditis (disorder)
+  - Subacute endocarditis, lenta
+  - Subacute bacterial endocarditis
+  - SBE
+  - sepsis lenta
+  - Endocarditis, Subacute Bacterial
+14364227-n:
+  definition:
+  - cholangitis that is characterized by an inflammation that is located in the gallbladder
+  instance_hypernym:
+  - 14093842-n
+  - 14323139-n
+  members:
+  - cholecystitis
+  - acute and chronic cholecystitis
+  - acute and chronic cholecystitis (disorder)
+  - gall bladderitis
+  - gall bladder inflammation
+  - acute or chronic cholecystitis
+  - chronic cholecystitis
+  - acute on chronic cholecystitis
+  - acute cholecystitis
+14368957-n:
+  definition:
+  - inflammation of the epiglottis
+  instance_hypernym:
+  - 14093842-n
+  - 14323139-n
+  members:
+  - epiglottitis
+  - acute epiglottitis and supraglottitis
+  - acute epiglottitis
+  - mucosa of epiglottisitis
+  - mucosa of epiglottis inflammation
+  - supraglottitis
+14369595-n:
+  definition:
+  - Human disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - folliculitis
+  - seborrhea capitis
+  - hair follicle dermatitis
+14369821-n:
+  definition:
+  - stomach disease that is an inflammation of the lining of the stomach
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - gastritis
+  - Erosive Gastritis
+  - Erosive gastropathy (disorder)
+  - Gastritis (disorder)
+  - Gastritis [Ambiguous]
+  - Gastritis unspecified (disorder)
+  - Hemorrhagic Gastritis
+  - Idiopathic erosive/hemorrhagic gastritis (disorder)
+  - acute Gastritis
+  - acute gastric mucosal erosion (disorder)
+  - acute gastritis with hemorrhage
+  - acute gastritis without mention of hemorrhage
+  - acute gastritis, with hemorrhage
+  - acute gastritis, without mention of hemorrhage
+  - acute haemorrhagic gastritis
+  - chronic Gastritis
+  - chronic gastritis (disorder)
+  - chronic gastritis NOS (disorder)
+  - GASTRITIS HEMORRHAGIC
+  - Erosive gastropathy
+  - acute gastric mucosal erosion
+  - stomach inflammation
+  - stomachitis
+14370314-n:
+  definition:
+  - soreness of the tongue, or more usually inflammation with depapillation of the
+    dorsal surface of the tongue
+  instance_hypernym:
+  - 14093842-n
+  - 14323139-n
+  members:
+  - glossitis
+  - Glossitis (disorder)
+  - Glossitis NOS (disorder)
+  - tongueitis
+  - tongue inflammation
+14372162-n:
+  definition:
+  - inner ear disease which involves inflammation of the inner ear
+  - inflammation of the labyrinth, fluid-filled channels in the inner ear
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - otitis interna
+  - inner ear infection
+  - infectious labyrinthitis
+  - Infectious Otitis Interna
+  - Internal Ear Infection
+  - labyrinthitis
+  - Labyrinthitis (disorder)
+  - Labyrinthitis NOS (disorder)
+  - Labyrinthitis, unspecified
+  - Unspecified labyrinthitis (disorder)
+  - Neuritis vestibularis
+  - vestibular neuritis
+14373122-n:
+  definition:
+  - inflammation of the breast
+  instance_hypernym:
+  - 14093842-n
+  - 14323139-n
+  members:
+  - mastitis
+  - Inflammatory breast disease
+  - Inflammatory disease of breast
+  - Inflammatory disorder of breast (disorder)
+  - breast inflammation NOS
+  - breast inflammation NOS (disorder)
+  - breast inflammation
+  - breastitis
+  - breast infection
+14374407-n:
+  definition:
+  - human disease
+  instance_hypernym:
+  - 14093842-n
+  - 14323139-n
+  members:
+  - oophoritis
+  - Oophoritis (disorder)
+  - Oophoritis unspecified (disorder)
+  - ovaryitis
+  - ovary inflammation
+14374624-n:
+  definition:
+  - Human disease
+  instance_hypernym:
+  - 14093842-n
+  - 14323139-n
+  members:
+  - ophthalmoplegia
+  - Ophthalmoplegia (disorder)
+  - Ophthalmoplegia NOS
+  - Total ophthalmoplegia
+  - Total ophthalmoplegia (disorder)
+  - oculomotor paralysis
+14375860-n:
+  definition:
+  - Human disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - parametritis
+  - pelvic cellulitis unspecified (disorder)
+  - pelvic cellulitis
+  - parametriumitis
+  - parametrium inflammation
+14375975-n:
+  definition:
+  - parotid disease characterized by the inflammation of one or both parotid glands
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - parotitis
+  - parotid glanditis
+  - parotid gland inflammation
+14377662-n:
+  definition:
+  - human disease; inflammation of the anus
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - proctitis
+  - Proctitis (disorder)
+  - Proctitis NOS
+  - Proctitis NOS (disorder)
+  - anus inflammation
+  - rectitis
+  - anusitis
+14378365-n:
+  definition:
+  - Human disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - retinitis
+14378864-n:
+  definition:
+  - infection and inflammation in the fallopian tubes
+  instance_hypernym:
+  - 14093842-n
+  - 14323139-n
+  members:
+  - salpingitis
+  - fallopian tubeitis
+  - fallopian tube inflammation
+14379048-n:
+  definition:
+  - Disease of human eye
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - scleritis
+  - Scleritis (disorder)
+  - Scleritis, unspecified
+  - Unspecified scleritis (disorder)
+14379130-n:
+  definition:
+  - inflammation of a salivary gland
+  instance_hypernym:
+  - 14093842-n
+  - 14323139-n
+  members:
+  - sialadenitis
+  - Sialoadenitis
+  - saliva-secreting gland lymphadenitis (disease)
+  - Sialitis
+  - Salivary gland inflammation
+  - Adenitis, salivary gland
+14379449-n:
+  definition:
+  - inflammation of the mouth and lips
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - stomatitis
+  - gingivostomatitis
+  - Oral Mucositis
+  - mouth mucosaitis
+  - mouth mucosa inflammation
+  - Mucositis oral
+14379733-n:
+  definition:
+  - connective tissue disease that results in inflammation located in synovial membrane
+    that lines a synovial joint which causes pain and swelling
+  instance_hypernym:
+  - 14093842-n
+  - 14323139-n
+  members:
+  - synovitis
+  - synovitis and tenosynovitis
+  - Synovitides
+14380398-n:
+  definition:
+  - inflammation of the fluid-filled sheath (called the synovium) that surrounds a
+    tendon, typically leading to joint pain, swelling, and stiffness
+  instance_hypernym:
+  - 14093842-n
+  - 14323139-n
+  members:
+  - tenosynovitis
+  - Inflammation of tendon sheath
+  - tendon sheathitis
+  - Tenosynovitides
+  - tendon sheath inflammation
+14380775-n:
+  definition:
+  - inflammation of the trachea
+  instance_hypernym:
+  - 14093842-n
+  - 14323139-n
+  members:
+  - tracheitis
+  - Tracheitis (disorder)
+  - Tracheitis, NOS
+  - acute tracheitis
+  - acute tracheitis (disorder)
+  - acute tracheitis NOS (disorder)
+  - chronic tracheitis
+  - Annular ligaments of trachea
+  - Tracheal Inflammation
+  - tracheal mucosaitis
+  - tracheal mucosa inflammation
+14381258-n:
+  definition:
+  - human disease
+  instance_hypernym:
+  - 14093842-n
+  - 14323139-n
+  members:
+  - uveitis
+  - uveaitis
+  - Uveitis
+  - uvea inflammation
 14384587-n:
   domain_region:
   - 08879115-n
+14385998-n:
+  definition:
+  - heart conduction disease that is characterized by the impairment of the conduction
+    between the atria and ventricles of the heart
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - atrioventricular block
+  - AV nodal block
+  - AV block
+14386544-n:
+  definition:
+  - disorganized electrical activity in the ventricles
+  instance_hypernym:
+  - 14093842-n
+  - 14323139-n
+  members:
+  - ventricular fibrillation
+  - VF
+  - Ventricular Fibrillation
+  - VFib
+  - Fibrillation, Ventricular
+  - Vf
+14403878-n:
+  definition:
+  - cognitive disorder with an excessive, irrational dread of everyday situations
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - anxiety disorder
+  - anxiety state
+  - anxiety neurosis
+  - chronic anxiety
+  - anxiety
+14405564-n:
+  definition:
+  - abnormal fear of women
+  instance_hypernym:
+  - 14404821-n
+  members:
+  - gynophobia
+  - gynaecophobia
+  - gynecophobia
+  - gynephobia
+  - gynaephobia
+  - "gyn\xE6cophobia"
+  - "gyn\xE6phobia"
+14406372-n:
+  definition:
+  - persistent and abnormal fear of water
+  instance_hypernym:
+  - 14404821-n
+  members:
+  - aquaphobia
+  - waterfright
+14407253-n:
+  definition:
+  - pathological fear of contamination and germs
+  instance_hypernym:
+  - 14404821-n
+  members:
+  - mysophobia
+  - verminophobia
+  - germophobia
+  - germaphobia
+  - bacillophobia
+  - bacteriophobia
+14407836-n:
+  definition:
+  - fear of fire
+  instance_hypernym:
+  - 14404821-n
+  members:
+  - pyrophobia
+  - fear of fire
+14408407-n:
+  definition:
+  - fear of cats
+  instance_hypernym:
+  - 14404821-n
+  members:
+  - ailurophobia
+  - felinophobia
+  - elurophobia
+  - gatophobia
+  - cat phobia
+14408487-n:
+  definition:
+  - fear of dogs and canines
+  instance_hypernym:
+  - 14404821-n
+  members:
+  - cynophobia
+  - Canophobie
+  - dog phobia
+  - zoophobia that fear of dogs
+14410754-n:
+  definition:
+  - mental disease
+  instance_hypernym:
+  - 14093842-n
+  - 14323139-n
+  members:
+  - delusional disorder
+14414517-n:
+  definition:
+  - major depressive episode that is accompanied by psychotic symptoms
+  instance_hypernym:
+  - 14323139-n
+  members:
+  - psychotic depression
+  - psychogenic depressive psychosis
+  - Depressive type psychosis
+  - Severe major depression with psychotic features (disorder)
+  - obsolete psychogenic depressive psychosis
+  - depressive psychosis
+14417499-n:
+  definition:
+  - dissociative disorder in which the sufferer is affected by persistent or recurrent
+    feelings of depersonalization and/or derealization
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - depersonalization disorder
+  - neurotic derealization
+  - depersonalization-derealization syndrome
+  - depersonalization/derealization disorder
+14422520-n:
+  definition:
+  - mental disorder
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - catatonic schizophrenia
+  - catatonic type schizophrenia
+  - schizophrenia, catatonic type
+  - obsolete catatonic schizophrenia
+14423256-n:
+  definition:
+  - schizophrenia that involves delusions or auditory hallucinations of persecution
+    or being plotted against without thought disorder, disorganized behavior, or affective
+    flattening
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - paranoid schizophrenia
+  - Paranoid type schizophrenia
+  - Paraphrenia - late
+  - Paraphrenic schizophrenia
+  - Chronic paranoid schizophrenia
+  - Paranoid type schizophrenia subchronic state
+  - paranoid type schizophrenia in remission
+  - paranoid type schizophrenia chronic state with acute exacerbation
+  - paranoid type schizophrenia subchronic state with acute exacerbation
+  - Schizophrenia, Paranoid
+14423911-n:
+  definition:
+  - medical condition leading to loss of voice
+  instance_hypernym:
+  - 14323139-n
+  members:
+  - aphonia
+14425419-n:
+  definition:
+  - motor speech disorder
+  instance_hypernym:
+  - 14093842-n
+  - 14323139-n
+  members:
+  - dysarthria
+14425781-n:
+  definition:
+  - voice impairment
+  instance_hypernym:
+  - 14323139-n
+  members:
+  - dysphonia
 14433122-n:
   domain_region:
   - 08879115-n
 14435968-n:
   domain_region:
   - 08879115-n
+14440704-n:
+  definition:
+  - disease of mental health in which the normally well-integrated functions of memory,
+    identity, perception, or consciousness are separated (dissociated)
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - dissociative disorder
+  - dissociative disease
+  - dissociative reaction
+  - DD
+  - conversion disorder
 14454441-n:
   domain_region:
   - 08891234-n
 14454595-n:
   domain_region:
   - 08891234-n
+14476532-n:
+  definition:
+  - parasitic ectoparasitic infectious disease caused by mites
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - acariasis
+  - mite infestation
+  - mite infestations
+14488632-n:
+  definition:
+  - condition present at birth regardless of cause; human disease or disorder developed
+    prior to birth
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - congenital disorder
+  - congenital disease
+  - birth defect
+14491932-n:
+  definition:
+  - genetic disorder that causes early aging
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - progeria
+  - Progeria syndrome
+  - Hutchinson-Gilford Progeria Syndrome
+  - HGPS
+  - Hutchinson Gilford syndrome
+  - Hutchinson-Gilford disease
+  - Progeria (disorder)
+  - Progeria syndrome (disorder) [Ambiguous]
+  - Hutchinson Gilford progeria syndrome
+  - Progeria
+  - Premature Senility Syndrome
+  - HUTCHINSON-GILFORD PROGERIA SYNDROME; HGPS
+  - Progeria Syndrome, Childhood-Onset
+  - Accelerated aging disease
+14494080-n:
+  definition:
+  - adrenal gland disease that is characterized by failure of the adrenal gland due
+    to bleeding into the gland
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - Waterhouse-Friderichsen syndrome
+  - Meningococcal hemorrhagic adrenalitis
+  - WFS
 14499789-n:
   domain_region:
   - 08879115-n
+14529835-n:
+  definition:
+  - Esotropia is a strabismus in which the eye turns inward toward the nose
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - esotropia
+  - Convergence in manifest squint (finding)
+  - Internal Strabismus
+  - crossed eyes
+  - Convergence in manifest squint
+14530135-n:
+  definition:
+  - osteochondrodysplasia that has material basis in a mutation in the CTSK gene which
+    results in dwarfism, brittle bones, osteopetrosis, shortening of the distal phalanges
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - pycnodysostosis
+  - Pyknodysostosis
+  - Pycd
+  - PYCNODYSOSTOSIS
+  - PKND
 14545556-n:
   domain_region:
   - 08879115-n
 14554261-n:
   domain_region:
   - 08879115-n
+14569447-n:
+  definition:
+  - muscle losing its strength
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - atony
+14573958-n:
+  definition:
+  - lack of motor coordination marked by an inability to stand, walk or even sit without
+    assistance due to disruption of muscle coordination
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - astasis
+  - astasia
+14575578-n:
+  definition:
+  - inability to speak, often caused by a speech disorder or mental disorder
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - muteness
+  - mutism
+  - mute
+14579795-n:
+  definition:
+  - Human disease
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - scotoma
+  - Blind spot area scotoma NOS (finding)
+  - Enlarged angioscotoma
+  - Enlarged blind spot
+  - Enlarged paracaecal scotoma
+  - Generalized visual field contraction or constriction
+  - Scotoma of blind spot area
+  - Sector or arcuate visual field defects
+  - Blind spot area scotoma
+14581165-n:
+  definition:
+  - form of strabismus where the eyes are deviated outward
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - exotropia
+  - Divergent concomitant strabismus
+  - Divergent concomitant strabismus (disorder)
+  - divergent strabismus
+14582191-n:
+  definition:
+  - condition typified by a weakness of voluntary movement
+  instance_hypernym:
+  - 14323139-n
+  members:
+  - paresis
+  - pareses
+  - partial paralysis
+14582491-n:
+  definition:
+  - abnormal condition in which the kidney drops down into the pelvis when the patient
+    stands up
+  instance_hypernym:
+  - 14093842-n
+  members:
+  - nephroptosis
+14583236-n:
+  definition:
+  - paralysis of the arm, leg, and trunk on the same side of the body
+  instance_hypernym:
+  - 14093842-n
+  - 14323139-n
+  members:
+  - hemiplegia
+  - Infantile hemiplegia
+  - Infantile hemiplegia (disorder)
+  - Infantile hemiplegia NOS
+  - Infantile hemiplegia NOS (disorder)
+  - Infantile hemiplegia [Ambiguous]
+  - Postnatal infantile hemiplegia NOS
+  - Postnatal infantile hemiplegia
+  - Hemiconvulsion hemiplegia epilepsy syndrome
+  - One side convulsions
+  - Epilepsy syndrome
+91001591-n:
+  definition:
+  - discomfort or a fear when a person is in social interactions
+  instance_hypernym:
+  - 13943868-n
+  members:
+  - social anxiety
+92468294-n:
+  definition:
+  - aversion to the number 666 or "number of the beast"
+  instance_hypernym:
+  - 14404821-n
+  members:
+  - hexakosioihexekontahexaphobia
+  - 666 phobia

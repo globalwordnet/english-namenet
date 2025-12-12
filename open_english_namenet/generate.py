@@ -69,7 +69,7 @@ def process_entry(qid, cursor, hyps, wd2entry, f, lexfiles, addendum, lemmas=[],
                 "wikidata": qid
             }
         if mero:
-            entry[1]["mero_member"] = list(set(mero))
+            entry["mero_member"] = list(set(mero))
         yaml.dump({new_id: entry}, f, sort_keys=False)
         return new_id, entry
 

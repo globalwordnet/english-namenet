@@ -6,16 +6,16 @@ TT:
 Tabasco:
   n:
     pronunciation:
-    - value: təˈbæskəʊ
+    - value: "t\u0259\u02C8b\xE6sk\u0259\u028A"
     sense:
     - id: 'tabasco%1:15:00::'
       synset: 08763520-n
 Tabernacle:
   n:
     pronunciation:
-    - value: ˈtæbɚnækl̩
+    - value: "\u02C8t\xE6b\u025An\xE6kl\u0329"
       variety: US
-    - value: ˈtæbənækl̩
+    - value: "\u02C8t\xE6b\u0259n\xE6kl\u0329"
       variety: GB
     sense:
     - id: 'tabernacle%1:06:02::'
@@ -49,7 +49,7 @@ Taiwanese:
 Tajik:
   n:
     pronunciation:
-    - value: ˈtɑːdʒɪk
+    - value: "\u02C8t\u0251\u02D0d\u0292\u026Ak"
       variety: US
     sense:
     - id: 'tajik%1:15:00::'
@@ -82,7 +82,7 @@ Taos:
 Tarzan:
   n:
     pronunciation:
-    - value: ˈtɑɹzæn
+    - value: "\u02C8t\u0251\u0279z\xE6n"
       variety: US
     sense:
     - id: 'tarzan%1:18:00::'
@@ -129,7 +129,7 @@ Thalia:
 Thanatos:
   n:
     pronunciation:
-    - value: ˈθænəˌtɒs
+    - value: "\u02C8\u03B8\xE6n\u0259\u02CCt\u0252s"
     sense:
     - id: 'thanatos%1:18:00::'
       synset: 09578643-n
@@ -175,7 +175,7 @@ Timorese:
 Titan:
   n:
     pronunciation:
-    - value: ˈtaɪtən
+    - value: "\u02C8ta\u026At\u0259n"
     sense:
     - id: 'titan%1:17:00::'
       synset: 09482399-n
@@ -218,7 +218,7 @@ Tongan:
 Torah:
   n:
     pronunciation:
-    - value: tɔːɹɑ
+    - value: "t\u0254\u02D0\u0279\u0251"
     sense:
     - id: 'torah%1:10:01::'
       synset: 06463893-n
@@ -261,9 +261,9 @@ Trotskyist:
 Tudor:
   n:
     pronunciation:
-    - value: ˈtjuːdə
+    - value: "\u02C8tju\u02D0d\u0259"
       variety: GB
-    - value: ˈtuːdəɹ
+    - value: "\u02C8tu\u02D0d\u0259\u0279"
       variety: US
     sense:
     - id: 'tudor%1:18:00::'
@@ -294,9 +294,9 @@ Turkmen:
       - 'turkmenistan%1:15:00::'
   n:
     pronunciation:
-    - value: ˈtɜːk.mən
+    - value: "\u02C8t\u025C\u02D0k.m\u0259n"
       variety: GB
-    - value: ˈtɝk.mən
+    - value: "\u02C8t\u025Dk.m\u0259n"
       variety: US
     sense:
     - id: 'turkmen%1:15:00::'

@@ -7,6 +7,21 @@
 04789231-n:
   domain_region:
   - 08879115-n
+04936919-n:
+  definition:
+  - short period of the most exceptional artistic production during the Italian Renaissance
+  instance_hypernym:
+  - 08483654-n
+  - 15137796-n
+  members:
+  - High Renaissance
 05152127-n:
   domain_topic:
   - 06459567-n
+92436849-n:
+  definition:
+  - Russian art movement
+  instance_hypernym:
+  - 08483654-n
+  members:
+  - Cubo-Futurism

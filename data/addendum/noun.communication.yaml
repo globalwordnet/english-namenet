@@ -4,6 +4,15 @@
 06287555-n:
   domain_region:
   - 08879115-n
+06287788-n:
+  definition:
+  - technology of signaling and communicating using radio waves
+  instance_hypernym:
+  - 08024893-n
+  members:
+  - radio
+  - radio market
+  - radio industry
 06304010-n:
   domain_region:
   - 08798733-n
@@ -19,9 +28,31 @@
 06390717-n:
   domain_region:
   - 08798733-n
+06396887-n:
+  definition:
+  - in liturgy, first half of one of a set of preces
+  instance_hypernym:
+  - 05853859-n
+  members:
+  - versicle
 06437630-n:
   domain_region:
   - 09067337-n
+06443410-n:
+  definition:
+  - collection of sacred books in Judaism and Christianity
+  instance_hypernym:
+  - 06374360-n
+  members:
+  - Bible
+  - Holy Bible
+  - Christian scriptures
+  - The Bible
+  - The Holy Bible
+  - Holy Scriptures
+  - God's Word
+  - Judaeo-Christian Bible
+  - Christian scripture
 06447064-n:
   mero_part:
   - 06447321-n
@@ -130,6 +161,16 @@
 06508853-n:
   domain_region:
   - 08879115-n
+06520408-n:
+  definition:
+  - official record of the proceedings and debates of the United States Congress
+  instance_hypernym:
+  - 00033319-n
+  members:
+  - Congressional Record
+  - 'Congressional record : proceedings and debates of the ... Congress. United States.
+    Congress'
+  - Congr Rec (Dly Ed)
 06524315-n:
   domain_region:
   - 09067337-n
@@ -142,6 +183,23 @@
 06541870-n:
   domain_region:
   - 08879115-n
+06548380-n:
+  definition:
+  - statement that explains the meaning of a word, phrase, concept, or idea
+  instance_hypernym:
+  - 06005806-n
+  members:
+  - translation
+  - translating
+  - translate
+06604544-n:
+  definition:
+  - work of rock music that presents a storyline told over multiple parts, songs or
+    sections
+  instance_hypernym:
+  - 05853859-n
+  members:
+  - rock opera
 06608383-n:
   domain_region:
   - 08879115-n
@@ -166,9 +224,32 @@
 06682129-n:
   domain_region:
   - 08879115-n
+06711775-n:
+  definition:
+  - postgraduate academic degree in divinity or theology
+  instance_hypernym:
+  - 06710094-n
+  members:
+  - Bachelor of Divinity
+  - B.D.
+  - BD
+  - BDiv
+  - Baccalaureate in Divinity
 06711988-n:
   domain_region:
   - 08879115-n
+06712129-n:
+  definition:
+  - academic degree
+  instance_hypernym:
+  - 06710094-n
+  members:
+  - Bachelor of Music
+  - B.M.
+  - B. M.
+  - B. Mus.
+  - B.Mus.
+  - BMus
 06712793-n:
   domain_region:
   - 08879115-n
@@ -178,6 +259,72 @@
 06713088-n:
   domain_region:
   - 08879115-n
+06713607-n:
+  definition:
+  - master's degree
+  instance_hypernym:
+  - 06710094-n
+  members:
+  - Master of Architecture
+  - M.Arch.
+  - Magister Architecturae
+  - MArch
+  - Master in Architecture
+  - Engineer architect
+  - M. Arch.
+06714258-n:
+  definition:
+  - first professional degree of the pastoral profession in North America; a program
+    of theological studies designed to prepare the candidate for ordination to the
+    Christian ministry.
+  instance_hypernym:
+  - 06713210-n
+  members:
+  - Master of Divinity
+  - Masters of Divinity
+  - magister divinitatis
+  - M.Div.
+  - MDiv
+06714359-n:
+  definition:
+  - graduate academic degree in Education
+  instance_hypernym:
+  - 06713210-n
+  members:
+  - Master of Education
+  - M.Ed.
+  - MEd
+  - Ed.M.
+  - M.A.Ed.
+  - M.S.Ed.
+  - M.S.E.
+  - M.Ed.L
+  - M.A.E.
+  - Master's of Education
+  - Master in education
+06716496-n:
+  definition:
+  - professional degree
+  instance_hypernym:
+  - 06710094-n
+  members:
+  - Doctor of Osteopathic Medicine
+  - Osteopathic Physician
+  - Osteopathic Physicians
+  - DO
+  - Physician
+  - Medical doctor
+  - D.O.
+06717842-n:
+  definition:
+  - degree awarded to honour an individual, waiving requirements
+  instance_hypernym:
+  - 06710094-n
+  members:
+  - honorary degree
+  - Honoris Causa
+  - Ad Honorem
+  - H.C
 06740507-n:
   domain_region:
   - 09067337-n
@@ -202,90 +349,4480 @@
 06897840-n:
   domain_region:
   - 08879115-n
+06918289-n:
+  definition:
+  - language spoken in Haiti
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Haitian Creole
+  - Haitian Creole language
+  - ht
+  - Haitian language
+06918804-n:
+  definition:
+  - Ngbandi-based creole of the Central African Republic
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Sango
+  - Sangho
+  - sg
+  - sag
+  - Sango language
 06920504-n:
   domain_region:
   - 09067337-n
+06920824-n:
+  definition:
+  - Algonquian language
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Abenaki
+  - Abnaki
+  - Abenaki language
+  - "W\xF4banaki\xF4dwaw\xF4gan"
+  - abe
+06920935-n:
+  definition:
+  - distinct Algonquian language closely related to the Ojibwe language or a particularly
+    divergent Ojibwe dialect
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Algonquin
+  - Algonkin language
+  - "Anicin\xE0bemowin language"
+  - Algonquin language
+  - Algonkin
+  - "Anicin\xE0bemowin"
+  - Anicinabemowin language
+  - Anicinabemowin
+  - Article name
+  - alq
+06921177-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Biloxi
+  - Biloxi language
+06921270-n:
+  definition:
+  - indigenous language of the northwestern Great Plains of North America
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Blackfoot
+  - Siksika
+  - "Siksik\xE1"
+  - Blackfoot language
+  - "Siksik\xE1\xEDitsi'powahsini"
+06921381-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Catawba
+  - Catawba language
+06921476-n:
+  definition:
+  - indigenous language of the United States
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Cheyenne
+  - Cheyenne language
+06921577-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - "Iowa\u2013Otoe\u2013Missouria"
+  - Iowa-Oto language
+  - Iowa-Otoe-Missouria
+  - Iowa-Otoe-Missouria language
+  - Chiwere
+  - Chiwere language
+  - "B\xE1xoje-J\xEDwere-Ny\xFAt\u02BCachi"
+06922074-n:
+  definition:
+  - Algonquian language of Canada
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Swampy Cree
+  - Swampy Cree language
+  - Cree
+  - Omushkego
+  - Mushkegowuk
+  - Maskekon
+  - Maskegon
+  - "Oma\u0161k\xEAkowak"
+06922167-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Crow
+  - Crow language
+  - Apsaalooke
+  - "Aps\xE1alooke alil\xE1au"
+06922254-n:
+  definition:
+  - Native American language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Dakota
+  - Dakota language
+06922347-n:
+  definition:
+  - Native American languages centered around the Delaware River
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Delaware
+  - Delaware languages
+  - Lenape languages
+  - Lenape
+06922624-n:
+  definition:
+  - Algonquian language spoken in US Midwest and northern Mexico
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Sac-Fox-Kickapoo
+  - Mesquakie-Sauk-Kickapoo
+  - Fox language
+  - Mesquakie-Kickapoo
+  - Meskwaki-Kickapoo
+  - Meskwaki-Sauk-Kickapoo
+  - Sac and Fox and Kickapoo
+  - Mesquakie language
+  - Mesquakie
+  - Meskwaki
+  - Sauk-Fox
+06922815-n:
+  definition:
+  - Siouan language spoken by the Lakota people of the Sioux tribes
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Lakota
+  - Lakhota
+  - Teton Sioux
+  - Teton
+  - Lakota language
+  - lkt
+06922910-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Miami-Illinois
+  - Miami
+  - Illinois
+  - Miami-Illinois language
+  - Miami language
+  - Myaamia
+06923014-n:
+  definition:
+  - endangered language spoken in Canada and Alaska
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Haida
+  - Haida language
+  - "X\u0331aat K\xEDl"
+  - "Xaat K\xEDl"
+  - Xaat Kil
+  - "X\u0331aadas K\xEDl"
+  - "X\u0331aayda Kil"
+  - Xaad kil
+06923099-n:
+  definition:
+  - Siouan language of the Dhegihan group once spoken by the Kaw people
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Kansa
+  - Kansa language
+06923199-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Kickapoo
+  - Kickapoo language
+06923293-n:
+  definition:
+  - Algonquian language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Malecite-Passamaquoddy
+  - Malecite-Passamaquoddy language
+  - "Maliseet\u2013Passamaquoddy"
+  - "W\u0259last\u0259kwey"
+  - pqm
+  - skicinuwatuwewakon
+  - skicinuwi-latuwewakon
+  - Peskotomuhkati-Wolastoqey
+06923415-n:
+  definition:
+  - Algonquian language spoken by indigenous communities in the United States
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Massachusett
+  - Wampanoag
+  - Massachusett language
+  - "W\xF4pan\xE2ak"
+06923531-n:
+  definition:
+  - Algonquian language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Menominee
+  - Menomini language
+  - Menominee language
+  - mez
+06923644-n:
+  definition:
+  - Eastern Algonquian language spoken by nearly 11,000 Mi'kmaq in Canada and the
+    United States
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Mi'kmaq
+  - Micmac
+  - Mi'kmaq language
+  - Migmaw
+  - Mikmaw
+  - "M\xEDkmaq"
+  - "M\xECgmao"
+  - Mikmaq
+  - Migmao
+  - mic
+  - "Mi\uA78Ckmaq language"
+06923734-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Mahican
+  - Mahican language
+06923843-n:
+  definition:
+  - Extinct indigenous language of the eastern United States
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Nanticoke
+  - Nanticoke language
+06923956-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Ofo
+  - Ofo language
+06924142-n:
+  definition:
+  - Central Algonquian language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Ojibwe
+  - Ojibwa
+  - Ojibway
+  - Ojibway language
+  - Ojibwa language
+  - Chippewa
+  - oj
+  - Anishinaabemowin
+  - Odawa
+  - Otchipwe
+  - Ojibwemowin
+  - Ojibwe language
+06924260-n:
+  definition:
+  - language or dialect of the Omaha people
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Omaha
+06924351-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Osage
+  - Osage language
+  - osa
+06924534-n:
+  definition:
+  - language or dialect of the Ponca people
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Ponca
+  - Ponca language
+06924633-n:
+  definition:
+  - Algonquian language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Potawatomi
+  - Potawatomi language
+  - Pottawatomie
+  - "Bod\xE9wadmimwen,"
+06924738-n:
+  definition:
+  - extinct Eastern Algonquian language
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Powhatan
+  - Powhatan language
+  - Virginia Algonquian
+  - Kitikowamak
+  - Kitikowaamak
+06924832-n:
+  definition:
+  - Siouan language spoken in Oklahoma
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Quapaw
+  - Quapaw language
+06924925-n:
+  definition:
+  - language of the Shawnee tribe
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Shawnee
+  - Shawnee language
+06925024-n:
+  definition:
+  - language spoken by the Alabama-Coushatta tribe
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Alabama
+  - Alibamu
+  - Alabama language
+  - akz
+06925116-n:
+  definition:
+  - Muskogean language from the southeastern US
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Chickasaw
+  - Chickasaw language
+06925212-n:
+  definition:
+  - Muskogean language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Choctaw
+  - cho
+  - Choctaw language
+06925313-n:
+  definition:
+  - Muskogean language spoken by around 500 people in southern Florida
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Mikasuki
+  - Miccosukee language
+  - Hitchiti-Mikasuki language
+  - Mikasuki language
+06925414-n:
+  definition:
+  - Native American language spoken in Louisiana
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Koasati
+  - Coushatta
+  - Koasati language
+06925513-n:
+  definition:
+  - Indigenous American language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Muscogee
+  - Creek
+  - mus
+  - Muscogee language
+06925614-n:
+  definition:
+  - language of the Santee people of South Carolina, probably a dialect of Catawba
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Santee
+  - Santee language
+06925707-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Seminole
+  - Seminole language
+06925801-n:
+  definition:
+  - language of southeast Alaska and western Canada
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Tlingit
+  - Tlingit language
+  - tli
+  - "Ling\xEDt"
+06925897-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Tutelo
+  - Tutelo-Saponi
+  - Tutelo language
+06925990-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Winnebago
+  - Ho-Chunk
+  - Winnebago language
+06926845-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Chemakum
+  - Chimakum
+  - Chemakum language
+06927107-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Skagit
+06927388-n:
+  definition:
+  - "language spoken by the Kwakwaka\u02BCwakw people"
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - "Kwak\u02BCwala"
+  - Kwakiutl
+  - "Kwak\u0313wala"
+  - Kwak'wala
+  - Kwakwala
+06927485-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Nuu-chah-nulth
+  - Nuuchahnulth
+  - Nuu-chah-nulth language
+06927578-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Shoshoni
+  - Shoshoni language
+06927706-n:
+  definition:
+  - Uto-Aztecan language spoken by the Comanche people in the United States
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Comanche
+  - Comanche language
+06927807-n:
+  definition:
+  - Uto-Aztecan language spoken by the Hopi people of Arizona
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Hopi
+  - Hopi language
+06927997-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Ute
+  - Ute dialect
+06928597-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Arikara
+  - Arikara language
+06928703-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Pawnee
+  - Pawnee language
+06928797-n:
+  definition:
+  - Extinct Native American language
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Wichita
+  - Wichita language
+06928893-n:
+  definition:
+  - Iroquoian language spoken by the Cherokee people
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Cherokee
+  - Cherokee language
+  - Tsalagi Gawonihisdi
+  - Tsalagi
+06928993-n:
+  definition:
+  - Northern Iroquoian language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Cayuga
+  - Cayuga language
+06929089-n:
+  definition:
+  - Indigenous language spoken by Mohawk peoples in North America
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Mohawk
+  - "Kanien\u2019k\xE9ha"
+  - Mohawk language
+  - "Kanyen'k\xE9ha"
+06929185-n:
+  definition:
+  - Iroquoian language, spoken in western New York at the time of European contact
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Seneca
+  - Seneca language
+06929281-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Oneida
+  - Oneida language
+06929377-n:
+  definition:
+  - Iroquoian language native to the southern shores of lake Ontario in NE North America
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Onondaga
+  - Onondaga language
+06929477-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Tuscarora
+  - Tuscarora language
+  - "Skar\xF2\u02D9r\u0259\u0328\u02C0"
+  - "Ska\uA789r\xF9\uA789r\u0119\u02BC"
+06929859-n:
+  definition:
+  - language family spoken primarily in the Andes region of South America
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Quechua
+  - Quichua
+  - runa simi
+  - qu
+  - Quechuan languages
+06930056-n:
+  definition:
+  - "Tupian language of Paraguay, Argentina, Brazil and Bolivia, distinct groups within\
+    \ the Guaran\xED subgroup"
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Guarani
+  - Guarani language
+  - gn
+  - grn
+  - Guarani dialects
+06930273-n:
+  definition:
+  - extinct Tupian language of Brazil
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Tupi
+  - Old Tupi
+  - Classical Tupi
+  - Tupi language
+  - Ancient Tupi
+  - tp
+06930702-n:
+  definition:
+  - highly endangered South American language, spoken by the Kalina people (Caribs)
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Carib
+  - Galibi Carib
+  - Kari'nja
+  - Carib language
+  - Kali'na
+06931088-n:
+  definition:
+  - "language of the Eskimo\u2013Aleut language family"
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Aleut
+  - Aleut language
+  - ale
+06931416-n:
+  definition:
+  - Uto-Aztecan language spoken in Mexico and US
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - O'odham
+  - Tohono O'odham
+  - O'odham language
+  - Akimel O'odham
+  - Papago
+  - Pima
+  - ood
+  - "O\u02BCodham language"
+  - Papago-Pima
+06931608-n:
+  definition:
+  - language of the Nahuan branch of the Uto-Aztecan language family
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Nahuatl
+  - Nahuatl language
+  - "N\u0101huatl"
+  - "N\u0101huatl language"
+  - Aztec
+  - Aztec language
+  - Mexican
+  - Mexican language
+  - Mexicano
+  - Mexicano language
+  - Nahuatl languages
+06931708-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Cahita
+  - "Ka\xEDta"
+  - Cahita language
+06931799-n:
+  definition:
+  - a Mexican Indigenous language of the Uto-Aztecan language family
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Tarahumara
+  - Tarahumara language
+  - "Ral\xE1muli"
+  - "Rar\xE1muri"
+06931898-n:
+  definition:
+  - group of indigenous Mesoamerican languages
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Zapotec
+  - Zapotec language
+06932325-n:
+  definition:
+  - Southern Athabaskan language spoken by the Mescalero and Chiricahua tribes in
+    Oklahoma and New Mexico
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Mescalero-Chiricahua
+  - Mescalero-Chiricahua Apache
+  - Mescalero language
+  - Mescalero-Chiricahua Apache language
+  - Mescalero-Chiricahua language
+  - Chiricahua language
+06932407-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Western Apache
+  - Western Apache language
+06932489-n:
+  definition:
+  - "Athabaskan language of Na-Den\xE9 stock spoken in the southwestern United States"
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Navajo
+  - Navaho
+  - Navajo language
+  - nv
+  - Navah language
+  - "Din\xE9 bizaad"
+  - "Naabeeh\xF3 bizaad"
+06932595-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Hupa
+  - Hupa language
+  - Hoopa-Chilula
+06932688-n:
+  definition:
+  - extinct Athabaskan language
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Mattole
+  - "Mattole\u2013Bear River language"
+  - Bear River language
+  - "Mattole\u2013Bear River"
+  - Mattole-Bear River
+  - Mattole-Bear River language
+  - Mattole language
+06932787-n:
+  definition:
+  - language spoken by the Chipewyan people of central Canada
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Chipewyan
+  - Dene Suline
+  - Chipewyan language
+06933442-n:
+  definition:
+  - Tanoan language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Kiowa
+  - Kiowa language
+06933771-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Chimariko
+  - Chimariko language
+  - C'imariko
+06933869-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Esselen
+  - Esselen language
+  - Huelel
+06934077-n:
+  definition:
+  - Bantu language of Cameroon
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Pol
+  - Pomo
+  - Pol language
+06934283-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Karuk
+  - Karok
+  - Karuk language
+  - "Arar\xE1hih"
+  - Ararahih'uripih
+06934532-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Achumawi
+  - Achumawi language
+06934630-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Atsugewi
+  - Atsugewi language
+06934728-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Shasta
+  - Shasta language
+06935166-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Paipai
+  - Paipai language
+06935262-n:
+  definition:
+  - "extinct language spoken in\_Baja California"
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - "Cochim\xED"
+  - Cochimi
+  - "Cochim\xED language"
+  - Cochimi language
+06935356-n:
+  definition:
+  - Delta language of the Yuman language family spoken by the Cocopah
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Cocopah
+  - Cocopah language
+  - Cocopa
+  - Cocopa (Arizona)
+  - Cocopa (Mexico)
+  - coc
+06935652-n:
+  definition:
+  - Native American language spoken in California and Mexico
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Kumeyaay
+  - Kumeyaay language
+  - Kumiai
+  - "Central Diegue\xF1o"
+  - Kamia
+  - Campo
+  - Kumiai language
+06935742-n:
+  definition:
+  - languages
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Kiliwa
+  - Kiliwa language
+06935843-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Maricopa
+  - Maricopa language
+06935959-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Mojave
+  - Mohave
+  - Mojave language
+06936175-n:
+  definition:
+  - Upland Yuman language, spoken by Yavapai people in central and western Arizona
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Yavapai
+  - Yavapai language
+06936269-n:
+  definition:
+  - Yuman language originating in southern California
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Quechan
+  - Quechan language
+  - Quecha
+06936569-n:
+  definition:
+  - extinct language
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Yana
+  - Yanan
+  - Yana language
+  - Yanan language
+06937153-n:
+  definition:
+  - endangered indigenous language of northern California
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Patwin
+  - Patwin language
+06937245-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Wintu
+  - Wintu language
+06937436-n:
+  definition:
+  - endangered language family
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Yokuts
+  - Yokuts language
+  - Yokutsan
+  - Mariposa
+06937672-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Maidu
+  - Northeast Maidu
+  - Maidu language
+06937773-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Lower Chinook
+  - Chinook
+  - Lower Chinook language
+  - "Tsin\xFAk"
+  - chh
+06938082-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Sahaptin
+  - Sahaptin language
+  - Shahaptin
+  - Ichishkin
+06938212-n:
+  definition:
+  - Sahaptian language spoken in the Northwestern United States
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Nez Perce
+  - Nez Perce language
+  - "Nimiipuut\xEDmt"
+  - "Niimiipuut\xEDmt"
+  - "Niimi'ipuut\xEDmt"
+  - "Nimipuut\xEDmt"
+  - "Nez Perc\xE9"
+06938315-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Takelma
+  - Takelma language
+  - "Ta:k\u025Blm\xE0\u0294n"
+06938421-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Tsimshian
+  - Tsimshian language
+  - Southern-Coastal Tsimshian language
+06938520-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - "Q\u2019eqchi\u2019"
+  - "Q'eqch\xED'"
+  - Kekchi
+  - K'ekchi'
+  - "kekch\xED"
+  - "Q\u2019eqchi\u2019 language"
+06938610-n:
+  definition:
+  - Mayan language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Mam
+  - Mam language
+  - Tacaneco
+06938694-n:
+  definition:
+  - "Mayan language spoken in the Yucat\xE1n Peninsula"
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Yucatec Maya
+  - Yucateco
+  - Yukatek Maya
+  - Maya language
+  - Yucatec
+  - Yucatec Maya language
+  - Maaya
+  - Yucatec Mayan
+06938797-n:
+  definition:
+  - Mayan language spoken by the K'iche' people
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - "K\u2019iche\u2019"
+  - K'iche'
+  - "Quich\xE9"
+  - "K\u2019iche\u2019 language"
+  - Quiche
+  - quc
+  - "K\u02BCiche\u02BC language"
+06938889-n:
+  definition:
+  - Mesoamerican language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Kaqchikel
+  - Cakchiquel
+  - Kaqchikel (Guatemala)
+  - Kaqchikel (Mexico)
+  - cak
+  - Kaqchikel language
+06939575-n:
+  definition:
+  - Oghuz Turkic language of the Turkish people
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Turkish
+  - Turkish of Turkey
+  - Istanbul Turkish
+  - "T\xFCrk\xE7e"
+  - Anatolian Turkish
+  - Turkish language
+06939666-n:
+  definition:
+  - Oghuz Turkic language of Central Asia
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Turkmen
+  - tk
+  - Turkmen language
+06939784-n:
+  definition:
+  - Oghuz Turkic language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Azerbaijani
+  - Azeri
+  - Azerbaijani Turkic
+  - Azerbaijani language
+  - Azerbaijani Turkic language
+  - az
+06939905-n:
+  definition:
+  - Turkic language in Central Asia, state language of Kazakhstan
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Kazakh
+  - Kazakh language
+  - Qazaq
+  - Qazaq language
+  - "Qazaq\u015Fa"
+06940005-n:
+  definition:
+  - Turkic language spoken by Tatars
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Tatar
+  - Kazan Tatar language
+  - Qazan Tatar language
+  - Tartarian
+  - Tatar language
+  - Volga Tatar
+  - Volga Tatar language
+06940140-n:
+  definition:
+  - Turkic language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Uzbek
+  - Uzbek language
+  - uz
+06940263-n:
+  definition:
+  - Turkic language spoken by the Uyghur people
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Uyghur
+  - Uighur
+  - Eastern Turkish
+  - Uyghur language
+  - ug
+  - Uighur language
+06940422-n:
+  definition:
+  - Turkic language belonging to Siberian Turkic branch
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Yakut
+  - Yakut language
+  - Sakha
+  - Saqa
+  - Saxa
+  - Yakutian
+  - "Saxa t\u0131la"
+06940513-n:
+  definition:
+  - Kipchak Turkic language of Central Asia
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Kyrgyz
+  - Kirghiz language
+  - Kirgiz language
+  - Kirgiz
+  - Kirghiz
+  - Kyrgyz language
+  - ky
+06940628-n:
+  definition:
+  - one of the Turkic languages in Central Asia, the state language of Karakalpakstan
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Karakalpak
+  - Karakalpak language
+06940729-n:
+  definition:
+  - Turkic language spoken in central Russia, primarily in the Chuvash Republic and
+    adjacent areas
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Chuvash
+  - cv
+  - Chuvash language
+  - chv
+  - "\xC7\u0103va\u015Fla"
+06941011-n:
+  definition:
+  - Palaeosiberian language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Chukchi
+  - Chukot
+  - "L\u0259\u0263'orawetl'at"
+  - ckt
+  - Chukchi language
+06941387-n:
+  definition:
+  - Tungusic language spoken by the Evenks in Siberia
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Evenki
+  - Evenki language
+  - Solon
+  - Solon language
+  - Tungus
+  - Tungus language
+06941521-n:
+  definition:
+  - Tungusic language originating from Northeast China
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Manchu
+  - Manchu language
+  - mnc
+  - Manchurian
+  - Manchurian language
+  - Manchoo
+  - Manchoo language
+06941616-n:
+  definition:
+  - language family of Eurasia
+  instance_hypernym:
+  - 06005806-n
+  members:
+  - Mongolic
+  - Mongolic languages
+  - Mongolian languages
+06941785-n:
+  definition:
+  - de facto standard dialect of Mongolian
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Khalkha Mongolian
+  - Khalkha
+  - Halh Mongolian
+06941948-n:
+  definition:
+  - language spoken in Korean Peninsula and some parts of North-eastern China
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Korean
+  - ko
+  - Korean language
 06942056-n:
+  definition:
+  - language spoken in East Asia
   domain_region:
   - 08941623-n
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Japanese
+  - Japanese language
+  - Japanesic
 06942236-n:
   domain_region:
   - 08941623-n
 06942519-n:
+  definition:
+  - language group of the Sinitic languages
   domain_region:
   - 08740839-n
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Chinese
+  - Chinese language
+  - Chinese languages
+  - zh
+06942870-n:
+  definition:
+  - standard form of Chinese and the official language of China
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Standard Chinese
+  - Putonghua
+  - Guoyu
+  - Huayu
+  - Mandarin
+  - Modern Standard Mandarin
+  - "Kuo-y\xFC"
+  - Standard Northern Mandarin
+  - Standard Beijing Mandarin
+  - Standard Mandarin Chinese
+  - Modern Standard Chinese language
+  - Chinese
+  - Kwanhoa
+  - Guanhua
+  - Standard Mandarin
+  - Mandarin Chinese
+  - MSM
+06943075-n:
+  definition:
+  - Sinitic language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Wu Chinese
+  - Wu language
+  - wuu
+  - Nguyoeh language
+  - Nguyoeq language
+  - Ngu language
+  - Wu
+06943204-n:
+  definition:
+  - primary branch of Chinese spoken in southern China
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Yue Chinese
+  - zh-yue
+  - yueh
+  - Yue
+  - Cantonese
+06943581-n:
+  definition:
+  - primary branch of Chinese originating in Southern China
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Hakka Chinese
+  - Kejia
+  - Hakka
+  - Hakka language
+  - Hakka dialect
+  - Hakka dialects
+  - Hakkafa
 06943711-n:
   domain_region:
   - 08740839-n
   - 08926725-n
   - 08733223-n
   - 09058927-n
+06944382-n:
+  definition:
+  - Macro-Bai language of Yunnan, China
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Bai
+  - Bai language
+  - Baic
+  - Baic languages
+  - Baic language
+  - Bai languages
+06944907-n:
+  definition:
+  - language family
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Karenic
+  - Karenic languages
+  - Karen languages
+06945212-n:
+  definition:
+  - Sino-Tibetan language of Myanmar
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Burmese
+  - Myanmar language
+  - Burmese language
+06945511-n:
+  definition:
+  - Tibeto-Burman language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Lisu
+  - Lisu language
+06945656-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Lahu
+  - Lahu language
+06945962-n:
+  definition:
+  - Sal Tibeto-Burman language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Jingpo
+  - Jinghpaw
+  - Chingp'o
+  - Kachin
+  - Jingpho language
+  - Jingpo language
+  - Jingpho
+06946708-n:
+  definition:
+  - Tibeto-Burman language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Tibetan
+  - Standard Tibetan
+  - Lhasa Tibetan
+  - bo
+  - Tibetan language
+  - bod
+06946797-n:
+  definition:
+  - Sino-Tibetan language of central-eastern Nepal
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Newar
+  - "New\u0101h Bh\u0101y"
+  - Nepal Bhasa language
+  - Newar language
+  - Newah Bhaye
+  - Newari
+  - Newari language
+  - Nepal Bhasa
+  - Pahri language
+06947625-n:
+  definition:
+  - Tai language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - "Tai D\xF3n"
+  - Tai Blanc
+  - Tai Kao
+  - Tai Lai
+  - "Th\xE1i Tr\xE1ng"
+  - "T\xE1y Khao"
+  - White Tai
+06947710-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Tai Laing
+  - Tai Leng
+  - Tai Lai
+  - Tai Nai
+  - Shanni
+  - Shan-ni
+  - Red Tai
+  - Red Shan
+  - Shan Bamar
+  - Shan Kalee
+06947793-n:
+  definition:
+  - Tai language spoken by the Tai Dam in Vietnam, Laos, Thailand, and China
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Tai Dam
+  - Black Tai
+  - Tai Dam language
+06947888-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - "Tai N\xFCa"
+  - "Tai N\xFCa language"
+  - Dehong Dai language
+  - Chinese Shan language
+  - Tai Mau language
+  - Tai Kong language
+  - Tai Na language
+  - Tai Le language
+06948000-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Tai Long
+06948091-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - "Tai L\xFC"
+  - "L\xFC"
+  - "Tai L\xFC language"
+  - Xishuangbanna Dai
+  - Dai Lue
+  - Tai Lue
+06948194-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Northern Thai
+  - Northern Thai language
+  - Lanna
+  - Lanna language
+  - nod
+  - Kam Meuang
+  - Phayap
+  - Lao Chiang
+  - Kham Chiang
+  - Tai Yuan
+06948290-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Khuen
+  - Khuen language
+06948371-n:
+  definition:
+  - "Kra\u2013Dai language of Southeast Asia"
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Lao
+  - Laotian
+  - Laotian language
+  - lo
+  - Lao language
+06948518-n:
+  definition:
+  - "Kra\u2013Dai language spoken in Myanmar and India"
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Khamti
+  - Khamti language
+  - Hkamti
+  - Khamti Shan
+  - Khandi Shan
+  - Tai Khamti
+  - Lik-Tai script
+06948600-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Southern Thai
+  - sou
+  - Southern Thai language
+06948688-n:
+  definition:
+  - Tai language of Vietnam
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - "T\xE0y"
+  - Tho
+  - Tay
+06948767-n:
+  definition:
+  - Tai language spoken in Vietnam
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Nung
+  - Nung (Viet Nam)
+06948926-n:
+  definition:
+  - Tai language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Thai
+  - Central Thai
+  - Siamese
+  - Thai language
+  - Siamese language
+  - th
+  - tha
+06949067-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Bouyei
+  - Bouyei language
+06949156-n:
+  definition:
+  - any of various Tai languages used by the Zhuang people
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Zhuang
+  - za
+  - Zhuang languages
+  - Chuang
+06949317-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Saek
+  - Saek language
+06949875-n:
+  definition:
+  - West Hmongic dialect continuum
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Hmong
+  - Mong
+  - Hmong language
+06950006-n:
+  definition:
+  - Austroasiatic language originating in Vietnam
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Vietnamese
+  - "ti\u1EBFng Vi\u1EC7t"
+  - Vietnamese language
+  - vi
+  - vie
+06950125-n:
+  definition:
+  - Austroasiatic language of Cambodia
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Khmer
+  - km
+  - Khmer language
+  - Cambodian language
+  - Central Khmer
+06950218-n:
+  definition:
+  - Austroasiatic language spoken by the Mon in Myanmar and Thailand
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Mon
+  - Mon language
+  - Peguan language
+06950967-n:
+  definition:
+  - Polynesian language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Tongan
+  - Tonga (Tonga Islands)
+  - to
+  - Tongan language
+  - Tonga dialect
+06951071-n:
+  definition:
+  - language of French Polynesia without official language status
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Tahitian
+  - Tahitian language
+  - reo Tahiti
+  - reo tahiti
+06951163-n:
+  definition:
+  - Polynesian language spoken in New Zealand
+  instance_hypernym:
+  - 06005806-n
+  - 06916947-n
+  members:
+  - "M\u0101ori"
+  - "M\u0101ori language"
+  - mi
+  - mao
+  - Maori
+  - Maori language
+  - "te reo M\u0101ori"
+  - "reo M\u0101ori"
+  - te reo
 06951270-n:
+  definition:
+  - Polynesian language
   domain_region:
   - 09100742-n
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Hawaiian
+  - Hawaiian language
+  - "Hawai\u02BBian language"
+  - "\u02BB\u014Clelo Hawai\u02BBi"
+06951400-n:
+  definition:
+  - Austronesian language of the Malayo-Polynesian family spoken in Fiji
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Fijian
+  - Fijian language
+  - Na Vosa Vakaviti
+06951664-n:
+  definition:
+  - colloquial Malayic language varieties spoken in Malaysia, Indonesia, Singapore
+    and Brunei
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - colloquial Malay
+  - Malay (individual language)
+  - vernacular Malay
+  - "Johor\u2013Riau Malay"
+  - Johor-Riau
+  - Johor-Riau Malay
+  - Johor/Riau
+  - "Riau\u2013Johor Malay"
+  - Riau-Johor Malay
+  - Greater Riau-Johoric
+  - Singapore Archipelago Malay
+06951828-n:
+  definition:
+  - standard Malay dialect spoken in Malaysia
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Malaysian Malay
+  - ms-my
+  - ms-MY
+  - Malaysian Standard Malay
+  - Malaysian Malay dialect
+  - Malaysia's Standard Malay
+  - Standard Malay, Malaysia
+  - Bahasa Malaysia
+  - Malaysian Malay / Malaysian
+06951975-n:
+  definition:
+  - official language of Indonesia
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Indonesian
+  - Indonesian language
+  - ind
+  - id
+  - bahasa Indonesia
+  - Bahasa
+06952208-n:
+  definition:
+  - Austronesian language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Javanese
+  - Javanese language
+06952319-n:
+  definition:
+  - language spoken in Indonesia
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Sundanese
+  - Sunda
+  - su
+  - Sundanese language
+06952418-n:
+  definition:
+  - Malayo-Polynesian language spoken on the island of Bali
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Balinese
+  - Balinese language
+  - Bali
+06952518-n:
+  definition:
+  - official language of the Philippines; standard and prescriptive form of Tagalog
+    language; alternative name for Tagalog language, particularly its standardized
+    form
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Filipino
+  - Pilipino language
+  - Filipino language
+  - fil
+  - Standard Tagalog
+06952763-n:
+  definition:
+  - Austronesian language; native language of the Tagalog ethnic group
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Tagalog
+  - tl
+  - tgl
+  - Tagalog language
+06952871-n:
+  definition:
+  - Austronesian language spoken in the Philippines by Cebuanos and other ethnic groups
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Cebuano
+  - Cebuano language
+  - Cebuan language
 06953052-n:
   domain_region:
   - 08849996-n
+06953264-n:
+  definition:
+  - indigenous Australian language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Dyirbal
+  - Dyirbal language
+  - Jirrbal
+  - Jirubal
+06953363-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Warlpiri
+  - Warlpiri language
+06954241-n:
+  definition:
+  - Khoe language spoken in southern Africa
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Khoekhoe
+  - Khoekhoegowab language
+  - "N\xE0m\xE1 language"
+  - Nama language
+  - Khoekhoe language
+  - Damara
+  - Hottentot
+  - Nama
+06955014-n:
+  definition:
+  - Indo-European language, spoken in Albania, Kosovo, North Macedonia and Montenegro
+    as well as Italy, Croatia, Romania and Serbia
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Albanian
+  - Albanian language
+  - sq
+  - Shqip
+06955181-n:
+  definition:
+  - northern dialect of the Albanian language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Gheg
+  - Gheg Albanian
+  - Geg
+  - Gegnisht
+06955312-n:
+  definition:
+  - southern group of dialects of the Albanian language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Tosk
+  - Tosk Albanian
+  - "Tosk\xEBrishtja"
+06955461-n:
+  definition:
+  - Indo-European language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Armenian
+  - Armenian language
+  - Hayeren
 06957110-n:
+  definition:
+  - East Slavic language
   domain_region:
   - 09025654-n
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Russian
+  - Russian language
+  - Russkiy
+  - Russkiy yazyk
+  - ru
+06957242-n:
+  definition:
+  - East Slavic language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Belarusian
+  - Bielorussian
+  - Belarusian language
+  - Belarusan language
+  - Byelorussian language
+  - Belarussian language
+  - White Russian language
+  - Belarus language
+  - Belorusian language
+  - Belorussian language
+  - Bielorusian
+  - Bielarusian
+  - Bielaruskaja
+  - White Russian
+  - Bielorussian language
+  - Belarusan
+  - Byelorussian
+  - Belarussian
+  - Belorusian
+  - Belorussian
+  - Bielarusian language
+06957385-n:
+  definition:
+  - East Slavic language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Ukrainian
+  - Ukrainian language
+  - Ukrainska
+06957482-n:
+  definition:
+  - West Slavic language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Polish
+  - Polish language
+  - Polski
+06957582-n:
+  definition:
+  - West Slavic language spoken in Slovakia
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Slovak
+  - Slovak language
+  - "Sloven\u010Dina"
+  - "Slovensk\xFD"
+  - Slovakian
+06957673-n:
+  definition:
+  - West Slavic language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Czech
+  - Czech language
+  - "\u010Cesk\xFD"
+  - "\u010Ce\u0161tina"
+  - Bohemian
+  - Bohemian language
+  - cs
+06957772-n:
+  definition:
+  - South Slavic language spoken primarily in Slovenia
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Slovene
+  - Slovenian
+  - Slovenian language
+  - Slovene language
+  - "Sloven\u0161\u010Dina"
+  - Slovenski
+06957857-n:
+  definition:
+  - South Slavic language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Serbo-Croatian
+  - BHS
+  - Serbo-Croat
+  - Serbo-Croat-Bosnian
+  - Bosnian-Croatian-Serbian
+  - Bosnian-Croatian-Montenegrin-Serbian
+  - Serbo-Croatian language
+  - BCS
+  - BCMS
+  - Serbian-Croatian-Bosnian
+06958106-n:
+  definition:
+  - Lechitic language spoken by the Sorbs
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Sorbian
+  - Wendic language
+  - Sorbian languages
+  - Sorbian language
+  - Wendish
+  - Wendic
+  - Lusatian Sorbian
+  - Lusatian
+06958235-n:
+  definition:
+  - South Slavic language mostly spoken in North Macedonia
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Macedonian
+  - Macedonian language
+  - Slavic Macedonian
+  - Slavomacedonian
+  - Makedonski
+06958331-n:
+  definition:
+  - South Slavic language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Bulgarian
+  - Bulgarian language
+  - "B\u016Dlgarski"
+  - bg
+  - bul
+06958779-n:
+  definition:
+  - extinct Western Baltic language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Old Prussian
+  - Prussian
+  - Old Prussian language
+  - Prussian language
+  - "Pr\u016Bsiskai"
+06958961-n:
+  definition:
+  - Baltic language spoken in Lithuania
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Lithuanian
+  - Lithuanian language
+  - "Lietuvi\u0173"
+  - lt
+  - lit
+06959117-n:
+  definition:
+  - Baltic language, official in Latvia and the European Union
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Latvian
+  - Latvian language
+  - Lettish
+  - Lettish language
+  - "Latvie\u0161u"
+06959794-n:
+  definition:
+  - West Germanic language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - English
+  - English language
+  - English (language)
+  - English-language
+  - English the Global Language
+  - The English language
+06960241-n:
+  definition:
+  - set of dialects of the English language spoken in the United States
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - American English
+  - English (United States)
+  - United States English
+  - U.S. English
+  - US English
+  - AmE
+  - USA English
+06960420-n:
+  definition:
+  - set of English dialects primarily spoken by most black people in the United States
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - African American English
+  - AAE
+  - Black English
+  - African-American English
+06962268-n:
+  definition:
+  - stage of the English language from the contemporary period
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Modern English
+  - New English
+06962353-n:
+  definition:
+  - earliest historical form of English
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Old English
+  - Anglo-Saxon
+  - ang
+  - "\xC6nglisc"
+  - Englisc
+  - Anglisc
+  - OE
+  - Anglo-Saxon language
+  - Old English language
 06962971-n:
+  definition:
+  - West Germanic language
   domain_region:
   - 08910324-n
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Scots
+  - Lowland Scots
+  - Scots Leid
+  - Lallans
+  - braid Scots
+  - Scotch
+  - Scots language
+  - sco
 06963290-n:
+  definition:
+  - West Germanic language spoken mainly in Central Europe
   domain_region:
   - 08784821-n
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - German
+  - German language
+06963648-n:
+  definition:
+  - earliest stage of the German language, spoken from 500/750 to 1050 AD
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Old High German
+  - OHG
+  - goh
+  - Old High German language
+06963735-n:
+  definition:
+  - historical form of High German
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Middle High German
+  - gmh
+  - MHG
+06963829-n:
+  definition:
+  - High German-derived language used by Ashkenazi Jews
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Yiddish
+  - yi
+  - Yidish
+  - Idish
+  - Yidish-Taitsh
+  - Judaeo-German
+  - Ashkenazish language
+  - Judeo-German
+  - Yidish Taytsh
+  - Yiddish language
+06964877-n:
+  definition:
+  - variety of West Central German
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Pennsylvania German
+  - Pennsylvanian language
+  - Pennsylvania Dutch
+  - Pennsylvania Dutch language
+  - Pennsylvanisch
+  - Amish language
+  - Pennsylvania German-language
+  - Pennsylvania German language
+  - Pennsylvanisch Deitsch
+  - Amish High German
+06965011-n:
+  definition:
+  - West Germanic language spoken mainly in northern Germany and the eastern part
+    of the Netherlands
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Low German
+  - Plattdeutsch
+  - Low Saxon
+  - Platt-Deutsch
+  - "Plattd\xFC\xFCtsch"
+  - "Plattd\xFCtsch"
+  - "Plattd\xFCtsk"
+  - "Plattd\xFC\xFCtsk"
+  - Plattduitsk
+  - Plattduitsch
+  - Plattdietsch
+  - Neddersassich
+  - "Nedderd\xFC\xFCtsch"
+06965162-n:
+  definition:
+  - "Germanic language spoken 8C \u2013 12C"
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Old Saxon
+  - Old Low German
+06965334-n:
+  definition:
+  - West Germanic language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Dutch
+  - nl
+  - Dutch language
+  - nld
+  - ned
+  - Flemish
+  - Flemish language
+  - Netherlandic
+  - Netherlandic language
+  - Netherlandish
+  - Nederlands
+06965623-n:
+  definition:
+  - West Germanic language, spoken in South Africa and Namibia
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Afrikaans
+  - Afrikaans language
+  - af
+  - afr
+  - African language
+06966788-n:
+  definition:
+  - North Germanic language spoken in Northern Europe
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Danish
+  - Danish language
+  - da
+  - dan
+  - dk
+  - South Scandinavian
+06966923-n:
+  definition:
+  - North Germanic language mainly spoken in Iceland
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Icelandic
+  - Icelandic language
+  - is
+  - "\xCDslenska"
+  - "I\u017Flandic tongue"
+06967043-n:
+  definition:
+  - North Germanic language spoken in Norway
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Norwegian
+  - 'no'
+  - Norwegian language
+06967201-n:
+  definition:
+  - one of two official written standards for the Norwegian language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - "Bokm\xE5l"
+  - "Norwegian Bokm\xE5l"
+  - nb
+  - bokmal
+  - bokmaal
+  - nob
+  - nb-no
+06967380-n:
+  definition:
+  - unofficial Norwegian written standard language
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - "Riksm\xE5l"
+  - "Norwegian Riksm\xE5l"
+  - Riksmal
+  - Riksmaal
+  - 'no'
+  - nor
+06967508-n:
+  definition:
+  - one of two official written standards for the Norwegian language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Nynorsk
+  - New Norwegian
+  - Norwegian Nynorsk
+  - Neo Norwegian
+  - nn
+  - nno
+06967665-n:
+  definition:
+  - North Germanic language spoken in Sweden and Finland
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Swedish
+  - Swedish language
+  - sv
+  - Svenska
+  - swe
+  - swed1254
+06967827-n:
+  definition:
+  - insular Nordic language spoken as a native language by the people of Faroe Islands
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Faroese
+  - "F\xE6roese language"
+  - Faeroese language
+  - "F\xF8royskt"
+  - Faeroese
+  - Modern Faroese
+  - Faroese language
+  - "F\xF8royskt m\xE1l"
+06967982-n:
+  definition:
+  - West Germanic language spoken in Friesland
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - West Frisian
+  - Western Frisian
+  - West Lauwers Frisian
+  - West-Frysk
+  - West Frisian language
+  - Frysk
+  - Frisian
+  - Westerlauwersk Frysk
+  - Westerlauwers Fries
+06968158-n:
+  definition:
+  - West Germanic language spoken between the 13th and 16th centuries
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Old Frisian
+06969534-n:
+  definition:
+  - Uralic language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Udmurt
+  - udm
+  - Votyak
+  - Udmurt language
+06969782-n:
+  definition:
+  - Uralic language that is spoken on the Republic of Komi, Russia
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Komi
+  - kv
+  - Komi-Zyryan language
+  - Komi language
+06970027-n:
+  definition:
+  - Uralic language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Mari
+  - Mari language
+  - Cheremis language
+06970508-n:
+  definition:
+  - Southern Finnic language closely related to Estonian
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Livonian
+  - Liv
+  - liv
+  - "L\u012Bv\xF5 k\u0113\u013C"
+  - Livonian language
+  - "R\u0101ndak\u0113\u013C"
+06970636-n:
+  definition:
+  - Finnic language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Estonian
+  - Estonian language
+  - et
+  - North Estonian
+  - North Estonian language
+  - Northern Estonian
+  - Northern Estonian language
+  - est
+  - ekk
+06970803-n:
+  definition:
+  - Finnic language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Karelian
+  - Karelian language
+  - krl
+06970918-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Ludic
+  - Ludian
+  - Ludic language
+  - Ludian language
+06970995-n:
+  definition:
+  - Finno-Ugric language mostly spoken in Finland
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Finnish
+  - fi
+  - Suomi
+  - fin
+  - Nuclear Finnish
+  - Nuclear Finnish languages
+  - "\u0444\u0438\u043D\u0441\u043A\u0438 \u0458\u0435\u0437\u0438\u043A"
+06971157-n:
+  definition:
+  - Finnic language native to Northwest Russia
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Veps
+  - Vepsian language
+  - vep
+  - Veps language
+  - Vepsian
+06971262-n:
+  definition:
+  - Finnic language spoken by the Izhorians of Ingria, Russia
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Ingrian
+  - Ingrian language
+  - Izhorian
+06971576-n:
+  definition:
+  - Uralic language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Hungarian
+  - Hungarian language
+  - hu
+  - Magyar
+06971758-n:
+  definition:
+  - Uralic family of languages spoken in Russia
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Khanty
+  - Khanty language
+  - Ostyak
+  - Xanty language
+  - kca
+  - Khanty languages
+06971880-n:
+  definition:
+  - Uralic language spoken in Russia
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Mansi
+  - Vogul
+  - Mansi language
+06972528-n:
+  definition:
+  - Samoyedic pair of languages
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Nenets
+  - Yurak
+  - yrk
+  - Nenets languages
+06972672-n:
+  definition:
+  - Samoyedic pair of languages by the Enets people in Krasnoyarsk Krai, Russia
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Enets
+  - Yenisey
+  - Enets language
+06972823-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Nganasan
+  - Tavgi
+  - Aram
+  - Nganasan language
+06972920-n:
+  definition:
+  - a branch of Samoyed languages
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Selkup
+  - Ostyak Samoyed
+  - Selkup language
 06973518-n:
+  definition:
+  - language native to Ireland
   domain_region:
   - 08878165-n
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Irish
+  - Irish language
+  - Gaeilge
+  - Gaelic
+  - Irish Gaelic
+06973862-n:
+  definition:
+  - Goidelic Celtic language of Scotland
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Scottish Gaelic
+  - Gaelic
+  - "G\xE0idhlig"
+  - Gaidhlig
+  - Scots Gaelic
+  - Scottish Gaelic language
+  - Scots Gaelic language
+  - Gaelic language
+06973961-n:
+  definition:
+  - Celtic language spoken on the Isle of Man
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Manx
+  - Manx Gaelic
+  - Manks language
+  - Gaelg
+  - Gaelic
+  - Manks
+  - Manx language
+  - Gailck
 06974297-n:
+  definition:
+  - Brittonic language spoken natively in Wales
   domain_region:
   - 08914683-n
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Welsh
+  - Welsh language
+  - Cymric
+  - Cambric
+  - Cambrian
+  - Cymraeg
+  - y Gymraeg
+  - British
+  - Cymric language
+  - Cambric language
+  - Cambrian language
+  - British language
+06974421-n:
+  definition:
+  - Brythonic Celtic language indigenous to Cornwall
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Cornish
+  - Kernewek
+  - Kernuack
+  - Curnoack
+  - Kernowak
+  - Kernowek
+  - Cornish language
+  - Modern Cornish
+06974511-n:
+  definition:
+  - Celtic language spoken in France
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Breton
+  - Brezhoneg
+  - Breton language
+06975340-n:
+  definition:
+  - Indo-European language of the Italic branch
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Latin
+  - Latin language
+  - Latina
+  - Latinum
+06976171-n:
+  definition:
+  - non-standard Latin variety spoken by the people of Ancient Rome
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Vulgar Latin
+06976446-n:
+  definition:
+  - form of Latin used in the Middle Ages
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - medieval Latin
+  - Low Latin
 06976989-n:
+  definition:
+  - Romance language
   domain_region:
   - 08819530-n
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Italian
+  - Italian language
+  - Italiano
+  - Italiana
+06977342-n:
+  definition:
+  - Romance language indigenous to the island of Sardinia
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Sardinian
+  - sc
+  - Sardinian language
+  - sardu
 06977643-n:
+  definition:
+  - Romance language
   domain_region:
   - 08949695-n
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - French
+  - French language
+  - fr
+  - fra
+  - (fr)
+  - fre
+06978360-n:
+  definition:
+  - Gallo-Romance dialect continuum spoken from the 9th century to the middle of the
+    14th century
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Old French
+  - fro
+  - Old French language
+06978478-n:
+  definition:
+  - Romance language of northwest France
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Norman
+  - Norman language
+  - nrf
+  - fr-x-nrm
+  - Nouormand
+  - Normaund
+  - nrm
+  - Norman French
+  - Normand
+06978614-n:
+  definition:
+  - "langue d'o\xEFl formerly spoken in the British Isles"
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Anglo-Norman
+  - Anglo-Norman French
+  - Anglo-Norman language
+  - Normand
+06978850-n:
+  definition:
+  - Romance language indigenous to Belgium and France
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Walloon
+  - wa
+  - Walloon language
 06979090-n:
+  definition:
+  - Western Romance language
   domain_region:
   - 09007158-n
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Portuguese
+  - pt
+  - Portuguese language
 06979234-n:
+  definition:
+  - Western Ibero-Romance language
   domain_region:
   - 09045691-n
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Galician
+  - Galician language
+  - galego
+06979369-n:
+  definition:
+  - language of the Basque people
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Basque
+  - Euskara
+  - Basque language
 06979499-n:
+  definition:
+  - Romance language originating in the Iberian Peninsula
   domain_region:
   - 09045691-n
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Spanish
+  - es
+  - Castilian
+  - Spanish language
+  - Castilian language
+  - "Espa\xF1ol"
+  - spa
+  - esp
+06979956-n:
+  definition:
+  - language derived from Medieval Spanish spoken by Sephardic Jews
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Judaeo-Spanish
+  - Ladino language
+  - lad
+  - "Jud\xE6o-Spanish"
+  - Judeo-Spanish
+  - "Jud\xE6o Spanish"
+  - Judeo Spanish
+  - Judaeo Spanish
+  - judezmo
+  - Sephardic
+  - Ladino
+  - Djudeoespanyol
 06980203-n:
+  definition:
+  - Western Romance language
   domain_region:
   - 09045691-n
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Catalan
+  - ca
+  - Valencian
+  - Catalan-Valencian-Balearic
+  - "Catal\xE0"
+  - "Valenci\xE0"
+  - East Iberian
+  - Catalan language
+  - Algherese
+  - "Alguer\xE8s"
+  - "Alguer\xE9s"
+06980609-n:
+  definition:
+  - Romance language belonging to the Rhaeto-Romance family, spoken in the Friuli
+    region of northeastern Italy
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Friulian
+  - fur
+  - Friulian language
+06980726-n:
+  definition:
+  - Romance language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Ladin
+  - lln
+  - lld
+  - Ladin language
+06980848-n:
+  definition:
+  - "Romance language spoken in the Swiss canton of Grisons (Graub\xFCnden)"
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Romansh
+  - Romansch
+  - Rumantsch
+  - Rumantsh
+  - Romanche
+  - Romansh language
+  - Romansch language
+  - Rumantsch language
+  - Rumantsh language
+  - Romanche language
+  - Romontsch
+  - Rumauntsch
+  - "Rum\xE0ntsch"
+06981017-n:
+  definition:
+  - Eastern Romance language, official in Romania and Moldova
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Romanian
+  - Romanian language
+  - Rumanian
+  - Rumanian language
+  - Roumanian
+  - Roumanian language
+  - Moldovan
+  - Moldovan language
+  - Daco-Romanian
+  - Daco-Romanian language
+  - "Rom\xE2n\u0103"
+  - "Rom\xE2ne\u0219te"
+06981583-n:
+  definition:
+  - extinct Indo-European language
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Tocharian A
+  - Tokharian A
+  - Turfanian
+  - Agnean
+  - East Tocharian
+06981692-n:
+  definition:
+  - extinct Indo-European language of Asia
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Kuchean
+  - Kouchean
+  - Tocharian B language
+  - Tokharian B
+  - West Tocharian
+  - Kuchean language
+  - "language of ku\u015Bi"
+  - "ku\u015Bi language"
+  - Tocharian B
+06981803-n:
+  definition:
+  - ancient Indo-Aryan language of South Asia
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Sanskrit
+  - Sunscrit
+  - skt
+  - Samskrta
+  - Samskrtam
+  - "San\u017Fcrit"
+  - Sanskrit language
+06982379-n:
+  definition:
+  - Indo-Aryan language spoken in Pakistan and India
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Sindhi
+  - Sindhi language
+  - sd
+06982496-n:
+  definition:
+  - language of the Romani people belonging to the Indo-Aryan branch of the Indo-European
+    language family
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Romani
+  - Romany
+  - Gypsy
+  - Gipsy
+  - romanes
+  - Romani language
+  - rmy
+06982590-n:
+  definition:
+  - Indo-Aryan language spoken in South Asia
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Urdu
+  - Urdu language
+  - ur
+  - Oordoo
+  - Hindustani
+06982777-n:
+  definition:
+  - Indo-Aryan language spoken in India
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Hindi
+  - Hindi language
+  - Modern Standard Hindi
+06983458-n:
+  definition:
+  - Indo-Aryan language spoken in Assam, India
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Assamese
+  - Asamiya language
+  - Assamese language
+  - Asamiya
+  - as
+  - Axomiya language
+  - Axomiya
+  - Asomiya
+06983620-n:
+  definition:
+  - Indo-Aryan language mostly spoken in Bangladesh and India
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Bangla
+  - Bengali language
+  - Bengali
+  - Bangla language
+06983797-n:
+  definition:
+  - Indian language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Odia
+  - Oriya
+  - Odia language
+  - Oriya language
+06983955-n:
+  definition:
+  - Indo-Aryan language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Marathi
+  - Devanagri
+  - Marathi language
+  - mr
+06984128-n:
+  definition:
+  - Indo-Aryan language that is spoken on the state of Gujarat
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Gujarati
+  - Guzrattee
+  - Gujarati language
+06984279-n:
+  definition:
+  - Indo-Aryan language spoken in the Punjab region of Pakistan and India
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Punjabi
+  - Punjabi language
+  - Panjabi
+  - Panjabi language
+06984401-n:
+  definition:
+  - Indo-Aryan language native to Sri Lanka
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Sinhala
+  - Singhalese language
+  - Helabasa
+  - Sinhalese language
+  - Sinhalese
+  - sin
+  - si
+  - Sinhala language
+06985218-n:
+  definition:
+  - language from the Dardic sub-group of the Indo-Aryan languages family spoken by
+    the Shina people
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Shina
+  - Shina language
+06985314-n:
+  definition:
+  - Indo-Aryan language of the Dardic group spoken in Chitral and Gilgit region of
+    Pakistan
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Khowar
+  - Arnia
+  - Patu
+  - Chitrali language
+  - Qashqari language
+06985534-n:
+  definition:
+  - language from the Dardic subgroup of the Indo-Aryan languages
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Kashmiri
+  - ks
+  - Koshur
+  - Kashmiri language
+06985645-n:
+  definition:
+  - official language of Nepal
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Nepali
+  - Nepal
+  - Nepalese
+  - Nepali language
+  - ne
+  - nep
+  - Gorkhali
+06985994-n:
+  definition:
+  - Indo-Aryan language native to the Indian subcontinent
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Pali
+  - "P\u0101li language"
+  - "P\u0101li"
+  - pi
+  - Magadhan
+  - "P\xE2li"
+  - Pali language
+06986601-n:
+  definition:
+  - Eastern Iranian language used in Zoroastrian scripture
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Avestan
+  - Zend
+  - Old Bactrian
+  - Avestan language
+  - ae
+06986787-n:
+  definition:
+  - Western Iranian language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Persian
+  - Farsi
+  - Persian language
+  - Farsi language
+  - Iranian language
+  - Iranian
+  - "Farsic\u2013Caucasian Tat"
+  - Farsic-Caucasian Tat
+06986943-n:
+  definition:
+  - dialect of the Persian language spoken in Afghanistan
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Dari
+  - Eastern Farsi
+  - Eastern Persian
+  - Afghan Persian
+  - Afghan Farsi
+  - Dari language
+  - fa-AF
+  - fa_AF
+  - fa-af
+06987050-n:
+  definition:
+  - language spoken in Tajikistan
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Tajik
+  - Tajiki
+  - Tajiki language
+  - Tadjik
+  - Tadjik language
+  - Tadzhik
+  - Tadzhik language
+  - tg
+  - Tajik Persian
+  - Tajiki Persian
+  - Tajik language
+06987218-n:
+  definition:
+  - language of Kurds
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Kurdish
+  - Kurdi
+  - Kurdish language
+  - Kurdish dialects
+  - Kurdish languages
+06987347-n:
+  definition:
+  - Northwestern Iranian language spoken in Pakistan, Iran and Afghanistan
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Balochi
+  - Baluchi language
+  - Baluchi
+  - Balochi language
+06987506-n:
+  definition:
+  - southwestern Iranian language, predecessor to New Persian
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Middle Persian
+  - Pahlavi
+  - Pehlevi
+  - Middle Persian language
+  - "P\u0101rs\u012Bk"
+  - "P\u0101rs\u012Bg"
+06987667-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Parthian
+  - Parthian language
+06987792-n:
+  definition:
+  - Indo-Aryan language of Afghanistan and Pakistan
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Pashto
+  - Pushto
+  - ps
+  - Pushtoo
+  - Pashto language
+  - Pushto language
+  - Afghani language
+  - Pashtun
+  - Pashtun language
+  - Afghan
+  - Afghan language
+06988028-n:
+  definition:
+  - Eastern Iranian language of Ossetia, in the Caucasus
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Ossetian
+  - Ossetic
+  - os
+  - Ossetic language
+  - Ossetian language
+  - Ossete
+  - oss
+06988747-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Lycian
+  - Lycian language
+  - Lycian A
+06988821-n:
+  definition:
+  - extinct ancient Indo-European language
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Luwian
+  - Luwian language
+  - Luvian
+  - Luish
+06988904-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Lydian
+  - Lydian language
+06988978-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Palaic
+  - Palaic language
 06989052-n:
   domain_region:
   - 08798733-n
+06989340-n:
+  definition:
+  - dialects and varieties of the Greek language spoken in the modern era
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Modern Greek
+  - Modern Greek language
+  - el
+06989493-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Demotic Greek
+  - Demotic Greek language
+  - Dimotiki
+06989619-n:
+  definition:
+  - former prestige form of the Modern Greek language
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Katharevousa
+06990094-n:
+  definition:
+  - forms of Greek used from around the 9th century BCE to the 6th century CE
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Ancient Greek
+  - Old Greek
+  - Old Greek language
+  - Ancient Greek language
+06991082-n:
+  definition:
+  - Northeast Caucasian language spoken mostly in Chechnya and by Chechen people
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Chechen
+  - ce
+  - Chechen language
+06991316-n:
+  definition:
+  - Northwest Caucasian language native to northwestern Georgia
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Abkhaz
+  - Abkhaz language
+  - Abkhazian
+  - ab
+  - Abxaz
+  - apsshwa
+  - Apsua byzshwa
+  - Abkhazian language
+  - Abxaz language
+  - abk
+  - "\u0410\u0525\u0441\u0443\u0430 \u0431\u044B\u0437\u0448\u04D9\u0430"
+  - "\u0430\u0525\u0441\u0448\u04D9\u0430"
+06991426-n:
+  definition:
+  - Kartvelian language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Georgian
+  - Georgian language
+  - ka
+  - Kartuli
+  - Kartuli ena
+  - Georgic
+  - Gruzinski
+  - Kharthuli + Imeruli
+06991564-n:
+  definition:
+  - extinct Northwest Caucasian language once spoken by the Ubykh people
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Ubykh
+  - Ubykh language
+06992152-n:
+  definition:
+  - Dravidian language spoken in Tamil Nadu, Kerala and Karnataka, India
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Irula
+  - Irula language
+  - Iruliga
+06992305-n:
+  definition:
+  - language of India
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Kota
+  - Kota (India)
+  - Kota language
+06992403-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Toda
+  - Toda language
+  - Todi
+  - Tuda
+06992513-n:
+  definition:
+  - "southern Dravidian language (Tamil\u2013Kannada branch) spoken mostly by people\
+    \ in the Nilgiri Hills of Southern India"
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Badaga
+  - Badaga language
+  - bfq
+06992617-n:
+  definition:
+  - Dravidian language native to South India
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Kannada
+  - Kannada language
+  - Kanarese
+  - kn
+06992745-n:
+  definition:
+  - Indian Dravidian language of Tulu Nadu region
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Tulu
+  - tcy
+  - Tulu language
+06992835-n:
+  definition:
+  - Dravidian language of Southern India
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Malayalam
+  - Malayalam language
+06992975-n:
+  definition:
+  - Dravidian language native to South India and Sri Lanka
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Tamil
+  - ta
+  - Tamil language
+  - tam
+06993381-n:
+  definition:
+  - Dravidian language native to South India
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Telugu
+  - Telugu language
+  - Telungu
+  - Andhra bhasha
+  - Tenugu
+  - te
+06993497-n:
+  definition:
+  - Munda language of India
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Sora
+  - Saora language
+  - Savara language
+  - Shabari language
+  - Sabar language
+  - Sawaria language
+  - Saonras language
+  - Swara language
+  - Saura language
+  - Sabara language
+  - Sora language
+06993631-n:
+  definition:
+  - South-Central-Dravidian language spoken by the Gondi people
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Gondi
+  - Gondi language
+  - "G\u014Dndi"
+  - Koytor
+06993745-n:
+  definition:
+  - Dravidian language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Pengo
+  - Pengo language
+06993847-n:
+  definition:
+  - Dravidian language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Manda
+06993949-n:
+  definition:
+  - Dravidian language spoken in Eastern India
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Kui
+  - Kui (India)
+  - Kui language
+06994061-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Kuvi
+  - Kuvi language
+  - Kuwi
+06994366-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Kolava
+  - Northwestern Kolami
+  - Kolami language
+  - Kolami
+06994478-n:
+  definition:
+  - Dravidian language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Naiki
+  - Southeastern Kolami
+06994580-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Duruwa
+  - Parji
+  - Duruwa language
+06994682-n:
+  definition:
+  - Central Dravidian language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Ollari
+  - Pottangi Ollar Gadaba language
+  - Salur Ollar Gadaba language
+  - Ollari language
+06994785-n:
+  definition:
+  - Dravidian language, closely related to Ollari
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Kondekor
+  - Mudhili Gadaba language
+  - Gadba
+  - Gadaba
+  - Mudhili Gadaba
+  - Kondekor language
+06995051-n:
+  definition:
+  - Dravidian language of eastern India
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Kurukh
+  - Kurukhi
+  - Oraoni
+  - Kurux
+  - Uranw
+  - Oraon
+  - Kurukh language
+  - Oraon language
+  - "\u0909\u0930\u093E\u0902\u0935"
+  - "\u0915\u0941\u0930\u0941\u0916"
+  - "\u0915\u0941\u0930\u0942\u0916"
+  - Urang
+  - Kurukh bhasha
+06995147-n:
+  definition:
+  - Dravidian language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Sauria Paharia
+  - Malto
+  - Malto language
+06995241-n:
+  definition:
+  - Dravidian language spoken by Brahui people of Pakistan, Afghanistan and Iran,
+    and expatriate communities in Qatar, United Arab Emirates, and Iraq
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Brahui
+  - brh
+  - Brahui language
+06995357-n:
+  definition:
+  - Chadic language native to the Hausa people
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Hausa
+  - ha
+  - Hausa language
+06995515-n:
+  definition:
+  - Afro-Asiatic language spoken in Nigeria
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Bole
+  - Bole language
+06995649-n:
+  definition:
+  - West Chadic language of Nigeria
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Ngas
+  - Ngas language
+  - Angas language
+06995885-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Bade
+  - Bade language
+06995980-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Warji
+  - Warji language
+06996076-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Saya
+  - Saya language
+  - Zaar
+06996455-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Tera
+  - Tera language
+06996555-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Bura
+  - Bura-Pabir
+  - Bura language
+06996657-n:
+  definition:
+  - language spoken in Cameroon and Nigeria
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - "Psiky\u025B"
+  - Psikye
+  - Kapsiki
+  - "Psiky\u025B dialect"
+06996761-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Wandala
+  - Wandala language
+06996907-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Mafa
+  - Mafa language
+06997011-n:
+  definition:
+  - "Biu\u2013Mandara language of Nigeria"
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Sukur
+  - Gemasakun
+  - Adikimmu Sukur
+  - Sakul
+  - Sugur
+  - Sukur language
+06997106-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Daba
+  - Daba language
+06997216-n:
+  definition:
+  - Afroasiatic language spoken in Nigeria and Cameroon
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Bata
+  - Bata language
+  - Kofa
+  - Batta
+06997406-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Musgu
+  - Musgu language
+06997518-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Gidar
+  - Gidar language
+06997970-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Somrai
+  - Somrai language
+06998064-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Nancere
+  - Nancere language
+06998150-n:
+  definition:
+  - Chadic language of Chad and Cameroon
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Kera
+  - Kera language
+06998233-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - "Dangal\xE9at"
+  - "Dangal\xE9at language"
+  - Dangaleat
+  - Dangaleat language
+06998382-n:
+  definition:
+  - Chadic language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Mokilko
+  - Mukulu
+  - Gergiko
+  - Mokilko language
+06998467-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Sokoro
+  - Sokoro language
+06999784-n:
+  definition:
+  - Northwest Semitic language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Hebrew
+  - Hebrew language
+  - he
+  - heb
+  - Ivrit
+  - Iwrit
+07000069-n:
+  definition:
+  - standard form of the Hebrew language spoken today mainly in Israel
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Modern Hebrew
+  - Modern (Israeli) Hebrew
+  - Modern Israeli Hebrew
+  - Israeli Hebrew
+  - Israeli Modern Hebrew
+  - Israeli (Modern) Hebrew
 07000185-n:
   domain_region:
   - 08936089-n
 07000319-n:
   domain_region:
   - 08936089-n
+07000472-n:
+  definition:
+  - Semitic language of Ethiopia
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Amharic
+  - am
+07000717-n:
+  definition:
+  - Semitic language and lingua franca of the Arab world
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Arabic
+  - Arabic language
+  - Arabian
+  - Arabian language
 07001344-n:
+  definition:
+  - Neo-Aramaic dialect
   domain_region:
   - 08933207-n
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Assyrian Neo-Aramaic
+  - Surayt language
+  - Assyrian
+  - Syriac
+  - Eastern Syriac
+  - Neo-Syriac
+  - aii
+  - Assyrian language
+  - Suret language
+07001468-n:
+  definition:
+  - language of the Mandaean religion and community
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Mandaic
+  - Mandaic language
+  - "Mand\u0101y\xEC"
+  - "Ra\u1E6Dn\u0101"
+07001573-n:
+  definition:
+  - Semitic language spoken mostly in Malta
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Maltese
+  - Il-lingwa Maltija
+  - lingwa Maltija
+  - mt
+  - Maltese language
 07002133-n:
+  definition:
+  - ancient Semitic language of the Mediterranean
   domain_region:
   - 08939466-n
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Phoenician
+  - phn
+  - Phoenician language
+07002429-n:
+  definition:
+  - extinct Northwest Semitic language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Ugaritic
+  - Ugaritic language
+  - uga
+07003031-n:
+  definition:
+  - latest stage of the Egyptian language
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Coptic
+  - Coptic Egyptian
+  - Coptic language
+  - cop
+07003401-n:
+  definition:
+  - group of closely related Berber languages and dialects
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Tuareg
+  - Tamashek
+  - Tuareg languages
+07003664-n:
+  definition:
+  - Afroasiatic language belonging to the Cushitic branch
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Somali
+  - so
+  - Af Soomaali, Somali
+  - Somali language
+07005260-n:
+  definition:
+  - language of the Bantu language family
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Chewa
+  - Chichewa
+  - Nyanja
+  - ny
+  - Chinyanja
+  - Chewa language
+07005589-n:
+  definition:
+  - Bantu language of Equatorial Guinea, northwest Gabon and neighbouring areas
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Fang
+  - Fang (Equatorial Guinea)
+  - Fang language
+07005675-n:
+  definition:
+  - Bantu language in Kenya
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Gikuyu
+  - Kikuyu
+  - Gikuyu language
+  - Kikuyu language
+  - "G\u0129k\u0169y\u0169"
+  - "G\u0129g\u0129k\u0169y\u0169"
+07005768-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Giryama
+  - Giryama language
+  - Giryama dialect
+07005885-n:
+  definition:
+  - Bantu language of Nambia and Botswana
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Herero
+  - hz
+  - Herero language
+07006008-n:
+  definition:
+  - Bantu language spoken in Kenya
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Kamba
+  - Kamba language
+  - Kekamba language
+  - Kikamba language
+  - Kamba (Kenya)
+07006233-n:
+  definition:
+  - Bantu language spoken in Central Africa and East Africa, official in Rwanda
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Kinyarwanda
+  - Rwanda language
+  - Rwandan
+  - Ruanda language
+  - Kinyarwanda language
+  - Nyarwanda
+  - Nyarwanda language
+  - Rwandan language
+  - Rwanda
+  - Ikinyarwanda
+  - Ikinyarwanda language
+07006379-n:
+  definition:
+  - Bantu language spoken in Angola, Congo Brazzaville and Congo Kinshasa
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Kongo
+  - Kikongo
+  - kg
+  - Kongo language
+07006530-n:
+  definition:
+  - Bantu language spoken in DR Congo
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Luba-Kasai
+  - Luba-Lulua
+  - Tshiluba
+  - Ciluba
+  - Western Luba
+  - Bena-Luba
+  - Luva
+  - Luba-Kasai language
+  - Shiluba
+07006637-n:
+  definition:
+  - Bantu language of Uganda
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Luganda
+  - Ganda
+  - lg
+  - Oluganda
+07006749-n:
+  definition:
+  - Bantu language of western Kenya
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Luhya
+  - Luyia
+  - Oluluyia
+  - Luhya language
+  - Luhia
+07006817-n:
+  definition:
+  - Bantu language spoken in Zambia and Angola
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Mashi
+  - Mashi (Zambia)
+  - Mashi language
+07006885-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Mwera
+  - Mwera (Chimwera)
+  - Mwera language
+07007148-n:
+  definition:
+  - language belonging to the Nguni group of Bantu languages, one of the official
+    languages of Zimbabwe
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Northern Ndebele
+  - North Ndebele
+  - Zimbabwean Ndebele
+  - Sindebele
+  - Matabele
+  - nd
+  - Ndebele
+  - isiNdebele
+  - isiNdebele saseNyakatho
+  - nde
+07007268-n:
+  definition:
+  - language of the Swazi people
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Swazi
+  - Swati
+  - siSwati
+  - Swazi language
+07007360-n:
+  definition:
+  - Nguni language of southern South Africa
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Xhosa
+  - xh
+  - isiXhosa
+  - Xosa
+  - Xhosa language
+  - xho
+07007452-n:
+  definition:
+  - Nguni language of eastern South Africa and neighbouring countries
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Zulu
+  - isiZulu
+  - Zulu language
+07007578-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Nyamwezi
+  - Nyamwezi language
+07007676-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Pokomo
+  - Kipfokomo
+  - Pokomo language
+07007795-n:
+  definition:
+  - Bantu language of Zimbabwe and Mozambique
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Shona
+  - Shona language
+  - sn
+  - chiShona
+  - chiSwina
+  - chiZwina
+  - chiManyika
+  - chiUngwe
+  - chiKaranga
+  - chiRozwi
+  - Karanga
+  - Chino
+07007882-n:
+  definition:
+  - Southern Bantu language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Sesotho
+  - Southern Sotho
+  - Sotho
+  - Sotho language
+07008099-n:
+  definition:
+  - language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Umbundu
+  - South Mbundu language
+  - Umbundu language
+07008324-n:
+  definition:
+  - Bantu language of and South Africa
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Tswana
+  - Setswana
+  - Sechuana
+  - Bechuana
+  - tn
+  - Tswana language
+07008452-n:
+  definition:
+  - Bantu language spoken mainly in East Africa
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Swahili
+  - Swahili language
+  - Swahili (macrolanguage)
+  - Kiswahili
+  - sw
+  - swa
+07008689-n:
+  definition:
+  - Bantu language of Zambia and Zimbabwe
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Tonga
+  - Tonga language
+  - Chitonga
+  - Zambezi
+07009170-n:
+  definition:
+  - "language of West Africa of the Senegambian branch of the Niger\u2013Congo language\
+    \ family"
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Fula
+  - Fulah
+  - Fulani
+  - Fula language
+  - Ful language
+  - Fulah language
+  - Fulani language
+  - Fulbe language adlam
+  - Fulde language
+  - Fulfulde language
+  - Bagirmi dialect
+  - Western Niger dialect
+  - Fulfuldedialect
+  - Fulfulde dialect
+07009415-n:
+  definition:
+  - language spoken in Senegal and Gambia
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Serer
+  - Serer-Sine
+  - Serer language
+07009554-n:
+  definition:
+  - language of Senegal, the Gambia, and Mauritania
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Wolof
+  - wo
+  - Wolof language
+07009828-n:
+  definition:
+  - "Niger\u2013Congo language spoke in Nigeria"
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Baa
+  - Kwa
+  - Baa language
+07010028-n:
+  definition:
+  - Niger-Congo language spoken in West Africa
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Yoruba
+  - Yoruba language
+  - "Yor\xF9b\xE1"
+07010146-n:
+  definition:
+  - language of Akan lands in Ghana
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Akan
+  - Twi language
+  - Fante language
+  - Akan language
+  - ak
+07010247-n:
+  definition:
+  - "Niger\u2013Congo language spoken in southeastern Ghana and southern Togo"
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Ewe
+  - ee
+  - Ewe language
+  - "E\u028Be"
+  - "E\u028Begbe"
+  - "\xC8\u028Begbe\u200E"
+  - "\xC8wegbe"
+07010982-n:
+  definition:
+  - Nilotic dialect cluster spoken by the Dinka people, the major ethnic group of
+    South Sudan
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Dinka
+  - Dinka language
+07011052-n:
+  definition:
+  - Nilotic language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Luo
+07011120-n:
+  definition:
+  - Eastern Nilotic language
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Maasai
+  - Masai
+  - Maasai, Masai
+  - Maasai language
+  - Maa language
+  - Maa
+  - mas
+07032286-n:
+  definition:
+  - stage work that combines songs, music, spoken dialogue, acting, and dance
+  instance_hypernym:
+  - 05853859-n
+  members:
+  - musical
+  - musical play
+  - stage musical
+  - musical theater
+  - lyric drama
+  - musical theatre
+07033652-n:
+  definition:
+  - rhythmic movement of the body
+  instance_hypernym:
+  - 00030657-n
+  members:
+  - dance
+  - dancing
+07039073-n:
+  definition:
+  - musical traditions of African American people
+  instance_hypernym:
+  - 05853859-n
+  members:
+  - African-American music
+  - Black music
+  - Black American music
+  - Afro-American music
+  - African American music
+07046494-n:
+  definition:
+  - Christian music written for performance in church
+  - music genre
+  instance_hypernym:
+  - 05853859-n
+  members:
+  - church music
+  - Christian liturgical music
+  - Christian worship music
+  - sacred music
+  - religious music
+  - devotional music
+  - ecclesiastical music
+07049344-n:
+  definition:
+  - music genre created by generations of African-Americans
+  instance_hypernym:
+  - 05853859-n
+  members:
+  - spirituals
+  - African-American spirituals
+  - spiritual
+  - Negro spirituals
+  - spiritual music
 07050608-n:
   domain_region:
   - 08798733-n
 07056481-n:
   domain_region:
   - 08878165-n
+07071236-n:
+  definition:
+  - musical method or technique of composition
+  instance_hypernym:
+  - 05853859-n
+  members:
+  - serialism
+  - serialist music
+  - serial music
+07075374-n:
+  definition:
+  - genre of music emphasizing Christian lyrics
+  instance_hypernym:
+  - 05853859-n
+  members:
+  - gospel music
+  - gospel
+  - negro spiritual
+07078577-n:
+  definition:
+  - early style of rock and roll music
+  instance_hypernym:
+  - 05853859-n
+  members:
+  - rockabilly
+07079780-n:
+  definition:
+  - genre of rock music
+  instance_hypernym:
+  - 05853859-n
+  members:
+  - punk rock
+  - punk
+  - punk rock music
 07079972-n:
   domain_region:
   - 08879115-n
+07080082-n:
+  definition:
+  - style of jazz
+  instance_hypernym:
+  - 05853859-n
+  members:
+  - swing music
+  - swing
+  - swing jazz
 07080499-n:
   domain_region:
   - 08879115-n
+07097438-n:
+  definition:
+  - study of formal speaking in pronunciation, grammar, style, and tone
+  instance_hypernym:
+  - 06005806-n
+  members:
+  - elocution
+  - orthophony
+07101700-n:
+  definition:
+  - musical form
+  instance_hypernym:
+  - 05853859-n
+  members:
+  - arioso
 07197145-n:
   domain_region:
   - 08879115-n
@@ -298,3 +4835,62 @@
 07254737-n:
   domain_region:
   - 09067337-n
+07262593-n:
+  definition:
+  - broad term for the management of public communication of organizations
+  instance_hypernym:
+  - 08024893-n
+  - 06005806-n
+  members:
+  - public relations
+  - PR
+  - public relation
+  - PR activity
+81058259-n:
+  definition:
+  - set of varieties of the English language native to Canada
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Canadian English
+  - English (Canada)
+  - en-ca
+  - en_ca
+  - en-CA
+  - en_CA
+84545177-n:
+  definition:
+  - Romance language of Western Europe
+  instance_hypernym:
+  - 06916947-n
+  members:
+  - Occitan
+  - "Proven\xE7al"
+  - "lenga d'\xF2c"
+  - Langue d'oc
+  - Occitan language
+  - oc
+  - "Proven\xE7al language"
+  - oci
+  - Occitanic languages
+  - Occitanic
+  - Langues d'oc
+90004041-n:
+  definition:
+  - genre of electronic dance music that originated in South London
+  instance_hypernym:
+  - 05853859-n
+  members:
+  - dubstep
+92461606-n:
+  definition:
+  - ancient Semitic language of Ethiopia
+  instance_hypernym:
+  - 06293304-n
+  members:
+  - Ge'ez
+  - Geez
+  - "Gi\u02BBiz"
+  - Ge'ez language
+  - gez
+  - "Ge\u02BDez"

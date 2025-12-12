@@ -94,6 +94,32 @@
   - 09449021-n
   - 09478436-n
   - 09495106-n
+08778226-n:
+  definition:
+  - northern region of the European continent
+  instance_hypernym:
+  - 08648560-n
+  members:
+  - Northern Europe
+  - North Europe
+09148650-n:
+  definition:
+  - summer resort area in the Catskill Mountains, USA
+  instance_hypernym:
+  - 08648560-n
+  members:
+  - Borscht Belt
+  - Borsht Belt
+86097949-n:
+  definition:
+  - country in southeastern Europe
+  instance_hypernym:
+  - 08562388-n
+  members:
+  - Montenegro
+  - me
+  - MNE
+  - Crna Gora
 89497668-n:
   mero_member:
   - 08968866-n

@@ -202,9 +202,9 @@ Honduran:
 Hoover:
   n:
     pronunciation:
-    - value: ˈhuːvə(ɹ)
+    - value: "\u02C8hu\u02D0v\u0259(\u0279)"
       variety: GB
-    - value: ˈhuvɚ
+    - value: "\u02C8huv\u025A"
       variety: US
     sense:
     - derivation:
@@ -251,7 +251,7 @@ Huxleyan:
 Hydra:
   n:
     pronunciation:
-    - value: ˈhaɪdɹə
+    - value: "\u02C8ha\u026Ad\u0279\u0259"
     sense:
     - id: 'hydra%1:17:00::'
       synset: 09330458-n
@@ -294,9 +294,9 @@ hymenopterous:
 hypostasis:
   n:
     pronunciation:
-    - value: haɪˈpɒstəsɪs
+    - value: "ha\u026A\u02C8p\u0252st\u0259s\u026As"
       variety: GB
-    - value: haɪˈpɑstəsɪs
+    - value: "ha\u026A\u02C8p\u0251st\u0259s\u026As"
       variety: US
     sense:
     - id: 'hypostasis%1:18:00::'

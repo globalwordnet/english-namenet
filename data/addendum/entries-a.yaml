@@ -18,7 +18,7 @@ Aberdonian:
 Abkhas:
   n:
     pronunciation:
-    - value: æbˈkɑs
+    - value: "\xE6b\u02C8k\u0251s"
       variety: US
     sense:
     - id: 'abkhas%1:14:00::'
@@ -31,7 +31,7 @@ Abkhaz:
       - 'abkhaz%1:15:00::'
   n:
     pronunciation:
-    - value: ɑbˈkɑz
+    - value: "\u0251b\u02C8k\u0251z"
       variety: US
     sense:
     - id: 'abkhaz%1:15:00::'
@@ -64,7 +64,7 @@ Achomawi:
 Adam:
   n:
     pronunciation:
-    - value: ˈæ.dəm
+    - value: "\u02C8\xE6.d\u0259m"
     sense:
     - id: 'adam%1:18:00::'
       synset: 09609728-n
@@ -73,14 +73,14 @@ Adam:
 Adonis:
   n:
     pronunciation:
-    - value: əˈdoʊnɪs
+    - value: "\u0259\u02C8do\u028An\u026As"
     sense:
     - id: 'adonis%1:20:00::'
       synset: 11744998-n
 Advent:
   n:
     pronunciation:
-    - value: ˈæd.vɛnt
+    - value: "\u02C8\xE6d.v\u025Bnt"
     sense:
     - id: 'advent%1:11:00::'
       synset: 07337150-n
@@ -239,7 +239,7 @@ Alsatian:
 Amati:
   n:
     pronunciation:
-    - value: ɑ.mɑ.ti
+    - value: "\u0251.m\u0251.ti"
       variety: US
     sense:
     - id: 'amati%1:18:00::'
@@ -247,9 +247,9 @@ Amati:
 Amazon:
   n:
     pronunciation:
-    - value: ˈæ.mə.zən
+    - value: "\u02C8\xE6.m\u0259.z\u0259n"
       variety: GB
-    - value: ˈæ.məˌzɑ.ːn
+    - value: "\u02C8\xE6.m\u0259\u02CCz\u0251.\u02D0n"
       variety: US
     sense:
     - id: 'amazon%1:17:00::'
@@ -320,7 +320,7 @@ Angolan:
 Angora:
   n:
     pronunciation:
-    - value: æŋˈɡɔːɹə
+    - value: "\xE6\u014B\u02C8\u0261\u0254\u02D0\u0279\u0259"
     sense:
     - id: 'angora%1:15:00::'
       synset: 09063076-n
@@ -381,9 +381,9 @@ Appalachian:
 Aquarius:
   n:
     pronunciation:
-    - value: əˈkwɛəɹɪəs
+    - value: "\u0259\u02C8kw\u025B\u0259\u0279\u026A\u0259s"
       variety: GB
-    - value: əˈkwɛɹɪəs
+    - value: "\u0259\u02C8kw\u025B\u0279\u026A\u0259s"
       variety: US
     sense:
     - id: 'aquarius%1:17:00::'
@@ -430,9 +430,9 @@ Arctic:
       id: arctic%5:00:00:polar:00
   n:
     pronunciation:
-    - value: ˈɑː(k)tɪk
+    - value: "\u02C8\u0251\u02D0(k)t\u026Ak"
       variety: GB
-    - value: ˈɑɹ(k)tɪk
+    - value: "\u02C8\u0251\u0279(k)t\u026Ak"
       variety: US
     sense:
     - derivation:
@@ -476,9 +476,9 @@ Argive:
 Aries:
   n:
     pronunciation:
-    - value: ˈɛəɹiːz
+    - value: "\u02C8\u025B\u0259\u0279i\u02D0z"
       variety: GB
-    - value: ˈɛɹiz
+    - value: "\u02C8\u025B\u0279iz"
       variety: US
     sense:
     - id: 'aries%1:17:00::'
@@ -591,9 +591,9 @@ Atlantic:
       - 'atlantic%1:17:00::'
   n:
     pronunciation:
-    - value: ətˈlæn.tɪk
+    - value: "\u0259t\u02C8l\xE6n.t\u026Ak"
       variety: GB
-    - value: ætˈlæn.tɪk
+    - value: "\xE6t\u02C8l\xE6n.t\u026Ak"
       variety: US
     sense:
     - derivation:

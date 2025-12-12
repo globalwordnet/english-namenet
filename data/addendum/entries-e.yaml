@@ -1,9 +1,9 @@
 Earth:
   n:
     pronunciation:
-    - value: ɜːθ
+    - value: "\u025C\u02D0\u03B8"
       variety: GB
-    - value: ɝθ
+    - value: "\u025D\u03B8"
       variety: US
     sense:
     - derivation:
@@ -76,7 +76,7 @@ Egyptian:
 Einstein:
   n:
     pronunciation:
-    - value: ˈaɪnstaɪn
+    - value: "\u02C8a\u026Ansta\u026An"
     sense:
     - derivation:
       - 'einsteinian%3:01:00::'
@@ -144,9 +144,9 @@ Erasmian:
 Erie:
   n:
     pronunciation:
-    - value: ˈɪɹi
+    - value: "\u02C8\u026A\u0279i"
       variety: US
-    - value: ˈɪəɹi
+    - value: "\u02C8\u026A\u0259\u0279i"
       variety: GB
     sense:
     - id: 'erie%1:17:00::'
@@ -208,7 +208,7 @@ Eurasiatic:
 Eureka:
   n:
     pronunciation:
-    - value: juˈɹikə
+    - value: "ju\u02C8\u0279ik\u0259"
       variety: US
     sense:
     - id: 'eureka%1:15:00::'
@@ -237,9 +237,9 @@ Euryale:
 earth:
   n:
     pronunciation:
-    - value: ɜːθ
+    - value: "\u025C\u02D0\u03B8"
       variety: GB
-    - value: ɝθ
+    - value: "\u025D\u03B8"
       variety: US
     sense:
     - derivation:

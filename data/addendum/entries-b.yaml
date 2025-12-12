@@ -10,11 +10,11 @@ Babylonian:
 Bach:
   n:
     pronunciation:
-    - value: bætʃ
+    - value: "b\xE6t\u0283"
       variety: US
-    - value: batʃ
+    - value: "bat\u0283"
       variety: GB
-    - value: bɛtʃ
+    - value: "b\u025Bt\u0283"
       variety: NZ
     sense:
     - id: 'bach%1:18:00::'
@@ -37,14 +37,14 @@ Bahraini:
 Balance:
   n:
     pronunciation:
-    - value: ˈbæləns
+    - value: "\u02C8b\xE6l\u0259ns"
     sense:
     - id: 'balance%1:15:00::'
       synset: 08704888-n
 Baldwin:
   n:
     pronunciation:
-    - value: ˈbɔːldwɪn
+    - value: "\u02C8b\u0254\u02D0ldw\u026An"
     sense:
     - id: 'baldwin%1:18:01::'
       synset: 10851847-n
@@ -208,7 +208,7 @@ Bismarckian:
 Black:
   n:
     pronunciation:
-    - value: blæk
+    - value: "bl\xE6k"
     sense:
     - id: 'black%1:18:02::'
       synset: 10871726-n
@@ -282,9 +282,9 @@ Boolean:
 Bordeaux:
   n:
     pronunciation:
-    - value: bɔɹˈdoʊ
+    - value: "b\u0254\u0279\u02C8do\u028A"
       variety: US
-    - value: bɔːˈdəʊ
+    - value: "b\u0254\u02D0\u02C8d\u0259\u028A"
       variety: GB
     sense:
     - id: 'bordeaux%1:15:00::'
@@ -312,7 +312,7 @@ Botswanan:
 Brahma:
   n:
     pronunciation:
-    - value: ˈbɹɑmə
+    - value: "\u02C8b\u0279\u0251m\u0259"
       variety: US
     sense:
     - id: 'brahma%1:18:00::'
@@ -360,11 +360,11 @@ Bruneian:
 Buddha:
   n:
     pronunciation:
-    - value: ˈbʊdə
+    - value: "\u02C8b\u028Ad\u0259"
       variety: GB
-    - value: ˈbudə
+    - value: "\u02C8bud\u0259"
       variety: US
-    - value: bʊdːʰə
+    - value: "b\u028Ad\u02D0\u02B0\u0259"
     sense:
     - id: 'buddha%1:18:00::'
       synset: 09555346-n
@@ -385,9 +385,9 @@ Bull:
 Burgundy:
   n:
     pronunciation:
-    - value: ˈbɜ.ɡən.di
+    - value: "\u02C8b\u025C.\u0261\u0259n.di"
       variety: GB
-    - value: ˈbɝ.ɡən.di
+    - value: "\u02C8b\u025D.\u0261\u0259n.di"
       variety: US
     sense:
     - id: 'burgundy%1:15:00::'
@@ -413,7 +413,7 @@ Burundi:
       - 'burundi%1:15:00::'
   n:
     pronunciation:
-    - value: bʊˈɹʊndi
+    - value: "b\u028A\u02C8\u0279\u028Andi"
     sense:
     - derivation:
       - 'burundian%3:01:00::'

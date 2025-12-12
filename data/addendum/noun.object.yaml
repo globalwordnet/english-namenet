@@ -20,6 +20,20 @@
 09285596-n:
   domain_region:
   - 08879115-n
+09289193-n:
+  definition:
+  - "atomic nucleus; having the symbol \xB2H\u207A or D\u207A, is the +1 ion of deuterium,\
+    \ \xB2H or D"
+  instance_hypernym:
+  - 14831008-n
+  members:
+  - deuteron
+  - "\xB2H\u207A"
+  - 2H+
+  - "D\u207A"
+  - D+
+  - deuterium(1+)
+  - d
 09303286-n:
   domain_region:
   - 08910324-n
@@ -57,6 +71,13 @@
   domain_region:
   - 08920762-n
   - 08837249-n
+09481624-n:
+  definition:
+  - the part of the River Thames subject to tides
+  instance_hypernym:
+  - 09434308-n
+  members:
+  - Tideway
 09498025-n:
   domain_region:
   - 08700557-n

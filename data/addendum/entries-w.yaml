@@ -1,7 +1,7 @@
 Wagner:
   n:
     pronunciation:
-    - value: ˈwæɡnɚ
+    - value: "\u02C8w\xE6\u0261n\u025A"
       variety: US
     sense:
     - id: 'wagner%1:18:01::'
@@ -94,7 +94,7 @@ West African:
 White:
   n:
     pronunciation:
-    - value: waɪt
+    - value: "wa\u026At"
     sense:
     - id: 'white%1:18:06::'
       synset: 11404286-n
@@ -123,7 +123,7 @@ Whitehall:
 Wichita:
   n:
     pronunciation:
-    - value: ˈwɪtʃɪtɔː
+    - value: "\u02C8w\u026At\u0283\u026At\u0254\u02D0"
     sense:
     - id: 'wichita%1:15:00::'
       synset: 09111547-n
@@ -139,7 +139,7 @@ Wilsonian:
 Winchester:
   n:
     pronunciation:
-    - value: ˈwɪnt͡ʃɛstə(ɹ)
+    - value: "\u02C8w\u026Ant\u0361\u0283\u025Bst\u0259(\u0279)"
     sense:
     - id: 'winchester%1:15:00::'
       synset: 08901086-n
@@ -177,11 +177,11 @@ wade:
 world:
   n:
     pronunciation:
-    - value: wɜːld
+    - value: "w\u025C\u02D0ld"
       variety: GB
-    - value: wɝld
+    - value: "w\u025Dld"
       variety: US
-    - value: wɵːld
+    - value: "w\u0275\u02D0ld"
       variety: NZ
     sense:
     - id: 'world%1:17:00::'

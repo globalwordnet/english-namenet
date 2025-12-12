@@ -1,7 +1,7 @@
 PA:
   n:
     pronunciation:
-    - value: pɑː
+    - value: "p\u0251\u02D0"
     sense:
     - id: 'pa%1:15:00::'
       synset: 09157081-n
@@ -73,7 +73,7 @@ Palladian:
 Panama:
   n:
     pronunciation:
-    - value: ˈpæn.ə.mɑː
+    - value: "\u02C8p\xE6n.\u0259.m\u0251\u02D0"
     sense:
     - derivation:
       - 'panamanian%3:01:00::'
@@ -118,9 +118,9 @@ Parthian:
 Pascal:
   n:
     pronunciation:
-    - value: ˈpæskəl
+    - value: "\u02C8p\xE6sk\u0259l"
       variety: GB
-    - value: pæˈskæl
+    - value: "p\xE6\u02C8sk\xE6l"
       variety: US
     sense:
     - id: 'pascal%1:18:00::'
@@ -161,7 +161,7 @@ Peloponnesian:
 Pennsylvanian:
   n:
     pronunciation:
-    - value: pɛnsʊlˈveɪ̯njɪn
+    - value: "p\u025Bns\u028Al\u02C8ve\u026A\u032Fnj\u026An"
       variety: US
     sense:
     - id: 'pennsylvanian%1:28:00::'
@@ -174,9 +174,9 @@ Penobscot:
 Pentagon:
   n:
     pronunciation:
-    - value: ˈpɛn.tə.ɡɑn
+    - value: "\u02C8p\u025Bn.t\u0259.\u0261\u0251n"
       variety: US
-    - value: ˈpɛn.tə.ɡən
+    - value: "\u02C8p\u025Bn.t\u0259.\u0261\u0259n"
       variety: GB
     sense:
     - id: 'pentagon%1:06:00::'
@@ -216,7 +216,7 @@ Philistine:
 Phoebe:
   n:
     pronunciation:
-    - value: ˈfiːbi
+    - value: "\u02C8fi\u02D0bi"
     sense:
     - id: 'phoebe%1:18:00::'
       synset: 09600486-n
@@ -238,7 +238,7 @@ Piagetian:
 Pisces:
   n:
     pronunciation:
-    - value: ˈpaɪsiːz
+    - value: "\u02C8pa\u026Asi\u02D0z"
     sense:
     - id: 'pisces%1:15:00::'
       synset: 08705814-n
@@ -299,7 +299,7 @@ Portuguese:
 Powhatan:
   n:
     pronunciation:
-    - value: paʊəˈtæn
+    - value: "pa\u028A\u0259\u02C8t\xE6n"
     sense:
     - id: 'powhatan%1:18:01::'
       synset: 11265372-n
@@ -356,7 +356,7 @@ Ptolemy:
 Pueblo:
   n:
     pronunciation:
-    - value: ˈpwɛbləʊ
+    - value: "\u02C8pw\u025Bbl\u0259\u028A"
       variety: GB
     sense:
     - id: 'pueblo%1:15:01::'
@@ -373,9 +373,9 @@ Pythagorean:
 Python:
   n:
     pronunciation:
-    - value: ˈpaɪθən
+    - value: "\u02C8pa\u026A\u03B8\u0259n"
       variety: GB
-    - value: ˈpaɪθɑːn
+    - value: "\u02C8pa\u026A\u03B8\u0251\u02D0n"
       variety: US
     sense:
     - id: 'python%1:18:00::'
@@ -429,7 +429,7 @@ peripatetic:
 phoenix:
   n:
     pronunciation:
-    - value: ˈfiːnɪks
+    - value: "\u02C8fi\u02D0n\u026Aks"
     sense:
     - id: 'phoenix%1:20:00::'
       synset: 12614587-n

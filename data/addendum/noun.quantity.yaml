@@ -1,9 +1,322 @@
+13622613-n:
+  definition:
+  - unit of volume
+  instance_hypernym:
+  - 13622065-n
+  members:
+  - cubic inch
+  - "in\xB3"
+13634186-n:
+  definition:
+  - unit of area
+  instance_hypernym:
+  - 13621647-n
+  members:
+  - square inch
+  - sq in
+  - sqin
+  - in2
+  - square inches
+13634303-n:
+  definition:
+  - imperial unit and U.S. customary unit of area
+  instance_hypernym:
+  - 13621647-n
+  members:
+  - square foot
+  - sqft
+  - ft2
+  - square feet
+  - sq ft
+  - SF
+13634420-n:
+  definition:
+  - unit of area
+  instance_hypernym:
+  - 13621647-n
+  members:
+  - square yard
+  - sqyd
+  - sq yd
+  - square yards
+  - yd2
+  - "yd\xB2"
+13638749-n:
+  definition:
+  - unit of volume
+  instance_hypernym:
+  - 13622065-n
+  members:
+  - acre-foot
+  - acre foot
+  - acre-feet
+  - acre feet
+13639116-n:
+  definition:
+  - unit of volume
+  instance_hypernym:
+  - 13622065-n
+  members:
+  - board foot
+  - Mfbm
+  - Mmfbm
+  - Super foot
+  - Superficial foot
+  - board-foot
 13639461-n:
   domain_region:
   - 08879115-n
 13644335-n:
   domain_region:
   - 08879115-n
+13644736-n:
+  definition:
+  - unit of volume
+  instance_hypernym:
+  - 13622065-n
+  members:
+  - cubic millimetre
+  - "mm\xB3"
+  - cubic millimeter
+  - mm3
+  - mm^3
+  - cubic mm
+13644955-n:
+  definition:
+  - unit of volume
+  instance_hypernym:
+  - 13622065-n
+  members:
+  - cubic centimetre
+  - cubic centimeter
+  - "cm\xB3"
+  - cc
+  - cmm
+  - cm3
+  - cm^3
+  - c.c
+13645213-n:
+  definition:
+  - unit of volume
+  instance_hypernym:
+  - 13622065-n
+  members:
+  - centilitre
+  - cL
+  - centiliter
+13645547-n:
+  definition:
+  - unit of volume accepted for use with the SI
+  instance_hypernym:
+  - 13622065-n
+  members:
+  - litre
+  - L
+  - l
+  - litres
+13646268-n:
+  definition:
+  - SI unit of volume
+  - unit of volume
+  instance_hypernym:
+  - 13622065-n
+  members:
+  - cubic metre
+  - cubic meter
+  - "m\xB3"
+  - m3
+  - m^3
+  - metre to the third power
+  - metre cubed
+  - cube meter
+  - kilolitre
+  - kiloliter
+  - kL
+13646496-n:
+  definition:
+  - unit of volume
+  instance_hypernym:
+  - 13622065-n
+  members:
+  - cubic kilometre
+  - "km\xB3"
+  - km3
+  - cubic kilometer
+  - km^3
+13648977-n:
+  definition:
+  - unit of digital information equal to one thousand bytes
+  - unit of digital information equal to 1,024 bytes
+  instance_hypernym:
+  - 13604927-n
+  members:
+  - kilobyte
+  - kB
+  - kibibyte
+  - KiB
+13649271-n:
+  definition:
+  - unit of digital information equal to one thousand bits
+  instance_hypernym:
+  - 13604927-n
+  members:
+  - kilobit
+  - kbit
+  - kb
+  - Kilobit
+  - Kbit
+13650053-n:
+  definition:
+  - unit of digital information equal to 1,024 kibibits
+  instance_hypernym:
+  - 13604927-n
+  members:
+  - mebibit
+  - Mibit
+  - Mib
+13650593-n:
+  definition:
+  - unit of digital information equal to one billion bits or 1,000 megabits
+  instance_hypernym:
+  - 13604927-n
+  members:
+  - gigabit
+  - Gbit
+  - Gb
+  - Gib
+13651315-n:
+  definition:
+  - unit of digital information equal to one trillion bits or 1,000 gigabits
+  instance_hypernym:
+  - 13604927-n
+  members:
+  - terabit
+  - Tb
+13651497-n:
+  definition:
+  - unit of digital information equal to 1,024 gibibits
+  instance_hypernym:
+  - 13604927-n
+  members:
+  - tebibit
+  - Tib
+13651674-n:
+  definition:
+  - unit of digital information equal to 1,024 tebibytes
+  instance_hypernym:
+  - 13604927-n
+  members:
+  - pebibyte
+  - PiB
+  - PB
+  - Petabyte
+13652168-n:
+  definition:
+  - unit of digital information equal to 1,024 tebibits
+  instance_hypernym:
+  - 13604927-n
+  members:
+  - pebibit
+  - Pibit
+  - Pib
+13652325-n:
+  definition:
+  - unit of digital information equal to 1,024 pebibytes
+  instance_hypernym:
+  - 13604927-n
+  members:
+  - exbibyte
+  - EiB
+13652655-n:
+  definition:
+  - unit of digital information equal to one quintillion bits or 1,000 petabits
+  instance_hypernym:
+  - 13604927-n
+  members:
+  - exabit
+  - Ebit
+  - Eb
+13654067-n:
+  definition:
+  - unit of digital information equal to 1,024 zebibits
+  instance_hypernym:
+  - 13604927-n
+  members:
+  - yobibit
+  - Yotta binary digit
+  - Yibit
+  - Yib
+13657333-n:
+  definition:
+  - SI unit of electric capacitance
+  instance_hypernym:
+  - 13604927-n
+  members:
+  - picofarad
+  - pF
+13657614-n:
+  definition:
+  - SI unit of electric capacitance
+  instance_hypernym:
+  - 13604927-n
+  members:
+  - millifarad
+  - mF
+13660753-n:
+  definition:
+  - SI unit of inductance
+  instance_hypernym:
+  - 13604927-n
+  members:
+  - millihenry
+  - mH
+13662345-n:
+  definition:
+  - unit of measurement
+  instance_hypernym:
+  - 13604927-n
+  members:
+  - phot
+  - ph
+13664075-n:
+  definition:
+  - SI unit of voltage
+  instance_hypernym:
+  - 13604927-n
+  members:
+  - millivolt
+  - mV
+13664208-n:
+  definition:
+  - SI unit of voltage
+  instance_hypernym:
+  - 13604927-n
+  members:
+  - microvolt
+13665249-n:
+  definition:
+  - SI unit of voltage
+  instance_hypernym:
+  - 13604927-n
+  members:
+  - kilovolt
+  - kV
+13665858-n:
+  definition:
+  - SI unit of power
+  instance_hypernym:
+  - 13604927-n
+  members:
+  - milliwatt
+  - mW
+13666373-n:
+  definition:
+  - SI unit of power
+  instance_hypernym:
+  - 13604927-n
+  members:
+  - megawatt
+  - MW
 13671409-n:
   domain_region:
   - 09067337-n
@@ -11,18 +324,401 @@
 13672539-n:
   domain_region:
   - 08879115-n
+13679972-n:
+  definition:
+  - SI unit of length equal to one billionth of a metre or 1/1000th of a micrometre
+  instance_hypernym:
+  - 13604927-n
+  members:
+  - nanometre
+  - nm
+  - nanometres
+13680636-n:
+  definition:
+  - SI unit of length equal to one hundredth of a metre
+  instance_hypernym:
+  - 13604927-n
+  members:
+  - centimetre
+  - "\u339D"
+  - centimetres
+13680844-n:
+  definition:
+  - SI unit of length equal to one tenth of a metre
+  instance_hypernym:
+  - 13604927-n
+  members:
+  - decimetre
+  - dm
+  - decimetres
+13692773-n:
+  definition:
+  - currency of Tunisia
+  instance_hypernym:
+  - 13625961-n
+  members:
+  - Tunisian dinar
+  - Tunis dinar
+13694072-n:
+  definition:
+  - official currency of Australia; also officially used in Kiribati, Nauru, and Tuvalu
+  instance_hypernym:
+  - 13625961-n
+  members:
+  - Australian dollar
+  - Aussie dollar
+  - AUD
+  - AU$
+  - A$
+  - $
+  - dollar
+  - dollars
+13695755-n:
+  definition:
+  - currency
+  instance_hypernym:
+  - 13683378-n
+  members:
+  - Kiribati dollar
+13696455-n:
+  definition:
+  - official currency of the United States
+  instance_hypernym:
+  - 13683378-n
+  members:
+  - United States dollar
+  - USD
+  - $
+  - US$
+  - American dollar
+  - US $
+  - U.S. Dollar
+  - U. S. Dollar
+  - US-$
+  - dollar
+  - dollars
+  - US dollar
+  - buck
+  - greenback
+  - $USD
+  - USD$
+  - US dollars
+  - United States dollars
+  - American dollars
+  - USA dollar
+  - USA dollars
+  - American money
+13696765-n:
+  definition:
+  - former currency of Zimbabwe, from 1980 to 2009
+  instance_hypernym:
+  - 13683378-n
+  members:
+  - Zimbabwean dollar
+  - Z$
+  - $
+  - ZWD
+  - ZWN
+  - ZWR
+  - ZWL
+  - Zimdollar
+13704435-n:
+  definition:
+  - currency of Sweden
+  instance_hypernym:
+  - 13625961-n
+  members:
+  - Swedish krona
+  - SEK
+13705076-n:
+  definition:
+  - currency of Norway
+  instance_hypernym:
+  - 13625961-n
+  members:
+  - Norwegian krone
+  - kr
+  - krone
+  - NOK
+13705683-n:
+  definition:
+  - official currency of Zambia
+  instance_hypernym:
+  - 13625961-n
+  members:
+  - Zambian Kwacha
+  - ZMW
 13706245-n:
   domain_region:
   - 08733223-n
+13714119-n:
+  definition:
+  - currency of Cuba
+  instance_hypernym:
+  - 13625961-n
+  members:
+  - peso
+  - CUP
+  - Cuban peso
+13715189-n:
+  definition:
+  - official currency of the Philippines
+  instance_hypernym:
+  - 13625961-n
+  members:
+  - Philippine peso
+  - "\u20B1"
+  - PHP
+  - peso
+  - Philippine piso
+  - piso
+13716122-n:
+  definition:
+  - official currency of Egypt
+  instance_hypernym:
+  - 13625961-n
+  members:
+  - Egyptian pound
+  - DR
+  - D.R.
+  - "D\xA3"
+  - EGP
+  - "\xA3E"
+  - "E\xA3"
+13717041-n:
+  definition:
+  - official currency of Lebanon
+  instance_hypernym:
+  - 13625961-n
+  members:
+  - Lebanese pound
+  - LBP
+  - 1000 lira
+  - Lebanese pound (1939-date)
+13717525-n:
+  definition:
+  - currency in Sudan
+  instance_hypernym:
+  - 13625961-n
+  members:
+  - Sudanese pound
+  - Sudanese Pound
+  - SDG
+13717779-n:
+  definition:
+  - currency
+  instance_hypernym:
+  - 13625961-n
+  members:
+  - Syrian pound
+  - SYP
+  - LS
+  - Syrian lira
+13720432-n:
+  definition:
+  - currency
+  instance_hypernym:
+  - 13625961-n
+  members:
+  - Qatari riyal
+  - Qatar riyal
+13727002-n:
+  definition:
+  - Currency of Nepal
+  instance_hypernym:
+  - 13625961-n
+  members:
+  - Nepalese rupee
+  - Rupee (1932-date)
+  - NPR
+13728173-n:
+  definition:
+  - coin used in various German-speaking states as well as some non-German-speaking
+    countries of Central Europe
+  instance_hypernym:
+  - 13625961-n
+  members:
+  - groschen
+  - groschen coin
+13731097-n:
+  definition:
+  - official currency of the Democratic People's Republic of Korea
+  instance_hypernym:
+  - 13625961-n
+  members:
+  - North Korean won
+13735405-n:
+  definition:
+  - unit of measurement
+  instance_hypernym:
+  - 13621647-n
+  members:
+  - column inch
+13736596-n:
+  definition:
+  - SI unit of Celsius temperature
+  instance_hypernym:
+  - 13604927-n
+  members:
+  - degree Celsius
+  - Celsius
+  - "\xB0C"
+  - centigrade
+  - "\u2103"
+  - degree centigrade
+  - degrees Celsius
+  - degrees centigrade
+13736746-n:
+  definition:
+  - unit of temperature
+  instance_hypernym:
+  - 13604927-n
+  members:
+  - degree Fahrenheit
+  - Fahrenheit
+  - "\xB0F"
 13739833-n:
   domain_region:
   - 08740839-n
+13740780-n:
+  definition:
+  - traditional Asian unit of mass
+  instance_hypernym:
+  - 13604927-n
+  members:
+  - picul
+  - tam
 13741515-n:
   domain_region:
   - 08879115-n
 13742705-n:
   domain_region:
   - 08879115-n
+13743492-n:
+  definition:
+  - unit of mass used in many Commonwealth countries
+  instance_hypernym:
+  - 13604927-n
+  members:
+  - long ton
+  - imperial ton
+  - weight ton
+  - displacement ton
+  - UK t
+  - long tons
+  - long tons (UK)
+  - ton
+  - gross ton
+13743634-n:
+  definition:
+  - U.S. unit of mass (2,000 pounds or 907.18474 kg)
+  instance_hypernym:
+  - 13604927-n
+  members:
+  - short ton
+  - U.S. ton
+  - US ton
+  - ton
+  - US t
+13744303-n:
+  definition:
+  - unit of mass
+  instance_hypernym:
+  - 13604927-n
+  members:
+  - pennyweight
+  - dwt
+  - pennyweights
+  - Troy pennyweight
+13744627-n:
+  definition:
+  - unit of mass, imperial measure
+  instance_hypernym:
+  - 13604927-n
+  members:
+  - troy ounce
+  - t oz
+  - oz t
+  - troy oz
+  - oz troy
+13745039-n:
+  definition:
+  - "unit of mass, equal to 10^\u22126 gram"
+  instance_hypernym:
+  - 13604927-n
+  members:
+  - microgram
+  - microgramme
+  - "\xB5g"
+  - mcg
+  - micrograms
+  - microg
+13748184-n:
+  definition:
+  - unit of energy equal to a joule
+  instance_hypernym:
+  - 13630750-n
+  members:
+  - watt second
+  - watt-second
+  - W s
+  - "W\xB7s"
+13749057-n:
+  definition:
+  - outdated unit of energy, about 1054.3503 J
+  instance_hypernym:
+  - 13630750-n
+  members:
+  - British thermal unit (thermochemical)
+  - BTU
+  - thermochemical Btu
+  - thermochemical British thermal unit
+  - British thermal unit
+  - BTU (th)
+  - British thermal unit (th)
+13749588-n:
+  definition:
+  - unit of energy, often used for electrical billing
+  instance_hypernym:
+  - 13630750-n
+  members:
+  - kilowatt-hour
+  - kilowatthour
+  - kilowatt hour
+  - "kW\xB7h"
+  - kW h
+  - "kW\xB7hr"
+  - kW hr
+  - kWhr
+  - kW-hr
+13749793-n:
+  definition:
+  - unit of energy
+  instance_hypernym:
+  - 13630750-n
+  members:
+  - foot-pound
+  - "ft\xB7lbf"
+  - foot pound force
+  - ft lbs
+  - dynam
+13750041-n:
+  definition:
+  - unit of energy
+  instance_hypernym:
+  - 13630750-n
+  members:
+  - foot-poundal
+  - ft-pdl
+  - foot poundal
+13750184-n:
+  definition:
+  - unit of energy
+  instance_hypernym:
+  - 13630750-n
+  members:
+  - horsepower-hour
+  - hph
 13762905-n:
   domain_region:
   - 08879115-n
@@ -73,3 +769,39 @@
 13786353-n:
   domain_region:
   - 08879115-n
+92412942-n:
+  definition:
+  - unit of area
+  instance_hypernym:
+  - 13621647-n
+  members:
+  - square centimetre
+  - square centimeter
+  - cm2
+  - "cm\xB2"
+92439490-n:
+  definition:
+  - currency of several West African countries
+  instance_hypernym:
+  - 13625961-n
+  members:
+  - West African CFA franc
+  - BCEAO franc
+92439491-n:
+  definition:
+  - Currency of several Central African countries
+  instance_hypernym:
+  - 13625961-n
+  members:
+  - Central African CFA franc
+  - franc CFA
+92467769-n:
+  definition:
+  - unit of area
+  instance_hypernym:
+  - 13621647-n
+  members:
+  - square millimetre
+  - square millimeter
+  - mm2
+  - "mm\xB2"

@@ -16,6 +16,15 @@
 09538847-n:
   domain_region:
   - 08936605-n
+09551269-n:
+  definition:
+  - deity
+  instance_hypernym:
+  - 09546113-n
+  members:
+  - Ribhus
+  - Rbhu
+  - "\u090B\u092D\u0941"
 09565670-n:
   domain_region:
   - 08798733-n
@@ -42,9 +51,50 @@
   - 09588632-n
   - 09588768-n
   - 09588916-n
+09613946-n:
+  definition:
+  - one of a host of female figures who decide which soldiers die in battle and which
+    live
+  instance_hypernym:
+  - 09528550-n
+  members:
+  - valkyrie
+  - valkyr
+  - valkyrs
+09638837-n:
+  definition:
+  - professional practitioner of engineering
+  instance_hypernym:
+  - 06710094-n
+  members:
+  - engineer
+09640897-n:
+  definition:
+  - person with broad and profound competence in a particular field
+  instance_hypernym:
+  - 06710094-n
+  members:
+  - expert
+  - experts
 09669631-n:
   domain_region:
   - 08758708-n
+09719159-n:
+  definition:
+  - citizens or residents of The Netherlands
+  instance_hypernym:
+  - 08648560-n
+  members:
+  - Dutch
+  - the Dutch
+  - Dutch people
+  - Netherlanders
+  - Dutchmen
+  - Dutchwomen
+  - Hollanders
+  - Dutchpersons
+  - Dutchpeople
+  - Dutch persons
 09721530-n:
   domain_region:
   - 08879115-n
@@ -55,6 +105,30 @@
 09742481-n:
   domain_region:
   - 08758708-n
+09751958-n:
+  definition:
+  - citizens or residents of the United Kingdom of Great Britain and Northern Ireland,
+    British Overseas Territories, Crown Dependencies, and their descendants
+  instance_hypernym:
+  - 08648560-n
+  members:
+  - British
+  - Britishers
+  - Brits
+  - the British
+  - Britons
+  - British people
+09752082-n:
+  definition:
+  - citizens of England
+  instance_hypernym:
+  - 08648560-n
+  members:
+  - English people
+  - English
+  - the English
+  - Englishmen
+  - people of England
 09767300-n:
   domain_region:
   - 08784821-n
@@ -91,9 +165,24 @@
 09896909-n:
   domain_region:
   - 08784821-n
+09924290-n:
+  definition:
+  - political term
+  instance_hypernym:
+  - 00023451-n
+  members:
+  - moderate
 09924503-n:
   domain_region:
   - 08824749-n
+09924638-n:
+  definition:
+  - title of qualified accountants in many countries
+  instance_hypernym:
+  - 06710094-n
+  members:
+  - certified public accountant
+  - CPA
 09926301-n:
   domain_region:
   - 08879115-n
@@ -106,9 +195,24 @@
 09939564-n:
   domain_region:
   - 08798733-n
+09943998-n:
+  definition:
+  - engineer specialising in design, construction and maintenance of the built environment
+  instance_hypernym:
+  - 06710094-n
+  members:
+  - civil engineer
+  - civil engineers
 09948303-n:
   domain_region:
   - 08879115-n
+09951685-n:
+  definition:
+  - type of business who builds the body of a vehicle
+  instance_hypernym:
+  - 08024893-n
+  members:
+  - coachbuilder
 09954691-n:
   domain_region:
   - 08879115-n
@@ -147,6 +251,16 @@
 10028042-n:
   domain_region:
   - 09067337-n
+10040532-n:
+  definition:
+  - person who teaches at universities and educational institutions
+  instance_hypernym:
+  - 06710094-n
+  members:
+  - docent
+  - lecturer
+  - associate professor
+  - assistant professor
 10045212-n:
   domain_region:
   - 09045691-n
@@ -212,6 +326,18 @@
 10239898-n:
   domain_region:
   - 08920762-n
+10247655-n:
+  definition:
+  - legal scholar or academic, a professional who studies, teaches, and develops law
+  instance_hypernym:
+  - 06710094-n
+  members:
+  - jurist
+  - lawyer
+  - legal professional
+  - legal expert
+  - legal scholar
+  - legal practitioner
 10248262-n:
   domain_region:
   - 08879115-n
@@ -236,6 +362,17 @@
 10264610-n:
   domain_region:
   - 08879115-n
+10269647-n:
+  definition:
+  - legal professional
+  instance_hypernym:
+  - 06710094-n
+  members:
+  - lawyer
+  - attorney
+  - solicitor
+  - barrister
+  - lawyers
 10273400-n:
   domain_region:
   - 08949695-n
@@ -283,9 +420,30 @@
 10344023-n:
   domain_region:
   - 08879115-n
+10349502-n:
+  definition:
+  - honorific form of address for certain Roman Catholic clergy
+  instance_hypernym:
+  - 06710094-n
+  members:
+  - Monsignor
+  - Mons
+  - Msgr
+  - Mons.
+  - Prelate of honor
+  - Protonotary apostolic
+  - Protonotary supernumerary
 10356617-n:
   domain_region:
   - 08879115-n
+10356733-n:
+  definition:
+  - Islamic jurist qualified to issue a nonbinding opinion on a point of Islamic law
+  instance_hypernym:
+  - 06710094-n
+  members:
+  - mufti
+  - "m\xFCft\xFC"
 10364746-n:
   domain_region:
   - 08879115-n
@@ -427,6 +585,15 @@
 10647076-n:
   domain_region:
   - 08700557-n
+10651974-n:
+  definition:
+  - doctor who has completed advanced education and clinical training in a specific
+    area of medicine
+  instance_hypernym:
+  - 06710094-n
+  members:
+  - medical specialist
+  - medici specialisti
 10656436-n:
   domain_region:
   - 08879115-n
@@ -469,6 +636,17 @@
 10698384-n:
   domain_region:
   - 08879115-n
+10698621-n:
+  definition:
+  - physician with surgical specialty
+  instance_hypernym:
+  - 06710094-n
+  - 06005806-n
+  members:
+  - surgeon
+  - surgeons
+  - sawbones
+  - chirurgeon
 10701616-n:
   domain_region:
   - 08849996-n
@@ -478,6 +656,14 @@
 10714946-n:
   domain_region:
   - 08879115-n
+10715747-n:
+  definition:
+  - worker in technology
+  instance_hypernym:
+  - 06005806-n
+  members:
+  - technician
+  - worker in technology
 10716631-n:
   domain_region:
   - 08879115-n
@@ -511,6 +697,20 @@
 10784973-n:
   domain_region:
   - 08879115-n
+10798221-n:
+  definition:
+  - from 1517, group of three religious orders within the Catholic Church
+  instance_hypernym:
+  - 08024893-n
+  members:
+  - Franciscans
+  - Seraphic Order
+  - Ordo Fratrum Minorum
+  - OFM
+  - Minorites
+  - Grey Friars
+  - Franciscan
+  - O.F.M.
 10806668-n:
   domain_region:
   - 08879115-n
@@ -523,9 +723,49 @@
 10821887-n:
   domain_region:
   - 09067337-n
+11091457-n:
+  definition:
+  - "American artist (1928\u20132018)"
+  instance_hypernym:
+  - 09987789-n
+  - 02474924-n
+  - 10411352-n
+  - 09647338-n
+  members:
+  - Robert Indiana
+  - Robert Clark
+11262839-n:
+  definition:
+  - "Austrian-British philosopher of science and social and pol\xEDtica e falsificationism\
+    \ and for criticism of Plato, Hegel and Marx as totalitarian opponents of open\
+    \ society (1902-1994)"
+  instance_hypernym:
+  - 10443334-n
+  - 10445710-n
+  - 02474924-n
+  - 10713754-n
+  - 09647338-n
+  - 10640274-n
+  - 10820913-n
+  - 10320928-n
+  members:
+  - Karl Popper
+  - Karl Raimund Popper Sir
+  - Karl Raimund, Sir Popper
+  - Sir Karl Raimund Popper
 81621166-n:
   domain_region:
   - 09067337-n
 86294295-n:
   domain_region:
   - 09212308-n
+90009161-n:
+  definition:
+  - female business owner who is actively balancing the role of mom and the role of
+    entrepreneur
+  instance_hypernym:
+  - 10080160-n
+  - 02474924-n
+  - 09642198-n
+  members:
+  - mompreneur

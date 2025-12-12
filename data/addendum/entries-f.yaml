@@ -1,7 +1,7 @@
 Fahrenheit:
   n:
     pronunciation:
-    - value: fɑːɹənˈhaɪt
+    - value: "f\u0251\u02D0\u0279\u0259n\u02C8ha\u026At"
     sense:
     - id: 'fahrenheit%1:18:00::'
       synset: 10985143-n
@@ -17,13 +17,13 @@ Falstaffian:
 Father:
   n:
     pronunciation:
-    - value: ˈfɑːðə(ɹ)
+    - value: "\u02C8f\u0251\u02D0\xF0\u0259(\u0279)"
       variety: GB
-    - value: ˈfɑðɚ
+    - value: "\u02C8f\u0251\xF0\u025A"
       variety: US
-    - value: ˈfaːðə
+    - value: "\u02C8fa\u02D0\xF0\u0259"
       variety: AU
-    - value: ˈfæðəɹ
+    - value: "\u02C8f\xE6\xF0\u0259\u0279"
     sense:
     - id: 'father%1:18:02::'
       synset: 09560084-n
@@ -70,7 +70,7 @@ Fleet Street:
 Fleming:
   n:
     pronunciation:
-    - value: ˈflɛmɪŋ
+    - value: "\u02C8fl\u025Bm\u026A\u014B"
     sense:
     - id: 'fleming%1:18:02::'
       synset: 10992977-n
@@ -102,9 +102,9 @@ Formosan:
 Fox:
   n:
     pronunciation:
-    - value: fɒks
+    - value: "f\u0252ks"
       variety: GB
-    - value: fɑks
+    - value: "f\u0251ks"
       variety: US
     sense:
     - id: 'fox%1:18:03::'
@@ -135,7 +135,7 @@ French:
       - 'france%1:15:00::'
   n:
     pronunciation:
-    - value: fɹɛnt͡ʃ
+    - value: "f\u0279\u025Bnt\u0361\u0283"
     sense:
     - id: 'french%1:18:01::'
       synset: 11001746-n

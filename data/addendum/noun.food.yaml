@@ -1,9 +1,24 @@
 07572437-n:
   domain_region:
   - 08879115-n
+07584067-n:
+  definition:
+  - lightly processed whole-grain food made from oat
+  instance_hypernym:
+  - 00021445-n
+  members:
+  - rolled oats
+  - oat flakes
 07584988-n:
   domain_region:
   - 08879115-n
+07585108-n:
+  definition:
+  - powder made from the grinding of wheat used for human consumption
+  instance_hypernym:
+  - 00020270-n
+  members:
+  - wheat flour
 07585209-n:
   domain_region:
   - 08879115-n
@@ -160,6 +175,23 @@
 07719634-n:
   domain_region:
   - 08879115-n
+07741507-n:
+  definition:
+  - subspecies of plant
+  hypernym: []
+  members:
+  - Green pea
+  - Pisum sativum sativum
+  - Pisum sativum subsp. sativum
+07757988-n:
+  definition:
+  - apple that is used primarily for cooking rather than eating raw
+  instance_hypernym:
+  - 00020270-n
+  members:
+  - cooking apple
+  - cooker
+  - culinary apple
 07768240-n:
   domain_region:
   - 08879115-n
@@ -169,6 +201,14 @@
 07797777-n:
   domain_region:
   - 08819530-n
+07805721-n:
+  definition:
+  - cold-smoked haddock, representative of a regional method of smoking with green
+    wood and peat in north-east Scotland
+  instance_hypernym:
+  - 00021445-n
+  members:
+  - Finnan haddie
 07811293-n:
   domain_region:
   - 08879115-n
@@ -184,6 +224,20 @@
 07824880-n:
   domain_region:
   - 08977154-n
+07829083-n:
+  definition:
+  - mineral used as food ingredient, composed primarily of sodium chloride
+  instance_hypernym:
+  - 00019793-n
+  members:
+  - table salt
+  - NaCl
+  - salt
+  - culinary salt
+  - edible salt
+  - dietary salt
+  - dietary sodium
+  - sodium chloride, dietary
 07839927-n:
   domain_region:
   - 08860948-n
@@ -196,6 +250,23 @@
 07854527-n:
   domain_region:
   - 08758708-n
+07857013-n:
+  definition:
+  - clear liquid contained within an egg
+  instance_hypernym:
+  - 05232895-n
+  - 00020270-n
+  members:
+  - egg white
+  - albumen
+07857321-n:
+  definition:
+  - part of an egg which feeds the developing embryo
+  instance_hypernym:
+  - 00020270-n
+  members:
+  - egg yolk
+  - yolk
 07863429-n:
   domain_region:
   - 08879115-n
@@ -311,6 +382,13 @@
 07938074-n:
   domain_region:
   - 08879115-n
+07941740-n:
+  definition:
+  - beverage made from tomatoes
+  instance_hypernym:
+  - 00020270-n
+  members:
+  - tomato juice
 07944171-n:
   domain_region:
   - 09067337-n

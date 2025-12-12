@@ -70,16 +70,16 @@ Orwellian:
 Osage:
   n:
     pronunciation:
-    - value: ˈoʊseɪdʒ
+    - value: "\u02C8o\u028Ase\u026Ad\u0292"
     sense:
     - id: 'osage%1:17:00::'
       synset: 09403211-n
 Ottawa:
   n:
     pronunciation:
-    - value: ˈɒtəwə
+    - value: "\u02C8\u0252t\u0259w\u0259"
       variety: GB
-    - value: ˈɑtəwə
+    - value: "\u02C8\u0251t\u0259w\u0259"
       variety: US
     sense:
     - id: 'ottawa%1:17:00::'

@@ -1,3 +1,52 @@
+13810065-n:
+  definition:
+  - inverse of the cosine function
+  instance_hypernym:
+  - 13809172-n
+  members:
+  - arccosine
+  - arccos
+  - inverse cosine
+  - arcus cosine
+13810394-n:
+  definition:
+  - inverse of the tangent function
+  instance_hypernym:
+  - 13809172-n
+  members:
+  - arcus tangent
+  - inverse tangent
+  - arctangent
+13810714-n:
+  definition:
+  - inverse of the cotangent function
+  instance_hypernym:
+  - 13809172-n
+  members:
+  - arcus cotangent
+  - arccotangent
+  - inverse cotangent
+13811032-n:
+  definition:
+  - inverse of the secant function
+  instance_hypernym:
+  - 13809172-n
+  members:
+  - arcus secant
+  - arcsec
+  - arcsec function
+  - arcsecant
+  - inverse secant
+13811348-n:
+  definition:
+  - inverse of the cosecant function
+  instance_hypernym:
+  - 13809172-n
+  members:
+  - arcus cosecant
+  - arccsc
+  - arccosecant
+  - inverse cosecant
 13824310-n:
   domain_region:
   - 08798733-n

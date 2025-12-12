@@ -56,7 +56,7 @@ Gallic:
 Galloway:
   n:
     pronunciation:
-    - value: ˈɡæləweɪ
+    - value: "\u02C8\u0261\xE6l\u0259we\u026A"
     sense:
     - derivation:
       - 'galwegian%3:01:00::'
@@ -98,7 +98,7 @@ Gauguinesque:
 Gaul:
   n:
     pronunciation:
-    - value: ɡɔːl
+    - value: "\u0261\u0254\u02D0l"
     sense:
     - id: 'gaul%1:15:00::'
       synset: 08949495-n
@@ -119,7 +119,7 @@ Ge:
 Gemini:
   n:
     pronunciation:
-    - value: ˈdʒɛmɪnaɪ
+    - value: "\u02C8d\u0292\u025Bm\u026Ana\u026A"
     sense:
     - id: 'gemini%1:17:00::'
       synset: 09310519-n
@@ -215,7 +215,7 @@ Gilbertian:
 Gladstone:
   n:
     pronunciation:
-    - value: ˈɡlædstən
+    - value: "\u02C8\u0261l\xE6dst\u0259n"
     sense:
     - id: 'gladstone%1:18:00::'
       synset: 11021664-n
@@ -231,11 +231,11 @@ Glaswegian:
 Goat:
   n:
     pronunciation:
-    - value: ɡəʊt
+    - value: "\u0261\u0259\u028At"
       variety: GB
-    - value: ɡoʊt
+    - value: "\u0261o\u028At"
       variety: US
-    - value: ɡɐ̟ʉt
+    - value: "\u0261\u0250\u031F\u0289t"
       variety: AU
     sense:
     - id: 'goat%1:15:00::'
@@ -261,7 +261,7 @@ Goethian:
 Gray:
   n:
     pronunciation:
-    - value: ɡɹeɪ
+    - value: "\u0261\u0279e\u026A"
     sense:
     - id: 'gray%1:18:02::'
       synset: 11032842-n
@@ -329,9 +329,9 @@ Guatemalan:
 Guernsey:
   n:
     pronunciation:
-    - value: ˈɡɜːnzi
+    - value: "\u02C8\u0261\u025C\u02D0nzi"
       variety: GB
-    - value: ˈɡɝnzi
+    - value: "\u02C8\u0261\u025Dnzi"
       variety: US
     sense:
     - id: 'guernsey%1:15:00::'
@@ -339,7 +339,7 @@ Guernsey:
 Guinea:
   n:
     pronunciation:
-    - value: ˈɡɪni
+    - value: "\u02C8\u0261\u026Ani"
     sense:
     - derivation:
       - 'guinean%3:01:00::'
@@ -357,7 +357,7 @@ Guinean:
 Guinness:
   n:
     pronunciation:
-    - value: ˈɡɪnɪs
+    - value: "\u02C8\u0261\u026An\u026As"
     sense:
     - id: 'guinness%1:18:00::'
       synset: 11039265-n
@@ -382,9 +382,9 @@ global:
 globe:
   n:
     pronunciation:
-    - value: ɡləʊb
+    - value: "\u0261l\u0259\u028Ab"
       variety: GB
-    - value: ɡloʊb
+    - value: "\u0261lo\u028Ab"
       variety: US
     sense:
     - derivation:

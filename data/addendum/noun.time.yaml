@@ -5,6 +5,81 @@
 15163193-n:
   domain_region:
   - 08879115-n
+15173827-n:
+  definition:
+  - decade
+  instance_hypernym:
+  - 15229779-n
+  members:
+  - 1920s
+  - 20s
+  - 20's
+15174231-n:
+  definition:
+  - decade
+  instance_hypernym:
+  - 15229779-n
+  members:
+  - 1830s
+15174522-n:
+  definition:
+  - decade
+  instance_hypernym:
+  - 15229779-n
+  members:
+  - 1840s
+15174813-n:
+  definition:
+  - decade
+  instance_hypernym:
+  - 15229779-n
+  members:
+  - 1850s
+15174893-n:
+  definition:
+  - decade
+  instance_hypernym:
+  - 15229779-n
+  members:
+  - 1750s
+15175184-n:
+  definition:
+  - decade
+  instance_hypernym:
+  - 15229779-n
+  members:
+  - 1860s
+15175578-n:
+  definition:
+  - decade (1970-1979)
+  instance_hypernym:
+  - 15229779-n
+  members:
+  - 1970s
+  - '''70s'
+  - Seventies
+  - 70s
+15175670-n:
+  definition:
+  - decade
+  instance_hypernym:
+  - 15229779-n
+  members:
+  - 1870s
+15176044-n:
+  definition:
+  - decade sec XIX
+  instance_hypernym:
+  - 15229779-n
+  members:
+  - 1880s
+15176430-n:
+  definition:
+  - decade
+  instance_hypernym:
+  - 15229779-n
+  members:
+  - 1890s
 15183776-n:
   domain_region:
   - 08879115-n
@@ -26,6 +101,13 @@
 15196055-n:
   domain_region:
   - 08879115-n
+15201366-n:
+  definition:
+  - third month of the French Republican Calendar
+  instance_hypernym:
+  - 15234209-n
+  members:
+  - Frimaire
 15211706-n:
   domain_region:
   - 09067337-n
@@ -51,12 +133,61 @@
   domain_region:
   - 08879115-n
   - 08837973-n
+15231092-n:
+  definition:
+  - irregular unit of time dividing a calendar year
+  instance_hypernym:
+  - 13604927-n
+  members:
+  - month
+  - months
 15237535-n:
   mero_part:
   - 15325294-n
+15239864-n:
+  definition:
+  - 10th month of the Hebrew calendar
+  instance_hypernym:
+  - 15234209-n
+  members:
+  - Tevet
+  - Tebet
+  - Tebeth
+  - Teveth
+  - Teves
+15241556-n:
+  definition:
+  - 6th month of the Hebrew calendar
+  instance_hypernym:
+  - 15234209-n
+  members:
+  - Elul
+15243347-n:
+  definition:
+  - 10th month of the Islamic calendar
+  instance_hypernym:
+  - 15234209-n
+  members:
+  - Shawwal
+15246270-n:
+  definition:
+  - month of the Hindu calendar
+  instance_hypernym:
+  - 15234209-n
+  members:
+  - Phalguna
 15247482-n:
   domain_region:
   - 08879115-n
+15260973-n:
+  definition:
+  - SI unit of time equal to one millionth of a second or 1/1,000th of a millisecond
+  instance_hypernym:
+  - 13604927-n
+  members:
+  - microsecond
+  - 1 E-6 s
+  - "\u03BCs"
 15269162-n:
   domain_region:
   - 08879115-n
@@ -68,6 +199,13 @@
   - 15256211-n
   - 15256561-n
   - 15256760-n
+15280250-n:
+  definition:
+  - American period in the 1920s and 1930s
+  instance_hypernym:
+  - 15137796-n
+  members:
+  - Jazz Age
 15298941-n:
   domain_region:
   - 08879115-n

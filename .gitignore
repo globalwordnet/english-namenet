@@ -10,3 +10,13 @@ wikidata_db/target
 wikidata_db/Cargo.lock
 wikidata.db
 oenn.xml.gz
+conflicts.csv
+languages.csv
+linked_occupations.csv
+occupations_broader.csv
+overlaps.csv
+parent_taxon_disagreements.csv
+species_conflicts.csv
+taxon2common.csv
+taxon_linking.csv
+taxon_ssids.csv

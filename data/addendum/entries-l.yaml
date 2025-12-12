@@ -86,9 +86,9 @@ Leibnizian:
 Leo:
   n:
     pronunciation:
-    - value: ˈliːəʊ
+    - value: "\u02C8li\u02D0\u0259\u028A"
       variety: GB
-    - value: ˈliːoʊ
+    - value: "\u02C8li\u02D0o\u028A"
       variety: US
     sense:
     - id: 'leo%1:17:00::'
@@ -104,7 +104,7 @@ Leonardesque:
 Levant:
   n:
     pronunciation:
-    - value: ˈlɛvənt
+    - value: "\u02C8l\u025Bv\u0259nt"
     sense:
     - id: 'levant%1:15:00::'
       synset: 08934932-n
@@ -126,7 +126,7 @@ Levitical:
 Lhasa:
   n:
     pronunciation:
-    - value: ˈlɑːsə
+    - value: "\u02C8l\u0251\u02D0s\u0259"
     sense:
     - id: 'lhasa%1:15:00::'
       synset: 08927150-n
@@ -142,7 +142,7 @@ Liberian:
 Libra:
   n:
     pronunciation:
-    - value: ˈlaibrə
+    - value: "\u02C8laibr\u0259"
     sense:
     - id: 'libra%1:17:00::'
       synset: 09362015-n
@@ -176,7 +176,7 @@ Lilliputian:
       id: 'lilliputian%3:01:00::'
   n:
     pronunciation:
-    - value: ˌlɪlɪˈpjuʃən
+    - value: "\u02CCl\u026Al\u026A\u02C8pju\u0283\u0259n"
       variety: US
     sense:
     - derivation:
@@ -186,7 +186,7 @@ Lilliputian:
 Lincoln:
   n:
     pronunciation:
-    - value: ˈlɪŋkən
+    - value: "\u02C8l\u026A\u014Bk\u0259n"
     sense:
     - derivation:
       - 'lincolnian%3:01:00::'
@@ -230,7 +230,7 @@ Linnean:
 Lion:
   n:
     pronunciation:
-    - value: ˈlaɪən
+    - value: "\u02C8la\u026A\u0259n"
     sense:
     - id: 'lion%1:15:00::'
       synset: 08704559-n
@@ -371,7 +371,7 @@ lunisolar:
 lynx:
   n:
     pronunciation:
-    - value: lɪŋks
+    - value: "l\u026A\u014Bks"
     sense:
     - id: 'lynx%1:10:00::'
       synset: 06583900-n

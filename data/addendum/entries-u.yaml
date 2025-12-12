@@ -6,9 +6,9 @@ U.S.:
 USA:
   n:
     pronunciation:
-    - value: juː ɛs ˈeɪ
+    - value: "ju\u02D0 \u025Bs \u02C8e\u026A"
       variety: GB
-    - value: ˌju ˌɛs ˈeɪ
+    - value: "\u02CCju \u02CC\u025Bs \u02C8e\u026A"
       variety: US
     sense:
     - id: 'usa%1:15:00::'
@@ -16,7 +16,7 @@ USA:
 UT:
   n:
     pronunciation:
-    - value: ʌt
+    - value: "\u028Ct"
     sense:
     - id: 'ut%1:15:00::'
       synset: 09169783-n
@@ -43,7 +43,7 @@ Uncle Tom:
 Union:
   n:
     pronunciation:
-    - value: ˈjuːn.jən
+    - value: "\u02C8ju\u02D0n.j\u0259n"
     sense:
     - id: 'union%1:15:00::'
       synset: 09074770-n
@@ -64,9 +64,9 @@ Uruguayan:
 Utopia:
   n:
     pronunciation:
-    - value: juːˈtəʊ.pi.ə
+    - value: "ju\u02D0\u02C8t\u0259\u028A.pi.\u0259"
       variety: GB
-    - value: juˈtoʊ.pi.ə
+    - value: "ju\u02C8to\u028A.pi.\u0259"
       variety: US
     sense:
     - derivation:

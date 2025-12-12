@@ -1,6 +1,996 @@
+05231116-n:
+  definition:
+  - prominent landmark of the brain (primary motor cortex), separating the parietal
+    lobe from the frontal lobe and the primary motor cortex from the primary somatosensory
+    cortex.
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - central sulcus
+  - fissure of Rolando
+  - central fissure
+  - central sulcus of Rolando
+  - sulcus of Rolando
+05235350-n:
+  definition:
+  - pair of small round bodies located on the undersurface of the brain
+  instance_hypernym:
+  - 05470250-n
+  members:
+  - mammillary body
+  - mamillary body
+05236211-n:
+  definition:
+  - optical part of brain
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - optic chiasm
+  - optic chiasma
+05248415-n:
+  definition:
+  - animal cell
+  instance_hypernym:
+  - 00006484-n
+  members:
+  - skin cell
+05254964-n:
+  definition:
+  - kidney structure which encloses the glomerular
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - Bowman's capsule
+  - Bowman capsule
+  - malpighian capsule
+  - capsula glomeruli
+  - glomerular capsule
+05256010-n:
+  definition:
+  - tube running from the outer ear to the middle ear
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - external ear canal
+  - external auditory canal
+  - external auditory meatus
+  - external acoustic canal
+  - external acoustic meatus
+  - EAM
+05282089-n:
+  definition:
+  - a bone in the skull separating the brain from the nasal cavity
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - ethmoid bone
+05282661-n:
+  definition:
+  - horseshoe-shaped bone situated in the anterior midline of the neck between the
+    chin and the thyroid cartilage
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - hyoid bone
+05284065-n:
+  definition:
+  - a groove, ridge present in the palatine
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - palatine raphe
+  - median palatine raphe
+  - median raphe
+05285031-n:
+  definition:
+  - facial bone
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - nasal bone
+05285440-n:
+  definition:
+  - three short and irregular bones that form a chain located in the tympanic cavity
+    of the middle ear
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - auditory ossicle
+  - auditory ossicle bone
+  - ossicle
+  - ear ossicle
+  - ossicular chain
+05285651-n:
+  definition:
+  - facial bone
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - palatine bone
+  - Palate
+05286213-n:
+  definition:
+  - ventral and anterior of the three principal bones composing either half of the
+    pelvis
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - pubic bone
+  - pubis
+05287864-n:
+  definition:
+  - bony process on the scapula (shoulder blade)
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - acromion
+05289190-n:
+  definition:
+  - small cartilaginous process (extension) of the lower part of the sternum which
+    is usually ossified in the adult human
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - xiphoid process
+  - xiphisternum
+  - metasternum
+05292116-n:
+  definition:
+  - cartilage of spine
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - intervertebral disc
+  - intervertebral fibrocartilage
+  - intervertebral disk
+  - IVD
+  - Discus intervertebralis
+05292350-n:
+  definition:
+  - cheek bone
+  - facial bone
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - zygomatic arch
+  - zygomatic bone
+  - zygoma
+  - malar bone
+  - cheekbone
+05296411-n:
+  definition:
+  - tissue that becomes erect when filled with blood
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - erectile tissue
+05303500-n:
+  definition:
+  - sheath around nerve bundles
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - perineurium
+  - perineural sheath
+  - perineurial sheath
+05314590-n:
+  definition:
+  - tooth located between the lateral incisor and the first premolar
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - canine tooth
+  - cuspids
+  - fangs
+  - dog tooth
+  - eye tooth
+  - canine
+  - cuspid
+  - fang
+05316180-n:
+  definition:
+  - outer tooth tissue
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - tooth enamel
+  - dental enamel
+05317876-n:
+  definition:
+  - prominent part behind the upper or lower front teeth
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - alveolar ridge
+  - alveolar margin
+  - alveolar process
+  - alveolar crest
+  - gum ridge
+05321780-n:
+  definition:
+  - fold on upper eye lid
+  instance_hypernym:
+  - 14093842-n
+  - 05232895-n
+  members:
+  - epicanthic fold
+  - epicanthal fold
+  - palpebronasal fold
+  - Mongoloid fold
+  - epicanthus
+  - eye fold
+05325813-n:
+  definition:
+  - transparent, watery, fluid similar to plasma, but containing low protein concentrations,
+    secreted from the ciliary epithelium
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - aqueous humour
+  - aqueous humor
+  - intraocular fluid
+05329465-n:
+  definition:
+  - bony structure of the inner ear
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - bony labyrinth
+  - osseous labyrinth
+  - otic capsule
+05330118-n:
+  definition:
+  - membranous labyrinth in the vestibule of ear
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - saccule
+  - sacculus
+05332436-n:
+  definition:
+  - small cavity surrounding the bones of the middle ear
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - tympanic cavity
+05335780-n:
+  definition:
+  - microscopic exocrine gland in the skin that secretes an oily or waxy matter, called
+    sebum, to lubricate and waterproof the skin and hair of mammals
+  instance_hypernym:
+  - 05335315-n
+  - 05232895-n
+  members:
+  - sebaceous gland
+  - oil gland
+  - sebaceous glands
+05336415-n:
+  definition:
+  - gland that produces and secretes substances onto an epithelial surface by a duct
+  instance_hypernym:
+  - 05335315-n
+  - 05232895-n
+  members:
+  - exocrine gland
+  - exocrine glands
+05337913-n:
+  definition:
+  - endocrine gland
+  instance_hypernym:
+  - 05335315-n
+  - 05232895-n
+  members:
+  - parathyroid
+  - parathyroid gland
+  - Parathyroid glands
+05338207-n:
+  definition:
+  - small tubular structures of the skin that produce sweat; a type of exocrine gland,
+    which are glands that produce and secrete substances onto an epithelial surface
+    by way of a duct
+  instance_hypernym:
+  - 05335315-n
+  - 05232895-n
+  members:
+  - sweat gland
+  - sudoriparous glands
+05339201-n:
+  definition:
+  - paired, almond-shaped exocrine gland, one for each eye, that secretes the aqueous
+    layer of the tear film
+  instance_hypernym:
+  - 05335315-n
+  - 05232895-n
+  members:
+  - lacrimal gland
+05347299-n:
+  definition:
+  - major artery of the head and neck
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - external carotid artery
+05347669-n:
+  definition:
+  - small cluster of chemoreceptors and supporting cells located near the fork (bifurcation)
+    of the carotid artery (which runs along both sides of the throat).
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - carotid body
+  - glomus caroticum
+05349189-n:
+  definition:
+  - one of the three major paired arteries that supply blood to the cerebrum
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - middle cerebral artery
+05361367-n:
+  definition:
+  - artery in the pulmonary circulation that carries deoxygenated blood from the heart
+    to the lungs
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - pulmonary artery
+  - pulmonary arterial tree
+  - pulmonary arteries
+05378261-n:
+  definition:
+  - veins that bring deoxygenated blood from the head back to the heart
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - jugular vein
+  - "vena que transporta y regresa sangre desoxigenada a la cabeza y al coraz\xF3n"
+05382873-n:
+  definition:
+  - female gonadal vein
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - ovarian vein
+05392504-n:
+  definition:
+  - organ in humans and other vertebrates
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - gallbladder
+  - gall bladder
+  - biliary vesicle
+  - cholecyst
+  - Gall bladder
+05392877-n:
+  definition:
+  - vertebrate organ involved in metabolism
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - liver
+  - hepar
+05394510-n:
+  definition:
+  - glandular organ that plays a role in the digestive and endocrine systems of vertebrates
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - pancreas
+05394887-n:
+  definition:
+  - essential respiration organ in many air-breathing animals
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - lung
+  - lungs
+  - Borders of the lung
+  - Lung
+05398104-n:
+  definition:
+  - part of the electrical conduction system of the heart that coordinates the top
+    of the heart.
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - atrioventricular node
+  - AV node
+  - A-V node
+  - Tawara node
+05399320-n:
+  definition:
+  - chamber of the heart
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - left ventricle
+  - ventriculus sinister
+  - letf ventricle of the heart
+05399500-n:
+  definition:
+  - chamber of the heart
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - right ventricle
+  - ventriculus dexter
+05400249-n:
+  definition:
+  - space inside the skull formed by eight cranial bones know as the neurocranium
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - cranial cavity
+  - intracranial space
+05400772-n:
+  definition:
+  - chamber of the heart
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - right atrium
+  - atrium dextrum
+05401339-n:
+  definition:
+  - one-way valve present between right auricle and right ventricle
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - tricuspid valve
+  - right atrioventricular valve
+05401620-n:
+  definition:
+  - 2 cuspid valves made of up of 2 or 3 sail-like flaps separating the atria and
+    ventricles
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - atrioventricular valve
+  - atrio-ventricular valve
+  - AV valve
+  - cuspidal valve
+05404811-n:
+  definition:
+  - liquid originating from the inside of an organism, including fluids excreted or
+    secreted, and body water that normally is not
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - body fluid
+  - biological liquid
+  - bodily fluid
+  - biofluid
+  - bodily fluids
+  - biological fluid
+05407190-n:
+  definition:
+  - organic fluid which transports nutrients throughout the organism
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - blood
+05415456-n:
+  definition:
+  - hormone
+  instance_hypernym:
+  - 03745652-n
+  members:
+  - corticotropin
+  - ACTH
+  - Acthar
+  - Purified Cortrophin Gel
+  - H.P. Acthar Gel
+  - Cortigel
+  - Cortrophin
+  - POMC(138-176)
+  - adrenomone
+  - adrenocorticotropin
+  - adrenocorticotropic hormone
+  - corticotrophin
+05422067-n:
+  definition:
+  - chemical compound
+  instance_hypernym:
+  - 14831008-n
+  members:
+  - histamine
+  - 2-(1H-imidazol-5-yl)ethanamine
+  - 2-(1H-imidazol-5-yl)ethylamine
+  - 4-Imidazoleethylamine
+  - 2-(1H-imidazol-4-yl)ethan-1-amine
+  - 4-(2-Aminoethyl)imidazole
+  - 2-Imidazol-4-yl-Ethylamine
+  - Eramin
+  - HSM
+  - Ergotidine
+  - beta-Aminoethylimidazole
+  - L-Histamine
+  - 2-(4-Imidazolyl)ethanamine
+  - Ergamine
+  - Theramine
+  - 2-Imidazol-4-ylethylamine
+  - beta-Imidazolyl-4-ethylamine
+  - 5-Imidazoleethylamine
+  - b-Imidazolyl-4-ethylamine
+  - beta-Aminothethylglyoxaline
+  - Free histamine
+  - beta-Aminoethylglyoxaline
+  - L-Histamin base
+  - 4-(2-Aminoethyl)-1H-imidazole
+  - 2-(1H-Imidazol-4-yl)ethylamine
+  - 2-(1H-Imidazol-4-yl)ethanamine
+  - 2-(4-imidazolyl)ethylamine
+  - 5-imidazoleethylamine
+  - beta-aminoethylglyoxaline
+  - beta-aminoethylimidazole
+  - 1H-Imidazole-4-ethanamine
+  - Histamine
+  - 4-imidazoleethylamine
+05435523-n:
+  definition:
+  - space between the parietal peritoneum (the peritoneum that surrounds the abdominal
+    wall) and visceral peritoneum (the peritoneum that surrounds the internal organs)
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - peritoneal cavity
+05435908-n:
+  definition:
+  - innermost layer of tissue that lines the heart
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - endocardium
+05437672-n:
+  definition:
+  - organ of the lymphatic system
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - lymph node
+  - lymph nodes
+  - lymphnode
+  - lymphnodes
+  - trabeculae of lymph node
+  - nedullary cord
+05438205-n:
+  definition:
+  - any biological cell forming the body of a multicellular organism other than a
+    gamete, germ cell, gametocyte or undifferentiated stem cell
+  instance_hypernym:
+  - 00006484-n
+  members:
+  - somatic cell
+  - soma
+05457535-n:
+  definition:
+  - type of cells of the immunological system
+  instance_hypernym:
+  - 00006484-n
+  members:
+  - white blood cell
+  - leukocyte
+  - WBC
+  - Leu
+  - leukocytes
+  - white blood cells
+05458193-n:
+  definition:
+  - vertebrate cell
+  instance_hypernym:
+  - 00006484-n
+  members:
+  - histiocyte
+  - histiocytes
+  - fixed macrophage
+  - connective tissue  macrophage
+05458960-n:
+  definition:
+  - subtype of white blood cell
+  instance_hypernym:
+  - 00006484-n
+  members:
+  - lymphocyte
+  - lymphoid cell
+  - lymphocytes
+  - lymphocyte (Blood Cells)
+05459557-n:
+  definition:
+  - type of lymphocyte
+  instance_hypernym:
+  - 00006484-n
+  members:
+  - T-lymphocytes
+  - T
+  - T lymphocyte
+  - T cell
+  - T-lymphocyte
+  - t lymphocyte
+  - T cells
+  - thymus lymphocyte
+  - T-cell
+05464308-n:
+  definition:
+  - gamete-producing cell
+  instance_hypernym:
+  - 00006484-n
+  members:
+  - germ cell
+  - germ cells
+  - germ line cell
+05466152-n:
+  definition:
+  - female gametocyte or germ cell involved early in reproduction; immature precursor
+    of ovum produced in the ovary during female gametogenesis
+  instance_hypernym:
+  - 00006484-n
+  members:
+  - oocyte
+  - "o\xF6cyte"
+  - ovocyte
+  - ocyte
+  - oocytes
+05475863-n:
+  definition:
+  - glial cell located throughout the brain and spinal cord
+  instance_hypernym:
+  - 00006484-n
+  members:
+  - microglia
+  - microglial
+  - microgliocyte
+  - mikroglie
+05481847-n:
+  definition:
+  - junction between the axon of a motor neuron and a muscle fiber
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - neuromuscular junction
+  - GO:0031594
+  - neuromuscular endplate
+  - neuromuscular synapse
+  - myoneural junction
+  - endplate junction
+05483908-n:
+  definition:
+  - nerves that emerge directly from the brain and the brainstem
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - cranial nervi
+  - cranial nerve
+  - cranial nerves
+05485791-n:
+  definition:
+  - neural structure of the vertebrate forebrain involved in olfaction, which sends
+    olfactory information to be further processed in the amygdala, the orbitofrontal
+    cortex and the hippocampus where it plays a role in emotion, memory and learning
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - olfactory bulb
+05491542-n:
+  definition:
+  - "endocrine gland at the base of the brain. Referred to as the \u201Cmaster gland\u201D\
+    \ because it monitors and regulates many bodily functions through the hormones\
+    \ that it produces, including growth and sexual/reproductive development and function."
+  instance_hypernym:
+  - 05335315-n
+  - 05232895-n
+  members:
+  - pituitary gland
+  - hypophysis
+05492750-n:
+  definition:
+  - small endocrine gland found in most vertebrates, which produces melatonin; in
+    humans, located in the epithalamus, in a groove where the two halves of the thalamus
+    join; its shape and size resembles a pine nut, after which it is named
+  instance_hypernym:
+  - 05470250-n
+  members:
+  - pineal gland
+  - pineal body
+  - conarium
+  - epiphysis cerebri
+05500078-n:
+  definition:
+  - outward fold on the brain surface
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - gyrus
+  - gyri
+  - gyrus of brain
+  - cerebral gyrus
+  - gyrus of cerebral hemisphere
+05501410-n:
+  definition:
+  - part of the brain that, because of how large it is, it's responsible for many
+    functions, such as motor control, executive functions, language production, emotional
+    regulation, working memory, and personality
+  instance_hypernym:
+  - 05470250-n
+  members:
+  - frontal lobe
+05503632-n:
+  definition:
+  - forward-most part of the brain
+  instance_hypernym:
+  - 05470250-n
+  members:
+  - prosencephalon
+  - forebrain
+05506424-n:
+  definition:
+  - structures of the brain
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - limbic system
+  - paleomammalian cortex
+05506695-n:
+  definition:
+  - part of diencephalon
+  instance_hypernym:
+  - 05470250-n
+  members:
+  - subthalamus
+  - prethalamus
+  - ventral thalamus
+  - perithalamus
+05506823-n:
+  definition:
+  - part of the brain responsible for sleep regulation and relaying sensory signals.
+    It is you your body's information relay station, where all information from your
+    body's senses (except smell) must be processed through.
+  instance_hypernym:
+  - 05470250-n
+  members:
+  - thalamus
+  - thalamencephalon
+  - "T\xE1lamo dorsal"
+  - "t\xE1lamo dorsal"
+05508463-n:
+  definition:
+  - posterior region of the embryonic hindbrain
+  instance_hypernym:
+  - 05470250-n
+  members:
+  - myelencephalon
+05508836-n:
+  definition:
+  - posterior part of the brain, adjoining and structurally continuous
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - brain stem
+  - brainstem
+05511987-n:
+  definition:
+  - part of the nervous system
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - peripheral nervous system
+  - PNS
+05512458-n:
+  definition:
+  - nerve in the human body that supplies the posterior portion of the upper limb
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - radial nerve
+05514299-n:
+  definition:
+  - structure in the ventricles of the brain
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - choroid plexus
+  - plica choroidea
+05518009-n:
+  definition:
+  - derived from the developing foregut and consists of the trachea, bronchi (primary,
+    secondary and tertiary), bronchioles (including terminal and respiratory), and
+    lungs (including alveoli). It also sometimes includes the larynx
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - lower respiratory tract
+  - lower airway
+  - lower airways
+05520486-n:
+  definition:
+  - tubes used in the urinary system in most animals
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - ureter
+  - ureters
+05520671-n:
+  definition:
+  - tube that connects the urinary bladder to the external urethral orifice
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - urethra
+05525057-n:
+  definition:
+  - anatomical male reproductive structure that consists of a suspended sack of skin
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - scrotum
+  - ballsack
+  - scrot
+05527471-n:
+  definition:
+  - inner mucous membrane of the mammalian uterus
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - endometrium
+05530649-n:
+  definition:
+  - are two flaps of skin on either side of the human vaginal opening in the vulva
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - labia minora Latin
+  - labium minus of vulva
 05532751-n:
   domain_region:
   - 08879115-n
+05533279-n:
+  definition:
+  - tube that connects a testicle to a vas deferens
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - epididymis
+  - vescile
+05535230-n:
+  definition:
+  - pair of simple tubular glands posteroinferior to the urinary bladder of male mammals
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - seminal vesicula
+  - seminal vesicle
+  - seminal gland
+05542880-n:
+  definition:
+  - part of small intestine
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - jejunum
+05544693-n:
+  definition:
+  - the part of the colon located between the cecum and the transverse colon
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - ascending colon
+  - colon, ascending
+05544876-n:
+  definition:
+  - the part of the colon from the splenic flexure to the beginning of the sigmoid
+    colon
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - descending colon
+  - colon, descending
+05547754-n:
+  definition:
+  - bony structure that forms the skeleton of head in most vertebrates
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - skull
+  - cranium
+  - "\U0001F480"
+  - subdivision of skull
+05549505-n:
+  definition:
+  - saucer-shaped membrane bone situated at the back and lower part of the cranium
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - occipital bone
+  - ossification of occipital bone
+05556983-n:
+  definition:
+  - muscle of the upper limb
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - deltoid muscle
+  - deltoids
+  - delts
+  - deltoid
+05559572-n:
+  definition:
+  - main human chest muscle
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - pectoralis major
+  - pectoralis major muscle
+  - main human chest muscle
+  - pecs
+05576686-n:
+  definition:
+  - nerve that carries signals between the spinal chord and the body
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - spinal nerve
+  - spinal nerves
+05578231-n:
+  definition:
+  - smallest of the three gluteal muscles
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - gluteus minimus muscle
+05587067-n:
+  definition:
+  - muscle of the arm
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - biceps brachii
+  - musculus biceps brachii
+  - biceps
+  - biceps brachii muscle
+05594096-n:
+  definition:
+  - internal support structure of an animal, composed of mineralized tissue
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - endoskeleton
+05596201-n:
+  definition:
+  - vertebra of the human neck
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - cervical vertebra
+  - cervical vertebrae
+05598121-n:
+  definition:
+  - paired muscle of the neck that traverses the neck between the manubrium sterni
+    and the mastoid process
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - sternocleidomastoid muscle
+  - sternocleidomastoideus
+  - sternomastoid
+05604197-n:
+  definition:
+  - basin-like or funnel-like dilated proximal part of the ureter in the kidney
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - renal pelvis
+  - kidney pelvis
+  - pelvis of the kidney
+05604406-n:
+  definition:
+  - lower part of the trunk of the human body between the abdomen and the thighs (sometimes
+    also called pelvic region of the trunk
+  instance_hypernym:
+  - 05232895-n
+  members:
+  - pelvis
+  - pelvis area
+  - pelvic region
 05606462-n:
   domain_region:
   - 09067337-n

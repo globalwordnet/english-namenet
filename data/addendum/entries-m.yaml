@@ -1,7 +1,7 @@
 MA:
   n:
     pronunciation:
-    - value: mɑː
+    - value: "m\u0251\u02D0"
     sense:
     - id: 'ma%1:15:00::'
       synset: 09117607-n
@@ -56,7 +56,7 @@ Madagascan:
 Madeira:
   n:
     pronunciation:
-    - value: məˈdɪəɹ.ə
+    - value: "m\u0259\u02C8d\u026A\u0259\u0279.\u0259"
     sense:
     - id: 'madeira%1:17:00::'
       synset: 09368024-n
@@ -211,7 +211,7 @@ Martian:
 Mason:
   n:
     pronunciation:
-    - value: ˈmeɪsən
+    - value: "\u02C8me\u026As\u0259n"
     sense:
     - id: 'mason%1:18:04::'
       synset: 11183150-n
@@ -263,9 +263,9 @@ Mediterranean:
       - 'mediterranean%1:17:00::'
   n:
     pronunciation:
-    - value: ˌmɛdɪtəˈɹeɪnɪən
+    - value: "\u02CCm\u025Bd\u026At\u0259\u02C8\u0279e\u026An\u026A\u0259n"
       variety: GB
-    - value: ˌmɛdɪtəˈɹeɪnɪən
+    - value: "\u02CCm\u025Bd\u026At\u0259\u02C8\u0279e\u026An\u026A\u0259n"
       variety: US
     sense:
     - derivation:
@@ -343,7 +343,7 @@ Michelangelesque:
 Michigan:
   n:
     pronunciation:
-    - value: ˈmɪʃɪɡən
+    - value: "\u02C8m\u026A\u0283\u026A\u0261\u0259n"
     sense:
     - id: 'michigan%1:15:00::'
       synset: 09122118-n
@@ -418,9 +418,9 @@ Moldovan:
 Moloch:
   n:
     pronunciation:
-    - value: ˈməʊlɒk
+    - value: "\u02C8m\u0259\u028Al\u0252k"
       variety: GB
-    - value: ˈmoʊlɑk
+    - value: "\u02C8mo\u028Al\u0251k"
       variety: US
     sense:
     - id: 'moloch%1:18:01::'
@@ -481,7 +481,7 @@ Montserratian:
 Moon:
   n:
     pronunciation:
-    - value: muːn
+    - value: "mu\u02D0n"
       variety: GB
     - value: mun
       variety: US
@@ -499,9 +499,9 @@ Moravian:
 Morgan:
   n:
     pronunciation:
-    - value: ˈmɔɹɡən
+    - value: "\u02C8m\u0254\u0279\u0261\u0259n"
       variety: US
-    - value: ˈmɔːɡən
+    - value: "\u02C8m\u0254\u02D0\u0261\u0259n"
       variety: GB
     sense:
     - id: 'morgan%1:18:04::'
@@ -517,9 +517,9 @@ Morgan:
 Mormon:
   n:
     pronunciation:
-    - value: ˈmɔːmən
+    - value: "\u02C8m\u0254\u02D0m\u0259n"
       variety: GB
-    - value: ˈmɔɹmən
+    - value: "\u02C8m\u0254\u0279m\u0259n"
       variety: US
     sense:
     - id: 'mormon%1:18:00::'
@@ -546,9 +546,9 @@ Mosaic:
       - 'moses%1:18:00::'
   n:
     pronunciation:
-    - value: məʊˈzeɪk
+    - value: "m\u0259\u028A\u02C8ze\u026Ak"
       variety: GB
-    - value: moʊˈzeɪ.ɪk
+    - value: "mo\u028A\u02C8ze\u026A.\u026Ak"
       variety: US
     sense:
     - id: 'mosaic%1:10:00::'
@@ -568,9 +568,9 @@ Mozambican:
 Mozart:
   n:
     pronunciation:
-    - value: ˈməʊtsɑːt
+    - value: "\u02C8m\u0259\u028Ats\u0251\u02D0t"
       variety: GB
-    - value: ˈmoʊtsaɹt
+    - value: "\u02C8mo\u028Atsa\u0279t"
       variety: US
     sense:
     - derivation:
@@ -711,7 +711,7 @@ moneran:
 moon:
   n:
     pronunciation:
-    - value: muːn
+    - value: "mu\u02D0n"
       variety: GB
     - value: mun
       variety: US

@@ -10,12 +10,38 @@
 08000298-n:
   domain_region:
   - 08784821-n
+08014765-n:
+  definition:
+  - class of stringed instruments
+  instance_hypernym:
+  - 03806455-n
+  members:
+  - violin family
 08018567-n:
   domain_region:
   - 08949695-n
 08053422-n:
+  definition:
+  - Protestant fraternal order originating in Northern Ireland
   domain_region:
   - 08908068-n
+  instance_hypernym:
+  - 07967506-n
+  members:
+  - Orange Order
+  - Loyal Orange Institution
+  - Orangemen
+08064794-n:
+  definition:
+  - New York political organization
+  instance_hypernym:
+  - 08024893-n
+  members:
+  - Tammany Hall
+  - Society of St. Tammany
+  - Sons of St. Tammany
+  - Columbian Order
+  - Tammany Society
 08065052-n:
   domain_region:
   - 08998272-n
@@ -40,6 +66,52 @@
 08073820-n:
   domain_region:
   - 09025654-n
+08079300-n:
+  definition:
+  - firm of experts providing professional advice
+  instance_hypernym:
+  - 08024893-n
+  members:
+  - consulting company
+  - Beratungsunternehmen
+  - Beratung
+  - "Unternehmens- und andere Managementberatungst\xE4tigkeiten"
+  - consulting firm
+08084637-n:
+  definition:
+  - industry focused in any electronics manufacturing, not only semiconductors
+  instance_hypernym:
+  - 08024893-n
+  members:
+  - electronics industry
+  - electronics branch of industry
+  - industry of electronics
+  - electronics (industry)
+  - electronics (branch of industry)
+  - electronics manufacturing
+08084987-n:
+  definition:
+  - comprises the technological and commercial institutions of filmmaking
+  instance_hypernym:
+  - 08024893-n
+  members:
+  - film industry
+  - motion picture industry
+  - movie industry
+08085760-n:
+  definition:
+  - industrial sector which manufactures weapons and military technology and equipment
+  instance_hypernym:
+  - 08024893-n
+  members:
+  - weapons industry
+  - arms manufacturing
+  - defense industrial base sector
+  - defense industrial base
+  - military industrial base
+  - arms industry
+  - defense material industry
+  - military weapons industry
 08105758-n:
   domain_region:
   - 08910324-n
@@ -49,6 +121,14 @@
   - 08867723-n
   - 08736933-n
   - 08926147-n
+08129942-n:
+  definition:
+  - caring for people who are sick or injured
+  instance_hypernym:
+  - 06005806-n
+  members:
+  - nursing
+  - Nursing (professional)
 08131556-n:
   domain_topic:
   - 01314587-n
@@ -62,6 +142,16 @@
   domain_region:
   - 09067337-n
 08151063-n:
+  definition:
+  - US government medical research agency
+  instance_hypernym:
+  - 08094128-n
+  members:
+  - National Institutes of Health
+  - NIH
+  - U.S. National Institutes of Health
+  - US National Institutes of Health
+  - National Institutes of Health (U.S.)
   mero_part:
   - 03816281-n
 08156795-n:
@@ -73,6 +163,47 @@
 08160486-n:
   domain_region:
   - 08879115-n
+08165608-n:
+  definition:
+  - Catholic monastic order
+  instance_hypernym:
+  - 08024893-n
+  members:
+  - Benedictines
+  - Ordo Sancti Benedicti
+  - O.S.B.
+  - OSB
+  - Order of Saint Benedict
+  - Black Monks
+08166167-n:
+  definition:
+  - Roman Catholic religious order
+  instance_hypernym:
+  - 08024893-n
+  members:
+  - Dominican Order
+  - Order of Preachers
+  - OP
+  - Order of Friars Preachers
+  - O.P.
+  - Dominicans
+  - Black Friars
+08166480-n:
+  definition:
+  - male religious institute of the Roman Catholic Church
+  instance_hypernym:
+  - 08024893-n
+  members:
+  - Society of Jesus
+  - Societas Iesu
+  - S.J.
+  - SJ
+  - Jesuits
+  - Societas Jesu
+  - M.P.H
+  - S.I.
+  - SI
+  - Jesuit Order
 08168750-n:
   domain_topic:
   - 08855622-n
@@ -94,6 +225,21 @@
 08170911-n:
   mero_member:
   - 11062161-n
+08171262-n:
+  definition:
+  - Frankish noble family founded by Charles Martel
+  instance_hypernym:
+  - 07988029-n
+  members:
+  - Carolingian dynasty
+  - Carlovingians
+08171447-n:
+  definition:
+  - Roman imperial dynasty (ruled AD 69-96)
+  instance_hypernym:
+  - 07988029-n
+  members:
+  - Flavian dynasty
 08171859-n:
   mero_member:
   - 11014902-n
@@ -110,10 +256,27 @@
   - 11001247-n
   - 11001405-n
 08172664-n:
+  definition:
+  - noble family
+  instance_hypernym:
+  - 07988029-n
+  members:
+  - House of Lancaster
   mero_member:
-  - 11061810-n
   - 11062477-n
   - 11062686-n
+  - 11061810-n
+08173099-n:
+  definition:
+  - Frankish aristocratic family that ruled from the 5th century to 751
+  instance_hypernym:
+  - 07988029-n
+  members:
+  - Merovingian dynasty
+  - Merovingian
+  - Merovingian Franks
+  - "M\xE6ringas"
+  - Merovingians
 08173584-n:
   mero_member:
   - 11060981-n
@@ -129,6 +292,28 @@
   mero_member:
   - 10971451-n
   - 11015846-n
+08175213-n:
+  definition:
+  - the first ancient Chinese dynasty to leave historical records (1600-1046 BC);
+    the empire ruled by this dynasty
+  instance_hypernym:
+  - 15137796-n
+  members:
+  - Shang dynasty
+  - Yin Dynasty
+  - the Shang
+  - the Yin
+  - Chang dynasty
+  - the Chang
+  - Yin dynasty
+  - Chang Dynasty
+  - Shang Dynasty
+  - Shang
+  - Yin
+  - Ine Dynasty
+  - Ine dynasty
+  - the Ine
+  - Ine
 08175359-n:
   mero_member:
   - 11099792-n
@@ -147,14 +332,37 @@
   - 11061232-n
   - 11061656-n
 08176639-n:
+  definition:
+  - royal house of the United Kingdom and the other Commonwealth realms
+  instance_hypernym:
+  - 07988029-n
+  members:
+  - House of Windsor
+  - Windsor dynasty
+  - Windsors
   mero_member:
-  - 10971689-n
   - 10977740-n
-  - 11015846-n
+  - 10971689-n
   - 11016086-n
+  - 11015846-n
 08176823-n:
   mero_member:
   - 11280612-n
+08183945-n:
+  definition:
+  - nation with a low living standard relative to other countries
+  instance_hypernym:
+  - 08648560-n
+  members:
+  - developing country
+  - developing countries
+  - low and middle-income country
+  - LMIC
+  - low and middle-income countries
+  - LMICs
+  - less developed country
+  - newly emerging economy
+  - NEE
 08184264-n:
   domain_region:
   - 08879115-n
@@ -286,15 +494,86 @@
 08202129-n:
   domain_region:
   - 08879115-n
+08202676-n:
+  definition:
+  - organization that maintains the infrastructure for a public service
+  instance_hypernym:
+  - 08024893-n
+  members:
+  - public utility
+  - utility
+  - public utility company
+  - utilities
+  - public utilities
+  - utility industry
+  - utility services
+08204918-n:
+  definition:
+  - group of performers, singers or dancers in Greek drama, who witness what is being
+    acted and express their thoughts and feelings
+  instance_hypernym:
+  - 09506868-n
+  members:
+  - Greek chorus
+  - chorus
 08208917-n:
   mero_part:
   - 03818081-n
+08211014-n:
+  definition:
+  - U.S. Navy federal service academy in Annapolis, Maryland
+  instance_hypernym:
+  - 03302664-n
+  members:
+  - United States Naval Academy
+  - Annapolis
+  - USNA
+  - U.S. Naval Academy
+  - United States Navy Academy
+  - US Naval Academy
+  - Naval Academy
+  - Annapolis Naval Academy
+  - U.S. Naval Academy at Annapolis
+08211206-n:
+  definition:
+  - agency of the Department of the Navy
+  instance_hypernym:
+  - 08094128-n
+  members:
+  - Office of Naval Intelligence
+08211867-n:
+  definition:
+  - military academy near Colorado Springs, Colorado, USA
+  instance_hypernym:
+  - 03302664-n
+  - 08648560-n
+  members:
+  - United States Air Force Academy
+  - Air Force Academy
+  - USAFA
+  - U.S. Air Force Academy
 08213170-n:
   mero_part:
   - 02691754-n
+08224593-n:
+  definition:
+  - Ba'athist Iraqi paramilitary organization
+  instance_hypernym:
+  - 08489346-n
+  members:
+  - Fedayeen Saddam
 08227332-n:
   domain_region:
   - 09015658-n
+08228845-n:
+  definition:
+  - "Nazi paramilitary organization (1925\u201345) with the Waffen-SS as a military\
+    \ branch; conducted the mass murder of the European Jews (holocaust)"
+  instance_hypernym:
+  - 08489346-n
+  members:
+  - Schutzstaffel
+  - Elite Guard
 08236844-n:
   domain_region:
   - 08949695-n
@@ -317,9 +596,49 @@
   - 04009811-n
   - 04519771-n
   - 04617725-n
+08249977-n:
+  definition:
+  - organization of workers with common goals
+  instance_hypernym:
+  - 08024893-n
+  members:
+  - labor union
+  - labour union
+  - work union
+  - workers union
+  - union
+  - worker's union
+  - trade union
+  - trades union
+  - employees' union
+  - employees union
+  - workers' union
+  - labor unions
+08250834-n:
+  definition:
+  - federation of U.S. labor unions, 1886-1955
+  instance_hypernym:
+  - 08024893-n
+  members:
+  - American Federation of Labor
+  - AFL
+  - A.F. of L.
 08252544-n:
   domain_region:
   - 08920762-n
+08255234-n:
+  definition:
+  - institution that officially elects the President and Vice President of the United
+    States
+  instance_hypernym:
+  - 08024893-n
+  members:
+  - United States Electoral College
+  - US Electoral College
+  - Electoral College of the United States
+  - U.S. Electoral College
+  - Electoral College
+  - Electoral College (United States)
 08257887-n:
   mero_member:
   - 10861972-n
@@ -328,6 +647,18 @@
   - 11123387-n
   - 11340626-n
   - 11416662-n
+08259596-n:
+  definition:
+  - mission-driven organization seeking to further a particular profession
+  instance_hypernym:
+  - 08024893-n
+  members:
+  - professional association
+  - professional organization
+  - professional society
+  - professional network
+  - society
+  - societies
 08260772-n:
   mero_member:
   - 11397846-n
@@ -343,6 +674,31 @@
 08271116-n:
   domain_region:
   - 08879115-n
+08276923-n:
+  definition:
+  - anti-slavery but non-abolitionist political party in the United States, precursor
+    to the Republican party
+  instance_hypernym:
+  - 07967506-n
+  members:
+  - Free Soil Party
+  - Free Soilers
+08277612-n:
+  definition:
+  - Republic of China political party
+  instance_hypernym:
+  - 07967506-n
+  members:
+  - Kuomintang
+  - Guomindang
+  - KMT
+  - GMD
+  - Nationalist Party of China
+  - National Party of China
+  - Chinese Nationalist Party
+  - Chinese National Party
+  - "National People\u2019s Party"
+  - "National People\u2019s Party of China"
 08278510-n:
   domain_region:
   - 08879115-n
@@ -352,6 +708,13 @@
 08295845-n:
   domain_region:
   - 08879115-n
+08297045-n:
+  definition:
+  - institution of higher learning
+  instance_hypernym:
+  - 08024893-n
+  members:
+  - academy
 08300101-n:
   domain_region:
   - 08867723-n
@@ -365,6 +728,21 @@
 08303867-n:
   domain_region:
   - 08879115-n
+08307684-n:
+  definition:
+  - Bronze Age civilization flourishing on Crete and other Aegean islands from c.
+    2600 to 1100 BC
+  instance_hypernym:
+  - 15137796-n
+  members:
+  - Minoan civilization
+  - Minoan civilisation
+  - Minoan Crete
+  - Minoan
+  - Minoans
+  - Minoan culture
+  - Minoan age
+  - Minoan period
 08309339-n:
   domain_topic:
   - 08771766-n
@@ -386,21 +764,27 @@
   domain_region:
   - 09067337-n
 08321065-n:
+  definition:
+  - "1200s\u20131669 trade confederation in Northern Europe"
+  instance_hypernym:
+  - 08024893-n
+  members:
+  - Hanseatic League
   mero_member:
-  - 08783148-n
-  - 08787846-n
-  - 08788551-n
   - 08790140-n
-  - 08790931-n
-  - 08791169-n
-  - 08791512-n
-  - 08791713-n
-  - 08792537-n
-  - 08870026-n
+  - 08787846-n
   - 09006112-n
-  - 09035105-n
   - 09035723-n
+  - 09035105-n
+  - 08788551-n
+  - 08783148-n
+  - 08792537-n
   - 09036436-n
+  - 08791169-n
+  - 08791713-n
+  - 08791512-n
+  - 08870026-n
+  - 08790931-n
 08321674-n:
   domain_region:
   - 08774717-n
@@ -448,6 +832,14 @@
 08357080-n:
   domain_region:
   - 09067337-n
+08358725-n:
+  definition:
+  - organisation within the United States Department of Defense
+  instance_hypernym:
+  - 08094128-n
+  members:
+  - Defense Technical Information Center
+  - DTIC
 08359346-n:
   domain_region:
   - 08837973-n
@@ -532,6 +924,33 @@
 08411879-n:
   mero_part:
   - 02744686-n
+08412422-n:
+  definition:
+  - federal service academy in West Point, New York, United States
+  instance_hypernym:
+  - 03302664-n
+  members:
+  - United States Military Academy
+  - USMA
+  - West Point
+  - US Military Academy
+  - Army
+  - The Academy
+  - The Point
+  - West Point Army
+  - U.S. Military Academy at West Point
+  - United States Military Academy at West Point
+08413164-n:
+  definition:
+  - United States Department of Defense combat support agency providing information
+    technology and communications support
+  instance_hypernym:
+  - 08094128-n
+  members:
+  - Defense Information Systems Agency
+  - DISA
+  - Defense Communications Agency
+  - DCA
 08419901-n:
   domain_region:
   - 08879115-n
@@ -547,6 +966,22 @@
 08454960-n:
   domain_region:
   - 08879115-n
+08484882-n:
+  definition:
+  - artistic style that emphasized painterly qualities and strong color over the representational
+    or realistic values retained by Impressionism
+  instance_hypernym:
+  - 08483654-n
+  members:
+  - Fauvism
+08485272-n:
+  definition:
+  - American art movement
+  instance_hypernym:
+  - 08483654-n
+  members:
+  - Hudson River school
+  - hudson River School of Landscape Painting
 08485732-n:
   mero_member:
   - 10924573-n
@@ -564,6 +999,63 @@
 08492733-n:
   domain_region:
   - 08784821-n
+08493640-n:
+  definition:
+  - Black nationalist African-American new religious movement
+  instance_hypernym:
+  - 08489346-n
+  members:
+  - Nation of Islam
+  - NOI
+08493999-n:
+  definition:
+  - "early phase of cubism (ca. 1908\u20131912)"
+  instance_hypernym:
+  - 08483654-n
+  - 15137796-n
+  members:
+  - analytical cubism
+  - analytic cubism
+  - analytical cubist
+08494088-n:
+  definition:
+  - "later phase of cubism (ca. 1912\u201314)"
+  instance_hypernym:
+  - 08483654-n
+  - 15137796-n
+  members:
+  - synthetic cubism
+  - Synthetic Cubist
+08496418-n:
+  definition:
+  - "dynasty of Ancient Chinese kings (\u738B) lasting from c. 1046 to 256 BC"
+  instance_hypernym:
+  - 15137796-n
+  members:
+  - Zhou dynasty
+  - Zhou
+  - Chou
+  - Chew
+  - Zhou Dynasty
+  - Chou Dynasty
+  - Chew Dynasty
+  - Dynasty of Zhou
+  - Dynasty of Chou
+  - Dynasty of Chew
+  - Ji Dynasty
+  - Dynasty of Ji
+  - Tchou
+  - Tcheou
+  - Zhou Empire
+  - Chou Empire
+  - Chew Empire
+  - Zhou Kingdom
+  - Chou Kingdom
+  - Chew Kingdom
+  - Kingdom of Zhou
+  - Kingdom of Chou
+  - Kingdom of Chew
+  - Chew Epoch
 08496905-n:
   domain_region:
   - 08879115-n

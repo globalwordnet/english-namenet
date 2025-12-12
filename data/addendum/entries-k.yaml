@@ -49,7 +49,7 @@ Kazak:
 Kazakh:
   n:
     pronunciation:
-    - value: ˈkæzæk
+    - value: "\u02C8k\xE6z\xE6k"
     sense:
     - id: 'kazakh%1:15:00::'
       synset: 09042096-n
@@ -91,9 +91,9 @@ Kiplingesque:
 Kirghiz:
   n:
     pronunciation:
-    - value: ˈkɜːɡɪz
+    - value: "\u02C8k\u025C\u02D0\u0261\u026Az"
       variety: GB
-    - value: kɪɹˈɡiːz
+    - value: "k\u026A\u0279\u02C8\u0261i\u02D0z"
       variety: US
     sense:
     - id: 'kirghiz%1:15:00::'

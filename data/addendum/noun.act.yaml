@@ -7,6 +7,26 @@
 00090477-n:
   domain_region:
   - 08879115-n
+00118398-n:
+  definition:
+  - release of gas from the upper digestive tract through the mouth
+  instance_hypernym:
+  - 14323139-n
+  members:
+  - burping
+  - ructus
+  - belching
+  - eructation
+00120030-n:
+  definition:
+  - vomiting of blood
+  instance_hypernym:
+  - 14323139-n
+  members:
+  - hematemesis
+  - haematemesis
+  - vomiting of blood
+  - spit blood
 00163057-n:
   domain_region:
   - 08879115-n
@@ -28,6 +48,15 @@
 00294261-n:
   domain_region:
   - 08849996-n
+00305175-n:
+  definition:
+  - soaring or thermaling with a paraglider
+  - aerial sport in which person is connected to a parachute and towed by a boat
+  instance_hypernym:
+  - 00524569-n
+  members:
+  - paragliding
+  - parasailing
 00308140-n:
   domain_region:
   - 08879115-n
@@ -37,21 +66,127 @@
 00311342-n:
   domain_region:
   - 09021852-n
+00442013-n:
+  definition:
+  - skiing sport with jumping down a hill
+  instance_hypernym:
+  - 00524569-n
+  members:
+  - ski jumping
+00449111-n:
+  definition:
+  - Sports entertainment event centered around mock combat designed to entertain the
+    audience
+  instance_hypernym:
+  - 00524569-n
+  members:
+  - professional wrestling
+  - pro wrestling
+  - pro-wrestling
 00449217-n:
   domain_region:
   - 08941623-n
+00449733-n:
+  definition:
+  - sport and art performed with figure skates on ice
+  instance_hypernym:
+  - 00524569-n
+  members:
+  - figure skating
+00449943-n:
+  definition:
+  - sport, activity, or form of transportation involving shoes with small wheels attached
+    to the soles
+  instance_hypernym:
+  - 00030657-n
+  members:
+  - roller skating
+  - roller-skating
+  - rollerskating
 00451852-n:
   domain_region:
   - 08879115-n
 00462672-n:
   domain_region:
   - 08910324-n
+00464604-n:
+  definition:
+  - team sport played on ice using sticks, skates, and a puck
+  instance_hypernym:
+  - 00524569-n
+  members:
+  - ice hockey
+  - hockey
+00467948-n:
+  definition:
+  - sport that involves hitting plastic or wooden balls
+  instance_hypernym:
+  - 00524569-n
+  members:
+  - croquet
+00469063-n:
+  definition:
+  - team sport version of hockey played on grass or artificial turf with sticks and
+    a round ball
+  instance_hypernym:
+  - 00524569-n
+  members:
+  - field hockey
+  - hockey
+  - outdoor hockey
 00472041-n:
   domain_region:
   - 08879115-n
+00479273-n:
+  definition:
+  - sport that is practiced between two teams of eleven players
+  instance_hypernym:
+  - 00524569-n
+  members:
+  - association football
+  - football
+  - soccer
+  - footie
+  - footy
+  - futbol
+  - futebol
+  - association soccer
+  - foot ball
 00480745-n:
   domain_region:
   - 08879115-n
+00482004-n:
+  definition:
+  - team sport played on a court with baskets on either end
+  instance_hypernym:
+  - 00524569-n
+  members:
+  - basketball
+  - hoops
+  - b-ball
+  - basket ball
+  - BB
+  - Basketball
+00484716-n:
+  definition:
+  - original "tennis" sport; played with racquets in a walled court.
+  instance_hypernym:
+  - 00524569-n
+  members:
+  - real tennis
+  - tennis
+  - court tennis
+  - royal tennis
+00489236-n:
+  definition:
+  - game using playing cards as the primary device
+  instance_hypernym:
+  - 00030657-n
+  members:
+  - card game
+  - cards
+  - card games
+  - games played with cards
 00502490-n:
   domain_region:
   - 08879115-n
@@ -82,6 +217,14 @@
 00519359-n:
   domain_region:
   - 08784821-n
+00524569-n:
+  definition:
+  - forms of recreational activity, usually physical
+  instance_hypernym:
+  - 06005806-n
+  members:
+  - sport
+  - sports
 00531423-n:
   domain_region:
   - 08949695-n
@@ -103,9 +246,95 @@
 00594334-n:
   domain_region:
   - 08879115-n
+00608890-n:
+  definition:
+  - process of making objects from wood
+  instance_hypernym:
+  - 08024893-n
+  - 00030657-n
+  members:
+  - woodworking
+00610691-n:
+  definition:
+  - economic sector
+  instance_hypernym:
+  - 08024893-n
+  members:
+  - papermaking
+  - pennies
+00612961-n:
+  definition:
+  - investigation and reporting of events, issues and trends to a broad audience
+  instance_hypernym:
+  - 08024893-n
+  - 06005806-n
+  members:
+  - journalism
+  - reporting
+00613259-n:
+  definition:
+  - activities associated with group decisions
+  instance_hypernym:
+  - 06005806-n
+  members:
+  - politics
+00613447-n:
+  definition:
+  - field of study for diagnosing, treating and preventing disease
+  instance_hypernym:
+  - 06005806-n
+  members:
+  - medicine
+  - medical
+  - medicalism
+  - clinical medicine
+00619105-n:
+  definition:
+  - process of making footwear
+  instance_hypernym:
+  - 08024893-n
+  members:
+  - footwear industry
+  - shoemakers
+  - shoe industry
+  - shoemaking
 00620382-n:
   domain_region:
   - 08879115-n
+00620470-n:
+  definition:
+  - recording and picking up business transactions
+  instance_hypernym:
+  - 06005806-n
+  members:
+  - bookkeeping
+00621794-n:
+  definition:
+  - art, science, and practice of creating durable images by recording light or other
+    electromagnetic radiation
+  instance_hypernym:
+  - 06005806-n
+  - 00030657-n
+  members:
+  - photography
+00627233-n:
+  definition:
+  - use of progressive resistance exercise to control and develop musculature
+  instance_hypernym:
+  - 00524569-n
+  members:
+  - bodybuilding
+  - body building
+  - body-building
+00627428-n:
+  definition:
+  - sport
+  instance_hypernym:
+  - 00524569-n
+  members:
+  - weightlifting
+  - lifting
+  - olympic weightlifting
 00638388-n:
   domain_region:
   - 08879115-n
@@ -141,6 +370,18 @@
 00828058-n:
   domain_region:
   - 08941623-n
+00828342-n:
+  definition:
+  - Korean martial arts
+  instance_hypernym:
+  - 00524569-n
+  members:
+  - taekwondo
+  - TKD
+  - tae kwon do
+  - taekwon-do
+  - TaeKwonDu
+  - Korean Karate
 00856023-n:
   domain_region:
   - 08879115-n
@@ -150,15 +391,118 @@
 00883723-n:
   domain_region:
   - 08879115-n
+00888260-n:
+  definition:
+  - sports involving running, jumping, throwing and walking
+  instance_hypernym:
+  - 00524569-n
+  members:
+  - athletics
+  - light athletics
+  - track and field
+  - sport of athletics
+00888759-n:
+  definition:
+  - theory and practice of education
+  instance_hypernym:
+  - 06005806-n
+  members:
+  - pedagogy
+  - educational studies
+  - education studies
 00898386-n:
   domain_region:
   - 08879115-n
 00899687-n:
   domain_region:
   - 08879115-n
+00909617-n:
+  definition:
+  - art of creating motion picture with photography
+  instance_hypernym:
+  - 06005806-n
+  members:
+  - cinematography
+  - film making
+  - cinema photography
+00914653-n:
+  definition:
+  - construction of ships and floating vessels
+  instance_hypernym:
+  - 08024893-n
+  members:
+  - shipbuilding
+  - ship building
+  - ship-building
+  - shipbuilding industry
+  - ship construction
+00916971-n:
+  definition:
+  - process in the production of beer, ale, or other beverages
+  instance_hypernym:
+  - 08024893-n
+  members:
+  - brewing
+  - beer brewing
+00926393-n:
+  definition:
+  - science of maps
+  instance_hypernym:
+  - 08024893-n
+  - 06005806-n
+  members:
+  - cartography
+  - study of map making
+  - study of mapping
+  - study of mapmaking
+  - study of map-making
+  - map science
+  - study of making maps
+  - chartology
+00927436-n:
+  definition:
+  - manufacturing process involving the shaping of metal
+  instance_hypernym:
+  - 08024893-n
+  members:
+  - forging
+  - drop-forging
+00935235-n:
+  definition:
+  - general concept that creates expressive work for its beauty or emotional power
+    (use Q838948 for the resulting work, use Q2018526 for the group of creative disciplines)
+  instance_hypernym:
+  - 06005806-n
+  members:
+  - art
+00938112-n:
+  definition:
+  - study and art of food preparation
+  instance_hypernym:
+  - 06005806-n
+  members:
+  - gastronomy
 00938272-n:
   domain_region:
   - 08941623-n
+00938436-n:
+  definition:
+  - practice of applying paint, pigment, color or other medium to a surface
+  instance_hypernym:
+  - 00030657-n
+  members:
+  - art of painting
+  - painting
+  - to paint
+00947021-n:
+  definition:
+  - creative and technical post-production processing of film
+  instance_hypernym:
+  - 06005806-n
+  members:
+  - film editing
+  - film cutting
+  - editing
 00988007-n:
   domain_region:
   - 08879115-n
@@ -168,6 +512,18 @@
 01029604-n:
   domain_region:
   - 08824749-n
+01061824-n:
+  definition:
+  - prevention of disease and promotion of wellbeing of humans and animals
+  instance_hypernym:
+  - 08024893-n
+  members:
+  - health care
+  - health-care
+  - healthcare
+  - medical care
+  - health profession
+  - delivery of health care
 01066682-n:
   domain_region:
   - 08879115-n
@@ -180,12 +536,81 @@
 01089664-n:
   domain_region:
   - 08879115-n
+01100873-n:
+  definition:
+  - area of finance dealing with the sources of funding and the capital structure
+    of corporations
+  instance_hypernym:
+  - 06005806-n
+  members:
+  - corporate finance
+01103863-n:
+  definition:
+  - process of production and dissemination of literature, music, or information
+  instance_hypernym:
+  - 08024893-n
+  members:
+  - publishing
+  - release
+  - publication
+  - publishing process
+01106311-n:
+  definition:
+  - agriculture-related industry
+  instance_hypernym:
+  - 08024893-n
+  members:
+  - agribusiness
+  - big ag
+01114325-n:
+  definition:
+  - study and process of promoting, distributing, and selling products or services
+    to customers
+  instance_hypernym:
+  - 06005806-n
+  members:
+  - marketing
+  - mktg
+  - PR
+  - public relations
+  - publicity
+  - communications
+  - promotion
+  - sales
+01116568-n:
+  definition:
+  - sale of goods and services from individuals or businesses to the end-user
+  instance_hypernym:
+  - 08024893-n
+  members:
+  - retail
+  - retail industry
+  - retail trade
+  - retail sales
+  - retailing
+01116756-n:
+  definition:
+  - sale of goods or merchandise to retailers or other wholesalers rather than end
+    consumers
+  instance_hypernym:
+  - 08024893-n
+  members:
+  - wholesale
 01120935-n:
   domain_region:
   - 08879115-n
 01128656-n:
   domain_region:
   - 09067337-n
+01135602-n:
+  definition:
+  - administration of an organization, including activities to set the strategy of
+    an organization and coordinate employees to accomplish its objectives
+  instance_hypernym:
+  - 06005806-n
+  members:
+  - management
+  - managing
 01138116-n:
   domain_region:
   - 08879115-n
@@ -198,6 +623,21 @@
 01180073-n:
   domain_region:
   - 08879115-n
+01226161-n:
+  definition:
+  - practice of an unconventional lifestyle
+  instance_hypernym:
+  - 08483654-n
+  members:
+  - bohemianism
+  - bohemian
+01233861-n:
+  definition:
+  - short story by Philip K. Dick
+  instance_hypernym:
+  - 06374360-n
+  members:
+  - Service Call
 01244901-n:
   domain_region:
   - 08879115-n

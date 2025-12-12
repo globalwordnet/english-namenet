@@ -61,9 +61,9 @@ Vietnamese:
 Virgin:
   n:
     pronunciation:
-    - value: ˈvɝdʒɪn
+    - value: "\u02C8v\u025Dd\u0292\u026An"
       variety: US
-    - value: ˈvɜːdʒɪn
+    - value: "\u02C8v\u025C\u02D0d\u0292\u026An"
       variety: GB
     sense:
     - id: 'virgin%1:15:00::'
@@ -76,9 +76,9 @@ Virgin Mary:
 Virgo:
   n:
     pronunciation:
-    - value: ˈvɜːɡəʊ
+    - value: "\u02C8v\u025C\u02D0\u0261\u0259\u028A"
       variety: GB
-    - value: ˈvɝɡoʊ
+    - value: "\u02C8v\u025D\u0261o\u028A"
       variety: US
     sense:
     - id: 'virgo%1:17:00::'
