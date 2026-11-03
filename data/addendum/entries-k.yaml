@@ -146,6 +146,11 @@ Kuwaiti:
     - id: 'kuwaiti%3:01:00::'
       pertainym:
       - 'kuwait%1:15:01::'
+Kyiv:
+  n:
+    sense:
+    - id: 'kyiv%1:15:00::'
+      synset: 09038277-n
 Kyrgyzstani:
   a:
     sense:
