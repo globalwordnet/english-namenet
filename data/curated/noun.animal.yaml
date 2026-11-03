@@ -3998,6 +3998,7 @@
   mero_member:
   - 01482461-n
   partOfSpeech: n
+  wikidata: Q26214
 01482578-n:
   definition:
   - extinct group of bony-plated fishes with primitive jaws
@@ -11858,6 +11859,7 @@
   mero_member:
   - 01728211-n
   partOfSpeech: n
+  wikidata: Q269195
 01728211-n:
   definition:
   - a reptile genus of suborder Plesiosauria
@@ -14530,6 +14532,7 @@
   - 01823305-n
   - 01823578-n
   partOfSpeech: n
+  wikidata: Q212669
 01823305-n:
   definition:
   - a genus of Loriinae, containing parrots native to Australia (Glossopsitta)
@@ -16899,7 +16902,9 @@
   - 01914152-n
   - 01916479-n
   partOfSpeech: n
-  wikidata: Q25441
+  wikidata:
+  - Q25441
+  - Q387474
 01913170-n:
   definition:
   - 'coelenterates in which the polyp stage is absent or at least inconspicuous: jellyfishes'
@@ -17080,6 +17085,7 @@
   - Alcyonacea
   - suborder Alcyonacea
   partOfSpeech: n
+  wikidata: Q137552
 01918055-n:
   definition:
   - sea pens
@@ -25723,6 +25729,7 @@
   - 02207112-n
   - 02207747-n
   partOfSpeech: n
+  wikidata: Q27605
 02202651-n:
   definition:
   - mosquitoes
@@ -29029,6 +29036,7 @@
   - 02294043-n
   - 02295502-n
   partOfSpeech: n
+  wikidata: Q30252
 02294043-n:
   definition:
   - clothes moths
@@ -30083,6 +30091,7 @@
   mero_member:
   - 02334131-n
   partOfSpeech: n
+  wikidata: Q58949
 02334131-n:
   definition:
   - originally Old World rats now distributed worldwide; distinguished from the Cricetidae
