@@ -124,18 +124,6 @@
   - Barbary Coast
   - Berbery
   - Berber Coast
-  mero_part:
-  - 08520498-n
-  partOfSpeech: n
-08520498-n:
-  definition:
-  - the Mediterranean coast of northern Africa that was famous for its Moorish pirates
-  ili: i81740
-  instance_hypernym:
-  - 09451197-n
-  members:
-  - Barbary Coast
-  - Berber Coast
   partOfSpeech: n
   wikidata: Q501768
 08520942-n:
