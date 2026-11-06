@@ -5,6 +5,15 @@ Wikidata. The resulting resource, Open English Namenet, contains millions of
 extra synsets. This repository includes the manual entries from OEWN as well
 as code for building the extended resource.
 
+## Moved data
+
+The manually curated names and the addendum (edits to existing synsets) that were
+previously kept in `data/curated` and `data/addendum` are now maintained directly in
+[Open English Wordnet](https://github.com/globalwordnet/english-wordnet) (see
+globalwordnet/english-wordnet#1403), in the `name.*` lexicographer files with the part
+of speech `e`. The previous versions remain available in the git history of this repository.
+`generate.py` recreates addendum files in `data/addendum` when run with `--update_addendums`.
+
 ## Environment Setup
 
 This project is developed using Python and Poetry for dependency management. To set up the environment, follow these steps:
