@@ -88,8 +88,6 @@ Barbadian:
 Barbary Coast:
   n:
     sense:
-    - id: 'barbary_coast%1:15:00::'
-      synset: 08520498-n
     - id: 'barbary_coast%1:15:02::'
       synset: 08520259-n
 Baroque:
