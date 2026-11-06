@@ -355,6 +355,7 @@ if __name__ == "__main__":
         os.remove(f"{output_folder}/noun.taxon_working.csv")
 
     if args.update_addendums:
+        os.makedirs(addendum_folder, exist_ok=True)
         for filename, data in addendums.items():
             with open(f"{addendum_folder}/{filename}", "w", encoding="utf-8") as f:
                 yaml.dump(data, f, sort_keys=True)
