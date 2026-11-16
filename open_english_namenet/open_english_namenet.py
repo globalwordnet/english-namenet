@@ -65,21 +65,27 @@ def save_cache(path, signature, data):
     with open(path, "wb") as f:
         pickle.dump((signature, data), f)
 
-def load_wordnet_data(with_wd2data=False, with_lexfiles=False, wordnet_source=None):
+def load_wordnet_data(with_wd2data=False, with_lexfiles=False, wordnet_source=None, with_unlinked_lemmas=False):
     """
     Load WordNet data from YAML files and extract relevant information.
+
+    If `with_unlinked_lemmas` is set, a final dictionary is also returned that
+    maps each lemma of a synset with no Wikidata link to the list of such synsets.
     """
     files = wordnet_yaml_files(wordnet_source)
     signature = wordnet_signature(files)
     cached = load_cache("wordnet_data.pickle", signature)
+    if cached is not None and len(cached) != 6:
+        cached = None  # Cache from an older version of this code
     if cached is not None:
-        wikidata_links, hyps, wn_lemmas, wd2data, lexfiles = cached
+        wikidata_links, hyps, wn_lemmas, wd2data, lexfiles, unlinked_lemmas = cached
     else:
         wikidata_links = {}
         hyps = {}
         wn_lemmas = {}
         wd2data = {}
         lexfiles = {}
+        unlinked_lemmas = defaultdict(list)
 
         for file in tqdm(files, desc="Loading WordNet data"):
             lexfile = file.split("/")[-1]
@@ -99,19 +105,22 @@ def load_wordnet_data(with_wd2data=False, with_lexfiles=False, wordnet_source=No
                         wikidata_links[ssid] = entry["wikidata"]
                     for wd in wikidata_links[ssid]:
                         wd2data[wd] = (ssid, entry)
+                else:
+                    for lemma in entry["members"]:
+                        unlinked_lemmas[lemma].append(ssid)
 
         hyps = calculate_transitive_hyps(hyps)
 
-        save_cache("wordnet_data.pickle", signature, (wikidata_links, hyps, wn_lemmas, wd2data, lexfiles))
+        save_cache("wordnet_data.pickle", signature, (wikidata_links, hyps, wn_lemmas, wd2data, lexfiles, dict(unlinked_lemmas)))
 
-    if with_wd2data and with_lexfiles:
-        return wikidata_links, hyps, wn_lemmas, wd2data, lexfiles
-    elif with_wd2data:
-        return wikidata_links, hyps, wn_lemmas, wd2data
-    elif with_lexfiles:
-        return wikidata_links, hyps, wn_lemmas, lexfiles
-    else:
-        return wikidata_links, hyps, wn_lemmas
+    result = [wikidata_links, hyps, wn_lemmas]
+    if with_wd2data:
+        result.append(wd2data)
+    if with_lexfiles:
+        result.append(lexfiles)
+    if with_unlinked_lemmas:
+        result.append(unlinked_lemmas)
+    return tuple(result)
 
 
 def fetch_in_chunks(cursor, size=1000):
