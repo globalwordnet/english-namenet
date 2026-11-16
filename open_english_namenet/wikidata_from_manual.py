@@ -3,7 +3,7 @@ outputs them as changes to be processed with EWE"""
 import argparse
 import csv
 from collections import defaultdict
-from open_english_namenet import load_wordnet_data, oewn_extract, wikidata_extract
+from open_english_namenet import WORDNET_SOURCE, load_wordnet_data, oewn_extract, wikidata_extract
 import sys
 
 def print_match(oewn, wikidata):
@@ -25,11 +25,12 @@ if __name__ == "__main__":
     parser.add_argument("wikidata_manual_col_idx", type=int, help="Index of the Wikidata manual column in the CSV file (0-based).")
     parser.add_argument("--wordnet_manual_col_idx", type=int, default=-1, help="Index of the WordNet manual column in the CSV file (0-based).")
     parser.add_argument("--ignore_col_idx", type=int, default=-1, help="Index of the Ignore column in the CSV file (0-based).")
+    parser.add_argument("--oewn", type=str, help="Path to OEWN data", default=WORDNET_SOURCE)
     args = parser.parse_args()
 
     matches = defaultdict(list)
 
-    wikidata_links, _, _ = load_wordnet_data()
+    wikidata_links, _, _ = load_wordnet_data(wordnet_source=args.oewn)
 
     with open(args.manual_review_csf, "r") as f:
         reader = csv.reader(f)

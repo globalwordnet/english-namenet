@@ -1,4 +1,4 @@
-from open_english_namenet import WIKIDATA_DB, fetch_in_chunks, load_wordnet_data, WORDNET_SOURCE
+from open_english_namenet import WIKIDATA_DB, fetch_in_chunks, load_wordnet_data, WORDNET_SOURCE, wordnet_yaml_files, wordnet_signature, load_cache, save_cache
 from glob import glob
 import yaml
 from tqdm import tqdm
@@ -61,17 +61,20 @@ def get_wd_definition(qid, cursor):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Process manual taxon reviews.")
+    parser.add_argument("--oewn", type=str, help="Path to OEWN data", default=WORDNET_SOURCE)
     args = parser.parse_args()
 
-    if os.path.exists("oewn_hypos.pickle"):
-        with open("oewn_hypos.pickle", "rb") as f:
-            hyps, labels, defns = pickle.load(f)
+    oewn_files = wordnet_yaml_files(args.oewn)
+    oewn_signature = wordnet_signature(oewn_files)
+    cached = load_cache("oewn_hypos.pickle", oewn_signature)
+    if cached is not None:
+        hyps, labels, defns = cached
     else:
         hyps = {}
         labels = {}
         defns = {}
 
-        for file in tqdm(glob(f"{WORDNET_SOURCE}/src/yaml/[nva]*.yaml"), desc="Loading WordNet data"):
+        for file in tqdm(oewn_files, desc="Loading WordNet data"):
             data = yaml.safe_load(open(file, "r"))
             for ssid, entry in data.items():
                 hyps[ssid] = []
@@ -82,8 +85,7 @@ if __name__ == "__main__":
                 labels[ssid] = entry["members"]
                 defns[ssid] = entry.get("definition", [""])[0]
 
-        with open("oewn_hypos.pickle", "wb") as f:
-            pickle.dump((hyps, labels, defns), f)
+        save_cache("oewn_hypos.pickle", oewn_signature, (hyps, labels, defns))
             
 
     hypos = defaultdict(list)

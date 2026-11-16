@@ -122,7 +122,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     # Load WordNet data
-    wikidata_links, hyps, wn_lemmas, wd2entry, lexfiles = load_wordnet_data(with_wd2data=True, with_lexfiles=True)
+    wikidata_links, hyps, wn_lemmas, wd2entry, lexfiles = load_wordnet_data(with_wd2data=True, with_lexfiles=True, wordnet_source=args.oewn)
 
     wn_lemmas['09596003-n'] = "Titaness"
 

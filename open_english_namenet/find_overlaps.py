@@ -5,19 +5,24 @@ import json
 from collections import Counter
 import csv
 from tqdm import tqdm
-from open_english_namenet import load_wordnet_data, WIKIDATA_DB
+import argparse
+from open_english_namenet import load_wordnet_data, WIKIDATA_DB, WORDNET_SOURCE
 
 HYP_IGNORE = set([ "00001740-n", "00001930-n", "00002452-n", 
                "00002684-n", "00007347-n", "00021007-n",
                "00029976-n", "00002137-n", "04431553-n" ])
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Find overlaps between OEWN and Wikidata.")
+    parser.add_argument("--oewn", type=str, help="Path to OEWN data", default=WORDNET_SOURCE)
+    args = parser.parse_args()
+
     db = sqlite3.connect(WIKIDATA_DB)
     cursor = db.cursor()
 
     overlaps = Counter()
 
-    wikidata_links, hyps, wn_lemmas = load_wordnet_data()
+    wikidata_links, hyps, wn_lemmas = load_wordnet_data(wordnet_source=args.oewn)
 
     for ssid, entry_wikidata in tqdm(wikidata_links.items()):
         for wd in wikidata:

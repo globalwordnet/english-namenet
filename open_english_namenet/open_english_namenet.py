@@ -2,6 +2,7 @@ import yaml
 from glob import glob
 from tqdm import tqdm
 import os
+import sys
 import pickle
 import json
 from collections import defaultdict
@@ -25,21 +26,54 @@ def calculate_transitive_hyps(hyps):
                         changes += 1
     return hyps
 
-def load_wordnet_data(with_wd2data=False, with_lexfiles=False):
+def wordnet_yaml_files(wordnet_source=None, pattern="[nva]*.yaml"):
+    """
+    List the OEWN YAML files under `wordnet_source` (default `WORDNET_SOURCE`).
+    Raises an error if there are none, so that a wrong path is not silently
+    treated as an empty wordnet.
+    """
+    source = wordnet_source or WORDNET_SOURCE
+    files = sorted(glob(os.path.join(source, "src", "yaml", pattern)))
+    if not files:
+        raise FileNotFoundError(
+            f"No OEWN YAML files matching '{pattern}' found in {os.path.join(source, 'src', 'yaml')}. "
+            "Check the --oewn path.")
+    return files
+
+def wordnet_signature(files):
+    """
+    A fingerprint (path, size, modification time) of the OEWN files, used to
+    detect when a cached pickle is out of date or was built from another OEWN.
+    """
+    return [(os.path.abspath(f), os.stat(f).st_size, os.stat(f).st_mtime_ns) for f in files]
+
+def load_cache(path, signature):
+    """Load a pickle written with `save_cache`, or None if missing or out of date."""
+    if not os.path.exists(path):
+        return None
+    try:
+        with open(path, "rb") as f:
+            cached_signature, data = pickle.load(f)
+    except Exception:
+        cached_signature, data = None, None
+    if cached_signature != signature:
+        print(f"Ignoring {path}: it is out of date or was built from a different OEWN", file=sys.stderr)
+        return None
+    return data
+
+def save_cache(path, signature, data):
+    with open(path, "wb") as f:
+        pickle.dump((signature, data), f)
+
+def load_wordnet_data(with_wd2data=False, with_lexfiles=False, wordnet_source=None):
     """
     Load WordNet data from YAML files and extract relevant information.
     """
-    if os.path.exists("wordnet_data.pickle"):
-        with open("wordnet_data.pickle", "rb") as f:
-            wikidata_links, hyps, wn_lemmas, wd2data, lexfiles = pickle.load(f)
-        if with_wd2data and with_lexfiles:
-            return wikidata_links, hyps, wn_lemmas, wd2data, lexfiles
-        elif with_wd2data:
-            return wikidata_links, hyps, wn_lemmas, wd2data
-        elif with_lexfiles:
-            return wikidata_links, hyps, wn_lemmas, lexfiles
-        else:
-            return wikidata_links, hyps, wn_lemmas
+    files = wordnet_yaml_files(wordnet_source)
+    signature = wordnet_signature(files)
+    cached = load_cache("wordnet_data.pickle", signature)
+    if cached is not None:
+        wikidata_links, hyps, wn_lemmas, wd2data, lexfiles = cached
     else:
         wikidata_links = {}
         hyps = {}
@@ -47,7 +81,7 @@ def load_wordnet_data(with_wd2data=False, with_lexfiles=False):
         wd2data = {}
         lexfiles = {}
 
-        for file in tqdm(glob(f"{WORDNET_SOURCE}/src/yaml/[nva]*.yaml"), desc="Loading WordNet data"):
+        for file in tqdm(files, desc="Loading WordNet data"):
             lexfile = file.split("/")[-1]
             data = yaml.safe_load(open(file, "r"))
             for ssid, entry in data.items():
@@ -68,17 +102,16 @@ def load_wordnet_data(with_wd2data=False, with_lexfiles=False):
 
         hyps = calculate_transitive_hyps(hyps)
 
-        with open("wordnet_data.pickle", "wb") as f:
-            pickle.dump((wikidata_links, hyps, wn_lemmas, wd2data, lexfiles), f)
+        save_cache("wordnet_data.pickle", signature, (wikidata_links, hyps, wn_lemmas, wd2data, lexfiles))
 
-        if with_wd2data and with_lexfiles:
-            return wikidata_links, hyps, wn_lemmas, wd2data, lexfiles
-        elif with_wd2data:
-            return wikidata_links, hyps, wn_lemmas, wd2data
-        elif with_lexfiles:
-            return wikidata_links, hyps, wn_lemmas, lexfiles
-        else:
-            return wikidata_links, hyps, wn_lemmas
+    if with_wd2data and with_lexfiles:
+        return wikidata_links, hyps, wn_lemmas, wd2data, lexfiles
+    elif with_wd2data:
+        return wikidata_links, hyps, wn_lemmas, wd2data
+    elif with_lexfiles:
+        return wikidata_links, hyps, wn_lemmas, lexfiles
+    else:
+        return wikidata_links, hyps, wn_lemmas
 
 
 def fetch_in_chunks(cursor, size=1000):
