@@ -4,6 +4,7 @@ version = "0.1.0"
 description = ""
 authors = ["John McCrae <john@mccr.ae>"]
 readme = "README.md"
+license = "CC-BY-4.0"
 
 [tool.poetry.dependencies]
 python = "^3.12"
