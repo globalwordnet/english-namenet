@@ -58,3 +58,11 @@ python open_english_namenet/generate.py --oewn /path/to/english-wordnet --wd wik
 ```
 
 
+
+## License
+
+Open English Namenet is released under the same license as Open English Wordnet,
+[CC-BY 4.0](LICENSE.md). It is derived from Princeton WordNet under the WordNet License,
+and you may share and adapt it providing attribution is given to both Princeton WordNet
+and the Open English Wordnet team. Data taken from Wikidata is available under
+[CC0](https://creativecommons.org/publicdomain/zero/1.0/).
