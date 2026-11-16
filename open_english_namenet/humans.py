@@ -2,7 +2,8 @@ import sqlite3
 from tqdm import tqdm
 from collections import Counter, defaultdict
 import json
-from open_english_namenet import WIKIDATA_DB, fetch_in_chunks, load_wordnet_data
+import argparse
+from open_english_namenet import WIKIDATA_DB, WORDNET_SOURCE, fetch_in_chunks, load_wordnet_data
 import csv
 
 manual_review_sections = [ "manual_review_babel.csv",
@@ -31,9 +32,13 @@ def wikidata_superclasses(qid, cursor) -> list[str]:
     return data.get("P279", [])  # P279 is the property for 'subclass of'
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Link humans in Wikidata to OEWN occupations.")
+    parser.add_argument("--oewn", type=str, help="Path to OEWN data", default=WORDNET_SOURCE)
+    args = parser.parse_args()
+
     manual_reviews = defaultdict(list)
 
-    wikidata_links, hyps, wn_lemmas = load_wordnet_data()
+    wikidata_links, hyps, wn_lemmas = load_wordnet_data(wordnet_source=args.oewn)
 
     for manual_review_section in tqdm(manual_review_sections, desc="Loading manual review sections"):
         with open(MANUAL_REVIEW_PATH + manual_review_section) as f:

@@ -7,7 +7,7 @@ import sqlite3
 import json
 import pickle
 import argparse
-from open_english_namenet import load_wordnet_data, WORDNET_SOURCE
+from open_english_namenet import load_wordnet_data, wordnet_yaml_files, WORDNET_SOURCE
 from collections import defaultdict
 from tqdm import tqdm
 from glob import glob
@@ -46,13 +46,14 @@ def is_taxon_name(name):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Prepare manual taxon alignment for taxon generation.")
     parser.add_argument("--manual_review_path", type=str, help="Path to write the manual review CSV files.", default="taxon_linking_manual.csv")
+    parser.add_argument("--oewn", type=str, help="Path to OEWN data", default=WORDNET_SOURCE)
     args = parser.parse_args()
 
-    wikidata_links, hyps, wn_lemmas = load_wordnet_data()
+    wikidata_links, hyps, wn_lemmas = load_wordnet_data(wordnet_source=args.oewn)
 
     mero_member = defaultdict(list)
 
-    for file in tqdm(glob(f"{WORDNET_SOURCE}/src/yaml/[nva]*.yaml"), desc="Loading WordNet data"):
+    for file in tqdm(wordnet_yaml_files(args.oewn), desc="Loading WordNet data"):
         data = yaml.safe_load(open(file, "r"))
         for ssid, entry in data.items():
             if "mero_member" in entry:

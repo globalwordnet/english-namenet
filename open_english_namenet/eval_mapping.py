@@ -3,7 +3,8 @@ import sqlite3
 from collections import Counter
 import json
 from tqdm import tqdm
-from open_english_namenet import WIKIDATA_DB, load_wordnet_data, fetch_in_chunks
+import argparse
+from open_english_namenet import WIKIDATA_DB, WORDNET_SOURCE, load_wordnet_data, fetch_in_chunks
 import csv
 
 WD_URL_LEN = len("https://www.wikidata.org/wiki/Q")
@@ -11,6 +12,10 @@ WN_URL_LEN = len("https://en-word.net/id/oewn-")
 WIKIDATA_DB = "/home/jmccrae/projects/jmccrae/oewn-wd-linking/wikidata.db"
 
 if __name__ == "__main__": 
+    parser = argparse.ArgumentParser(description="Evaluate the OEWN to Wikidata mapping.")
+    parser.add_argument("--oewn", type=str, help="Path to OEWN data", default=WORDNET_SOURCE)
+    args = parser.parse_args()
+
     wd2wn = {}
 
     with open("overlaps_evaluated.csv") as f:
@@ -23,7 +28,7 @@ if __name__ == "__main__":
                                                    row["Wordnet Lemmas"], 
                                                    row["Wikidata Labels"])
 
-    _, hyps, wn_lemmas = load_wordnet_data()
+    _, hyps, wn_lemmas = load_wordnet_data(wordnet_source=args.oewn)
 
     conflicts = Counter()
 

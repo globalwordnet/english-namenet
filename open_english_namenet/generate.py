@@ -12,7 +12,21 @@ from open_english_namenet import WIKIDATA_DB, WORDNET_SOURCE, load_wordnet_data,
 from glob import glob
 
 
-def process_entry(qid, cursor, hyps, wd2entry, f, lexfiles, addendum, lemmas=[], inst=True, mero=[]):
+def find_clashes(members, unlinked_lemmas):
+    """
+    Find lemmas in `members` that already occur in an OEWN synset that has no
+    Wikidata link. Returns a list of (lemma, synset ID) pairs.
+    """
+    return [(lemma, ssid) for lemma in members for ssid in unlinked_lemmas.get(lemma, [])]
+
+def process_entry(qid, cursor, hyps, wd2entry, f, lexfiles, addendum, lemmas=[], inst=True, mero=[],
+                  unlinked_lemmas=None, clash_log=None):
+    """
+    Create (or add to) the entry for a Wikidata item. A new synset is not
+    created if any of its lemmas is already in an OEWN synset without a
+    Wikidata link (e.g., 'September'), as it is probably the same concept;
+    such clashes are appended to `clash_log` as (qid, lemma, OEWN synset).
+    """
     label, definition = get_labels_and_defn(qid, cursor)
     if label == [] or definition == "":
         return (None, None)
@@ -51,6 +65,11 @@ def process_entry(qid, cursor, hyps, wd2entry, f, lexfiles, addendum, lemmas=[],
                 data["mero_member"] = list(set(mero))
         return (ssid, data)
     else:
+        clashes = find_clashes(lemmas if lemmas else label, unlinked_lemmas or {})
+        if clashes:
+            if clash_log is not None:
+                clash_log.extend((qid, lemma, ssid) for lemma, ssid in clashes)
+            return (None, None)
         new_id = qid + "-n"
         if inst:
             entry = {
@@ -122,7 +141,8 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     # Load WordNet data
-    wikidata_links, hyps, wn_lemmas, wd2entry, lexfiles = load_wordnet_data(with_wd2data=True, with_lexfiles=True)
+    wikidata_links, hyps, wn_lemmas, wd2entry, lexfiles, unlinked_lemmas = load_wordnet_data(with_wd2data=True, with_lexfiles=True, wordnet_source=args.oewn, with_unlinked_lemmas=True)
+    clash_log = []
 
     wn_lemmas['09596003-n'] = "Titaness"
 
@@ -184,7 +204,7 @@ if __name__ == "__main__":
                             continue
                         wn_hyps = [wh for superclazz in superclazzes for wh in overlaps_by_wikidata.get(superclazz, [])]
                         wn_hyps = dedupe_hyps(wn_hyps, hyps)
-                        process_entry(entity, cursor, wn_hyps, wd2entry, f1, lexfiles, addendums)
+                        process_entry(entity, cursor, wn_hyps, wd2entry, f1, lexfiles, addendums, unlinked_lemmas=unlinked_lemmas, clash_log=clash_log)
                         #new_id, entry = make_entry(entity, cursor, wn_hyps, wd2entry)
                         #write_entry(f1, new_id, entry, args.curated)
 
@@ -223,7 +243,7 @@ if __name__ == "__main__":
 
                 wn_hyps = dedupe_hyps(wn_hyps, hyps)
 
-                process_entry(entity, cursor, wn_hyps, wd2entry, f, lexfiles, addendums)
+                process_entry(entity, cursor, wn_hyps, wd2entry, f, lexfiles, addendums, unlinked_lemmas=unlinked_lemmas, clash_log=clash_log)
 
     if not args.skip_taxons:
         wikidata_props = read_wikidata_with_prop_vals(cursor, "P31", ["Q16521"], "taxon_instances")
@@ -329,6 +349,7 @@ if __name__ == "__main__":
                         wn_hyps = json.loads(row[3])
                         if " " in sci_name:
                             process_entry(entity, cursor, wn_hyps, wd2entry, f, lexfiles, addendums,
+                                          unlinked_lemmas=unlinked_lemmas, clash_log=clash_log,
                                           inst=False)
                             #new_id, entry = make_entry(entity, cursor, wn_hyps, wd2entry,
                             #                           inst=False)
@@ -343,6 +364,7 @@ if __name__ == "__main__":
                                     childs.append(c + "-n")
 
                             process_entry(entity, cursor, wn_hyps, wd2entry, f, lexfiles, addendums,
+                                          unlinked_lemmas=unlinked_lemmas, clash_log=clash_log,
                                           lemmas=[f"{rank} {sci_name}", f"{sci_name}"],
                                           inst=False,
                                           mero=childs)
@@ -353,6 +375,14 @@ if __name__ == "__main__":
                             #write_entry(f, new_id, entry, args.curated)
 
         os.remove(f"{output_folder}/noun.taxon_working.csv")
+
+    # Report items not generated as they clash with unlinked OEWN synsets
+    os.makedirs(output_folder, exist_ok=True)
+    with open(f"{output_folder}/skipped_clashes.csv", "w", encoding="utf-8", newline="") as f:
+        writer = csv.writer(f)
+        writer.writerow(["QID", "Lemma", "OEWN synset"])
+        writer.writerows(clash_log)
+    print(f"Skipped {len(set(c[0] for c in clash_log))} Wikidata items whose lemmas clash with unlinked OEWN synsets (see {output_folder}/skipped_clashes.csv)")
 
     if args.update_addendums:
         os.makedirs(addendum_folder, exist_ok=True)

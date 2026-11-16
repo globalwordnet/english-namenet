@@ -1,6 +1,6 @@
 ### Link the species in WordNet to Wikidata using the taxonomy.
 import argparse
-from open_english_namenet import read_wikidata_with_prop_vals, WIKIDATA_DB, WORDNET_SOURCE, oewn_extract, wikidata_extract
+from open_english_namenet import read_wikidata_with_prop_vals, WIKIDATA_DB, WORDNET_SOURCE, wordnet_yaml_files, oewn_extract, wikidata_extract
 import sqlite3
 import json
 from collections import defaultdict
@@ -35,6 +35,7 @@ def get_wikidata_desc(cursor, qid):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Link species in WordNet to Wikidata using taxonomy.")
+    parser.add_argument("--oewn", type=str, help="Path to OEWN data", default=WORDNET_SOURCE)
     args = parser.parse_args()
 
     db = sqlite3.connect(WIKIDATA_DB)
@@ -51,7 +52,7 @@ if __name__ == "__main__":
     defs = {}
     wikidata_inv = {}
 
-    for file in tqdm([f"{WORDNET_SOURCE}/src/yaml/noun.plant.yaml", f"{WORDNET_SOURCE}/src/yaml/noun.animal.yaml"], desc="Loading WordNet data"):
+    for file in tqdm(wordnet_yaml_files(args.oewn, "noun.plant.yaml") + wordnet_yaml_files(args.oewn, "noun.animal.yaml"), desc="Loading WordNet data"):
         data = yaml.safe_load(open(file, "r"))
         for ssid, entry in data.items():
             defs[ssid] = entry.get("definition", [""])[0]
