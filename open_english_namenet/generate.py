@@ -105,7 +105,7 @@ def dedupe_hyps(wn_hyps, hyps):
                if not any(is_hyp(wh2, wh, hyps) for wh2 in wn_hyps if wh2 != wh)]
     return wn_hyps
 
-def find_taxon_hyps(qid, wd, wd2hypernym, rank, seen=set()):
+def find_taxon_hyps(qid, wdc, wd2hypernym, rank, seen=set()):
     if qid in seen:
         return []
     seen.add(qid)
@@ -114,13 +114,13 @@ def find_taxon_hyps(qid, wd, wd2hypernym, rank, seen=set()):
             return [wd2hypernym[qid]]
         else:
             return [h[0] for h in wd2hypernym[qid] if rank in h[1]]
-    data = wd.get_properties(qid)
+    data = wdc.get_properties(qid)
     if data is None:
         print(f"No properties for {qid}")
         return []
     if "P171" not in data:
         return []
-    return [t for parent in data["P171"] for t in find_taxon_hyps(parent, wd, wd2hypernym, rank, seen)]
+    return [t for parent in data["P171"] for t in find_taxon_hyps(parent, wdc, wd2hypernym, rank, seen)]
 
 
 if __name__ == "__main__":
@@ -160,7 +160,7 @@ if __name__ == "__main__":
 
     db = sqlite3.connect(args.wd)
     cursor = db.cursor()
-    wd = WikidataCache(cursor)
+    wdc = WikidataCache(cursor)
 
     output_folder = f"{args.output_folder}/automatic"
     addendum_folder = f"{args.output_folder}/addendum"
@@ -197,7 +197,7 @@ if __name__ == "__main__":
         wikidata_props = read_wikidata_with_prop_vals(cursor, "P31", overlaps_by_wikidata.keys(), "overlap_instances")
 
         # Humans and taxa are processed separately below
-        wd.prefetch({e for entities in wikidata_props.values() for e, superclazzes in entities.items()
+        wdc.prefetch({e for entities in wikidata_props.values() for e, superclazzes in entities.items()
                      if "Q5" not in superclazzes and "Q16521" not in superclazzes})
 
         seen = set()
@@ -219,7 +219,7 @@ if __name__ == "__main__":
                             continue
                         wn_hyps = [wh for superclazz in superclazzes for wh in overlaps_by_wikidata.get(superclazz, [])]
                         wn_hyps = dedupe_hyps(wn_hyps, hyps)
-                        process_entry(entity, wd, wn_hyps, wd2entry, f1, lexfiles, addendums, unlinked_lemmas=unlinked_lemmas, clash_log=clash_log)
+                        process_entry(entity, wdc, wn_hyps, wd2entry, f1, lexfiles, addendums, unlinked_lemmas=unlinked_lemmas, clash_log=clash_log)
                         #new_id, entry = make_entry(entity, cursor, wn_hyps, wd2entry)
                         #write_entry(f1, new_id, entry, args.curated)
 
@@ -238,9 +238,9 @@ if __name__ == "__main__":
         wikidata_props = read_wikidata_with_prop_vals(cursor, "P31", ["Q5"], "human_instances")
 
         with open(f"{output_folder}/noun.human.yaml", "w") as f:
-            for entity, superclazzes in tqdm(wd.iterate(wikidata_props.get("Q5", {}).items(), properties=["P21", "P106"]),
+            for entity, superclazzes in tqdm(wdc.iterate(wikidata_props.get("Q5", {}).items(), properties=["P21", "P106"]),
                                              desc="Processing humans", total=len(wikidata_props.get("Q5", {}))):
-                data = wd.get_properties(entity)
+                data = wdc.get_properties(entity)
                 if data is None:
                     continue
                 
@@ -257,13 +257,13 @@ if __name__ == "__main__":
 
                 wn_hyps = dedupe_hyps(wn_hyps, hyps)
 
-                process_entry(entity, wd, wn_hyps, wd2entry, f, lexfiles, addendums, unlinked_lemmas=unlinked_lemmas, clash_log=clash_log)
+                process_entry(entity, wdc, wn_hyps, wd2entry, f, lexfiles, addendums, unlinked_lemmas=unlinked_lemmas, clash_log=clash_log)
 
     if not args.skip_taxons:
         wikidata_props = read_wikidata_with_prop_vals(cursor, "P31", ["Q16521"], "taxon_instances")
 
-        wd.clear()
-        wd.prefetch(wikidata_props.get("Q16521", {}).keys(), labels=False, properties=["P171", "P105"], data_properties=["P225"])
+        wdc.clear()
+        wdc.prefetch(wikidata_props.get("Q16521", {}).keys(), labels=False, properties=["P171", "P105"], data_properties=["P225"])
 
         wd2hypernym = defaultdict(list)
 
@@ -298,7 +298,7 @@ if __name__ == "__main__":
             writer = csv.writer(f)
             for entity_superclazzes in tqdm(wikidata_props.get("Q16521", {}).items(), desc="Processing taxons"):
                 entity, superclazzes = entity_superclazzes
-                data = wd.get_properties(entity)
+                data = wdc.get_properties(entity)
                 if data is None:
                     print(f"No properties for {entity}")
                     continue
@@ -313,13 +313,13 @@ if __name__ == "__main__":
 
                 rank_qid = data["P105"][0]
 
-                rank = wd.get_label(rank_qid)
+                rank = wdc.get_label(rank_qid)
 
                 if not rank:
                     print(f"No label for rank {rank_qid} of {entity}")
                     continue
 
-                data_props = wd.get_data_properties(entity)
+                data_props = wdc.get_data_properties(entity)
 
                 if data_props is None:
                     #print(f"No data properties for {entity}")
@@ -335,11 +335,11 @@ if __name__ == "__main__":
                     words = sci_name.split(" ")
                     if (len(words) == 2 and words[0][0].isupper() and words[1][0].islower()) or \
                             (len(words) == 3 and words[0][0].isupper() and words[1][0].islower() and words[2][0].islower()):
-                        wn_hyps = find_taxon_hyps(entity, wd, taxon2common, "")
+                        wn_hyps = find_taxon_hyps(entity, wdc, taxon2common, "")
                         wn_hyps = dedupe_hyps(wn_hyps, hyps)
                     writer.writerow([entity, sci_name, rank, json.dumps(wn_hyps)])
                 else:
-                    wn_hyps = find_taxon_hyps(entity, wd, wd2hypernym, rank)
+                    wn_hyps = find_taxon_hyps(entity, wdc, wd2hypernym, rank)
                     wn_hyps = dedupe_hyps(wn_hyps, hyps)
                     if not wn_hyps:
                         wn_hyps = ["08008892-n"]
@@ -349,8 +349,8 @@ if __name__ == "__main__":
         # The labels and descriptions are needed to write the taxa
         with open(f"{output_folder}/noun.taxon_working.csv", "r") as f_csv:
             taxon_qids = {row[0] for row in csv.reader(f_csv)}
-        wd.clear()
-        wd.prefetch(taxon_qids)
+        wdc.clear()
+        wdc.prefetch(taxon_qids)
 
         with open(f"{output_folder}/noun.taxon.yaml", "w") as f:
             with open(f"{output_folder}/noun.species.yaml", "w") as f_species:
@@ -364,7 +364,7 @@ if __name__ == "__main__":
                         rank = row[2]
                         wn_hyps = json.loads(row[3])
                         if " " in sci_name:
-                            process_entry(entity, wd, wn_hyps, wd2entry, f, lexfiles, addendums,
+                            process_entry(entity, wdc, wn_hyps, wd2entry, f, lexfiles, addendums,
                                           unlinked_lemmas=unlinked_lemmas, clash_log=clash_log,
                                           inst=False)
                             #new_id, entry = make_entry(entity, cursor, wn_hyps, wd2entry,
@@ -379,7 +379,7 @@ if __name__ == "__main__":
                                 else:
                                     childs.append(c + "-e")
 
-                            process_entry(entity, wd, wn_hyps, wd2entry, f, lexfiles, addendums,
+                            process_entry(entity, wdc, wn_hyps, wd2entry, f, lexfiles, addendums,
                                           unlinked_lemmas=unlinked_lemmas, clash_log=clash_log,
                                           lemmas=[f"{rank} {sci_name}", f"{sci_name}"],
                                           inst=False,
