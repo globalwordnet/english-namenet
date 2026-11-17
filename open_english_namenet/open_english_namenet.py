@@ -222,10 +222,104 @@ def read_wikidata_with_prop_vals(cursor, prop, values, key=None):
         return results
 
 
+class WikidataCache:
+    """
+    Holds the Wikidata data for a known set of items, read with a few
+    sequential scans of the database tables. Looking items up one at a time in
+    the (very large) database is orders of magnitude slower, as every lookup is
+    a random read. Items that were not prefetched fall back to a query.
+    """
+    def __init__(self, cursor):
+        self.cursor = cursor
+        self.labels = {}
+        self.descriptions = {}
+        self.properties = {}
+        self.data_properties = {}
+        self._fetched = {}
+
+    def _scan(self, table, column, qids, convert=lambda x: x):
+        out = {}
+        self.cursor.execute(f"SELECT COUNT(*) FROM {table}")
+        total = self.cursor.fetchone()[0]
+        self.cursor.execute(f"SELECT qid, {column} FROM {table}")
+        for qid, value in tqdm(fetch_in_chunks(self.cursor, 100000), desc=f"Reading {table}", total=total):
+            if qid in qids:
+                out[qid] = convert(value)
+        return out
+
+    def prefetch(self, qids, labels=True, properties=(), data_properties=()):
+        """
+        Read the label and description of `qids`, and the given properties
+        (only those are kept, to save memory) from `properties` and `data_properties`.
+        """
+        qids = set(qids)
+        if labels:
+            self.labels.update(self._scan("labels_en", "label", qids))
+            self.descriptions.update(self._scan("descriptions_en", "description", qids))
+        if properties:
+            keep = set(properties)
+            self.properties.update(self._scan("properties", "properties", qids,
+                lambda v: {k: x for k, x in json.loads(v).items() if k in keep}))
+        if data_properties:
+            keep = set(data_properties)
+            self.data_properties.update(self._scan("data_properties", "data_properties", qids,
+                lambda v: {k: x for k, x in json.loads(v).items() if k in keep}))
+
+    def clear(self):
+        self.labels.clear()
+        self.descriptions.clear()
+        self.properties.clear()
+        self.data_properties.clear()
+        self._fetched.clear()
+
+    def iterate(self, items, size=2000000, **prefetch_args):
+        """
+        Yield `items` (pairs whose first element is a QID), prefetching the data
+        for each block of `size` items, so that memory use stays bounded.
+        """
+        items = list(items)
+        for start in range(0, len(items), size):
+            block = items[start:start + size]
+            self.clear()
+            self.prefetch([item[0] for item in block], **prefetch_args)
+            yield from block
+        self.clear()
+
+    def get_labels_and_defn(self, qid):
+        if qid in self.labels or qid in self.descriptions:
+            return json.loads(self.labels[qid]) if qid in self.labels else [], self.descriptions.get(qid, "")
+        if qid not in self._fetched:
+            self._fetched[qid] = get_labels_and_defn(qid, self.cursor)
+        return self._fetched[qid]
+
+    def get_label(self, qid):
+        """The first English label of an item, or None"""
+        labels, _ = self.get_labels_and_defn(qid)
+        return labels[0] if labels else None
+
+    def get_properties(self, qid):
+        """The (prefetched) properties of an item, or None if it has none"""
+        if qid in self.properties:
+            return self.properties[qid]
+        self.cursor.execute("SELECT properties FROM properties WHERE qid = ?", (qid,))
+        result = self.cursor.fetchone()
+        return json.loads(result[0]) if result else None
+
+    def get_data_properties(self, qid):
+        if qid in self.data_properties:
+            return self.data_properties[qid]
+        self.cursor.execute("SELECT data_properties FROM data_properties WHERE qid = ?", (qid,))
+        result = self.cursor.fetchone()
+        return json.loads(result[0]) if result else None
+
+
 def get_labels_and_defn(qid, cursor):
     """
     Fetch the English label and description for a given Wikidata QID.
+    `cursor` may also be a `WikidataCache`.
     """
+    if isinstance(cursor, WikidataCache):
+        return cursor.get_labels_and_defn(qid)
     cursor.execute("SELECT label FROM labels_en WHERE qid = ?", (qid,))
     result = cursor.fetchone()
     labels = json.loads(result[0]) if result else []
