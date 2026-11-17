@@ -45,8 +45,9 @@ class ClashTest(unittest.TestCase):
         out, log = io.StringIO(), []
         new_id, entry = generate.process_entry("Q1", cursor, ["00000002-n"], {}, out, {}, {},
                                                unlinked_lemmas={"September": ["15200000-n"]}, clash_log=log)
-        self.assertEqual(new_id, "Q1-n")
-        self.assertIn("Q1-n", out.getvalue())
+        self.assertEqual(new_id, "Q1-e")
+        self.assertIn("Q1-e", out.getvalue())
+        self.assertEqual(entry["partOfSpeech"], "e")
         self.assertEqual(log, [])
 
     def test_linked_item_not_affected_by_clash(self):

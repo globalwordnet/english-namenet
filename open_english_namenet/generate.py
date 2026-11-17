@@ -8,7 +8,7 @@ import csv
 import os
 import pickle
 import argparse
-from open_english_namenet import WIKIDATA_DB, WORDNET_SOURCE, load_wordnet_data, fetch_in_chunks, read_wikidata_with_prop_vals, get_labels_and_defn, oewn_extract, wikidata_extract
+from open_english_namenet import WIKIDATA_DB, WORDNET_SOURCE, load_wordnet_data, load_deprecations, make_ssid_resolver, fetch_in_chunks, read_wikidata_with_prop_vals, get_labels_and_defn, oewn_extract, wikidata_extract
 from glob import glob
 
 
@@ -70,13 +70,13 @@ def process_entry(qid, cursor, hyps, wd2entry, f, lexfiles, addendum, lemmas=[],
             if clash_log is not None:
                 clash_log.extend((qid, lemma, ssid) for lemma, ssid in clashes)
             return (None, None)
-        new_id = qid + "-n"
+        new_id = qid + "-e"
         if inst:
             entry = {
                 "definition": [definition],
                 "instance_hypernym": hyps,
                 "members": lemmas if lemmas else label,
-                "partOfSpeech": "n",
+                "partOfSpeech": "e",
                 "wikidata": qid
             }
         else:
@@ -84,7 +84,7 @@ def process_entry(qid, cursor, hyps, wd2entry, f, lexfiles, addendum, lemmas=[],
                 "definition": [definition],
                 "hypernym": hyps,
                 "members": lemmas if lemmas else label,
-                "partOfSpeech": "n",
+                "partOfSpeech": "e",
                 "wikidata": qid
             }
         if mero:
@@ -144,7 +144,16 @@ if __name__ == "__main__":
     wikidata_links, hyps, wn_lemmas, wd2entry, lexfiles, unlinked_lemmas = load_wordnet_data(with_wd2data=True, with_lexfiles=True, wordnet_source=args.oewn, with_unlinked_lemmas=True)
     clash_log = []
 
-    wn_lemmas['09596003-n'] = "Titaness"
+    # IDs in the manually reviewed files may predate OEWN changes (names are now '-e', merged synsets are deprecated)
+    resolve_ssid = make_ssid_resolver(set(wn_lemmas), load_deprecations(args.oewn))
+    unresolved_ssids = defaultdict(set)
+
+    def resolve_reviewed(ssid, source):
+        resolved = resolve_ssid(ssid)
+        if resolved is None and ssid:
+            unresolved_ssids[source].add(ssid)
+        return resolved
+
 
     # Invert wd2entry to entry2wd
     entry2wd = {}
@@ -156,6 +165,7 @@ if __name__ == "__main__":
 
     output_folder = f"{args.output_folder}/automatic"
     addendum_folder = f"{args.output_folder}/addendum"
+    os.makedirs(output_folder, exist_ok=True)
 
     # Load addendums
     addendums = {}
@@ -174,8 +184,10 @@ if __name__ == "__main__":
             reader = csv.DictReader(f)
             for row in reader:
                 if row["Accept"].strip().upper() == "TRUE":
-                    oewn_id = oewn_extract(row["SSID"].strip())
+                    oewn_id = resolve_reviewed(oewn_extract(row["SSID"].strip()), args.overlaps)
                     wikidata_id = wikidata_extract(row["QID"])
+                    if oewn_id is None:
+                        continue
                     overlaps_by_wikidata[wikidata_id].append(oewn_id)
                     overlaps_by_oewn[oewn_id].append(wikidata_id)
 
@@ -216,8 +228,9 @@ if __name__ == "__main__":
             reader = csv.DictReader(f)
             for row in reader:
                 qid = wikidata_extract(row["QID"])
-                oewn = oewn_extract(row["Linked"])
-                occupation_by_qid[qid].append(oewn)
+                oewn = resolve_reviewed(oewn_extract(row["Linked"]), args.linked_occupations)
+                if oewn is not None:
+                    occupation_by_qid[qid].append(oewn)
 
         wikidata_props = read_wikidata_with_prop_vals(cursor, "P31", ["Q5"], "human_instances")
 
@@ -256,7 +269,9 @@ if __name__ == "__main__":
             for row in reader:
                 if len(row["Wikidata"].strip()) > 2:
                     qids = [wikidata_extract(qid.strip()) for qid in row["Wikidata"].strip().split(",")]
-                    oewn = oewn_extract(row["SSID"].strip())
+                    oewn = resolve_reviewed(oewn_extract(row["SSID"].strip()), args.taxon_ssids)
+                    if oewn is None:
+                        continue
                     for qid in qids:
                         wd2hypernym[qid].append((oewn, row["Lemma"].strip()))
 
@@ -265,9 +280,9 @@ if __name__ == "__main__":
         with open(args.taxon2common, "r") as f:
             reader = csv.DictReader(f)
             for row in reader:
-                taxon_ssid = oewn_extract(row["SSID 1"].strip())
-                common_ssid = oewn_extract(row["SSID 2"].strip())
-                if row["Accept"] == "TRUE" and taxon_ssid in entry2wd:
+                taxon_ssid = resolve_reviewed(oewn_extract(row["SSID 1"].strip()), args.taxon2common)
+                common_ssid = resolve_reviewed(oewn_extract(row["SSID 2"].strip()), args.taxon2common)
+                if row["Accept"] == "TRUE" and taxon_ssid in entry2wd and common_ssid:
                     if entry2wd[taxon_ssid] in taxon2common:
                         print(f"Warning: Duplicate taxon {taxon_ssid} as {common_ssid} and {taxon2common[entry2wd[taxon_ssid]]}")
                     taxon2common[entry2wd[taxon_ssid]] = common_ssid
@@ -361,7 +376,7 @@ if __name__ == "__main__":
                                 if c in wd2entry:
                                     childs.append(wd2entry[c][0])
                                 else:
-                                    childs.append(c + "-n")
+                                    childs.append(c + "-e")
 
                             process_entry(entity, cursor, wn_hyps, wd2entry, f, lexfiles, addendums,
                                           unlinked_lemmas=unlinked_lemmas, clash_log=clash_log,
@@ -375,6 +390,9 @@ if __name__ == "__main__":
                             #write_entry(f, new_id, entry, args.curated)
 
         os.remove(f"{output_folder}/noun.taxon_working.csv")
+
+    for source, ssids in unresolved_ssids.items():
+        print(f"Warning: {len(ssids)} synset IDs in {source} do not exist in OEWN and are not deprecated: {sorted(ssids)[:5]}")
 
     # Report items not generated as they clash with unlinked OEWN synsets
     os.makedirs(output_folder, exist_ok=True)

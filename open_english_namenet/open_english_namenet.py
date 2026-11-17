@@ -5,6 +5,7 @@ import os
 import sys
 import pickle
 import json
+import csv
 from collections import defaultdict
 # Common utility code
 
@@ -104,7 +105,10 @@ def load_wordnet_data(with_wd2data=False, with_lexfiles=False, wordnet_source=No
                     else:
                         wikidata_links[ssid] = entry["wikidata"]
                     for wd in wikidata_links[ssid]:
-                        wd2data[wd] = (ssid, entry)
+                        # A name (-e) and a common noun synset may share a QID;
+                        # Wikidata items are attached to the name
+                        if wd not in wd2data or not wd2data[wd][0].endswith("-e") or ssid.endswith("-e"):
+                            wd2data[wd] = (ssid, entry)
                 else:
                     for lemma in entry["members"]:
                         unlinked_lemmas[lemma].append(ssid)
@@ -121,6 +125,40 @@ def load_wordnet_data(with_wd2data=False, with_lexfiles=False, wordnet_source=No
     if with_unlinked_lemmas:
         result.append(unlinked_lemmas)
     return tuple(result)
+
+
+def load_deprecations(wordnet_source=None):
+    """
+    Read OEWN's deprecations.csv as a map from deprecated synset ID to the ID that supersedes it.
+    """
+    path = os.path.join(wordnet_source or WORDNET_SOURCE, "src", "deprecations.csv")
+    deprecations = {}
+    if os.path.exists(path):
+        with open(path, encoding="utf-8", newline="") as f:
+            for row in csv.DictReader(f):
+                old, new = oewn_extract(row["ID"]), oewn_extract(row["SUPERSEDED_BY"])
+                if old and new:
+                    deprecations[old] = new
+    return deprecations
+
+def make_ssid_resolver(ssids, deprecations):
+    """
+    Returns a function that maps a synset ID from manually reviewed data to the
+    current OEWN ID: IDs that exist are unchanged, a `-n` ID that is now a name
+    becomes the `-e` ID, and deprecated IDs are replaced by the synset that
+    supersedes them. Returns None if no current synset can be found.
+    """
+    def resolve(ssid):
+        seen = set()
+        while ssid and ssid not in seen:
+            if ssid in ssids:
+                return ssid
+            seen.add(ssid)
+            if ssid.endswith("-n") and ssid[:-1] + "e" in ssids:
+                return ssid[:-1] + "e"
+            ssid = deprecations.get(ssid)
+        return None
+    return resolve
 
 
 def fetch_in_chunks(cursor, size=1000):
@@ -203,7 +241,7 @@ def oewn_extract(oewn):
     """
     oewn = oewn[-10:]  # Ensure we only take the last 10 characters
     # Check that the form of the OEWN is eight digits, a hyphen and a letter (n, v, a, or r)
-    if len(oewn) == 10 and oewn[8] == '-' and oewn[9] in 'nvar' and oewn[:8].isdigit():
+    if len(oewn) == 10 and oewn[8] == '-' and oewn[9] in 'nvare' and oewn[:8].isdigit():
         return oewn
     else:
         return None
