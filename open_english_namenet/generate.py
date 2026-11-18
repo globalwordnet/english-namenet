@@ -93,11 +93,13 @@ def process_entry(qid, cursor, hyps, wd2entry, f, lexfiles, addendum, lemmas=[],
         return new_id, entry
 
 def is_hyp(ssid1, ssid2, hyps):
-    if ssid1 not in hyps:
-        return False
-    if ssid2 in hyps.get(ssid1, []):
-        return True
-    return any(is_hyp(hyp, ssid2, hyps) for hyp in hyps.get(ssid1, []))
+    """
+    Is ssid2 a hypernym of ssid1? `hyps` is the transitive closure of the
+    hypernym relation (see `calculate_transitive_hyps`), so this is a lookup.
+    (Recursing through the closure, as was done before, took milliseconds per
+    call and made humans take 16 hours.)
+    """
+    return ssid2 in hyps.get(ssid1, ())
 
 def dedupe_hyps(wn_hyps, hyps):
     wn_hyps = sorted(list(set(wn_hyps)))
