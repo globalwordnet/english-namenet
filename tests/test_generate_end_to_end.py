@@ -40,10 +40,14 @@ class EndToEndTest(unittest.TestCase):
                 "Q200": ("Jane Doe", "a writer", {"P31": ["Q5"], "P21": ["Q6581072"], "P106": ["Q300"]}),
                 "Q500": ("lion", "big cat", {"P31": ["Q16521"], "P105": ["Q7432"], "P171": ["Q501"]}),
                 "Q501": ("Panthera", "genus of cats", {"P31": ["Q16521"], "P105": ["Q34740"]}),
+                "Q502": ("tiger", "big cat", {"P31": ["Q16521"], "P105": ["Q7432"], "P171": ["Q501"]}),
+                "Q503": ("hybrid", "a hybrid", {"P31": ["Q16521"], "P105": ["Q7432"], "P171": ["Q501"]}),
                 "Q7432": ("species", "taxonomic rank", {}),
                 "Q34740": ("genus", "taxonomic rank", {}),
             }
-            data_properties = {"Q500": {"P225": [["Panthera leo", "x"]]}, "Q501": {"P225": [["Panthera", "x"]]}}
+            data_properties = {"Q500": {"P225": [["Panthera leo", "x"]]}, "Q501": {"P225": [["Panthera", "x"]]},
+                               "Q502": {"P225": [["Panthera  tigris", "x"]]},  # double space
+                               "Q503": {"P225": [["Panthera leo × tigris", "x"]]}}  # not a binomial
             for qid, (label, desc, props) in items.items():
                 db.execute("insert into properties values (?, ?)", (qid, json.dumps(props)))
                 db.execute("insert into labels_en values (?, ?)", (qid, json.dumps([label])))
@@ -68,10 +72,12 @@ class EndToEndTest(unittest.TestCase):
             self.assertIn("00000002-n", human["Q200-e"]["instance_hypernym"])
 
             taxa = yaml.safe_load(open(f"{tmp}/data/automatic/noun.taxon.yaml"))
-            self.assertEqual(sorted(taxa), ["Q500-e", "Q501-e"])
+            self.assertEqual(sorted(taxa), ["Q500-e", "Q501-e", "Q502-e"])  # the hybrid is skipped
+            self.assertEqual(taxa["Q502-e"]["members"], ["tiger"])
+            self.assertIn("Skipped 1 taxa", result.stdout)
             self.assertEqual(taxa["Q501-e"]["members"], ["genus Panthera", "Panthera"])
             self.assertEqual(taxa["Q501-e"]["hypernym"], ["08008892-n"])
-            self.assertEqual(taxa["Q501-e"]["mero_member"], ["Q500-e"])
+            self.assertEqual(sorted(taxa["Q501-e"]["mero_member"]), ["Q500-e", "Q502-e"])  # not the skipped Q503
             self.assertEqual(taxa["Q500-e"]["partOfSpeech"], "e")
 
             clashes = open(f"{tmp}/data/automatic/skipped_clashes.csv").read()

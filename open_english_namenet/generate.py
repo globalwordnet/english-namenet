@@ -293,6 +293,7 @@ if __name__ == "__main__":
 
 
         children = defaultdict(list)
+        skipped_taxon_names = 0
 
         with open(f"{output_folder}/noun.taxon_working.csv", "w") as f:
             writer = csv.writer(f)
@@ -329,14 +330,20 @@ if __name__ == "__main__":
                     #print(f"No scientific name for {entity}")
                     continue
 
-                sci_name = data_props["P225"][0][0]
+                # Some scientific names have repeated or stray spaces
+                sci_name = " ".join(data_props["P225"][0][0].split())
+                if not sci_name:
+                    continue
 
                 if " " in sci_name:
                     words = sci_name.split(" ")
-                    if (len(words) == 2 and words[0][0].isupper() and words[1][0].islower()) or \
-                            (len(words) == 3 and words[0][0].isupper() and words[1][0].islower() and words[2][0].islower()):
-                        wn_hyps = find_taxon_hyps(entity, wdc, taxon2common, "")
-                        wn_hyps = dedupe_hyps(wn_hyps, hyps)
+                    if not ((len(words) == 2 and words[0][0].isupper() and words[1][0].islower()) or
+                            (len(words) == 3 and words[0][0].isupper() and words[1][0].islower() and words[2][0].islower())):
+                        # Not a binomial or trinomial (e.g., a hybrid or cultivar)
+                        skipped_taxon_names += 1
+                        continue
+                    wn_hyps = find_taxon_hyps(entity, wdc, taxon2common, "")
+                    wn_hyps = dedupe_hyps(wn_hyps, hyps)
                     writer.writerow([entity, sci_name, rank, json.dumps(wn_hyps)])
                 else:
                     wn_hyps = find_taxon_hyps(entity, wdc, wd2hypernym, rank)
@@ -345,6 +352,8 @@ if __name__ == "__main__":
                         wn_hyps = ["08008892-n"]
                 
                     writer.writerow([entity, sci_name, rank, json.dumps(wn_hyps)])
+
+        print(f"Skipped {skipped_taxon_names} taxa whose scientific name is not a binomial or trinomial")
 
         # The labels and descriptions are needed to write the taxa
         with open(f"{output_folder}/noun.taxon_working.csv", "r") as f_csv:
@@ -376,7 +385,8 @@ if __name__ == "__main__":
                             for c in children.get(entity, []):
                                 if c in wd2entry:
                                     childs.append(wd2entry[c][0])
-                                else:
+                                elif c in taxon_qids:
+                                    # Only children that are generated (some taxa are skipped above)
                                     childs.append(c + "-e")
 
                             process_entry(entity, wdc, wn_hyps, wd2entry, f, lexfiles, addendums,
