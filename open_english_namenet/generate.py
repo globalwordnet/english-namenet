@@ -19,6 +19,36 @@ def find_clashes(members, unlinked_lemmas):
     """
     return [(lemma, ssid) for lemma in members for ssid in unlinked_lemmas.get(lemma, [])]
 
+# Generated files are lexicographer files for names; EWE requires the "name." prefix for
+# part of speech "e", and "namenet_" keeps them from overwriting OEWN's own name.*.yaml files
+LEXFILE_PREFIX = "name.namenet_"
+MISC_LEXFILE = LEXFILE_PREFIX + "misc.yaml"
+
+
+def consolidate_files(output_folder, min_size):
+    """Delete empty generated lexicographer files and merge files smaller than min_size
+    bytes into one miscellaneous file. Returns (n_empty, n_merged)."""
+    paths = sorted(glob(f"{output_folder}/{LEXFILE_PREFIX}*.yaml"))
+    n_empty, small = 0, []
+    for path in paths:
+        size = os.path.getsize(path)
+        if size == 0:
+            os.remove(path)
+            n_empty += 1
+        elif size < min_size and os.path.basename(path) != MISC_LEXFILE:
+            small.append(path)
+    if small:
+        # Entries are unique per file (each Wikidata item is written once), so the YAML
+        # mappings can simply be concatenated
+        with open(f"{output_folder}/{MISC_LEXFILE}", "w", encoding="utf-8") as out:
+            for path in small:
+                with open(path, encoding="utf-8") as f:
+                    text = f.read()
+                out.write(text if text.endswith("\n") else text + "\n")
+                os.remove(path)
+    return n_empty, len(small)
+
+
 def process_entry(qid, cursor, hyps, wd2entry, f, lexfiles, addendum, lemmas=[], inst=True, mero=[],
                   unlinked_lemmas=None, clash_log=None):
     """
@@ -137,6 +167,7 @@ if __name__ == "__main__":
     parser.add_argument("--skip_overlaps", action="store_true", help="Skip processing overlaps")
     parser.add_argument("--skip_humans", action="store_true", help="Skip processing humans")
     parser.add_argument("--skip_taxons", action="store_true", help="Skip processing taxons")
+    parser.add_argument("--min_file_size", type=int, default=100000, help="Merge generated files smaller than this many bytes into one miscellaneous file (0 to disable)")
     parser.add_argument("--update_addendums", action="store_true", help="Update addendums")
     args = parser.parse_args()
 
@@ -203,6 +234,7 @@ if __name__ == "__main__":
                      if "Q5" not in superclazzes and "Q16521" not in superclazzes})
 
         seen = set()
+        lemma_files = set()
 
         print("Human in set", "Q5" in overlaps_by_wikidata)
 
@@ -211,7 +243,10 @@ if __name__ == "__main__":
             lemma = wn_lemmas[wn_hyp].replace(' ', '_').lower()
             if "," in lemma:
                 lemma = lemma.split(",")[0]
-            with open(f"{output_folder}/noun.{lemma}.yaml", "w") as f1:
+            # Several synsets can share a lemma, so only truncate the file the first time
+            lemma_path = f"{output_folder}/{LEXFILE_PREFIX}{lemma}.yaml"
+            with open(lemma_path, "a" if lemma_path in lemma_files else "w") as f1:
+                lemma_files.add(lemma_path)
                 for wd in wds:
                     for entity, superclazzes in tqdm(wikidata_props.get(wd, {}).items(), desc=f"Processing {lemma} -> {wd}", position=1, leave=False):
                         if entity in seen:
@@ -239,7 +274,7 @@ if __name__ == "__main__":
 
         wikidata_props = read_wikidata_with_prop_vals(cursor, "P31", ["Q5"], "human_instances")
 
-        with open(f"{output_folder}/noun.human.yaml", "w") as f:
+        with open(f"{output_folder}/{LEXFILE_PREFIX}human.yaml", "w") as f:
             for entity, superclazzes in tqdm(wdc.iterate(wikidata_props.get("Q5", {}).items(), properties=["P21", "P106"]),
                                              desc="Processing humans", total=len(wikidata_props.get("Q5", {}))):
                 data = wdc.get_properties(entity)
@@ -363,8 +398,8 @@ if __name__ == "__main__":
         wdc.clear()
         wdc.prefetch(taxon_qids)
 
-        with open(f"{output_folder}/noun.taxon.yaml", "w") as f:
-            with open(f"{output_folder}/noun.species.yaml", "w") as f_species:
+        with open(f"{output_folder}/{LEXFILE_PREFIX}taxon.yaml", "w") as f:
+            with open(f"{output_folder}/{LEXFILE_PREFIX}species.yaml", "w") as f_species:
                 csv_line_count = sum(1 for line in open(f"{output_folder}/noun.taxon_working.csv"))
                 with open(f"{output_folder}/noun.taxon_working.csv", "r") as f_csv:
                     reader = csv.reader(f_csv)
@@ -403,6 +438,10 @@ if __name__ == "__main__":
                             #write_entry(f, new_id, entry, args.curated)
 
         os.remove(f"{output_folder}/noun.taxon_working.csv")
+
+    if args.min_file_size > 0:
+        n_empty, n_merged = consolidate_files(output_folder, args.min_file_size)
+        print(f"Removed {n_empty} empty files and merged {n_merged} small files into {MISC_LEXFILE}")
 
     for source, ssids in unresolved_ssids.items():
         print(f"Warning: {len(ssids)} synset IDs in {source} do not exist in OEWN and are not deprecated: {sorted(ssids)[:5]}")

@@ -58,20 +58,20 @@ class EndToEndTest(unittest.TestCase):
             db.close()
             result = subprocess.run(
                 [sys.executable, f"{ROOT}/open_english_namenet/generate.py", "--oewn", f"{tmp}/oewn",
-                 "--wd", f"{tmp}/wd.db"],
+                 "--wd", f"{tmp}/wd.db", "--min_file_size", "0"],
                 cwd=tmp, capture_output=True, text=True)
             self.assertEqual(result.returncode, 0, result.stderr[-2000:])
 
-            city = yaml.safe_load(open(f"{tmp}/data/automatic/noun.city.yaml"))
+            city = yaml.safe_load(open(f"{tmp}/data/automatic/name.namenet_city.yaml"))
             self.assertEqual(list(city), ["Q100-e"])
             self.assertEqual(city["Q100-e"]["partOfSpeech"], "e")
             self.assertEqual(city["Q100-e"]["instance_hypernym"], ["00000001-n"])
 
-            human = yaml.safe_load(open(f"{tmp}/data/automatic/noun.human.yaml"))
+            human = yaml.safe_load(open(f"{tmp}/data/automatic/name.namenet_human.yaml"))
             self.assertEqual(list(human), ["Q200-e"])
             self.assertIn("00000002-n", human["Q200-e"]["instance_hypernym"])
 
-            taxa = yaml.safe_load(open(f"{tmp}/data/automatic/noun.taxon.yaml"))
+            taxa = yaml.safe_load(open(f"{tmp}/data/automatic/name.namenet_taxon.yaml"))
             self.assertEqual(sorted(taxa), ["Q500-e", "Q501-e", "Q502-e"])  # the hybrid is skipped
             self.assertEqual(taxa["Q502-e"]["members"], ["tiger"])
             self.assertIn("Skipped 1 taxa", result.stdout)
