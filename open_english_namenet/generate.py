@@ -8,7 +8,7 @@ import csv
 import os
 import pickle
 import argparse
-from open_english_namenet import WIKIDATA_DB, WORDNET_SOURCE, load_wordnet_data, fetch_in_chunks, read_wikidata_with_prop_vals, get_labels_and_defn, oewn_extract, wikidata_extract
+from open_english_namenet import WIKIDATA_DB, WORDNET_SOURCE, load_wordnet_data, load_deprecations, make_ssid_resolver, fetch_in_chunks, read_wikidata_with_prop_vals, WikidataCache, get_labels_and_defn, oewn_extract, wikidata_extract
 from glob import glob
 
 
@@ -18,6 +18,36 @@ def find_clashes(members, unlinked_lemmas):
     Wikidata link. Returns a list of (lemma, synset ID) pairs.
     """
     return [(lemma, ssid) for lemma in members for ssid in unlinked_lemmas.get(lemma, [])]
+
+# Generated files are lexicographer files for names; EWE requires the "name." prefix for
+# part of speech "e", and "namenet_" keeps them from overwriting OEWN's own name.*.yaml files
+LEXFILE_PREFIX = "name.namenet_"
+MISC_LEXFILE = LEXFILE_PREFIX + "misc.yaml"
+
+
+def consolidate_files(output_folder, min_size):
+    """Delete empty generated lexicographer files and merge files smaller than min_size
+    bytes into one miscellaneous file. Returns (n_empty, n_merged)."""
+    paths = sorted(glob(f"{output_folder}/{LEXFILE_PREFIX}*.yaml"))
+    n_empty, small = 0, []
+    for path in paths:
+        size = os.path.getsize(path)
+        if size == 0:
+            os.remove(path)
+            n_empty += 1
+        elif size < min_size and os.path.basename(path) != MISC_LEXFILE:
+            small.append(path)
+    if small:
+        # Entries are unique per file (each Wikidata item is written once), so the YAML
+        # mappings can simply be concatenated
+        with open(f"{output_folder}/{MISC_LEXFILE}", "w", encoding="utf-8") as out:
+            for path in small:
+                with open(path, encoding="utf-8") as f:
+                    text = f.read()
+                out.write(text if text.endswith("\n") else text + "\n")
+                os.remove(path)
+    return n_empty, len(small)
+
 
 def process_entry(qid, cursor, hyps, wd2entry, f, lexfiles, addendum, lemmas=[], inst=True, mero=[],
                   unlinked_lemmas=None, clash_log=None):
@@ -70,13 +100,13 @@ def process_entry(qid, cursor, hyps, wd2entry, f, lexfiles, addendum, lemmas=[],
             if clash_log is not None:
                 clash_log.extend((qid, lemma, ssid) for lemma, ssid in clashes)
             return (None, None)
-        new_id = qid + "-n"
+        new_id = qid + "-e"
         if inst:
             entry = {
                 "definition": [definition],
                 "instance_hypernym": hyps,
                 "members": lemmas if lemmas else label,
-                "partOfSpeech": "n",
+                "partOfSpeech": "e",
                 "wikidata": qid
             }
         else:
@@ -84,7 +114,7 @@ def process_entry(qid, cursor, hyps, wd2entry, f, lexfiles, addendum, lemmas=[],
                 "definition": [definition],
                 "hypernym": hyps,
                 "members": lemmas if lemmas else label,
-                "partOfSpeech": "n",
+                "partOfSpeech": "e",
                 "wikidata": qid
             }
         if mero:
@@ -93,11 +123,13 @@ def process_entry(qid, cursor, hyps, wd2entry, f, lexfiles, addendum, lemmas=[],
         return new_id, entry
 
 def is_hyp(ssid1, ssid2, hyps):
-    if ssid1 not in hyps:
-        return False
-    if ssid2 in hyps.get(ssid1, []):
-        return True
-    return any(is_hyp(hyp, ssid2, hyps) for hyp in hyps.get(ssid1, []))
+    """
+    Is ssid2 a hypernym of ssid1? `hyps` is the transitive closure of the
+    hypernym relation (see `calculate_transitive_hyps`), so this is a lookup.
+    (Recursing through the closure, as was done before, took milliseconds per
+    call and made humans take 16 hours.)
+    """
+    return ssid2 in hyps.get(ssid1, ())
 
 def dedupe_hyps(wn_hyps, hyps):
     wn_hyps = sorted(list(set(wn_hyps)))
@@ -105,7 +137,7 @@ def dedupe_hyps(wn_hyps, hyps):
                if not any(is_hyp(wh2, wh, hyps) for wh2 in wn_hyps if wh2 != wh)]
     return wn_hyps
 
-def find_taxon_hyps(qid, cursor, wd2hypernym, rank, seen=set()):
+def find_taxon_hyps(qid, wdc, wd2hypernym, rank, seen=set()):
     if qid in seen:
         return []
     seen.add(qid)
@@ -114,15 +146,13 @@ def find_taxon_hyps(qid, cursor, wd2hypernym, rank, seen=set()):
             return [wd2hypernym[qid]]
         else:
             return [h[0] for h in wd2hypernym[qid] if rank in h[1]]
-    cursor.execute("SELECT properties FROM properties WHERE qid = ?", (qid,))
-    result = cursor.fetchone()
-    if not result:
+    data = wdc.get_properties(qid)
+    if data is None:
         print(f"No properties for {qid}")
         return []
-    data = json.loads(result[0])
     if "P171" not in data:
         return []
-    return [t for parent in data["P171"] for t in find_taxon_hyps(parent, cursor, wd2hypernym, rank, seen)]
+    return [t for parent in data["P171"] for t in find_taxon_hyps(parent, wdc, wd2hypernym, rank, seen)]
 
 
 if __name__ == "__main__":
@@ -137,6 +167,7 @@ if __name__ == "__main__":
     parser.add_argument("--skip_overlaps", action="store_true", help="Skip processing overlaps")
     parser.add_argument("--skip_humans", action="store_true", help="Skip processing humans")
     parser.add_argument("--skip_taxons", action="store_true", help="Skip processing taxons")
+    parser.add_argument("--min_file_size", type=int, default=100000, help="Merge generated files smaller than this many bytes into one miscellaneous file (0 to disable)")
     parser.add_argument("--update_addendums", action="store_true", help="Update addendums")
     args = parser.parse_args()
 
@@ -144,7 +175,16 @@ if __name__ == "__main__":
     wikidata_links, hyps, wn_lemmas, wd2entry, lexfiles, unlinked_lemmas = load_wordnet_data(with_wd2data=True, with_lexfiles=True, wordnet_source=args.oewn, with_unlinked_lemmas=True)
     clash_log = []
 
-    wn_lemmas['09596003-n'] = "Titaness"
+    # IDs in the manually reviewed files may predate OEWN changes (names are now '-e', merged synsets are deprecated)
+    resolve_ssid = make_ssid_resolver(set(wn_lemmas), load_deprecations(args.oewn))
+    unresolved_ssids = defaultdict(set)
+
+    def resolve_reviewed(ssid, source):
+        resolved = resolve_ssid(ssid)
+        if resolved is None and ssid:
+            unresolved_ssids[source].add(ssid)
+        return resolved
+
 
     # Invert wd2entry to entry2wd
     entry2wd = {}
@@ -153,9 +193,11 @@ if __name__ == "__main__":
 
     db = sqlite3.connect(args.wd)
     cursor = db.cursor()
+    wdc = WikidataCache(cursor)
 
     output_folder = f"{args.output_folder}/automatic"
     addendum_folder = f"{args.output_folder}/addendum"
+    os.makedirs(output_folder, exist_ok=True)
 
     # Load addendums
     addendums = {}
@@ -174,8 +216,10 @@ if __name__ == "__main__":
             reader = csv.DictReader(f)
             for row in reader:
                 if row["Accept"].strip().upper() == "TRUE":
-                    oewn_id = oewn_extract(row["SSID"].strip())
+                    oewn_id = resolve_reviewed(oewn_extract(row["SSID"].strip()), args.overlaps)
                     wikidata_id = wikidata_extract(row["QID"])
+                    if oewn_id is None:
+                        continue
                     overlaps_by_wikidata[wikidata_id].append(oewn_id)
                     overlaps_by_oewn[oewn_id].append(wikidata_id)
 
@@ -185,7 +229,12 @@ if __name__ == "__main__":
         # Read Wikidata P31 (instance of) property values for all Wikidata items which have overlaps
         wikidata_props = read_wikidata_with_prop_vals(cursor, "P31", overlaps_by_wikidata.keys(), "overlap_instances")
 
+        # Humans and taxa are processed separately below
+        wdc.prefetch({e for entities in wikidata_props.values() for e, superclazzes in entities.items()
+                     if "Q5" not in superclazzes and "Q16521" not in superclazzes})
+
         seen = set()
+        lemma_files = set()
 
         print("Human in set", "Q5" in overlaps_by_wikidata)
 
@@ -194,7 +243,10 @@ if __name__ == "__main__":
             lemma = wn_lemmas[wn_hyp].replace(' ', '_').lower()
             if "," in lemma:
                 lemma = lemma.split(",")[0]
-            with open(f"{output_folder}/noun.{lemma}.yaml", "w") as f1:
+            # Several synsets can share a lemma, so only truncate the file the first time
+            lemma_path = f"{output_folder}/{LEXFILE_PREFIX}{lemma}.yaml"
+            with open(lemma_path, "a" if lemma_path in lemma_files else "w") as f1:
+                lemma_files.add(lemma_path)
                 for wd in wds:
                     for entity, superclazzes in tqdm(wikidata_props.get(wd, {}).items(), desc=f"Processing {lemma} -> {wd}", position=1, leave=False):
                         if entity in seen:
@@ -204,7 +256,7 @@ if __name__ == "__main__":
                             continue
                         wn_hyps = [wh for superclazz in superclazzes for wh in overlaps_by_wikidata.get(superclazz, [])]
                         wn_hyps = dedupe_hyps(wn_hyps, hyps)
-                        process_entry(entity, cursor, wn_hyps, wd2entry, f1, lexfiles, addendums, unlinked_lemmas=unlinked_lemmas, clash_log=clash_log)
+                        process_entry(entity, wdc, wn_hyps, wd2entry, f1, lexfiles, addendums, unlinked_lemmas=unlinked_lemmas, clash_log=clash_log)
                         #new_id, entry = make_entry(entity, cursor, wn_hyps, wd2entry)
                         #write_entry(f1, new_id, entry, args.curated)
 
@@ -216,19 +268,18 @@ if __name__ == "__main__":
             reader = csv.DictReader(f)
             for row in reader:
                 qid = wikidata_extract(row["QID"])
-                oewn = oewn_extract(row["Linked"])
-                occupation_by_qid[qid].append(oewn)
+                oewn = resolve_reviewed(oewn_extract(row["Linked"]), args.linked_occupations)
+                if oewn is not None:
+                    occupation_by_qid[qid].append(oewn)
 
         wikidata_props = read_wikidata_with_prop_vals(cursor, "P31", ["Q5"], "human_instances")
 
-        with open(f"{output_folder}/noun.human.yaml", "w") as f:
-            for entity, superclazzes in tqdm(wikidata_props.get("Q5", {}).items(), desc="Processing humans"):
-                cursor.execute("SELECT properties FROM properties WHERE qid = ?", (entity,))
-                result = cursor.fetchone()
-                if not result:
+        with open(f"{output_folder}/{LEXFILE_PREFIX}human.yaml", "w") as f:
+            for entity, superclazzes in tqdm(wdc.iterate(wikidata_props.get("Q5", {}).items(), properties=["P21", "P106"]),
+                                             desc="Processing humans", total=len(wikidata_props.get("Q5", {}))):
+                data = wdc.get_properties(entity)
+                if data is None:
                     continue
-
-                data = json.loads(result[0])
                 
                 wn_hyps = ["02474924-n"]
                 if "P21" in data and "Q6581097" in data["P21"]:
@@ -243,10 +294,13 @@ if __name__ == "__main__":
 
                 wn_hyps = dedupe_hyps(wn_hyps, hyps)
 
-                process_entry(entity, cursor, wn_hyps, wd2entry, f, lexfiles, addendums, unlinked_lemmas=unlinked_lemmas, clash_log=clash_log)
+                process_entry(entity, wdc, wn_hyps, wd2entry, f, lexfiles, addendums, unlinked_lemmas=unlinked_lemmas, clash_log=clash_log)
 
     if not args.skip_taxons:
         wikidata_props = read_wikidata_with_prop_vals(cursor, "P31", ["Q16521"], "taxon_instances")
+
+        wdc.clear()
+        wdc.prefetch(wikidata_props.get("Q16521", {}).keys(), labels=False, properties=["P171", "P105"], data_properties=["P225"])
 
         wd2hypernym = defaultdict(list)
 
@@ -256,7 +310,9 @@ if __name__ == "__main__":
             for row in reader:
                 if len(row["Wikidata"].strip()) > 2:
                     qids = [wikidata_extract(qid.strip()) for qid in row["Wikidata"].strip().split(",")]
-                    oewn = oewn_extract(row["SSID"].strip())
+                    oewn = resolve_reviewed(oewn_extract(row["SSID"].strip()), args.taxon_ssids)
+                    if oewn is None:
+                        continue
                     for qid in qids:
                         wd2hypernym[qid].append((oewn, row["Lemma"].strip()))
 
@@ -265,27 +321,25 @@ if __name__ == "__main__":
         with open(args.taxon2common, "r") as f:
             reader = csv.DictReader(f)
             for row in reader:
-                taxon_ssid = oewn_extract(row["SSID 1"].strip())
-                common_ssid = oewn_extract(row["SSID 2"].strip())
-                if row["Accept"] == "TRUE" and taxon_ssid in entry2wd:
+                taxon_ssid = resolve_reviewed(oewn_extract(row["SSID 1"].strip()), args.taxon2common)
+                common_ssid = resolve_reviewed(oewn_extract(row["SSID 2"].strip()), args.taxon2common)
+                if row["Accept"] == "TRUE" and taxon_ssid in entry2wd and common_ssid:
                     if entry2wd[taxon_ssid] in taxon2common:
                         print(f"Warning: Duplicate taxon {taxon_ssid} as {common_ssid} and {taxon2common[entry2wd[taxon_ssid]]}")
                     taxon2common[entry2wd[taxon_ssid]] = common_ssid
 
 
         children = defaultdict(list)
+        skipped_taxon_names = 0
 
         with open(f"{output_folder}/noun.taxon_working.csv", "w") as f:
             writer = csv.writer(f)
             for entity_superclazzes in tqdm(wikidata_props.get("Q16521", {}).items(), desc="Processing taxons"):
                 entity, superclazzes = entity_superclazzes
-                cursor.execute("SELECT properties FROM properties WHERE qid = ?", (entity,))
-                result = cursor.fetchone()
-                if not result:
+                data = wdc.get_properties(entity)
+                if data is None:
                     print(f"No properties for {entity}")
                     continue
-
-                data = json.loads(result[0])
 
                 if "P171" in data:
                     for superclazz in data["P171"]:
@@ -297,47 +351,55 @@ if __name__ == "__main__":
 
                 rank_qid = data["P105"][0]
 
-                cursor.execute("SELECT label FROM labels_en WHERE qid = ?", (rank_qid,))
-                result = cursor.fetchone()
+                rank = wdc.get_label(rank_qid)
 
-                if not result:
+                if not rank:
                     print(f"No label for rank {rank_qid} of {entity}")
                     continue
 
-                rank = json.loads(result[0])[0]
+                data_props = wdc.get_data_properties(entity)
 
-                cursor.execute("SELECT data_properties FROM data_properties WHERE qid = ?", (entity,))
-                result = cursor.fetchone()
-
-                if not result:
+                if data_props is None:
                     #print(f"No data properties for {entity}")
                     continue
-
-                data_props = json.loads(result[0])
 
                 if "P225" not in data_props:
                     #print(f"No scientific name for {entity}")
                     continue
 
-                sci_name = data_props["P225"][0][0]
+                # Some scientific names have repeated or stray spaces
+                sci_name = " ".join(data_props["P225"][0][0].split())
+                if not sci_name:
+                    continue
 
                 if " " in sci_name:
                     words = sci_name.split(" ")
-                    if (len(words) == 2 and words[0][0].isupper() and words[1][0].islower()) or \
-                            (len(words) == 3 and words[0][0].isupper() and words[1][0].islower() and words[2][0].islower()):
-                        wn_hyps = find_taxon_hyps(entity, cursor, taxon2common, "")
-                        wn_hyps = dedupe_hyps(wn_hyps, hyps)
+                    if not ((len(words) == 2 and words[0][0].isupper() and words[1][0].islower()) or
+                            (len(words) == 3 and words[0][0].isupper() and words[1][0].islower() and words[2][0].islower())):
+                        # Not a binomial or trinomial (e.g., a hybrid or cultivar)
+                        skipped_taxon_names += 1
+                        continue
+                    wn_hyps = find_taxon_hyps(entity, wdc, taxon2common, "")
+                    wn_hyps = dedupe_hyps(wn_hyps, hyps)
                     writer.writerow([entity, sci_name, rank, json.dumps(wn_hyps)])
                 else:
-                    wn_hyps = find_taxon_hyps(entity, cursor, wd2hypernym, rank)
+                    wn_hyps = find_taxon_hyps(entity, wdc, wd2hypernym, rank)
                     wn_hyps = dedupe_hyps(wn_hyps, hyps)
                     if not wn_hyps:
                         wn_hyps = ["08008892-n"]
                 
                     writer.writerow([entity, sci_name, rank, json.dumps(wn_hyps)])
 
-        with open(f"{output_folder}/noun.taxon.yaml", "w") as f:
-            with open(f"{output_folder}/noun.species.yaml", "w") as f_species:
+        print(f"Skipped {skipped_taxon_names} taxa whose scientific name is not a binomial or trinomial")
+
+        # The labels and descriptions are needed to write the taxa
+        with open(f"{output_folder}/noun.taxon_working.csv", "r") as f_csv:
+            taxon_qids = {row[0] for row in csv.reader(f_csv)}
+        wdc.clear()
+        wdc.prefetch(taxon_qids)
+
+        with open(f"{output_folder}/{LEXFILE_PREFIX}taxon.yaml", "w") as f:
+            with open(f"{output_folder}/{LEXFILE_PREFIX}species.yaml", "w") as f_species:
                 csv_line_count = sum(1 for line in open(f"{output_folder}/noun.taxon_working.csv"))
                 with open(f"{output_folder}/noun.taxon_working.csv", "r") as f_csv:
                     reader = csv.reader(f_csv)
@@ -348,7 +410,7 @@ if __name__ == "__main__":
                         rank = row[2]
                         wn_hyps = json.loads(row[3])
                         if " " in sci_name:
-                            process_entry(entity, cursor, wn_hyps, wd2entry, f, lexfiles, addendums,
+                            process_entry(entity, wdc, wn_hyps, wd2entry, f, lexfiles, addendums,
                                           unlinked_lemmas=unlinked_lemmas, clash_log=clash_log,
                                           inst=False)
                             #new_id, entry = make_entry(entity, cursor, wn_hyps, wd2entry,
@@ -360,10 +422,11 @@ if __name__ == "__main__":
                             for c in children.get(entity, []):
                                 if c in wd2entry:
                                     childs.append(wd2entry[c][0])
-                                else:
-                                    childs.append(c + "-n")
+                                elif c in taxon_qids:
+                                    # Only children that are generated (some taxa are skipped above)
+                                    childs.append(c + "-e")
 
-                            process_entry(entity, cursor, wn_hyps, wd2entry, f, lexfiles, addendums,
+                            process_entry(entity, wdc, wn_hyps, wd2entry, f, lexfiles, addendums,
                                           unlinked_lemmas=unlinked_lemmas, clash_log=clash_log,
                                           lemmas=[f"{rank} {sci_name}", f"{sci_name}"],
                                           inst=False,
@@ -375,6 +438,13 @@ if __name__ == "__main__":
                             #write_entry(f, new_id, entry, args.curated)
 
         os.remove(f"{output_folder}/noun.taxon_working.csv")
+
+    if args.min_file_size > 0:
+        n_empty, n_merged = consolidate_files(output_folder, args.min_file_size)
+        print(f"Removed {n_empty} empty files and merged {n_merged} small files into {MISC_LEXFILE}")
+
+    for source, ssids in unresolved_ssids.items():
+        print(f"Warning: {len(ssids)} synset IDs in {source} do not exist in OEWN and are not deprecated: {sorted(ssids)[:5]}")
 
     # Report items not generated as they clash with unlinked OEWN synsets
     os.makedirs(output_folder, exist_ok=True)
